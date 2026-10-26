@@ -1,0 +1,134 @@
+{
+ "website": 4974,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login Help: Fix Access and Reset Password",
+  "description": "Longfu88 login help for Malaysia: the normal sign-in route, why a login fails, how to reset the password, which checks can hold an account and who to contact.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Login Help: Sign In and Fix Access Problems",
+   "label": "Cannot log in? Start with the checks on this page",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> opens a player account with the e-mail address and the password chosen at registration, and the casino is meant for players aged 18 or over. This page is written for players from Malaysia. It covers the normal login route, the reasons a login fails, the password reset, the verification checks, the protection of account details, registration and support. A registered player logs in to the account with that e-mail and password.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>The Normal Login Route</h2>\n<p>The Longfu login relies on one method, the e-mail address and the password set at registration, so the route has only three steps in a fixed order. A security check, where one appears, always comes before the account opens.</p>\n<ol>\n<li>Select Login on the website.</li>\n<li>Enter the registered e-mail and password on the login screen.</li>\n<li>Complete any security check and access the account.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Why a Login Fails</h2>\n<p>The e-mail address must be typed exactly as registered, and the keyboard layout and caps lock should match the password. If the password is lost, a reset link can be requested with the registered e-mail. An account review is a different cause: the casino may suspend activity for verification or suspected abuse, which may delay access until verification is complete. Prolonged inactivity may also trigger a review or closure. In these cases support helps through live chat 24/7 or by e-mail.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Reset the Password</h2>\n<p>A forgotten password is replaced through a reset link tied to the registered e-mail, so the player needs access to that mailbox.</p>\n<ol>\n<li>Choose Forgot Password on the login screen.</li>\n<li>Request a reset link using the registered e-mail.</li>\n<li>Follow the e-mailed instructions to set a new password.</li>\n</ol>\n<p>A player who no longer has access to that mailbox should contact support, whose details appear further down the page.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Checks That Can Hold an Account</h2>\n<p>Account verification is requested during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. The documents depend on what is asked for:</p>\n<ul>\n<li>Identity: passport, national identity card or driving licence.</li>\n<li>Address: utility bill or bank statement.</li>\n<li>Payment method: bank or card ownership evidence, or digital wallet ownership evidence.</li>\n<li>Source of funds: proof of income, bank statements or other supporting financial documents, only when requested.</li>\n</ul>\n<p>Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Protecting Your Details</h2>\n<p>The account holder is responsible for safeguarding the login credentials, so the e-mail address and the password should stay private. On the casino side, technical and organizational safeguards protect accounts, payments and personal information. The operator may also suspend activity for verification or suspected abuse, which means an account can be paused while a check is carried out and the player waits for the result.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>No Account Yet? Create One</h2>\n<p>The Longfu88 register process works by e-mail, the only method given, and has five steps in a fixed order.</p>\n<ol>\n<li>Open the website and select Register.</li>\n<li>Enter e-mail and create a password.</li>\n<li>Confirm age and acceptance of Terms and Conditions and Privacy Policy.</li>\n<li>Complete the additional personal details and residential address.</li>\n<li>Select Create Account and complete any requested e-mail confirmation.</li>\n</ol>\n<p>The form asks for e-mail, password, legal name, date of birth and residential address. Players must be 18+ and of legal gambling age in the relevant jurisdiction, and each player may hold only one personal account.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>A Welcome Offer for New Accounts</h2>\n<p>The Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins. It requires a first qualifying deposit of €50 and activation in My Bonuses before any wager is placed, so the order of the steps matters. The claim runs from registration and personal details to the deposit, the activation and eligible games, until the wagering of 25x the deposit plus bonus amount is complete.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Contact the Support Team</h2>\n<p>Customer support answers account, login and verification questions through live chat, open 24/7, and by e-mail at support@longfu88.com. Typical cases are a failed login, a reset e-mail that does not arrive and a document upload. The team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Common Login Questions",
+   "faqs": [
+    {
+     "question": "How does the Longfu88 casino login work?",
+     "answer": "A player enters the registered e-mail and password on the login screen."
+    },
+    {
+     "question": "What happens after a forgotten password?",
+     "answer": "A reset link is requested with the registered e-mail."
+    },
+    {
+     "question": "Which identity document is accepted?",
+     "answer": "A passport, a national identity card or a driving licence."
+    },
+    {
+     "question": "How long does verification take?",
+     "answer": "A complete document set is normally reviewed within up to 10 days."
+    },
+    {
+     "question": "What is the minimum age?",
+     "answer": "The minimum age is 18, and the player must also be legally permitted to gamble where they live."
+    },
+    {
+     "question": "Where can a Longfu88 player turn when the login still fails?",
+     "answer": "Customer support helps through live chat 24/7 or by e-mail."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+Anyone holding a Longfu88 account follows one route: a Longfu login that takes the sign-up e-mail along with its matching password. Three steps are involved:
+
+1. Choose Login at the site.
+2. The login screen takes the sign-up e-mail and the password.
+3. A security check, where one appears, is completed and the account then opens.
+
+Once requested, a security check has to be cleared before access is granted. The e-mail has one more role outside sign-in, as the reset link covered in the next section is sent to the same address.

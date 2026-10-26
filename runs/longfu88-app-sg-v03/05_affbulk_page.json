@@ -1,0 +1,100 @@
+{
+ "website": 4968,
+ "slug": "app",
+ "seo": {
+  "title": "Longfu App Checklist: Phone Setup for Singapore",
+  "description": "Longfu app checklist for Singapore players: device check, iOS and Android shortcut, login, fixes, deposit methods, eligibility and support contacts.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu App Checklist: Phone Setup for Singapore Players",
+   "label": "Phone setup in one checklist",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> is opened on a smartphone or tablet via a responsive site that resizes itself to Android and iOS screens. The lowest age allowed is 18, and the page keeps its readers in Singapore in mind. Sections after this one cover the device check, shortcuts for iOS and Android, login, fixes, payments, eligibility and contacts.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Mobile Casino Device Checklist</h2>\n<p>The platform list has three entries, namely Android, iOS and mobile web. None of them involves an installation file at Longfu88, because the responsive layout resizes itself to fit a phone or a tablet, and both screen types reach the same site.</p>\n<ul>\n<li>Android - the shortcut is placed with Chrome.</li>\n<li>iOS - the shortcut is placed with Safari.</li>\n<li>Mobile web - any smartphone or tablet browser will do.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 iOS and Android Shortcut Checklist</h2>\n<p>The home screen gets its shortcut through a single setup, done straight from the mobile browser. Chrome carries the Longfu88 Android route, Safari carries the iPhone and iPad route, and the iOS steps appear first below. No file is installed, which is why a Longfu88 apk or a Longfu88 download plays no part and why no store listing exists. Each route starts from the casino page already open in the browser, so the shortcut always lands on the same responsive website.</p>\n<p>For iPhone and iPad users, Safari is the browser:</p>\n<ol>\n<li>Visit the casino website with Safari.</li>\n<li>Under Share, use Add to Home Screen.</li>\n<li>Finish by selecting Add.</li>\n</ol>\n<p>For phone and tablet users on Android, Chrome is the browser:</p>\n<ol>\n<li>Go to the casino website with Chrome.</li>\n<li>The browser menu holds Add to Home screen, so use it.</li>\n<li>Agree to the shortcut.</li>\n</ol>\n<p>From then on an icon waits on the home screen and opens the casino website from the browser, so none of these steps is repeated.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Login Checklist</h2>\n<p>E-mail is the sole registration route at Longfu88, and the rest of the form asks for a password, legal name, birth date and residential address. A phone login mirrors the desktop one: e-mail plus password, in three steps that begin at the <a href=\"/login\">Login</a> page.</p>\n<ul>\n<li>Tap Login on the site.</li>\n<li>Type the account e-mail and its password.</li>\n<li>Land inside the account.</li>\n</ul>\n<p>A lost password is handled by the Forgot Password option found on the login screen.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Troubleshooting Checklist</h2>\n<p>Players on phones at Longfu88 meet four typical snags, each paired below with a quick remedy, and support takes over when none of them works.</p>\n<table>\n<tr>\n<td>Snag</td>\n<td>Remedy</td>\n</tr>\n<tr>\n<td>The shortcut is missing</td>\n<td>Repeat the setup, using Safari on iOS or Chrome on Android</td>\n</tr>\n<tr>\n<td>A page that refuses to load</td>\n<td>Reload it and test the internet connection</td>\n</tr>\n<tr>\n<td>Login not accepted</td>\n<td>Double-check the e-mail address, or tap Forgot Password at the login screen</td>\n</tr>\n<tr>\n<td>Still stuck</td>\n<td>Get in touch with support through live chat (round the clock, 24/7) or by writing an e-mail, naming the step that failed</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 App Payments: Deposit Methods Checklist</h2>\n<p>The mobile website hosts the cashier, which means deposits start from the browser of the phone or tablet. Four methods are on offer: DBS Bank, PayNow, OCBC Bank and PayNow QR, all processed in Singapore dollars.</p>\n<table>\n<tr>\n<td>Method</td>\n<td>Processing time</td>\n<td>Currency</td>\n</tr>\n<tr>\n<td>DBS Bank</td>\n<td>1 to 2 minutes</td>\n<td>Singapore dollars (SGD)</td>\n</tr>\n<tr>\n<td>PayNow</td>\n<td>1 to 2 minutes</td>\n<td>Singapore dollars (SGD)</td>\n</tr>\n<tr>\n<td>OCBC Bank</td>\n<td>1 to 2 minutes</td>\n<td>Singapore dollars (SGD)</td>\n</tr>\n<tr>\n<td>PayNow QR</td>\n<td>1 to 2 minutes</td>\n<td>Singapore dollars (SGD)</td>\n</tr>\n</table>\n<p>Because currency and deposit speed are identical for all four, the choice depends on the bank or QR route that the player already uses.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Eligibility Checklist</h2>\n<p>Meeting every one of five conditions makes a player eligible: the minimum age, the residence rule and three account rules.</p>\n<ul>\n<li>Minimum age: 18 years.</li>\n<li>Gambling has to be legally permitted in the player's place of residence.</li>\n<li>Accurate details are required at registration.</li>\n<li>A player may hold a single personal account.</li>\n<li>No third-party payment method may be used.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Support Contacts</h2>\n<p>Mobile and account questions, such as a missing shortcut or a page failing to load, go to live chat, which stays open 24/7. Support also handles login and document matters there. E-mail is the other channel, at support@longfu88.com, and the same team answers it. Replies come in English, Thai, Malay, Vietnamese, Indonesian and Simplified Chinese.</p>"
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "v05",
+  "name": "Newcomer walkthrough (register first, nested)",
+  "tier": "medium",
+  "angle": "A new player who has no account yet and wants one guided path.",
+  "intent_summary": "Step-by-step brand-subpage for a newcomer to Longfu88 in Singapore: the account is created (with the welcome offer named as the reason to register), then the player logs in, learns what to do when the password or the login fails, passes the verification, keeps the account safe and sees what the account opens. Page voice: a patient guide, \"first, then\" logic, one short explanation of verification the first time it appears, sentences of about 17 words, one plain invitation to register. Steps are H2s, their details H3s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Login Guide for New Players in Singapore",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(registration, the welcome offer, login, password reset, verification, security, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Step 1: Longfu88 Register and Create Your Account",
+      "words": 165,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "One plain invitation to register is allowed here."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 3,
+      "heading": "What a New Account Can Claim",
+      "words": 145,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "Do not add terms that are not listed (validity, limits, exclusions are described elsewhere).",
+          "Do not add terms that are not listed."
+        ]
+      ],
+      "extra": "Add the validity, the free-spins wagering and the maximum bet of the offer.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_welcome.welcome_bonus.maximum_bet"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Step 2: Log In",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "If You Forget the Password",
+      "words": 75,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "When the Login Does Not Work",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Step 3: Verify the Account",
+      "words": 155,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Explain in one clause what verification is the first time the word appears."
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Keeping the Account Safe",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "What Opens After the Login",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "What a player reaches after logging in: the casino games, the sportsbook, the cashier and the bonuses.",
+      "entities": [
+        [
+          "Casino",
+          9
+        ],
+        [
+          "Sportsbook",
+          8
+        ]
+      ],
+      "connections": [
+        [
+          "Player Account",
+          "gives access to",
+          "the casino, the sportsbook, deposits, withdrawals and bonuses",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_app.app_information.features"
+      ],
+      "notes": "One lead-in sentence that names what the account gives access to (casino, sportsbook, account access, deposits, withdrawals, bonuses), then a bulleted list of the game categories exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games). No game names, providers or RTP values. Keep it short: this is a pointer to the rest of the site.",
+      "covers_clusters": [
+        "k07"
+      ]
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Help With Your Account",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Beginner Questions",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) whether a player may hold more than one account (no: one personal account per player); (5) when the welcome bonus can be claimed (after registration, on the first qualifying deposit of at least €50); (6) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_account.registration.required_details",
+        "brandinfo_account.registration.eligibility[1]",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

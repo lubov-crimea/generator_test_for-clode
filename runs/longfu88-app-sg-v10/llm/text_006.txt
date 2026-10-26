@@ -1,0 +1,13 @@
+The sportsbook is one of the features of the mobile website and covers nine sports:
+
+- Football
+- Basketball
+- Tennis
+- Badminton
+- Cricket
+- Table tennis
+- Volleyball
+- Esports
+- Virtual football
+
+The bet types are single, accumulator, live, handicap, totals, outrights and Bet Builder. Live betting offers live odds and in-play markets, so a bet can be placed while an event is running. Event availability and market selection can vary by jurisdiction.

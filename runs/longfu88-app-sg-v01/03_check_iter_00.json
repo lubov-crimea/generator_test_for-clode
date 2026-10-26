@@ -1,0 +1,45 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 704,
+    "max_body_words": 911,
+    "target_body_words": 715,
+    "keywords_total": {
+      "Longfu88": 7,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 6,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [
+      {
+        "check": "consistency",
+        "problem": "The lead-in repeats almost verbatim the second sentence of b02 ('Because the Longfu88 website is responsive, it adapts to smartphone and tablet browsers'); the opening of the section must differ from other blocks.",
+        "fix": "Rewrite the lead-in sentence with a different opening and wording (keep 'Longfu88' once and the responsive/adapts-to-smartphone-and-tablet-browsers fact); keep the list, the closing sentence with the two link phrases, and the word range."
+      }
+    ],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": []
+  },
+  "missing_data": []
+}

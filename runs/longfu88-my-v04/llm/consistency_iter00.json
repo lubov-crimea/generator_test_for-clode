@@ -1,0 +1,4 @@
+{"issues": [
+  {"block_id": "b14", "problem": "The first sentence of the block repeats the structure and the full list of nine categories from the sentence in the H1 block (The casino lobby is divided into nine categories: slots, ...), so two blocks open the topic with nearly the same sentence.", "fix": "Reword the opening so that it does not mirror the H1 sentence: name the nine categories once in a different construction (for example grouping them by kind) and keep the lead-in to the slots and live dealer sub-sections."},
+  {"block_id": "b02", "problem": "The phrase 'This is the only licence statement on the page, and it should be read as exactly that' is meta commentary and awkward in an editorial text.", "fix": "Remove the meta sentence; keep the licence sentence and the sentence that the licence is held by the operator Lumina, which also acts as the data controller."}
+], "missing_data": []}

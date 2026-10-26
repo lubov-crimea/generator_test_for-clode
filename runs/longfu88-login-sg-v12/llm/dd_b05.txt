@@ -1,0 +1,7 @@
+Losing a password does not end access, because Longfu88 lets a new one be set by e-mail:
+
+1. First pick Forgot Password, an option of the login screen.
+2. A reset link addressed to the registered mailbox is requested.
+3. Follow the instructions in the e-mail to set a new password.
+
+The link goes to that address, so the mailbox is the key to the process. When it cannot be opened, support is the contact, whose channels are listed lower down.

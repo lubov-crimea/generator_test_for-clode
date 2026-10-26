@@ -1,0 +1,80 @@
+{
+ "website_id": 4966,
+ "domain": "longfu88-casino.bet",
+ "locale": "en",
+ "slug": "bonuses",
+ "seo": {
+  "title": "Longfu88 Active Player Rewards: VIP, Cashback, Reloads",
+  "description": "Longfu88 promotions for active players in Singapore: reloads, cashback by VIP level, the VIP program, the rewards area, Bonus Crab and seasonal campaigns."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "bonuses, promotions, offers, promo code, welcome bonus, free spins, reload bonus, cashback, wagering requirements, My Bonuses, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Rewards for players who come back",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Join Now"
+ },
+ "cta_texts": [
+  "Join Now",
+  "Claim Now"
+ ],
+ "preview": {
+  "title": "Offers for Regular Players",
+  "items": [
+   {
+    "image": 4654,
+    "title": "Casino Crypto Welcome Bonus",
+    "text": "188% up to 2,888 USDT",
+    "button": "Claim Now"
+   },
+   {
+    "image": 4652,
+    "title": "Casino Weekly Cashback",
+    "text": "Up to 10% of weekly net casino losses",
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4655,
+    "title": "Casino Weekend Crypto Reload",
+    "text": "75% up to 750 USDT + 100 Free Spins",
+    "button": "Join Now"
+   },
+   {
+    "image": 4657,
+    "title": "Live Casino Welcome Bonus",
+    "text": "125% up to €888",
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4656,
+    "title": "Sport First Deposit Bonus",
+    "text": "100% up to €1,888",
+    "button": "Get Offer"
+   },
+   {
+    "image": 4653,
+    "title": "Bonus Crab",
+    "text": "Qualifying picks reveal bonus credits, free spins or coins",
+    "button": "See Offer"
+   }
+  ]
+ },
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Get Offer"
+ },
+ "internal_links": [
+  {
+   "anchor": "app page",
+   "href": "/app"
+  }
+ ]
+}

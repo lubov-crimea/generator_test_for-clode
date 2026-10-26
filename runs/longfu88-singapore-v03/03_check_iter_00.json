@@ -1,0 +1,97 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2968,
+    "target_body_words": 2705,
+    "keywords_total": {
+      "Longfu88": 18,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 17,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The last sentence is evaluative filler that repeats the point of the previous sentence ('This structure is what makes the online casino easy to scan') and is an unsupported claim.",
+        "fix": "Remove the last sentence or replace it with a neutral linking sentence that introduces the sub-sections; keep all nine categories, the keyword counts and the entity connection."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Neteller and Skrill deposits are excluded ...' repeats the wording of the Wagering Terms block (b09).",
+        "fix": "Rephrase, for example 'The e-wallets Neteller and Skrill do not qualify for the welcome bonus.' Keep the fact."
+      }
+    ],
+    "b18": [],
+    "b19": [
+      {
+        "check": "consistency",
+        "problem": "'and the first lasts 30 days' is ambiguous: all three sports offers in the knowledge base are valid for 30 days.",
+        "fix": "State that the three offers are valid for 30 days (for example 'Three sports offers carry 8x wagering on deposit plus bonus and stay valid for 30 days:') and keep the word count within the cap."
+      }
+    ],
+    "b20": [],
+    "b21": [
+      {
+        "check": "consistency",
+        "problem": "'such as document checks' is a use case not supported by the brand facts, and the sentence about chat and email suitability is an opinion presented as fact.",
+        "fix": "Remove 'such as document checks' and keep the advice modest and general."
+      }
+    ],
+    "b22": [
+      {
+        "check": "consistency",
+        "problem": "The self-exclusion sentence is muddled: 'within 24 hours after the request is processed' is attached to the restriction period instead of to the processing of the exclusion.",
+        "fix": "Rewrite: self-exclusion is requested by e-mail to customer support at the given address, it restricts account access and gambling for the agreed period, and it is applied within 24 hours after the request is processed."
+      }
+    ],
+    "b23": [],
+    "b24": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,33 @@
+{
+  "iteration": 0,
+  "passed": true,
+  "summary": {
+    "body_words": 797,
+    "max_body_words": 1013,
+    "target_body_words": 795,
+    "keywords_total": {
+      "Longfu88": 6,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 6,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": []
+  },
+  "missing_data": []
+}

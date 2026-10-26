@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Touch",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "GrabPay",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Boost",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Malaysia",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Register",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Log In",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "SMS",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Complete Registration",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Bitcoin",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Beberapa Saat",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Enkripsi SSL 256-bit",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Perlindungan Akaun",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "FPX",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "SSL 256-bit",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "VIP",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "MYR 2",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "MYR 50",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "MYR",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "USD",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "THB",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "CNY",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "REGISTER",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Diamond",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Pendaftaran",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Bahasa Melayu",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Selamat Kembali",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Log Masuk Ahli",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Selamat",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Terlupa Kata Laluan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Pengalaman Longfu Menanti",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Belum Ada Akaun",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Soalan Log Masuk Lazim",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Longfu Casino",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Caps Lock",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Log Masuk",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Log",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "FunID",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Klik",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ganjaran VIP",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Daftar Sekarang",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Terlupa Nama Pengguna",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Spam",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Promosi",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Apakah FunID",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Easy Access",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Your Favorite Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Step-by-Step Registration Process",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Troubleshooting Login Issues",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Get Back",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gaming Fast",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Double-Check Your Login Information",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Clear Your Browser Cache",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cookies",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Different Device",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Browser",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Contact Customer Support",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Start Your Journey",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Exciting Offers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Welcome Bonus Overview",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Customer Support",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "We’re Here",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Help",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Frequently Asked Questions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Can I",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Singapore",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Button",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Choose Your Preferred Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sports Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Promo Code",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "No Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Enter Personal Details",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Identity Verification",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Google Chrome",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mozilla Firefox",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Welcome Package",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sports Betting Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Crypto Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 1,
+    "count": 1
+  }
+]

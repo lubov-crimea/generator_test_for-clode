@@ -1,0 +1,7 @@
+Recovery of a lost password begins on the login screen and ends with a link delivered by e-mail. Three steps cover it.
+
+1. Click Forgot Password, found on the sign-in screen.
+2. Order a reset link by giving the address that was registered.
+3. Open the message that arrives and carry out its instructions, which end in a new password.
+
+Without access to that inbox, the matter goes to customer support, whose channels appear in the help section below.

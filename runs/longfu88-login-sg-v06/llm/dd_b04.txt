@@ -1,0 +1,5 @@
+Passwords that have been forgotten are recovered via the e-mail address used for registration, and Longfu88 keeps the procedure to three steps, the first of which happens on the login screen. Without access to that mailbox, a player has to approach support, as links go out to the registered address alone, and the contacts are listed in the support section. The steps:
+
+1. On the login screen, select Forgot Password.
+2. Request the link by typing in the registered e-mail.
+3. Check the mailbox, read the e-mail and set a fresh password as instructed.

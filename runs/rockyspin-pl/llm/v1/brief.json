@@ -1,0 +1,275 @@
+{
+ "intent_summary": "Brand/navigational + informational review page for the Rockyspin online casino for Polish players: login, registration, bonuses and promo code, games, payments and withdrawals, VIP, player opinions.",
+ "blocks": [
+  {
+   "id": "x",
+   "level": 1,
+   "heading": "Rockyspin Online Casino: logowanie, bonusy i wypłaty",
+   "source": "h1",
+   "words": 70,
+   "keywords": {
+    "Rockyspin official": 1,
+    "Rockyspin": 1
+   },
+   "describe": "Short intro for Polish players: what the page covers (registration, login, bonuses, games, payments, withdrawals, mobile play, player opinions). Say it is a guide to the official site. No promises about winnings.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": []
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Rockyspin Casino w skrócie",
+   "source": "mandatory",
+   "words": 100,
+   "keywords": {
+    "Rocky Spin": 1,
+    "Rockyspin": 1
+   },
+   "describe": "Overview of the casino: what it is, main product lines (slots, live casino, sports betting), who can play (players from Poland, 18+), currency/language approach. Finish with a quick-facts list. Do not invent licence numbers, owners or dates.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k01"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Rejestracja w Rockyspin krok po kroku",
+   "source": "unique",
+   "words": 90,
+   "keywords": {
+    "Rockyspin register": 1
+   },
+   "describe": "How to create an account: numbered steps from opening the site through the sign-up form and confirmation to the first deposit; remind to use real data so that verification goes smoothly. Use the phrase 'Rockyspin register' once, naturally (e.g. as the query players type).",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k19"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Logowanie do Rocky Spin Casino",
+   "source": "mandatory",
+   "words": 80,
+   "keywords": {
+    "Rockyspin login": 1,
+    "Rocky Spin casino": 1
+   },
+   "describe": "How to log in on desktop and mobile, what to do when the password is forgotten or login fails (reset by email, check data, contact support), and basic account-security advice.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k18"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Bonusy i pakiet powitalny w Rockyspin",
+   "source": "mandatory",
+   "words": 140,
+   "keywords": {
+    "Rocky Spin casino": 1,
+    "Rockyspin": 1
+   },
+   "describe": "The welcome package split across the first deposits and the types of ongoing promotions (free spins, reloads, Newbie Spins style offers). List the main offers as bullets. Tell readers to check wagering, max bet, game weighting and expiry in the terms. Do not invent exact amounts or percentages unless provided in the facts.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k02",
+    "k05"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 3,
+   "heading": "Kod promocyjny Rocky Spin Casino",
+   "source": "mandatory",
+   "words": 60,
+   "keywords": {},
+   "describe": "What a promo code does, where to enter it (registration or cashier), and that the code does not guarantee a bonus if the terms are not met. Do not invent a specific code.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k03"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 3,
+   "heading": "Cashback w Rockyspin",
+   "source": "mandatory",
+   "words": 60,
+   "keywords": {},
+   "describe": "How cashback generally works (a percentage of net losses returned over a period), whether it is paid as bonus or real money, and that wagering and limits apply; check the current terms.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k04"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Turnieje i stałe promocje",
+   "source": "mandatory",
+   "words": 70,
+   "keywords": {},
+   "describe": "Tournaments and recurring promotions: how players join, how points/leaderboards work, typical prizes (free spins, cash prizes), and the advice to read the rules of each event.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k07"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Gry i automaty w Rockyspin",
+   "source": "unique",
+   "words": 110,
+   "keywords": {
+    "Rockyspin": 1
+   },
+   "describe": "The game lobby: slots, demo mode for free play, live casino with real dealers, table games and special games. Emphasise how to find games (by provider, popularity, features). Short list of the main categories.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k08",
+    "k09",
+    "k10"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Zakłady sportowe w Rockyspin",
+   "source": "mandatory",
+   "words": 70,
+   "keywords": {
+    "Rocky Spin casino": 1
+   },
+   "describe": "The sportsbook section: disciplines, bet types (single, accumulator, live) and the separate welcome offer for sports bets, if available. Remind that sports bonuses have their own terms.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k06"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Metody płatności i wpłaty",
+   "source": "mandatory",
+   "words": 100,
+   "keywords": {},
+   "describe": "A table of deposit methods for players from Poland (bank cards, BLIK, bank transfer, e-wallets, crypto where available) with columns: Metoda, Minimalna wpłata, Czas księgowania. Add one sentence on payment and data security (SSL). Mark values as indicative and tell readers to check the cashier.",
+   "formats": [
+    "table"
+   ],
+   "covers_clusters": [
+    "k12",
+    "k14"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 3,
+   "heading": "Wypłaty: limity i czas",
+   "source": "mandatory",
+   "words": 90,
+   "keywords": {
+    "Rockyspin": 1
+   },
+   "describe": "How withdrawals work: request in the cashier, processing time, limits, withdrawal to the same method, and why KYC verification is needed before the first payout (documents: ID, proof of address). Short list of the documents.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k13",
+    "k15"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Program VIP i lojalnościowy Rockyspin",
+   "source": "mandatory",
+   "words": 70,
+   "keywords": {},
+   "describe": "Loyalty/VIP programme: how points or levels are earned, typical perks at higher levels (better limits, cashback, personal manager), and that benefits depend on the current rules.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k16"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Rockyspin app: gra na telefonie",
+   "source": "unique",
+   "words": 70,
+   "keywords": {},
+   "describe": "Mobile play: browser version and, if available, an app/shortcut for Android and iOS; how to add the site to the home screen; what to prepare. Do not claim store availability that is not confirmed.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": []
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Opinie graczy o Rockyspin",
+   "source": "mandatory",
+   "words": 90,
+   "keywords": {
+    "Rockyspin": 1
+   },
+   "describe": "Balanced summary of what players typically value and criticise, ending with a short pros-and-cons list (e.g. game choice, payments, support vs. wagering terms, verification). Do not invent reviews, ratings or quotes.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k17",
+    "k20"
+   ]
+  },
+  {
+   "id": "x",
+   "level": 2,
+   "heading": "Odpowiedzialna gra",
+   "source": "unique",
+   "words": 60,
+   "keywords": {},
+   "describe": "Responsible gambling: deposit limits, time-outs, self-exclusion, 18+ reminder, and help resources for players in Poland.",
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k21"
+   ]
+  }
+ ]
+}

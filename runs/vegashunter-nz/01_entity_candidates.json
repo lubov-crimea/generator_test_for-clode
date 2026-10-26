@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Android",
+    "competitors": 2,
+    "count": 8
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Curaçao",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Play’n GO",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Free Spins",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Bitcoin",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Phone",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Slots",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Visa",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "BGaming",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Australian",
+    "competitors": 1,
+    "count": 11
+  },
+  {
+    "entity": "New Zealand",
+    "competitors": 1,
+    "count": 8
+  },
+  {
+    "entity": "Australia",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "AUD 10",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "Kiwi",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "PayID",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "RTP",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Gaming",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "AUD 2",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "POLi",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Dogecoin",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "JAZ2020-172",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Evolution Gaming",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "GLI",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "KYC",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "AUD 1",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "AML",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Wolf Gold",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "AUD 0",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "AUD 50",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "AUD 20",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Stable Tech N",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "USDT",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "APK",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Ultimate Guide",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Best Gaming Experience",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Trust",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Safety Standards",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Australian Players",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "What Real Users Say",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sign In",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Step-by-Step Instructions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mirror Sites",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Access Tips",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Your Device",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Play Your Favorite Games Anywhere",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Exclusive Offers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Claim 20 Free Spins Special",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Exploring Loyalty",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Reward Tiers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Top Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Aussie Players",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Popular Slots",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Game Providers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Banking Guide",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Deposits",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Withdraw Money",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Safely",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Fees",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "All Your Questions Answered",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Can I",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Microgaming",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "RTPs",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gaming Laboratories International",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "SSL",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "DigiCert",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "In 2025",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "SEON",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Denfy",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Anti-Money Laundering",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "AUD 25",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Oceanic",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "AUD-supported",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "English",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Malay",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mandarin",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cloudflare",
+    "competitors": 1,
+    "count": 1
+  }
+]

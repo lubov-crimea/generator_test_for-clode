@@ -1,0 +1,4 @@
+{"issues": [
+ {"block_id": "b11", "problem": "The last sentence says the daily rebate follows live play 'instead of waiting for a weekly result'. The Brand Information gives no period for the Live Casino Cashback, so the contrast with a weekly result is an unsupported inference.", "fix": "Keep the rebate sentence to the facts: 1.0%, credited daily. Remove the comparison with a weekly result."},
+ {"block_id": "b14", "problem": "The closing sentence adds 'wagered once before it can be withdrawn'. The Brand Information states only 1x wagering on the credited rebate and says nothing about withdrawal for rebates, so this is an unsupported inference.", "fix": "State only that the rebate is credited daily to the rewards balance and carries 1x wagering on the credited rebate, without the withdrawal consequence."}
+], "missing_data": []}

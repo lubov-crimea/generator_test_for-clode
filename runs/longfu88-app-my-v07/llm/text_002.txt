@@ -1,0 +1,10 @@
+Mobile troubleshooting on Longfu88 usually starts with the shortcut, the connection or the login details, and each row below pairs a symptom with the first fix to try.
+
+| Problem | Fix |
+|---|---|
+| Shortcut missing | Repeat the steps in Chrome on Android or in Safari on iOS. |
+| Page not loading | Reload it and check the internet connection. |
+| Login failing | Check the e-mail address and use Forgot Password on the login screen. |
+| Problem still there | Contact support through live chat, 24/7, or by e-mail. |
+
+Customer support helps with any problem that these checks do not solve.

@@ -1,0 +1,174 @@
+{
+ "website": 5414,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Account Handbook: Access, Checks, Settings",
+  "description": "Longfu88 account handbook for Singapore players: opening an account, login, password recovery, verification, settings, mobile access, VIP levels and support.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Account Handbook for Singapore Players",
+   "label": "The whole Longfu88 account in one handbook",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Every <a href=\"/\">Longfu88</a> account opens with two credentials picked at registration, a chosen password plus an e-mail address, and only players who have turned 18 are admitted to the casino. This handbook speaks to Singapore-based readers who want a clear view of the account and explains how it works from first registration to support. Returning members come back through the Longfu88 casino login using those same credentials. The sections cover entry, access, compliance, protection, settings, taking a break, <a href=\"/app\">mobile access</a>, VIP levels and support.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Entry: Opening an Account</h2>\n<p>Registration runs through e-mail alone, which is the only method on offer, and the five steps below start at the Longfu88 register form:</p>\n<ol>\n<li>Begin at the Register button of the website.</li>\n<li>Give an e-mail address, then choose a password.</li>\n<li>Tick the age confirmation and the acceptance of the Privacy Policy together with the Terms and Conditions.</li>\n<li>Fill out the other personal details and add the residential address.</li>\n<li>Submit with Create Account and, if an e-mail confirmation is requested, finish it.</li>\n</ol>\n<p>Longfu88 asks for five items: e-mail and password, the residential address, and the full legal name with the birth date, all needed up front. Only players aged 18 or over and of legal gambling age in the relevant jurisdiction may sign up, and the limit is one personal account per player. Anyone who satisfies these conditions can register and move directly on to the offer for new accounts.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>The Welcome Offer in Brief</h3>\n<p>A first deposit at Longfu88 starts the <a href=\"/bonuses\">Casino Welcome Bonus</a>, which combines 18 free spins with 188% up to €2,088. Activation in My Bonuses must come before the first wager, and the minimum first deposit is €50. Wagering is set at 25x the combined deposit and bonus, so a bigger deposit brings a bigger amount to turn over. The route is short: register and complete the personal details, deposit, activate, then play eligible games and finish the wagering before expiry. Validity, limits and exclusions are covered with the other bonuses.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Access: The Login Route</h2>\n<p>Getting back into the account takes one method only, e-mail and password, so the Longfu88 login has three steps. Longfu88 requests both details on the login screen, and any security check that comes up must be passed before access is granted. The Longfu login is the same for every registered player and needs nothing that registration did not already produce.</p>\n<ol>\n<li>Go to Login on the website.</li>\n<li>Use the e-mail and password from registration.</li>\n<li>Clear any security check, and the account is open.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Recovering a Lost Password</h3>\n<p>No new account is needed once the password is forgotten: the login screen leads to a reset, and the registered e-mail receives the link. Longfu88 handles it in three steps:</p>\n<ol>\n<li>On the login screen, choose Forgot Password.</li>\n<li>Order a reset link for the registered e-mail.</li>\n<li>Use the e-mailed instructions to set the new password.</li>\n</ol>\n<p>Anyone unable to open the registered mailbox needs support, whose channels are in the support section.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Diagnosing Failed Logins</h3>\n<p>The e-mail has to match the registered spelling exactly. What the password field receives also depends on the keyboard layout and on whether caps lock is on. Asking for a reset link with the registered e-mail solves a lost password. Another cause is a block that Longfu88 can set on an account for verification purposes or in case of suspected abuse, and reviews of that kind may delay access until verification finishes. Support answers such cases by e-mail, and through live chat that works around the clock, 24/7.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Protection: Credentials and Safeguards</h2>\n<p>Responsibility for account security is divided, and the player's part comes first. The account holder must keep the login details private, which means the e-mail address along with its password, as nothing else unlocks the account. On the operator side, Longfu88 applies safeguards of a technical and organisational kind, covering personal information, payments and accounts. Freezing is also possible when abuse is suspected or verification has not finished, which explains the weight of the document checks in the compliance section.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>The Data the Casino Holds and Shares</h3>\n<p>Three groups of personal data are held about an account holder, answering who the player is, how to reach the player and whether the payment methods are the player's own:</p>\n<ul>\n<li>Identity data: name, identity documents and birth date.</li>\n<li>Contact data: e-mail, telephone and residential address.</li>\n<li>Verification data: KYC documents, with payment method ownership evidence.</li>\n</ul>\n<p>Longfu88 may pass the data on to technology providers, identity verification providers and payment service providers, and, when required, to law enforcement and regulators. The player's rights: erasure where legally permitted, access, rectification, restriction, objection, withdrawal of consent and, where applicable, portability.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Compliance: Verification Documents</h2>\n<p>Four situations lead to a document request: a pending withdrawal, an account review, transactions that are unusual or high-value, and any change to the account or the payment details. Longfu88 sorts accepted documents into four groups:</p>\n<table>\n<tr>\n<td>Category</td>\n<td>What counts</td>\n</tr>\n<tr>\n<td>Identity</td>\n<td>National identity card, passport or driving licence</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>A utility bill, with a bank statement accepted instead</td>\n</tr>\n<tr>\n<td>Payment method</td>\n<td>Ownership evidence for a digital wallet, and for a bank account or card</td>\n</tr>\n<tr>\n<td>Origin of funds (only if asked)</td>\n<td>Bank statements, proof of income and further supporting financial documents</td>\n</tr>\n</table>\n<p>The deadline for sending documents is 30 days from the request, and review of a full set normally takes no more than 10 days. The steps are to upload documents that are legible and current and match the account profile, take part in a telephone or face verification when asked, and then wait for approval before any withdrawal.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Checks Before the First Payout</h3>\n<p>In practice the account gets checked at the moment of withdrawal, since access to withdrawals can hinge on checks of identity and payments. A payment can stay on hold until identification, source-of-funds checks where required and confirmation that the payment method is the player's own have been completed, so the checks precede the money rather than follow it. As a rule, a withdrawal request gets processed within three working days. At Longfu88 the payment method used must also belong to the player, since the terms do not allow third-party payment methods.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Settings: Communication Preferences and Cookies</h2>\n<p>Two settings stay in the player's hands. Players can unsubscribe from promotional communications at Longfu88 and manage their direct-marketing preferences, which makes offers by message a choice and not an obligation. The site also relies on four types of cookies, namely marketing, analytics, preference and necessary, which serve website functions and measurement.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Currencies and the One-Account Rule</h2>\n<p>One personal account per player is the rule at Longfu88, and its currency is one of the supported ones: SGD, EUR, USD, MYR, THB or USDT. Three conditions come with it: no third-party payment methods, accurate details at registration and a single personal account. Together they tie each account and each payment to a single person.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pausing, Self-Exclusion and Closing the Account</h2>\n<p>Two routes exist for a player who wants to limit or end play at Longfu88, and both begin with customer support: a self-exclusion request or an account closure request. When self-exclusion is in place, gambling and access to the account can be restricted for the period agreed. Gambling requires an age of 18 and is allowed only where the law permits it. Questions for self-assessment help a player to recognise possible gambling-related harm before deciding on the fitting route. Independent help comes from three organisations that work separately from the casino: Gambling Therapy, GamCare and Gamblers Anonymous.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>What Opens After the Login</h2>\n<p>The player account at Longfu88 unlocks bonuses, deposits, withdrawals, the sportsbook and the casino once the login is done. Within the casino, the lobby is divided into these game categories, covered in detail by later sections of the site:</p>\n<ul>\n<li>Crash &amp; instant games</li>\n<li>Lottery</li>\n<li>Fast games</li>\n<li>P2P games</li>\n<li>Fishing</li>\n<li>Jackpots</li>\n<li>Table games</li>\n<li>Live dealer games</li>\n<li>Slots</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Mobile and Tablet Access</h2>\n<p>Mobile web is the route onto the casino from a smartphone or tablet: the responsive Longfu88 website runs inside the browser and accepts the same login as on a computer. Home-screen access is possible through a shortcut, and the steps differ slightly by platform:</p>\n<ul>\n<li>Android: Chrome opens the site, and the browser menu then offers Add to Home screen, followed by a confirmation of the shortcut.</li>\n<li>iOS: with the site open in Safari, the Share icon offers Add to Home Screen, which a tap on Add completes.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VIP Levels and Rewards</h2>\n<p>The VIP programme at Longfu88 has five tiers, running from Bronze through Silver, Gold and Platinum up to Diamond. Qualifying real-money gameplay earns VIP points, and the points give access to numbered reward levels. Eligible high tiers get a personal VIP manager, and the wider benefits are VIP cashback, personalised offers and higher withdrawal limits. Rewards and withdrawal limits can differ between VIP levels and between currencies. Benefits tied to a level and promotion eligibility can both be altered by programme rules, which is why the current terms should be checked.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Assistance and Contact Channels</h2>\n<p>Customer support can be reached at support@longfu88.com by e-mail, and live chat runs 24/7, for questions about accounts, login and verification. People most often get in touch about reset e-mails that do not arrive, failed logins and document uploads. The support team's languages are English, Indonesian, Malay, Simplified Chinese, Thai and Vietnamese.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Handbook FAQ",
+   "faqs": [
+    {
+     "question": "What does a player enter to log in to Longfu88?",
+     "answer": "Registered e-mail plus password."
+    },
+    {
+     "question": "How is a forgotten password dealt with?",
+     "answer": "A reset link is sent after a request that uses the registered e-mail."
+    },
+    {
+     "question": "Is there more than one way to log in?",
+     "answer": "No, e-mail and password is the only login method."
+    },
+    {
+     "question": "What does registration ask for?",
+     "answer": "Legal name, date of birth, e-mail, password and residential address."
+    },
+    {
+     "question": "Which ID does the casino take as proof of identity?",
+     "answer": "A passport, a driving licence or a national identity card."
+    },
+    {
+     "question": "How long is the review of a full document set?",
+     "answer": "Normally up to 10 days."
+    },
+    {
+     "question": "Can a player have several accounts?",
+     "answer": "No, one personal account per player."
+    },
+    {
+     "question": "Does the casino run a VIP programme?",
+     "answer": "Yes, five tiers, from Bronze up through Silver, Gold and Platinum to Diamond."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Get Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

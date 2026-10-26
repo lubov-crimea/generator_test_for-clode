@@ -1,0 +1,5 @@
+{"issues": [
+{"block_id": "b10", "problem": "The opening sentence is ungrammatical ('datang terbagi ke tujuh penawaran').", "fix": "Write it as 'Reload di Longfu88 dan promosi musiman terbagi ke tujuh penawaran.' keeping every other fact, keyword count and the table unchanged."},
+{"block_id": "b17", "problem": "The answer about support languages repeats the clause from the Contact Options block ('pemain dari Indonesia dapat menulis dalam bahasa sendiri').", "fix": "Drop that clause from the support-language answer and keep only the six languages and the channels (live chat 24/7 and email); keep the other four items and the keyword counts unchanged and the word count within the range."},
+{"block_id": "b04", "problem": "The lead-in says 'Dua reload mingguan' but the list bullets cover the first deposit bonus plus a weekly and a weekend reload.", "fix": "Reword the lead-in clause to 'Dua reload, mingguan dan akhir pekan, mengikuti polanya:' without changing any figure or the rest of the block."}
+], "missing_data": []}

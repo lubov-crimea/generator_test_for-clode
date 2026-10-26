@@ -1,0 +1,106 @@
+{
+  "competitors": [
+    {
+      "url": "https://www.mightytips.com/online-casinos/cazeus-no/",
+      "word_count": 1310,
+      "body_words": 1256,
+      "body": {
+        "Cazeus": 20,
+        "Cazues casino": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "Cazeus": 1,
+          "Cazues casino": 0
+        },
+        "2": {
+          "Cazeus": 2,
+          "Cazues casino": 0
+        },
+        "3": {
+          "Cazeus": 1,
+          "Cazues casino": 0
+        },
+        "4": {
+          "Cazeus": 0,
+          "Cazues casino": 0
+        },
+        "5": {
+          "Cazeus": 0,
+          "Cazues casino": 0
+        },
+        "6": {
+          "Cazeus": 0,
+          "Cazues casino": 0
+        }
+      },
+      "headings_total": {
+        "Cazeus": 4,
+        "Cazues casino": 0
+      },
+      "total": {
+        "Cazeus": 24,
+        "Cazues casino": 0
+      }
+    },
+    {
+      "url": "https://www.casinospesialisten.net/cazeus-casino",
+      "word_count": 3809,
+      "body_words": 3750,
+      "body": {
+        "Cazeus": 17,
+        "Cazues casino": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "Cazeus": 1,
+          "Cazues casino": 0
+        },
+        "2": {
+          "Cazeus": 3,
+          "Cazues casino": 0
+        },
+        "3": {
+          "Cazeus": 2,
+          "Cazues casino": 0
+        },
+        "4": {
+          "Cazeus": 0,
+          "Cazues casino": 0
+        },
+        "5": {
+          "Cazeus": 0,
+          "Cazues casino": 0
+        },
+        "6": {
+          "Cazeus": 0,
+          "Cazues casino": 0
+        }
+      },
+      "headings_total": {
+        "Cazeus": 6,
+        "Cazues casino": 0
+      },
+      "total": {
+        "Cazeus": 23,
+        "Cazues casino": 0
+      }
+    }
+  ],
+  "aggregate": {
+    "competitors_ok": 2,
+    "median_body_words": 2503,
+    "median_total": {
+      "Cazeus": 24,
+      "Cazues casino": 0
+    },
+    "median_headings_total": {
+      "Cazeus": 5,
+      "Cazues casino": 0
+    },
+    "median_h1": {
+      "Cazeus": 1,
+      "Cazues casino": 0
+    }
+  }
+}

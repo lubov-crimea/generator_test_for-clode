@@ -1,0 +1,33 @@
+{
+ "website_id": 4962,
+ "domain": "longfu88-sg.games",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login Singapore: Sign In, Reset, Register",
+  "description": "Longfu88 login for Singapore players: the three sign-in steps, password reset by e-mail, registration, verification documents and how to reach support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Sign in with your registered e-mail and password",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Register"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

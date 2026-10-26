@@ -1,0 +1,160 @@
+{
+  "id": "v07",
+  "name": "Mobile-first",
+  "tier": "medium",
+  "angle": "A player who mostly uses a phone.",
+  "intent_summary": "Mobile-first brand-subpage about the Longfu88 login in Malaysia: logging in from a phone, a tablet or a computer with the home-screen shortcut, the password reset, creating an account on a phone, the documents to keep ready, account safety, what to do when the phone login fails, the welcome offer, a mobile FAQ and support. Page voice: brisk and concrete, device words in every section (phone, browser, shortcut), sentences of about 15 words; no calls to action. Flat H2s with one H3. There is no downloadable app in the facts. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login on Mobile and Desktop",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, support)",
+          "(login on a phone or a computer, password reset, registration, documents, account safety, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Log In from Any Device",
+      "words": 115,
+      "kw": {
+        "Longfu login": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "then a NUMBERED list with the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account)",
+          "then one short paragraph that walks through the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account)"
+        ]
+      ],
+      "extra": "The login steps in one short paragraph, then a bulleted list with two items: the home-screen shortcut on Android (Chrome) and on iOS (Safari), as in the Brand Information. The casino works in the browser of a phone or a tablet; it is not a downloadable app, so no APK files and no app stores. Write \"the site\" in the steps instead of the brand name.",
+      "summary": "How to log in on a computer or a phone and how to add a home-screen shortcut on Android and iOS.",
+      "refs_add": [
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_app.app_information.android_installation",
+        "brandinfo_app.app_information.ios_installation"
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Password Reset on a Phone",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Create an Account from Your Phone",
+      "words": 105,
+      "kw": {
+        "Longfu88 register": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Documents to Keep Ready",
+      "words": 105,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "Then a TABLE with two columns, document type | accepted documents, one row each for identity",
+          "Then a bulleted list, one item each for identity"
+        ],
+        [
+          "; the source-of-funds row applies only when requested",
+          "; the source-of-funds item applies only when requested"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Account Safety on a Phone",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "When the Phone Login Fails",
+      "words": 65,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Welcome Offer on Mobile",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Mobile Login FAQ",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "5 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 5 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) whether a player can log in from a phone (yes, in the browser of a smartphone or tablet; a home-screen shortcut is possible); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address); (5) which languages support speaks (English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_general.customer_support.languages"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Support on Chat or E-mail",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      }
+    }
+  ]
+}

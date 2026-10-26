@@ -1,0 +1,26 @@
+=== b12 ===
+Deposits arrive within 1-2 minutes, and every method accepts between €10 and €5,000 per transaction.
+
+| Type of method | Examples | Currencies |
+|---|---|---|
+| Singapore options | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Cards | Visa, Mastercard | SGD, IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, USDC, Litecoin, Ethereum, USDT (ERC20, BEP20, TRC20) | BTC, USDC, LTC, ETH, USDT |
+| E-wallets | Skrill, Neteller | EUR |
+| Local banks and wallets | DANA, GrabPay, MoMo, PromptPay QR | IDR, MYR, VND, THB |
+| Bank transfer | Bank Transfer | MYR, VND, IDR |
+| European methods | Giropay, Sofort | EUR |
+
+Processing is free on the casino side. Payment providers and blockchain networks may still bill their own fees. Method, currency and country can each alter the limits, and a deposit from Neteller or Skrill cannot be used to claim the welcome bonus. The six-step route starts with the Longfu88 account and the cashier's Deposit option. After that come the choice of a method with a matching currency or network, entry of the payment information and amount, provider authorisation, and a short wait until the playable balance shows the funds.
+
+=== b13 ===
+Payouts go to DBS Bank, Online Banking, DANA, MoMo, Touch'n Go, bank transfer, Mastercard, Visa, USDT over three networks, Bitcoin, Ethereum or Litecoin, from €20 up to €5,000 per request. Longfu88 asks for six steps:
+
+1. Complete verification of identity and payment method if it is requested.
+2. Log in and enter the cashier.
+3. Choose Withdrawal and a supported destination.
+4. Enter the amount and the bank, wallet or blockchain address.
+5. Review the request and approve it.
+6. Wait for casino handling and for settlement at the bank or network.
+
+The Lngfu88 withdrawal time varies by route: card, wallet and crypto-address payouts take 1 to 3 business days, and a withdrawal is completed after three business days at the longest. A bank transfer can extend this by 3-5 business days until the funds arrive. No standard fee applies, but providers and networks may charge their own. A commission of 10% (minimum €2.25) is possible if the deposit has not been turned over once (1x), and 15% may hit some card or bank-transfer deposits. Identity checks may hold a payout up.

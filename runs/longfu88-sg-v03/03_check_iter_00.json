@@ -1,0 +1,79 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3046,
+    "max_body_words": null,
+    "target_body_words": 2873,
+    "keywords_total": {
+      "Longfu88": 18,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Which live games each of them supplies is not specified' refers to the information source instead of stating facts directly.",
+        "fix": "Drop the remark about what is specified; keep the neutral statement that other live titles and shows stay unnamed, and keep the keywords unchanged."
+      }
+    ],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The text states the total studio count ('ten studios') and implies an order ('head the provider list'), which the notes forbid or the facts do not support.",
+        "fix": "Remove the number of studios and the claim about the list order; keep all ten provider names exactly and the keyword 'Longfu 88' once."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,11 @@
+{
+  "issues": [],
+  "missing_data": [
+    {"block_id": "b22", "note": "No data for the licensing authority, licence number or operating company: the knowledge base has none, so the text says they are not confirmed."},
+    {"block_id": "b12", "note": "No data for the wagering requirement, minimum deposit and validity of the casino Welcome Package (null in the knowledge base)."},
+    {"block_id": "b13", "note": "No data for the minimum deposit, wagering and claiming steps of the Weekend Reload Bonus."},
+    {"block_id": "b14", "note": "No data for the claiming steps, wagering and eligible games of the Weekly Reload free spins."},
+    {"block_id": "b06", "note": "No data for game provider names or slot titles (provider list is empty in the knowledge base)."},
+    {"block_id": "b18", "note": "No data confirming a dedicated native app (native_app_available is null)."}
+  ]
+}

@@ -1,0 +1,9 @@
+Opening an account from a phone takes five steps, and the credentials are an e-mail address plus a password.
+
+1. Tap Register on the website.
+2. Give an email and choose a password.
+3. Accept the Terms and Conditions, accept the Privacy Policy and confirm age.
+4. Add the other personal details, including the residential address.
+5. Finally, Create Account is chosen, and any email confirmation request gets an answer.
+
+The residential address, date of birth and legal name are requested too, and the same e-mail plus password serve for later logins.

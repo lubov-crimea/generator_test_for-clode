@@ -1,0 +1,80 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2988,
+    "target_body_words": 2840,
+    "keywords_total": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Football and esports give the widest choice of match-based markets' is an invented claim: the Brand Information gives no market counts per sport.",
+        "fix": "Remove that claim. Keep the nine sports and esports, the seven bet types and live betting with live odds and in-play markets. Keep 'Longfu88' once and 'Longfu sports' once, and keep football and esports named explicitly."
+      }
+    ],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The one-line category descriptions go beyond the brief: 'fishing games are arcade-style shooters' and 'jackpots are slots and other games that offer prize pools' state specifics that the Brand Information does not give.",
+        "fix": "Describe fishing and jackpots only in neutral generic terms (a type of game), without mechanics that are not in the Brand Information. Keep every keyword count unchanged (Longfu88 once inside 'Longfu88 Baccarat', Longfu 88 once, Longfu88 Casino once, Longfu 88 Casino once)."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [
+      {
+        "check": "consistency",
+        "problem": "'e-mail leaves a written record of the request' is an invented property of the channel, not a fact from the Brand Information.",
+        "fix": "Replace it with a fact already stated on the page: e-mail is also the route for self-exclusion requests. Keep the e-mail address exactly once (it carries the one Longfu88 occurrence)."
+      }
+    ],
+    "b19": [],
+    "b20": [],
+    "b21": []
+  },
+  "missing_data": []
+}

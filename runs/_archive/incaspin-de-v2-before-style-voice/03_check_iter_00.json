@@ -1,0 +1,115 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2773,
+    "target_body_words": 3000,
+    "keywords_total": {
+      "Incaspin": 16,
+      "Incaspin casino": 20,
+      "Inca Spin": 1
+    },
+    "keyword_targets": {
+      "Incaspin": 16,
+      "Incaspin casino": 20,
+      "Inca Spin": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "\"darunter vier klassische Währungen und zwei Kryptowährungen\" implies more currencies, but brand_info lists exactly six.",
+        "fix": "Replace \"mehrere Währungen, darunter vier klassische Währungen und zwei Kryptowährungen\" with a statement of exactly these six currencies without \"darunter\" (e.g. \"insgesamt sechs Währungen, nämlich vier klassische Währungen und zwei Kryptowährungen\"), keeping the list EUR, BRL, CAD, AUD, BTC, ETH. Replace \"an jedem Tag rund um die Uhr (24/7) erreichbar\" by a non-redundant wording (e.g. \"steht Spielern täglich rund um die Uhr (24/7) zur Verfügung\"). Keep \"Incaspin\" and \"Inca Spin\" exactly once each and stay within 114-146 words (the block is at the lower limit)."
+      }
+    ],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [
+      {
+        "check": "consistency",
+        "problem": "Opening sentence \"Das Casino Welcome Package ist das Willkommenspaket im Incaspin Casino\" is a tautology; \"Incaspin verteilt die Freispiele damit über fünf Tage statt auf einmal\" is an invented inference (and wrongly links the five days to all 200 free spins); the sentences \"Bei der zweiten Einzahlung entsprechen 100 %…\" and \"Die erste Einzahlung bringt den größten Teil der Freispiele…\" repeat the list; the two textbook definitions are filler.",
+        "fix": "Rewrite the opening sentence without the tautology (e.g. \"Das Willkommenspaket im Incaspin Casino heißt Casino Welcome Package.\"; \"Incaspin Casino\" stays exactly once). Delete \"Incaspin verteilt die Freispiele damit über fünf Tage statt auf einmal\" and move the single keyword \"Incaspin\" into another sentence of the block (e.g. \"Incaspin schreibt die Boni automatisch gut\"). Delete \"Bei der zweiten Einzahlung entsprechen 100 % dem eingezahlten Betrag, die Grenze liegt bei 1.000 €\" and \"Die erste Einzahlung bringt den größten Teil der Freispiele, nämlich 200 von 275, die dritte ergänzt die restlichen 75\" (they repeat the list). Shorten the definitions of the deposit bonus and of free spins to one short clause each. Do not mention validity, wagering or promo codes. Write the minimum-deposit sentence in the active voice with the casino as subject: 20 € on the first deposit, displayed deposit tiers 20 €, 50 € and 300 € (no \"laut Aktionskarte\"). Stay within 202-258 words."
+      }
+    ],
+    "b07": [],
+    "b08": [],
+    "b09": [
+      {
+        "check": "consistency",
+        "problem": "\"bei dem Spieler Preise drehen\" is not correct German (spin the wheel to win prizes).",
+        "fix": "Replace \"bei dem Spieler Preise drehen\" with correct German, e.g. \"bei dem Spieler am Rad drehen und Preise gewinnen\". Change nothing else; keep \"Incaspin Casino\" exactly once and the 132-168 word range."
+      }
+    ],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The block anticipates its sub-sections and repeats their wording: the last sentence (\"Slots drehen Walzen, im Live Casino leiten echte Dealer die Runden, Instant-Spiele liefern das Ergebnis direkt nach dem Einsatz und Crash-Spiele …\") duplicates b12 and b13 almost verbatim, and \"Roulette, Blackjack, Baccarat und Poker zählen zu den Tischspielen, Jackpots und Drops & Wins Slots bilden eigene Kategorien\" is repeated in b11 and b13. The copywriter notes allow only touching on the sub-sections.",
+        "fix": "Delete the last sentence (\"Slots drehen Walzen, … jedes Ergebnis zufällig ist\") and the sentence \"Roulette, Blackjack, Baccarat und Poker zählen zu den Tischspielen, Jackpots und Drops & Wins Slots bilden eigene Kategorien\". Describe only the category list from brand_info, the size (\"mehr als 5.000 Spiele\") and the in-house originals. Keep \"Incaspin Originals\" (the one permitted \"Incaspin\") and \"Incaspin Casino\" exactly once, and stay within 106-134 words (the deleted sentences must be replaced by fuller wording of the categories from brand_info: Bonus Buy, Jackpots, Books, Drops & Wins Slots, Instant-Spiele, Crash-Spiele, without titles, mechanics or definitions)."
+      }
+    ],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The jackpot title \"Triple Money Jackpot Gold!\" is at the end of the sentence, which produces \"Gold!.\".",
+        "fix": "Rephrase the jackpot sentence so that the title \"Triple Money Jackpot Gold!\" is in the middle of the enumeration and no \"!.\" appears (e.g. \"Break The Piggy Bank, Triple Money Jackpot Gold! und Crown of Fire Jackpot Play\"). Keep the exact title spellings, \"Incaspin Casino\" exactly once and the 97-123 word range."
+      }
+    ],
+    "b14": [
+      {
+        "check": "consistency",
+        "problem": "Rule of three: \"Spielmechaniken, Themen und Funktionen\" chains three items in a row.",
+        "fix": "Replace \"eigene Spielmechaniken, Themen und Funktionen\" with two items (\"eigene Spielmechaniken und Themen\"). Change nothing else; keep \"Incaspin\" exactly once, the provider names and the 62-78 word range."
+      }
+    ],
+    "b15": [],
+    "b16": [
+      {
+        "check": "consistency",
+        "problem": "\"Das Casino erhebt keine Gebühren, externe Kosten können aber anfallen\" repeats the sentence of b15 almost verbatim; \"sind monatliche Raten … möglich\" is an impersonal construction; the intermediary-bank charge of up to 16 € for bank transfers from brand_info is unused.",
+        "fix": "Replace the last sentence with a different wording that carries a concrete fact: the casino charges no fees; external providers may charge costs; for bank transfers intermediary banks may charge up to 16 €. Rewrite \"Bei Gewinnen über 10.000 € sind monatliche Raten bis zu 10.000 € möglich\" in the active voice with the casino as subject (e.g. \"Das Casino kann Gewinne über 10.000 € in monatlichen Raten von bis zu 10.000 € auszahlen\"). Do not mention the 15.000 € instalment rule. Keep \"Incaspin Casino\" exactly once and the 158-202 word range."
+      }
+    ],
+    "b17": [
+      {
+        "check": "consistency",
+        "problem": "\"Das Casino verlangt:\" before the list contradicts the optional wording (\"kann … verlangen\", \"may be required\") of brand_info; \"echt und unverändert\" adds \"unverändert\", which is not in brand_info.",
+        "fix": "Replace \"Das Casino verlangt:\" with a lead-in that matches the optional wording of brand_info (e.g. \"Zu den Unterlagen zählen:\"). Replace \"echt und unverändert\" with \"echt\". Keep \"Incaspin\" exactly once and the 88-112 word range."
+      }
+    ],
+    "b18": [],
+    "b19": [],
+    "b20": [
+      {
+        "check": "consistency",
+        "problem": "Repetition inside the block: \"der Einstieg erfolgt als Scout, der höchste Rang ist Inca\", \"Ein Scout erhält 100 BP, ein Inca 500 BP\" and the sentence listing all six rank names before the table duplicate the table; \"Ausgebbare BP\" is unnatural.",
+        "fix": "Delete \"der Einstieg erfolgt als Scout, der höchste Rang ist Inca\", \"Ein Scout erhält 100 BP, ein Inca 500 BP\" and the sentence that lists all rank names before the table; use a short lead-in before the table instead (e.g. \"Die sechs Ränge unterscheiden sich in den benötigten Lebenszeit-BP und in den BP pro 10 € Slot-Einsatz:\"). Replace \"Ausgebbare BP\" with \"Einlösbare BP\" or an equally natural wording. Keep the table unchanged, \"Incaspin Casino\" exactly once and the 123-157 word range (if the block becomes too short, state the two kinds of points more explicitly: lifetime BP set the rank, spendable BP are redeemed for reward chests; no new facts)."
+      }
+    ],
+    "b21": [],
+    "b22": [
+      {
+        "check": "consistency",
+        "problem": "\"Verluste nicht jagen\" is a calque of \"chasing losses\" and not natural German; \"Alkoholeinfluss\" narrows \"under the influence\".",
+        "fix": "Replace \"Verluste nicht jagen\" with natural German (e.g. \"Verluste nicht durch weiteres Spielen ausgleichen\") and \"nicht unter Alkoholeinfluss spielen\" with \"nicht unter Alkohol- oder Drogeneinfluss spielen\". Keep one idea per list item, \"Incaspin\" exactly once and the 106-134 word range."
+      }
+    ],
+    "b23": [],
+    "b24": [],
+    "b25": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b06",
+      "note": "Data conflict in brand_info: 200 free spins on the first deposit vs. 50 free spins daily for five days (250). The ТЗ asks for both figures, so the text states both; the knowledge base or the copywriter notes should resolve it."
+    },
+    {
+      "block_id": "b09",
+      "note": "No data for the validity of the Sunday Reload (brand_info only has '14 days under the earlier bonus schedule')."
+    }
+  ]
+}

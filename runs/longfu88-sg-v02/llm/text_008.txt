@@ -1,0 +1,25 @@
+=== b13 ===
+Deposits reach the balance after 1-2 minutes at most, whichever Longfu88 method type is used.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Cryptocurrencies | Ethereum, Bitcoin, Litecoin, USDC, USDT (BEP20, TRC20, ERC20) | USDT, USDC, BTC, ETH, LTC |
+| Cards | Mastercard, Visa | MYR, VND, IDR, SGD |
+| Bank transfer | Bank Transfer, Online Banking | IDR, MYR, VND |
+| E-wallets | Skrill and Neteller | EUR |
+| European methods | Sofort, Giropay | EUR |
+| Local banks and wallets | Local banks, QR payments and regional e-wallets | SGD, MYR, IDR, THB, VND |
+
+For Singapore, the options are PayNow, PayNow QR, OCBC Bank and DBS Bank, all in SGD. Each method shares a €10 minimum and a ceiling of €5,000 per transaction, though limits can differ by country, currency and method. Top-ups carry no processing fee from the casino, but third-party providers or blockchain networks may charge their own. Skrill or Neteller deposits are not accepted for the welcome bonus. A deposit takes six steps: sign in, open the cashier and select Deposit, select a method plus its currency or blockchain network, enter the sum together with the payment information, and confirm following the provider's directions.
+
+=== b14 ===
+At Longfu88, a payout request is processed within at most 3 business days, and the route has six numbered stages:
+
+1. Reach the cashier section once signed in.
+2. Select Withdrawal and a supported destination.
+3. Type the amount and identify the recipient.
+4. Send the request once the details look right.
+5. Complete ID or payment-method checks if they are requested.
+6. Wait for casino, bank or network settlement.
+
+Options include Visa, Mastercard, USDT (three networks), Bitcoin, Ethereum, Litecoin, Online Banking, DBS Bank, Bank Transfer and local wallets, with limits from €20 to €5,000. Cards, wallets and crypto addresses take 1-3 business days, whereas Bank Transfer stretches the wait by 3-5 more business days until the funds are delivered. There is no standard casino withdrawal fee, though provider and blockchain charges may apply. A 10% commission with a €2.25 floor may be due when a deposit was only partly turned over, and 15% may hit selected card or bank-funded payments. Verification may hold up a payout.

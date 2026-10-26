@@ -1,0 +1,7 @@
+Six currencies are supported for accounts at Longfu88: SGD, MYR, THB, EUR, USD and USDT. A player's single personal account is kept in one of those currencies. The account also comes with three conditions:
+
+- Provide accurate details at registration.
+- Keep just one personal account.
+- Never rely on a third party's payment method.
+
+Put simply, an account is tied to one player and to that player's own means of payment, a rule that is easy for a newcomer to follow.

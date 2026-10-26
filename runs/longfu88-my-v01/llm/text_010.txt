@@ -1,0 +1,23 @@
+Deposits cover six groups of payment methods, and Malaysian players can use DuitNow, Touch'n Go, GrabPay and Online Banking in MYR.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local banks and wallets | DuitNow, Touch'n Go, GrabPay, Online Banking | MYR |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Every method accepts €10 to €5,000 per transaction, credits deposits within 1-2 minutes and carries no casino processing fee, although provider or blockchain network fees may apply. Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus. A deposit runs through the cashier: select Deposit, choose a method and its currency or network, enter the amount and confirm with the provider.
+
+Longfu88 pays out by bank transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT in three networks, Touch'n Go, DANA, MoMo, DBS Bank and Online Banking, from €20 to €5,000.
+
+1. Log in and open the cashier.
+2. Select Withdrawal and choose a supported destination or payment method.
+3. Enter the amount and the receiving bank, wallet, or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Review the request and confirm submission.
+6. Wait for casino processing and any bank or network settlement before receiving funds.
+
+The Lngfu88 withdrawal time is 1 to 3 business days for card, crypto and wallet requests, while a bank transfer takes up to 3 business days of casino processing plus 3 to 5 business days for bank delivery. Requests are generally processed within three working days, and identity checks can delay a payout. No standard casino withdrawal fee applies, though provider and blockchain fees may apply. A minimum 1x deposit turnover can apply before a withdrawal, and a 10% commission (minimum €2.25) can apply where turnover is below the deposited amount, plus 15% on some card or bank transfer funded transactions.

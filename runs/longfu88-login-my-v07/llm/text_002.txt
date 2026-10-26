@@ -1,0 +1,14 @@
+=== b02 ===
+The Longfu login uses one method, e-mail and password, and works in the browser of a computer, a phone or a tablet. Select Login on the site, enter the registered e-mail and password on the login screen, then complete any security check, which comes before access to the account. The casino is a mobile website, not a downloadable app, so a phone needs only a home-screen shortcut, added in two ways:
+
+- Android (Chrome): open the site, choose Add to Home screen in the browser menu and confirm the shortcut.
+- iOS (Safari): open the site, tap Share, choose Add to Home Screen and confirm Add.
+
+=== b03 ===
+A player who forgot the password sets a new one in three steps on the phone:
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+A player who no longer has access to the registered mailbox should contact support.

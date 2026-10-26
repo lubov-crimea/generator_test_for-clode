@@ -1,0 +1,7 @@
+A forgotten password is handled from the sign-in screen of a phone browser. Longfu88 relies on the e-mail address tied to the account for this.
+
+1. Tap Forgot Password where the credentials are normally typed.
+2. Ask for a link to reset the password, quoting the registered e-mail.
+3. Carry out what the e-mailed instructions say and choose a fresh password.
+
+Someone who can no longer open that mailbox should get in touch with support.

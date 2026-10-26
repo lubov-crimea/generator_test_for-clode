@@ -1,0 +1,10 @@
+Four situations lead to a document request: a pending withdrawal, an account review, transactions that are unusual or high-value, and any change to the account or the payment details. Longfu88 sorts accepted documents into four groups:
+
+| Category | What counts |
+|---|---|
+| Identity | National identity card, passport or driving licence |
+| Address | A utility bill, with a bank statement accepted instead |
+| Payment method | Ownership evidence for a digital wallet, and for a bank account or card |
+| Origin of funds (only if asked) | Bank statements, proof of income and further supporting financial documents |
+
+The deadline for sending documents is 30 days from the request, and review of a full set normally takes no more than 10 days. The steps are to upload documents that are legible and current and match the account profile, take part in a telephone or face verification when asked, and then wait for approval before any withdrawal.

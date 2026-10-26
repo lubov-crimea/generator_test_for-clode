@@ -1,0 +1,29 @@
+=== b15 ===
+Wpłaty w Incaspin Casino obsługują cztery grupy metod: karty płatnicze, portfele elektroniczne, przelew bankowy i kryptowaluty. Kasyno nie pobiera opłat za wpłaty, ale zewnętrzni dostawcy płatności mogą naliczać własne koszty. Limity zależą od metody, a pierwsza wpłata na pakiet powitalny wymaga 20 €:
+
+| Metoda | Min. | Maks. | Czas |
+|---|---|---|---|
+| Visa, Mastercard, Revolut, Skrill | 15 € | 4000 € | natychmiast |
+| Paysafecard | 15 € | 1000 € | natychmiast |
+| Neteller, Jeton | 10 € | 5000 € | natychmiast |
+| Apple Pay, Google Pay | 10 € | 5000 € | natychmiast |
+| Przelew bankowy | 10 € | 5000 € | tego samego dnia do 3 dni roboczych |
+| Bitcoin, Ethereum, Litecoin | 15 € w ekwiwalencie | 5000 € w ekwiwalencie | natychmiast, potwierdzenie transakcji może się różnić |
+| Dogecoin | 10 € w ekwiwalencie | 5000 € w ekwiwalencie | natychmiast, potwierdzenie transakcji może się różnić |
+
+Sama wpłata przebiega w kilku krokach: po zalogowaniu gracz otwiera kasę, wybiera metodę, wpisuje kwotę mieszczącą się w limitach i potwierdza transakcję u dostawcy płatności. Po zaksięgowaniu wystarczy sprawdzić saldo konta, a wpłata w Incaspin w większości metod trafia na konto od razu.
+
+=== b16 ===
+Kasyno realizuje wypłaty przez Visa OCT, Mastercard Payment Transfer, Skrill, Neteller, Jeton, przelew bankowy oraz kryptowaluty: Bitcoin, Ethereum, Litecoin i Dogecoin. Zlecenie wypłaty składa się w sześciu krokach:
+
+1. Zalogować się i otworzyć kasę lub sekcję wypłat.
+2. Wybrać dostępną metodę wypłaty, najlepiej tę, której użyto do wpłaty.
+3. Wpisać kwotę wypłaty i sprawdzić swój limit.
+4. Przejść wymaganą weryfikację tożsamości lub metody płatności.
+5. Potwierdzić zlecenie wypłaty.
+6. Odczekać do 72 godzin na wewnętrzne przetwarzanie, a potem na rozliczenie przez dostawcę płatności.
+
+Na czas wypłaty składa się więc kontrola po stronie kasyna oraz czas dostawcy: w przypadku przelewu bankowego dochodzi od 1 do 5 dni roboczych, a przy kryptowalutach potwierdzenie w sieci blockchain. Minimalna kwota wypłaty wynosi od 50 do 120 €, w zależności od kraju lub metody płatności. Wpłacone środki trzeba obrócić co najmniej trzykrotnie, a do pełnej weryfikacji konta żadna wypłata nie jest realizowana. Maksymalne limity mogą zależeć od rangi lojalnościowej i są widoczne w kasie. Kasyno nie pobiera opłat, ale zewnętrzne koszty banku lub dostawcy mogą wystąpić, dlatego w Incaspin warto zaplanować wypłatę z wyprzedzeniem.
+
+=== b17 ===
+Konto w Incaspin obsługuje sześć walut: cztery tradycyjne, czyli EUR, BRL, CAD i AUD, oraz dwie kryptowaluty, BTC i ETH. Taki podział ma znaczenie w praktyce, ponieważ kurs kryptowalut zmienia się w czasie, a waluty tradycyjne mają stabilniejszą wartość. Limity wypłat zależą natomiast od metody. W przypadku portfeli Skrill i Neteller maksymalna kwota pojedynczej wypłaty wynosi 5000 €. Przelew bankowy nie wiąże się z opłatą po stronie kasyna, ale banki pośredniczące mogą naliczyć do 16 € kosztów. W praktyce przed zleceniem wypłaty warto sprawdzić w kasie zarówno limit, jak i koszty wybranej metody, ponieważ obie wartości różnią się między sposobami płatności, a ich porównanie pozwala uniknąć niespodzianek.

@@ -1,0 +1,265 @@
+{
+ "website_id": 107,
+ "domain": "longfu-888.com",
+ "page_id": null,
+ "slug": "vn",
+ "locale": "vi",
+ "seo": {
+  "title": "Longfu88: nhà cái thể thao và casino cho Việt Nam",
+  "description": "Longfu88 cho người cược tại Việt Nam: thị trường cược thể thao, cược trực tiếp, thưởng thể thao, cùng thưởng chào mừng casino và các phương thức thanh toán.",
+  "customCanonical": "https://longfu-888.com/vn",
+  "customPageLang": "vi"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-888.com/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-888.com/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-888.com/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-888.com/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-888.com/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, casino online, casino tiền mã hóa, chơi, cá cược, slot, live casino, cược thể thao, đăng ký, đăng nhập, KYC, ứng dụng, thanh toán, thưởng, thưởng chào mừng, Việt Nam, VN"
+ },
+ "hero": {
+  "label": "Thưởng chào mừng casino: 188% đến €2.088 + 18 vòng quay miễn phí",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Tham gia ngay"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "3 Hot Chilli Peppers",
+    107
+   ],
+   [
+    "888 gold",
+    94
+   ],
+   [
+    "Book of Ra",
+    85
+   ],
+   [
+    "Buffalo King Megaways",
+    91
+   ],
+   [
+    "Eye of Horus",
+    96
+   ],
+   [
+    "Gates Of Olympus 1000",
+    84
+   ],
+   [
+    "Joker Stoker",
+    227
+   ],
+   [
+    "Legacy of Dead",
+    71
+   ],
+   [
+    "Maya Gold",
+    103
+   ],
+   [
+    "Razor Shark",
+    83
+   ],
+   [
+    "Sun of Egypt",
+    98
+   ],
+   [
+    "The Dog House",
+    92
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Ballonix",
+    81
+   ],
+   [
+    "Balloon",
+    86
+   ],
+   [
+    "Chicken Road",
+    97
+   ],
+   [
+    "F777 Fighters",
+    108
+   ],
+   [
+    "Lucky Jet",
+    104
+   ],
+   [
+    "Penalty Shoot Out",
+    90
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "Plinko",
+    74
+   ],
+   [
+    "SpaceMan",
+    75
+   ],
+   [
+    "Tower Rush",
+    232
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Thưởng Longfu88",
+  "items": [
+   {
+    "image": 4652,
+    "button": "Nhận thưởng"
+   },
+   {
+    "image": 4653,
+    "button": "Xem ưu đãi"
+   },
+   {
+    "image": 4654,
+    "button": "Nhận ngay"
+   },
+   {
+    "image": 4657,
+    "button": "Lấy ưu đãi"
+   },
+   {
+    "image": 4656,
+    "button": "Nhận thưởng"
+   },
+   {
+    "image": 4655,
+    "button": "Xem ưu đãi"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Đánh giá của người chơi",
+  "items": [
+   {
+    "username": "Ngô Khánh Linh",
+    "review": "Tôi thích có lựa chọn ngân hàng, thẻ và tiền mã hóa, vì tôi đổi qua lại tùy lúc. Hiện tại tôi sẽ tiếp tục dùng.",
+    "date": "2026-10-21",
+    "avatar": 3857,
+    "rating": 5
+   },
+   {
+    "username": "Phạm Quốc Bảo",
+    "review": "Tôi đăng ký bằng điện thoại và email xác nhận đến ngay, nên tài khoản dùng được mà không phải chờ lâu. Sau một lúc là dễ tìm thấy mọi thứ cần dùng.",
+    "date": "2026-10-20",
+    "avatar": 3858,
+    "rating": 5
+   },
+   {
+    "username": "Huỳnh Thu Trang",
+    "review": "Nhân viên trong chat hướng dẫn tôi tải tài liệu lên mà không làm mọi thứ phức tạp. Không rườm rà và đúng với những gì tôi cần.",
+    "date": "2026-10-18",
+    "avatar": 3861,
+    "rating": 4
+   },
+   {
+    "username": "Bùi Minh Châu",
+    "review": "Một tài khoản cho cả cược thể thao và casino giúp tôi khỏi phải quản lý hai lần đăng nhập. Không hào nhoáng, nhưng hoạt động đúng như mô tả.",
+    "date": "2026-10-18",
+    "avatar": 3854,
+    "rating": 4
+   },
+   {
+    "username": "Đặng Thanh Hà",
+    "review": "Phần live casino và crash có menu riêng, không bị lẫn trong một danh sách dài. Lựa chọn hợp cho ai thích giao diện sạch.",
+    "date": "2026-10-15",
+    "avatar": 3860,
+    "rating": 4
+   },
+   {
+    "username": "Nguyễn Gia Huy",
+    "review": "Phiên bản di động phản hồi tốt, cả quầy thanh toán lẫn sảnh game đều hiển thị ổn trên màn hình nhỏ. Nhìn chung đây là trang gọn gàng và dễ dùng.",
+    "date": "2026-10-15",
+    "avatar": 3855,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Thưởng chào mừng casino",
+  "description": "188% đến €2.088 + 18 vòng quay miễn phí",
+  "disclaimer": "18+. Áp dụng điều khoản và điều kiện. Hãy chơi có trách nhiệm.",
+  "button": "Nhận ngay"
+ },
+ "cta_texts": [
+  "Nhận thưởng",
+  "Tham gia ngay",
+  "Bắt đầu chơi",
+  "Xem ưu đãi",
+  "Thử live casino"
+ ]
+}

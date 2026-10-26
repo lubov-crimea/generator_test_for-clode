@@ -1,0 +1,79 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3347,
+    "target_body_words": 3160,
+    "keywords_total": {
+      "Longfu88": 18,
+      "Longfu 88": 2,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 2,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "The phrase 'This is the only licence statement on the page, and it should be read as exactly that' is meta commentary and awkward in an editorial text.",
+        "fix": "Remove the meta sentence; keep the licence sentence and the sentence that the licence is held by the operator Lumina, which also acts as the data controller."
+      }
+    ],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [
+      {
+        "check": "consistency",
+        "problem": "The first sentence of the block repeats the structure and the full list of nine categories from the sentence in the H1 block (The casino lobby is divided into nine categories: slots, ...), so two blocks open the topic with nearly the same sentence.",
+        "fix": "Reword the opening so that it does not mirror the H1 sentence: name the nine categories once in a different construction (for example grouping them by kind) and keep the lead-in to the slots and live dealer sub-sections."
+      }
+    ],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,55 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1230,
+    "max_body_words": 1559,
+    "target_body_words": 1230,
+    "keywords_total": {
+      "Longfu88": 10,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 10,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "The last sentence says 'entered in the second step', which is ambiguous on a page that also has 'Step 2: Log In' (it means the second registration step).",
+        "fix": "Reword the last sentence so it says the e-mail address and password entered during registration are the pair that the login uses later; do not use the words 'second step'."
+      }
+    ],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [
+      {
+        "check": "consistency",
+        "problem": "The second sentence repeats the first (the casino treats the credentials as the holder's own responsibility) and adds the unsupported claim that sharing credentials puts the account at risk as a casino statement.",
+        "fix": "Remove the repetition; keep the holder's responsibility once, then the operator's safeguards and the right to suspend activity, without new claims."
+      }
+    ],
+    "b09": [
+      {
+        "check": "consistency",
+        "problem": "The closing clause 'the starting point for everything covered later on the site' is vague filler and refers to content not described in the brief.",
+        "fix": "Replace it with a short factual sentence that the cashier holds deposits and withdrawals and bonuses are managed from the account, without promises about other pages."
+      }
+    ],
+    "b10": [],
+    "b11": []
+  },
+  "missing_data": []
+}

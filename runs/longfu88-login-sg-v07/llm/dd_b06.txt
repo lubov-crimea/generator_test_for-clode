@@ -1,0 +1,10 @@
+Verification at Longfu88 is triggered by an account review, by a withdrawal, by an unusual transaction, by a high-value transaction and by any change made to account or payment data. Checks run at several stages of the account's life, namely registration reviews, deposits, withdrawals and continuing monitoring of the account. In the table, each kind of proof is paired with the documents that count, and identity comes first.
+
+| Accepted documents | Kind of proof |
+|---|---|
+| Passport or driving licence, or else a national identity card | Identity |
+| Utility bill, bank statement | Address |
+| Evidence of owning the bank account or card, evidence of owning the digital wallet | Payment method |
+| Supporting financial documents of other kinds, plus income proof and bank statements | Origin of funds (only on request) |
+
+At most 30 days after the request remain for sending the documents. A review of a complete set lasts up to 10 days under normal conditions, counted from the moment nothing is missing.

@@ -1,0 +1,3791 @@
+{
+  "geo": "IT",
+  "language": "it",
+  "keywords": [
+    "Incaspin",
+    "Inca Spin",
+    "Incaspin casino"
+  ],
+  "targets": {
+    "target_body_words": 3812,
+    "keyword_targets": {
+      "Incaspin": 42,
+      "Inca Spin": 1,
+      "Incaspin casino": 12
+    },
+    "base_body_words": 3232
+  },
+  "brand": "Incaspin",
+  "knowledge_base": {
+    "id": 556,
+    "title": "incaspin-new"
+  },
+  "intent_summary": "Brand-related (navigational and informational) page about the Incaspin online casino for players from Italy: overview, registration and login, welcome bonus with conditions and promo-code rule, further promotions, games and providers, sports betting, payments and withdrawals, verification, mobile web app, VIP and loyalty programme, safety and licence, responsible gambling, support and FAQ. All brand-specific facts come from the AffBulk knowledge base incaspin-new.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Incaspin Casino: Bonus, Registration, Games and Withdrawals",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.business_overview.categories",
+        "brandinfo_general.business_overview.welcome_bonus",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 75,
+      "words_max": 95,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Players from Italy",
+          "priority": 8
+        },
+        {
+          "name": "Welcome Package",
+          "priority": 7
+        },
+        {
+          "name": "Live Casino",
+          "priority": 6
+        },
+        {
+          "name": "Sports Betting",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Online Casino",
+          "relation": "offers",
+          "object": "Casino, Live Casino, Sports Betting and Esports",
+          "priority": 9
+        },
+        {
+          "subject": "Online Casino",
+          "relation": "is aimed at",
+          "object": "Adult Players",
+          "priority": 8
+        }
+      ],
+      "summary": "Short introduction: what the online casino is, which areas it covers (casino, live casino, sports betting, esports) and what the page explains (bonus, registration, games, payments, app, safety).",
+      "copywriter_notes": "Start with one clear sentence on the central entity Online Casino and name its areas as given in the Brand Information (casino, live casino, sportsbook, esports betting). Mention the welcome package in a half-sentence using the value from the Brand Information (up to 2.750 EUR plus 275 free spins, Italian number format) and state the 18+ age limit. Use \"Incaspin\" exactly once and no other tracked keyword. Do not go into bonus terms, payments or registration; only signpost the topics of the page. Do not say that the casino is licensed or approved in Italy. Neutral-positive tone, no promises about winnings.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 85,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.business_overview.categories",
+          "value": [
+            "Online casino",
+            "Live casino",
+            "Sportsbook",
+            "Esports betting"
+          ]
+        },
+        {
+          "path": "brandinfo_general.business_overview.welcome_bonus",
+          "value": "Up to €2,750 + 275 Free Spins"
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 5
+      },
+      "words_base": [
+        60,
+        76
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Incaspin Casino Overview",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_general.release_year",
+        "brandinfo_general.operator.company_name",
+        "brandinfo_general.operator.jurisdiction",
+        "brandinfo_general.licences",
+        "brandinfo_general.currencies",
+        "brandinfo_general.business_overview.categories",
+        "brandinfo_general.business_overview.games",
+        "brandinfo_general.customer_support.availability"
+      ],
+      "words_min": 154,
+      "words_max": 196,
+      "keywords": {
+        "Incaspin": 3,
+        "Inca Spin": 1,
+        "Incaspin casino": 1
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Gambling Licence",
+          "priority": 8
+        },
+        {
+          "name": "Game Categories",
+          "priority": 7
+        },
+        {
+          "name": "Currencies",
+          "priority": 5
+        },
+        {
+          "name": "Customer Support",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Operator",
+          "relation": "runs",
+          "object": "the Online Casino",
+          "priority": 8
+        },
+        {
+          "subject": "Gambling Licence",
+          "relation": "belongs to",
+          "object": "the Online Casino",
+          "priority": 8
+        },
+        {
+          "subject": "Online Casino",
+          "relation": "supports",
+          "object": "Several Currencies",
+          "priority": 5
+        }
+      ],
+      "summary": "Overview of the platform: launch year, operator, licence details, game categories, currencies and support availability.",
+      "copywriter_notes": "Open with a definition of the platform (Online Casino), then the launch year (2025), the operator company and its country (Costa Rica) and the licence exactly as in the Brand Information (authority Tobique Gaming Commission, number 0000158). Then the game categories, the currencies and the 24/7 support. State the game count only cautiously as \"piu di 5.000 giochi\" (the source mentions both 6,000+ and 5,000+, so use only the safe figure). Use \"Incaspin\" 3 times, \"Incaspin casino\" once and mention \"Inca Spin\" once as an alternative spelling of the brand (for example \"cercato anche come Inca Spin\"). Do not say that the casino is licensed or approved in Italy and do not mention any Italian regulator.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 175,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.release_year",
+          "value": 2025
+        },
+        {
+          "path": "brandinfo_general.operator.company_name",
+          "value": "Legasta Technologies SRL"
+        },
+        {
+          "path": "brandinfo_general.operator.jurisdiction",
+          "value": "Costa Rica"
+        },
+        {
+          "path": "brandinfo_general.licences",
+          "value": [
+            {
+              "authority": "Tobique Gaming Commission",
+              "licence_number": "0000158",
+              "jurisdiction": "Tobique"
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "BRL",
+            "CAD",
+            "AUD",
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "path": "brandinfo_general.business_overview.categories",
+          "value": [
+            "Online casino",
+            "Live casino",
+            "Sportsbook",
+            "Esports betting"
+          ]
+        },
+        {
+          "path": "brandinfo_general.business_overview.games",
+          "value": "More than 6,000 casino games are advertised"
+        },
+        {
+          "path": "brandinfo_general.customer_support.availability",
+          "value": "24/7"
+        }
+      ],
+      "coverage_units": {
+        "facts": 13,
+        "entities": 6
+      },
+      "words_base": [
+        123,
+        157
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "Casino Information at a Glance",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.operator.company_name",
+        "brandinfo_general.licences[0]",
+        "brandinfo_general.release_year",
+        "brandinfo_general.customer_support.languages",
+        "brandinfo_general.currencies",
+        "brandinfo_general.business_overview.payment_methods_overview",
+        "brandinfo_welcome.welcome_bonus.total_bonus",
+        "brandinfo_welcome.welcome_bonus.total_free_spins",
+        "brandinfo_promotions.other_bonuses[2].cashback",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_general.customer_support.email"
+      ],
+      "words_min": 66,
+      "words_max": 84,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Gambling Licence",
+          "priority": 8
+        },
+        {
+          "name": "Welcome Package",
+          "priority": 7
+        },
+        {
+          "name": "Payment Methods",
+          "priority": 6
+        },
+        {
+          "name": "Currencies",
+          "priority": 5
+        },
+        {
+          "name": "Customer Support",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Operator",
+          "relation": "runs",
+          "object": "the Online Casino",
+          "priority": 8
+        },
+        {
+          "subject": "Gambling Licence",
+          "relation": "belongs to",
+          "object": "the Online Casino",
+          "priority": 7
+        }
+      ],
+      "summary": "A compact fact sheet of the casino: operator, licence, launch year, support languages, currencies, payment methods, welcome bonus, cashback, minimum deposit and support e-mail.",
+      "copywriter_notes": "The table has exactly the rows of the Fact Table list, in this order, nothing else; header row \"Parametro | Dettaglio\"; the left cell is the Italian row label, the right cell a short fact (a figure, a name or a comma-separated list, at most 14 words), no sentences. Operator = company name only. Licence = authority and number. Launched = 2025. Support languages = English and other languages, exactly as the Brand Information says (do not claim Italian support). Welcome bonus = maximum amount and number of free spins. Cashback = percentage and its base (weekly net losses). Minimum deposit = the amount only (20 EUR, the value of the welcome offer; ignore the earlier recorded 15 EUR figure). Payment methods and currencies = names only. Support = the e-mail address exactly as given; it contains the tracked keyword \"Incaspin\", which is the one occurrence this block allows; no other tracked keyword here. Do not add a lead-in sentence.",
+      "formats": [
+        "table"
+      ],
+      "listed_entities": [
+        "Operator",
+        "Gambling Licence",
+        "Welcome Package",
+        "Payment Methods",
+        "Currencies",
+        "Customer Support"
+      ],
+      "fact_table": [
+        {
+          "key": "company",
+          "label": "Operator",
+          "kb_refs": [
+            "brandinfo_general.operator.company_name"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.operator.company_name",
+              "value": "Legasta Technologies SRL"
+            }
+          ]
+        },
+        {
+          "key": "licence",
+          "label": "Licence",
+          "kb_refs": [
+            "brandinfo_general.licences[0]"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.licences[0]",
+              "value": {
+                "authority": "Tobique Gaming Commission",
+                "licence_number": "0000158",
+                "jurisdiction": "Tobique"
+              }
+            }
+          ]
+        },
+        {
+          "key": "founded",
+          "label": "Launched",
+          "kb_refs": [
+            "brandinfo_general.release_year"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.release_year",
+              "value": 2025
+            }
+          ]
+        },
+        {
+          "key": "languages",
+          "label": "Support languages",
+          "kb_refs": [
+            "brandinfo_general.customer_support.languages"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.customer_support.languages",
+              "value": [
+                "English",
+                "Multiple languages"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "currencies",
+          "label": "Currencies",
+          "kb_refs": [
+            "brandinfo_general.currencies"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.currencies",
+              "value": [
+                "EUR",
+                "BRL",
+                "CAD",
+                "AUD",
+                "BTC",
+                "ETH"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "payment_methods",
+          "label": "Payment methods",
+          "kb_refs": [
+            "brandinfo_general.business_overview.payment_methods_overview"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.business_overview.payment_methods_overview",
+              "value": [
+                "Visa",
+                "Mastercard",
+                "Apple Pay",
+                "Google Pay",
+                "Skrill",
+                "Neteller",
+                "Cryptocurrency",
+                "Bank transfer"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "welcome_bonus",
+          "label": "Welcome bonus",
+          "kb_refs": [
+            "brandinfo_welcome.welcome_bonus.total_bonus",
+            "brandinfo_welcome.welcome_bonus.total_free_spins"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_welcome.welcome_bonus.total_bonus",
+              "value": "Up to €2,750"
+            },
+            {
+              "path": "brandinfo_welcome.welcome_bonus.total_free_spins",
+              "value": 275
+            }
+          ]
+        },
+        {
+          "key": "cashback",
+          "label": "Cashback",
+          "kb_refs": [
+            "brandinfo_promotions.other_bonuses[2].cashback"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_promotions.other_bonuses[2].cashback",
+              "value": "Up to 25% of weekly net losses"
+            }
+          ]
+        },
+        {
+          "key": "min_deposit",
+          "label": "Minimum deposit",
+          "kb_refs": [
+            "brandinfo_welcome.welcome_bonus.minimum_deposit"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+              "value": "€20 on the detailed first-deposit promotional card; deposit tiers of €20, €50 and €300 are displayed."
+            }
+          ]
+        },
+        {
+          "key": "support",
+          "label": "Support",
+          "kb_refs": [
+            "brandinfo_general.customer_support.email"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.customer_support.email",
+              "value": "support@incaspin.com"
+            }
+          ]
+        }
+      ],
+      "words": 75,
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.operator.company_name",
+          "value": "Legasta Technologies SRL"
+        },
+        {
+          "path": "brandinfo_general.licences[0]",
+          "value": {
+            "authority": "Tobique Gaming Commission",
+            "licence_number": "0000158",
+            "jurisdiction": "Tobique"
+          }
+        },
+        {
+          "path": "brandinfo_general.release_year",
+          "value": 2025
+        },
+        {
+          "path": "brandinfo_general.customer_support.languages",
+          "value": [
+            "English",
+            "Multiple languages"
+          ]
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "BRL",
+            "CAD",
+            "AUD",
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "path": "brandinfo_general.business_overview.payment_methods_overview",
+          "value": [
+            "Visa",
+            "Mastercard",
+            "Apple Pay",
+            "Google Pay",
+            "Skrill",
+            "Neteller",
+            "Cryptocurrency",
+            "Bank transfer"
+          ]
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.total_bonus",
+          "value": "Up to €2,750"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.total_free_spins",
+          "value": 275
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].cashback",
+          "value": "Up to 25% of weekly net losses"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€20 on the detailed first-deposit promotional card; deposit tiers of €20, €50 and €300 are displayed."
+        },
+        {
+          "path": "brandinfo_general.customer_support.email",
+          "value": "support@incaspin.com"
+        }
+      ],
+      "coverage_units": {
+        "facts": 12,
+        "entities": 1
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 2,
+      "heading": "Registration at Incaspin Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k17"
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration.guide",
+        "brandinfo_account.registration.methods",
+        "brandinfo_account.registration.restrictions",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 141,
+      "words_max": 179,
+      "keywords": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Registration",
+          "priority": 10
+        },
+        {
+          "name": "Email Sign-up",
+          "priority": 8
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 6
+        },
+        {
+          "name": "One Account per Person",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Player",
+          "relation": "registers with",
+          "object": "an Email Address and a Password",
+          "priority": 8
+        },
+        {
+          "subject": "Duplicate Accounts",
+          "relation": "lead to",
+          "object": "Suspension and Voided Winnings",
+          "priority": 6
+        }
+      ],
+      "summary": "How to register: one introductory sentence, a numbered list of the five sign-up steps and the account restrictions (one account per person, 18+).",
+      "copywriter_notes": "Open with one sentence saying that sign-up is by e-mail. Then a numbered list with the 5 steps of the registration guide in the Brand Information, in order and in Italian; the first step names the domain, written exactly as \"incaspin.com\", which counts as one of the 3 \"Incaspin\" occurrences of this block (the other two go into the sentences around the list). After the list give the restrictions in one or two sentences: one account per person, household, IP address and computer; duplicate accounts may be suspended or closed and their bets, bonuses and winnings voided; minimum age 18. Do not invent steps (no phone number, no social login, no promo-code field). \"Incaspin casino\" 0 times here.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "listed_entities": [
+        "Email Sign-up"
+      ],
+      "words": 160,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.registration.guide",
+          "value": [
+            "Open incaspin.com and choose Sign up.",
+            "Enter an email address.",
+            "Create a password.",
+            "Confirm that you are at least 18 years old.",
+            "Submit the registration form."
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.methods",
+          "value": [
+            "Email registration"
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.restrictions",
+          "value": [
+            "Only one account per person.",
+            "One account per household, IP address and computer.",
+            "Duplicate accounts may be suspended, closed and their wagers, bonuses or winnings voided."
+          ]
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 4
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 3,
+      "heading": "Login and Account Security",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.login.methods",
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_account.login.security",
+        "brandinfo_account.login.account_management"
+      ],
+      "words_min": 88,
+      "words_max": 112,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Login",
+          "priority": 9
+        },
+        {
+          "name": "Password Recovery",
+          "priority": 7
+        },
+        {
+          "name": "Two-Factor Authentication",
+          "priority": 7
+        },
+        {
+          "name": "Account Area",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Player",
+          "relation": "logs in with",
+          "object": "Email and Password",
+          "priority": 8
+        },
+        {
+          "subject": "Two-Factor Authentication",
+          "relation": "protects",
+          "object": "the Player Account",
+          "priority": 7
+        }
+      ],
+      "summary": "How to log in, how to reset a forgotten password, how to switch on two-factor authentication and what the account area contains.",
+      "copywriter_notes": "Cover login by e-mail and password, password recovery with the \"Forgot Password\" link on the login screen and the e-mailed instructions, and the optional two-factor authentication in the account settings. End with one sentence on what the account area holds (profile and currency preferences, payment methods, gaming history, bonus progress, responsible-gaming limits). Use \"Incaspin\" once. Practical tone, no invented details (no SMS codes, no social login).",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 100,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.methods",
+          "value": [
+            "Email and password"
+          ]
+        },
+        {
+          "path": "brandinfo_account.login.password_recovery",
+          "value": "Use Forgot Password on the login screen and follow the emailed reset instructions."
+        },
+        {
+          "path": "brandinfo_account.login.security",
+          "value": "Two-factor authentication can be activated in account settings."
+        },
+        {
+          "path": "brandinfo_account.login.account_management",
+          "value": [
+            "Profile details and currency preferences",
+            "Payment methods",
+            "Betting and gaming history",
+            "Bonus progress",
+            "Responsible-gaming limits"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 4
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 2,
+      "heading": "Welcome Bonus at Incaspin Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.total_bonus",
+        "brandinfo_welcome.welcome_bonus.total_free_spins",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_welcome.welcome_bonus.free_spins_games"
+      ],
+      "words_min": 211,
+      "words_max": 269,
+      "keywords": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "entities": [
+        {
+          "name": "Welcome Package",
+          "priority": 10
+        },
+        {
+          "name": "Deposit Match Bonus",
+          "priority": 8
+        },
+        {
+          "name": "Free Spins",
+          "priority": 8
+        },
+        {
+          "name": "Eligible Slots",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Welcome Package",
+          "relation": "spreads",
+          "object": "Bonus Money Over Three Deposits",
+          "priority": 9
+        },
+        {
+          "subject": "Free Spins",
+          "relation": "are played on",
+          "object": "Selected Slots",
+          "priority": 6
+        }
+      ],
+      "summary": "The welcome package: up to 2.750 EUR and 275 free spins over three deposits, with a list of the three steps and the slots for the free spins.",
+      "copywriter_notes": "Lead with the Welcome Package: up to 2.750 EUR and 275 free spins over the first three deposits (Italian number format, \"2.750 EUR\"). The list has exactly three items taken from the Brand Information: first deposit up to 1.000 EUR + 200 free spins; second deposit 100% up to 1.000 EUR; third deposit 75% up to 750 EUR + 75 free spins. Add one or two sentences saying that the free spins can be used on slots such as Gates of Olympus, Aztec Magic and Johnny Cash (at most three names from the Brand Information). Do not give wagering, validity or maximum bet here (the next block covers the terms) and do not describe how the free spins are credited. Never use the competitors' figures (2.500 EUR, 250 free spins). Use \"Incaspin\" twice and \"Incaspin casino\" once. No promises about winnings.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "listed_entities": [
+        "Eligible Slots"
+      ],
+      "words": 240,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Package"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.total_bonus",
+          "value": "Up to €2,750"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.total_free_spins",
+          "value": 275
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[0]",
+          "value": "Welcome bonus presentation lists first deposit up to €1,000 + 200 Free Spins, second deposit 100% up to €1,000, and third deposit 75% up to €750 + 75 Free Spins."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins_games",
+          "value": [
+            "Gates of Olympus",
+            "Aztec Magic",
+            "Aztec Magic Deluxe",
+            "Johnny Cash",
+            "Platinum Lightning",
+            "Platinum Lightning Deluxe"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 8,
+        "entities": 4
+      },
+      "words_base": [
+        185,
+        235
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 3,
+      "heading": "Bonus Terms at a Glance",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.wagering",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.max_bet",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_welcome.welcome_bonus.important_terms[4]",
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_welcome.welcome_bonus.important_terms[6]"
+      ],
+      "words_min": 106,
+      "words_max": 134,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Wagering Requirements",
+          "priority": 10
+        },
+        {
+          "name": "Validity",
+          "priority": 8
+        },
+        {
+          "name": "Maximum Bet",
+          "priority": 8
+        },
+        {
+          "name": "Game Contribution to Wagering",
+          "priority": 8
+        },
+        {
+          "name": "Sticky Bonus",
+          "priority": 6
+        },
+        {
+          "name": "Maximum Winnings from Free Spins",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Welcome Bonus",
+          "relation": "is subject to",
+          "object": "Wagering Requirements",
+          "priority": 9
+        },
+        {
+          "subject": "Game Contribution",
+          "relation": "determines",
+          "object": "Wagering Progress",
+          "priority": 8
+        },
+        {
+          "subject": "Live Casino Games",
+          "relation": "contribute",
+          "object": "0% to Wagering",
+          "priority": 7
+        }
+      ],
+      "summary": "A table of the key conditions of the welcome package: minimum deposit, wagering, validity, maximum bet, game contribution and further rules.",
+      "copywriter_notes": "A table with the columns \"Condizione\" and \"Dettaglio\" (in Italian), preceded by one short lead-in sentence that uses \"Incaspin\" once. Rows: minimum deposit (20 EUR on the first-deposit offer; tiers of 20, 50 and 300 EUR are displayed), wagering (give BOTH figures, 35x on the second and third deposit cards and 40x as the general rule, as in the Brand Information, and say which one applies where), validity (7 days), maximum bet (5 EUR on slots, 10 EUR on live games while wagering), only one active bonus at a time (can be paused, the timer continues), winnings withdrawable only after wagering, game contribution (slots 100%, card games, roulette, poker and video poker 5%, live-dealer games 0%), sticky bonus with the real-money balance played first, maximum winnings from sign-up free spins 50 EUR. Take all values over exactly.",
+      "formats": [
+        "table"
+      ],
+      "listed_entities": [
+        "Wagering Requirements",
+        "Validity",
+        "Maximum Bet",
+        "Game Contribution to Wagering",
+        "Sticky Bonus",
+        "Maximum Winnings from Free Spins"
+      ],
+      "words": 120,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€20 on the detailed first-deposit promotional card; deposit tiers of €20, €50 and €300 are displayed."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.wagering",
+          "value": "35x bonus on the detailed second and third deposit promotional cards; general bonus rules specify 40x unless stated otherwise"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.validity",
+          "value": "7 days for Welcome Package bonuses"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.max_bet",
+          "value": "€5 for slots and €10 for live games while wagering, subject to specific terms"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[2]",
+          "value": "Only one bonus may be active at a time; active bonuses can be paused but their expiry timers continue."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[3]",
+          "value": "Bonus winnings can be withdrawn only after the relevant wagering requirements are met."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[4]",
+          "value": "Slots contribute 100% to wagering; card games, roulette, poker and video poker 5%; live-dealer games 0%, as listed in the bonus FAQ."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[5]",
+          "value": "Bonuses are sticky and the real-money balance is played first."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[6]",
+          "value": "The maximum winnings from sign-up Free Spins are €50 unless an offer states otherwise."
+        }
+      ],
+      "coverage_units": {
+        "facts": 11,
+        "entities": 1
+      },
+      "words_base": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 3,
+      "heading": "Promo Code and Activation",
+      "source": "unique",
+      "covers_clusters": [
+        "k04"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.promo_code_required",
+        "brandinfo_welcome.welcome_bonus.claiming",
+        "brandinfo_welcome.welcome_bonus.important_terms[1]"
+      ],
+      "words_min": 82,
+      "words_max": 105,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Promo Code",
+          "priority": 9
+        },
+        {
+          "name": "Automatic Crediting",
+          "priority": 8
+        },
+        {
+          "name": "Bonus Eligibility",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Welcome Package Bonuses",
+          "relation": "are credited",
+          "object": "Automatically",
+          "priority": 9
+        },
+        {
+          "subject": "Promo Code",
+          "relation": "makes ineligible for",
+          "object": "Welcome Package Bonuses",
+          "priority": 7
+        }
+      ],
+      "summary": "No promo code is needed for the welcome package: bonuses are credited automatically and entering a code disqualifies the player from that bonus.",
+      "copywriter_notes": "State plainly that no promo code is needed: Welcome Package bonuses are credited automatically, and entering a promo code for a Welcome Package bonus makes the player ineligible for that bonus. The Brand Information also mentions codes shown on the second and third deposit cards and itself flags this as an unresolved conflict: the rule here is that NO code is mentioned. Do not write any code name, do not tell the reader to enter a code. Add one practical sentence to read the terms before the first deposit (connecting advice, no new facts). Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 94,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.promo_code_required",
+          "value": false
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming",
+          "value": "Welcome Package bonuses are credited automatically; entering a promo code for a Welcome Package bonus makes the player ineligible for that package bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[1]",
+          "value": "Second-deposit promotion card displays code INC2 and third-deposit card displays INC3, while the general Welcome Package terms state bonuses are automatic and promo codes disqualify them; this is an unresolved conflict within the supplied site text."
+        }
+      ],
+      "coverage_units": {
+        "facts": 3,
+        "entities": 3
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b09",
+      "level": 2,
+      "heading": "More Promotions and Cashback at Incaspin",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k03"
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses"
+      ],
+      "words_min": 141,
+      "words_max": 179,
+      "keywords": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Reload Bonus",
+          "priority": 9
+        },
+        {
+          "name": "Weekly Cashback",
+          "priority": 9
+        },
+        {
+          "name": "Highroller Bonus",
+          "priority": 7
+        },
+        {
+          "name": "Wagering Requirements",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Highroller Bonus",
+          "relation": "rewards",
+          "object": "Players Who Used All Welcome Package Bonuses",
+          "priority": 7
+        },
+        {
+          "subject": "Weekly Cashback",
+          "relation": "returns",
+          "object": "a Share of Weekly Net Losses",
+          "priority": 8
+        }
+      ],
+      "summary": "The ongoing promotions after the welcome package: Highroller Bonus, Sunday Reload and Weekly Cashback with a comparison table.",
+      "copywriter_notes": "One short introductory paragraph, then a table with the columns \"Promozione\", \"Bonus\", \"Deposito minimo\" and \"Wagering\" for the three offers of the Brand Information: Highroller Bonus (50% up to 500 EUR, minimum 300 EUR, 40x, usable every 30 days by players who used all Welcome Package bonuses), Sunday Reload (25% up to 100 EUR, minimum 15 EUR, 40x, available on Sunday) and Weekly Cashback (up to 25% of weekly net losses, the amount depends on activity and loyalty status; no minimum deposit or wagering is given, write \"n/d\" in those cells). Leave out the old validity of Sunday Reload and the Finnish exclusion. Close with one sentence that missions, the wheel and reward chests are covered in the loyalty section. Use \"Incaspin\" twice. No promises about winnings.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "listed_entities": [
+        "Reload Bonus",
+        "Weekly Cashback",
+        "Highroller Bonus",
+        "Wagering Requirements"
+      ],
+      "words": 160,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses",
+          "value": [
+            {
+              "name": "Highroller Bonus",
+              "type": "Deposit reload",
+              "bonus": "50% up to €500",
+              "minimum_deposit": "€300",
+              "wagering": "40x bonus",
+              "validity": "30 days between eligible offers",
+              "eligibility": "Players who have used all casino Welcome Package bonuses; excluded for Finnish players",
+              "important_terms": [
+                "The highroller offer may be used every 30 days.",
+                "General bonus maximum bet rules apply unless specific terms override them."
+              ]
+            },
+            {
+              "name": "Sunday Reload",
+              "type": "Weekly deposit bonus",
+              "bonus": "25% up to €100",
+              "minimum_deposit": "€15",
+              "wagering": "40x",
+              "validity": "14 days under the earlier bonus schedule",
+              "availability": "Sunday"
+            },
+            {
+              "name": "Weekly Cashback",
+              "type": "Casino cashback",
+              "cashback": "Up to 25% of weekly net losses",
+              "important_terms": [
+                "The amount depends on player activity and loyalty status."
+              ]
+            }
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 1,
+        "entities": 1
+      },
+      "words_base": [
+        141,
+        179
+      ]
+    },
+    {
+      "id": "b10",
+      "level": 2,
+      "heading": "Games at Incaspin Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k06"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_games.game_count"
+      ],
+      "words_min": 132,
+      "words_max": 168,
+      "keywords": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Game Library",
+          "priority": 10
+        },
+        {
+          "name": "Game Types",
+          "priority": 8
+        },
+        {
+          "name": "Game Providers",
+          "priority": 6
+        },
+        {
+          "name": "Bonus Buy Games",
+          "priority": 4
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Online Casino",
+          "relation": "offers",
+          "object": "a Large Game Library",
+          "priority": 9
+        },
+        {
+          "subject": "Game Library",
+          "relation": "includes",
+          "object": "Slots, Live Casino, Table Games and Jackpots",
+          "priority": 8
+        }
+      ],
+      "summary": "Overview of the game library: size, game types and signposts to the subsections for slots, live casino, table games and jackpots, and providers.",
+      "copywriter_notes": "Introduce the game library as the main entity: state the size only as \"piu di 5.000 giochi\" (the source says both 6,000+ and 5,000+; use the safe figure). Name a selection of the game types from the Brand Information (slots, live casino, roulette, blackjack, baccarat, poker, instant win, crash games, bonus buy, jackpots) in running text, not as a list. Signpost the subsections that follow (slots, live casino, table games and jackpots, providers) in one sentence. Use \"Incaspin\" twice and no other tracked keyword. Do not give provider or game names here.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 150,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_types",
+          "value": [
+            "Slots",
+            "Live casino",
+            "Roulette",
+            "Blackjack",
+            "Baccarat",
+            "Poker",
+            "Table games",
+            "Instant win",
+            "Crash games",
+            "Bonus Buy",
+            "Jackpots",
+            "Original games",
+            "Books",
+            "Drops & Wins Slots"
+          ]
+        },
+        {
+          "path": "brandinfo_games.game_count",
+          "value": "More than 6,000 games advertised; another site section says 5,000+"
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 4
+      },
+      "words_base": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b11",
+      "level": 3,
+      "heading": "Slots",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k07"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_examples.slots"
+      ],
+      "words_min": 105,
+      "words_max": 132,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Slots",
+          "priority": 10
+        },
+        {
+          "name": "Hold and Win Slots",
+          "priority": 6
+        },
+        {
+          "name": "Book Slots",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Slots",
+          "relation": "include",
+          "object": "Hold and Win and Book-style Titles",
+          "priority": 6
+        }
+      ],
+      "summary": "Slots at the casino with concrete titles from the game list.",
+      "copywriter_notes": "Lead with Slots (the main entity). Name four or five titles from the Brand Information (for example Gates of Olympus, Big Bass Splash, Book of Khonsu, Burning Chilli X, Coin Strike Hold and Win) and group them by mechanic as the titles suggest (hold and win, book-style). Do not invent RTP, volatility, provider attributions or maximum wins. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 118,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_examples.slots",
+          "value": [
+            "Diamond Strike: Lucky Reels",
+            "Burning Chilli X",
+            "Mad Jesters: Hold & Win",
+            "Gates of Olympus 2500",
+            "Obsidian Rush",
+            "Big Bass Splash",
+            "Gates of Olympus",
+            "Book of Khonsu",
+            "Book of Hidden Tombs",
+            "Coin Strike Hold and Win",
+            "Double Dragon Gold: Hold & Win"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 3
+      },
+      "words_base": [
+        84,
+        106
+      ]
+    },
+    {
+      "id": "b12",
+      "level": 3,
+      "heading": "Live Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k08"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_examples.live_games"
+      ],
+      "words_min": 105,
+      "words_max": 132,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Live Casino",
+          "priority": 10
+        },
+        {
+          "name": "Live Roulette",
+          "priority": 6
+        },
+        {
+          "name": "Game Shows",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Live Casino",
+          "relation": "offers",
+          "object": "Roulette, Baccarat and Game Shows",
+          "priority": 7
+        }
+      ],
+      "summary": "Live casino games with concrete titles from the game list.",
+      "copywriter_notes": "Lead with Live Casino. Name four or five titles from the Brand Information (for example Lightning Roulette, Crazy Time, Speed Baccarat, Sic Bo, Dragon Tiger) and group them into roulette-style, baccarat-style and game shows. Do not name a live provider (none is given in this block's Brand Information) and do not invent table limits or dealer details. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 118,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_examples.live_games",
+          "value": [
+            "Lightning Roulette",
+            "Crazy Time",
+            "Sweet Bonanza CandyLand",
+            "Ice Fishing",
+            "Sic Bo",
+            "Speed Baccarat",
+            "Disco Balls",
+            "Red Door Roulette",
+            "Gates of Olympus Roulette",
+            "Dragon Tiger"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 3
+      },
+      "words_base": [
+        84,
+        106
+      ]
+    },
+    {
+      "id": "b13",
+      "level": 3,
+      "heading": "Table Games, Jackpots and Crash Games",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k09"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_games.game_examples.jackpots",
+        "brandinfo_games.game_examples.instant_and_crash",
+        "brandinfo_games.original_games.examples"
+      ],
+      "words_min": 121,
+      "words_max": 154,
+      "keywords": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Table Games",
+          "priority": 8
+        },
+        {
+          "name": "Jackpot Games",
+          "priority": 8
+        },
+        {
+          "name": "Crash and Instant Games",
+          "priority": 8
+        },
+        {
+          "name": "In-house Original Games",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Jackpot Games",
+          "relation": "complement",
+          "object": "Slots and Table Games",
+          "priority": 6
+        },
+        {
+          "subject": "Crash and Instant Games",
+          "relation": "include",
+          "object": "In-house Original Titles",
+          "priority": 6
+        }
+      ],
+      "summary": "Table games, jackpots, crash and instant games and the in-house originals.",
+      "copywriter_notes": "Cover three groups in three short passages: table games (roulette, blackjack, baccarat, poker from the game types), jackpot titles (for example Break The Piggy Bank, Triple Money Jackpot Gold!) and crash and instant games (Chicken Road, Plinko, Tower Rush, Aviamasters) including the in-house originals (Chicken Road 2, Dragon Pots, MegaBlock). Call the originals \"giochi originali\"; never write the provider label that contains the brand name (it would count as a tracked keyword). Use \"Incaspin\" twice. No invented jackpot sizes.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 138,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_types",
+          "value": [
+            "Slots",
+            "Live casino",
+            "Roulette",
+            "Blackjack",
+            "Baccarat",
+            "Poker",
+            "Table games",
+            "Instant win",
+            "Crash games",
+            "Bonus Buy",
+            "Jackpots",
+            "Original games",
+            "Books",
+            "Drops & Wins Slots"
+          ]
+        },
+        {
+          "path": "brandinfo_games.game_examples.jackpots",
+          "value": [
+            "Break The Piggy Bank",
+            "Crown of Fire Jackpot Play",
+            "Shining Hot 40 Jackpot Play",
+            "Triple Money Jackpot Spicy!",
+            "Halloween Jackpot",
+            "Triple Money Jackpot Gold!"
+          ]
+        },
+        {
+          "path": "brandinfo_games.game_examples.instant_and_crash",
+          "value": [
+            "Chicken Road",
+            "Chicken Road 2",
+            "Plinko",
+            "Plinko 2",
+            "Golden Plinko",
+            "Tower Rush",
+            "Aviamasters"
+          ]
+        },
+        {
+          "path": "brandinfo_games.original_games.examples",
+          "value": [
+            "Chicken Road 2",
+            "Dragon Pots",
+            "Chicken Road",
+            "MegaBlock",
+            "Chicken Coin",
+            "Joker's Clash",
+            "Plinko1000"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 13,
+        "entities": 4
+      },
+      "words_base": [
+        97,
+        123
+      ]
+    },
+    {
+      "id": "b14",
+      "level": 3,
+      "heading": "Game Providers",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_games.providers"
+      ],
+      "words_min": 82,
+      "words_max": 105,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Game Providers",
+          "priority": 10
+        },
+        {
+          "name": "Pragmatic Play",
+          "priority": 6
+        },
+        {
+          "name": "Evolution",
+          "priority": 6
+        },
+        {
+          "name": "NetEnt",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Game Providers",
+          "relation": "supply",
+          "object": "Slots and Live Games",
+          "priority": 7
+        }
+      ],
+      "summary": "The studios behind the games: a selection of well-known providers from the provider list.",
+      "copywriter_notes": "Lead with Game Providers. Name eight to ten providers from the provider list in the Brand Information, in running text, for example Pragmatic Play, Evolution, NetEnt, Yggdrasil, Red Tiger, Big Time Gaming, Microgaming, Hacksaw Gaming, Nolimit City, Push Gaming. Say only that the list is long (\"decine di fornitori\"); do not state an exact count, and do not attribute specific games to specific providers. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 94,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.providers",
+          "value": [
+            "Pragmatic Play",
+            "Playson",
+            "Penguin King",
+            "Amiry Games",
+            "BGaming",
+            "Endorphina",
+            "Booongo",
+            "Evolution",
+            "Original Games",
+            "Gamzix",
+            "NetGame",
+            "Spinomenal",
+            "Pragmatic Play Live",
+            "GameBeat",
+            "Novomatic",
+            "Belatra",
+            "Hacksaw Gaming",
+            "1spin4win",
+            "Platipus",
+            "PG Soft",
+            "Evoplay",
+            "SmartSoft",
+            "Clawbuster",
+            "RetroGames",
+            "Tom Horn Native",
+            "Gaming Corps",
+            "Apparat",
+            "Slotopia",
+            "BSG",
+            "GameArt",
+            "Onlyplay",
+            "Push Gaming",
+            "Playtech",
+            "MGA Games",
+            "Bang Bang Games",
+            "Aviator",
+            "LuckyStreak",
+            "Zillion",
+            "Spadegaming",
+            "Jacks",
+            "Mascot",
+            "KA Gaming",
+            "Big Time Gaming",
+            "Max Win Gaming",
+            "Felix Gaming",
+            "Popiplay",
+            "100HP Gaming",
+            "Red Tiger",
+            "NetEnt",
+            "Aviatrix",
+            "RubyPlay",
+            "Yggdrasil",
+            "Reflex Gaming",
+            "ReelPlay",
+            "4ThePlayer",
+            "TrueLab",
+            "Mancala",
+            "ICONIC21",
+            "Voltent",
+            "Turbo Games",
+            "Thunderkick",
+            "Swintt",
+            "AvatarUX",
+            "Microgaming",
+            "Peter & Sons",
+            "The Originals",
+            "GameTimeTec",
+            "Mirror Image Gaming",
+            "Galaxsys",
+            "EXCO",
+            "PatePlay",
+            "VA Gaming",
+            "Nolimit City",
+            "Happy Duck",
+            "Koala",
+            "Betora",
+            "Fazi",
+            "Shady Lady",
+            "King Midas",
+            "Boomerang Studios",
+            "GoodLuck Games",
+            "Alfa Games",
+            "Booming Games",
+            "OneFiveFive",
+            "Animo",
+            "XStudio",
+            "Maybrix",
+            "Toucan Royale",
+            "SpinLogic",
+            "Hazzo",
+            "Gamevy",
+            "Dijoker",
+            "Torro Games",
+            "Spartix",
+            "Optiplay",
+            "Big Daddy Gaming"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 4
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b15",
+      "level": 2,
+      "heading": "Sports Betting and Esports at Incaspin",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports",
+        "brandinfo_sportsbook.sportsbook.esports",
+        "brandinfo_sportsbook.sportsbook.bet_types",
+        "brandinfo_sportsbook.sportsbook.sports_leagues_shown",
+        "brandinfo_sportsbook.sportsbook.welcome_bonus.total_bonus",
+        "brandinfo_sportsbook.sportsbook.welcome_bonus.bonuses",
+        "brandinfo_sportsbook.sportsbook.welcome_bonus.minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.welcome_bonus.wagering",
+        "brandinfo_sportsbook.sportsbook.welcome_bonus.validity",
+        "brandinfo_sportsbook.sportsbook.welcome_bonus.eligible_bets"
+      ],
+      "words_min": 165,
+      "words_max": 210,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Sportsbook",
+          "priority": 10
+        },
+        {
+          "name": "Esports Betting",
+          "priority": 8
+        },
+        {
+          "name": "Bet Types",
+          "priority": 7
+        },
+        {
+          "name": "Sportsbook Welcome Package",
+          "priority": 8
+        },
+        {
+          "name": "Accumulator Bets",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Sportsbook",
+          "relation": "covers",
+          "object": "Sports and Esports",
+          "priority": 8
+        },
+        {
+          "subject": "Sportsbook Welcome Package",
+          "relation": "requires",
+          "object": "Accumulator Bets",
+          "priority": 7
+        }
+      ],
+      "summary": "The sportsbook: sports and esports covered, bet types, leagues and the sportsbook welcome package.",
+      "copywriter_notes": "Say that the platform also contains a sportsbook with esports. Name a handful of sports (football, tennis, basketball, ice hockey), a few esports (Counter-Strike, eFootball), the main bet types (1x2, double chance, over/under, handicap, accumulators, live bets) and that leagues such as the Italian Serie A are shown. Then the sportsbook welcome package: up to 450 EUR over the first three sports deposits (100% up to 100 EUR, 75% up to 150 EUR, 50% up to 200 EUR), minimum deposit 20 EUR, wagering 5x, validity 14 days, bonus bets must be accumulators of at least 3 events with every selection at odds of at least 1.40. Use only these figures; do not invent odds, limits or licences for betting. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 188,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports",
+          "value": [
+            "Football",
+            "Tennis",
+            "Basketball",
+            "Ice hockey",
+            "Cricket",
+            "Volleyball",
+            "Baseball",
+            "Snooker",
+            "Handball",
+            "Table tennis",
+            "American football",
+            "Chess",
+            "Formula 1",
+            "Horse racing",
+            "Boxing",
+            "Australian football",
+            "Rugby league",
+            "Rugby union",
+            "MMA",
+            "Darts",
+            "Futsal",
+            "Badminton",
+            "Bandy",
+            "Water polo",
+            "Cross-country skiing",
+            "Floorball",
+            "Golf",
+            "Cycling",
+            "Bowls",
+            "Alpine skiing",
+            "Biathlon",
+            "Ski jumping",
+            "NASCAR",
+            "Sailing",
+            "Surfing",
+            "Sumo",
+            "Kabaddi",
+            "Touring car racing",
+            "Formula 2"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.esports",
+          "value": [
+            "Counter-Strike",
+            "eFootball",
+            "eBasketball",
+            "eFootball: Penalty",
+            "eHorse Racing",
+            "eSoccer: Volta",
+            "eFighting",
+            "eTennis",
+            "eCricket"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.bet_types",
+          "value": [
+            "1x2 / three-way result",
+            "Double chance",
+            "Totals (over/under)",
+            "Handicap",
+            "Early Payout 1x2",
+            "Accumulators/combinations",
+            "Live bets"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_leagues_shown",
+          "value": [
+            "UEFA Champions League",
+            "English Premier League",
+            "Italian Serie A",
+            "German Bundesliga",
+            "Spanish LaLiga",
+            "Portuguese Primeira Liga",
+            "Turkish Super Lig",
+            "Saudi Pro League",
+            "Argentinian Liga Profesional",
+            "English FA Cup"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.welcome_bonus.total_bonus",
+          "value": "Up to €450"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.welcome_bonus.bonuses",
+          "value": [
+            {
+              "name": "First Sports Deposit Bonus",
+              "match": "100% up to €100"
+            },
+            {
+              "name": "Second Sports Deposit Bonus",
+              "match": "75% up to €150"
+            },
+            {
+              "name": "Third Sports Deposit Bonus",
+              "match": "50% up to €200"
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.welcome_bonus.minimum_deposit",
+          "value": "€20"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.welcome_bonus.wagering",
+          "value": "5x sportsbook bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.welcome_bonus.validity",
+          "value": "14 days"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.welcome_bonus.eligible_bets",
+          "value": "Accumulator wagers containing at least 3 events, each selection at odds of at least 1.40"
+        }
+      ],
+      "coverage_units": {
+        "facts": 24,
+        "entities": 5
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b16",
+      "level": 2,
+      "heading": "Deposits and Payment Methods",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k10"
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.deposit_methods",
+        "brandinfo_deposit.deposit_guide[1]",
+        "brandinfo_deposit.deposit_guide[3]",
+        "brandinfo_deposit.deposit_guide[4]"
+      ],
+      "words_min": 194,
+      "words_max": 246,
+      "keywords": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Payment Methods",
+          "priority": 10
+        },
+        {
+          "name": "Cards",
+          "priority": 8
+        },
+        {
+          "name": "E-wallets",
+          "priority": 7
+        },
+        {
+          "name": "Cryptocurrencies",
+          "priority": 7
+        },
+        {
+          "name": "Bank Transfer",
+          "priority": 6
+        },
+        {
+          "name": "Deposit Limits",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Payment Methods",
+          "relation": "include",
+          "object": "Cards, E-wallets, Bank Transfer and Cryptocurrencies",
+          "priority": 8
+        },
+        {
+          "subject": "Deposits",
+          "relation": "are credited",
+          "object": "Instantly for Most Methods",
+          "priority": 7
+        }
+      ],
+      "summary": "Deposit methods in a table with minimum, maximum and speed, plus the deposit steps and fee remarks.",
+      "copywriter_notes": "One short introductory paragraph, then a table with the columns \"Metodo\", \"Minimo\", \"Massimo\" and \"Velocita\" (in Italian; use the accented form in the page). Group methods with identical figures into one row, exactly as in the Brand Information: Visa, Mastercard, Revolut and Skrill (15 EUR to 4.000 EUR, instant); Paysafecard (15 EUR to 1.000 EUR, instant); Neteller, Jeton, Apple Pay and Google Pay (10 EUR to 5.000 EUR, instant); bank transfer (10 EUR to 5.000 EUR, same day to 1-3 business days); Bitcoin, Ethereum, Litecoin and Dogecoin (10 or 15 EUR equivalent up to 5.000 EUR equivalent, instant on the overview, confirmation may vary). After the table: no casino fee but external provider charges may apply, and two or three sentences on how to deposit (choose a method, enter the amount within the method limits, follow the provider's instructions and confirm). Mention that the welcome offer needs 20 EUR (do not discuss the older 15 EUR figure). Use \"Incaspin\" twice and no other tracked keyword (do not copy the deposit guide step that names the brand).",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "listed_entities": [
+        "Cards",
+        "E-wallets",
+        "Cryptocurrencies",
+        "Bank Transfer",
+        "Deposit Limits"
+      ],
+      "words": 220,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_deposit.deposit_methods",
+          "value": [
+            {
+              "method": "Visa",
+              "minimum": "€15",
+              "maximum": "€4,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Mastercard",
+              "minimum": "€15",
+              "maximum": "€4,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Revolut",
+              "minimum": "€15",
+              "maximum": "€4,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Skrill",
+              "minimum": "€15",
+              "maximum": "€4,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Paysafecard",
+              "minimum": "€15",
+              "maximum": "€1,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Neteller",
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Jeton",
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Apple Pay",
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Google Pay",
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Bank Transfer",
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Same day to 1–3 business days",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Bitcoin (BTC)",
+              "minimum": "€15 equivalent",
+              "maximum": "€5,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant on the overview; transaction confirmation may vary",
+              "currencies": [
+                "BTC"
+              ]
+            },
+            {
+              "method": "Ethereum (ETH)",
+              "minimum": "€15 equivalent",
+              "maximum": "€5,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant on the overview; transaction confirmation may vary",
+              "currencies": [
+                "ETH"
+              ]
+            },
+            {
+              "method": "Litecoin (LTC)",
+              "minimum": "€15 equivalent",
+              "maximum": "€5,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant on the overview; transaction confirmation may vary",
+              "currencies": [
+                "LTC"
+              ]
+            },
+            {
+              "method": "Dogecoin (DOGE)",
+              "minimum": "€10 equivalent",
+              "maximum": "€5,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Instant on the overview; transaction confirmation may vary",
+              "currencies": [
+                "DOGE"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_deposit.deposit_guide[1]",
+          "value": "Open the Deposit section or cashier."
+        },
+        {
+          "path": "brandinfo_deposit.deposit_guide[3]",
+          "value": "Enter the desired amount and check that method-specific limits are met."
+        },
+        {
+          "path": "brandinfo_deposit.deposit_guide[4]",
+          "value": "Follow the payment-provider instructions and confirm the transaction."
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 2
+      },
+      "words_base": [
+        194,
+        246
+      ]
+    },
+    {
+      "id": "b17",
+      "level": 2,
+      "heading": "Withdrawals at Incaspin",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k11"
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_methods",
+        "brandinfo_withdrawal.withdrawal_guide",
+        "brandinfo_withdrawal.important_terms[0]",
+        "brandinfo_withdrawal.important_terms[1]",
+        "brandinfo_withdrawal.important_terms[2]",
+        "brandinfo_withdrawal.important_terms[3]",
+        "brandinfo_withdrawal.important_terms[4]"
+      ],
+      "words_min": 209,
+      "words_max": 266,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Withdrawals",
+          "priority": 10
+        },
+        {
+          "name": "Processing Time",
+          "priority": 8
+        },
+        {
+          "name": "Withdrawal Limits",
+          "priority": 8
+        },
+        {
+          "name": "Wagering of Deposits",
+          "priority": 6
+        },
+        {
+          "name": "Verification",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Withdrawals",
+          "relation": "require",
+          "object": "Full Account Verification",
+          "priority": 8
+        },
+        {
+          "subject": "Withdrawal Limits",
+          "relation": "depend on",
+          "object": "Payment Method and Loyalty Rank",
+          "priority": 7
+        }
+      ],
+      "summary": "How withdrawals work: numbered steps, processing time, minimum and maximum amounts and the conditions before a payout.",
+      "copywriter_notes": "Open with one sentence on withdrawals, then a numbered list with the six steps of the withdrawal guide in the Brand Information, then a short paragraph with the conditions: up to 72 hours internal processing plus the provider's time (never call withdrawals \"instant\"); minimum between 50 and 120 EUR depending on country or payment option; maximum up to 15.000 EUR for cards and bank transfer and 5.000 EUR for Skrill, Neteller and Jeton; deposits must be wagered at least three times before withdrawal; no payout before full verification; the loyalty rank may influence the limit; winnings above 10.000 EUR may be paid in monthly instalments of up to 10.000 EUR (use this rule and ignore the older 15.000 EUR instalment rule). No casino fee, external charges may apply. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "words": 238,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_withdrawal.withdrawal_methods",
+          "value": [
+            {
+              "method": "Visa OCT",
+              "minimum": "€50–€120 depending on residence/payment option",
+              "maximum": "€15,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing; site overview describes instant to a few hours after processing",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Mastercard Payment Transfer",
+              "minimum": "€50–€120 depending on residence/payment option",
+              "maximum": "€15,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing; site overview describes instant to a few hours after processing",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Skrill",
+              "minimum": "€50–€120 depending on residence/payment option",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing, plus provider time",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Neteller",
+              "minimum": "€50–€120 depending on residence/payment option",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing, plus provider time",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Jeton",
+              "minimum": "€50–€120 depending on residence/payment option",
+              "maximum": "€5,000",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing, plus provider time",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Bank Transfer",
+              "minimum": "€50–€120 depending on residence/payment option",
+              "maximum": "€15,000",
+              "fee": "No casino fee; intermediary bank charges may apply up to €16",
+              "transaction_speed": "Up to 72 hours internal processing plus bank transfer time of 1–5 business days",
+              "currencies": [
+                "EUR"
+              ]
+            },
+            {
+              "method": "Bitcoin (BTC)",
+              "minimum": "€50–€120 equivalent",
+              "maximum": "€15,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing plus blockchain confirmation",
+              "currencies": [
+                "BTC"
+              ]
+            },
+            {
+              "method": "Ethereum (ETH)",
+              "minimum": "€50–€120 equivalent",
+              "maximum": "€15,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing plus blockchain confirmation",
+              "currencies": [
+                "ETH"
+              ]
+            },
+            {
+              "method": "Litecoin (LTC)",
+              "minimum": "€50–€120 equivalent",
+              "maximum": "€15,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing plus blockchain confirmation",
+              "currencies": [
+                "LTC"
+              ]
+            },
+            {
+              "method": "Dogecoin (DOGE)",
+              "minimum": "€50–€120 equivalent",
+              "maximum": "€5,000 equivalent",
+              "fee": "No casino fee; external provider charges may apply",
+              "transaction_speed": "Up to 72 hours internal processing plus blockchain confirmation",
+              "currencies": [
+                "DOGE"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_withdrawal.withdrawal_guide",
+          "value": [
+            "Sign in and open the account cashier or Withdraw section.",
+            "Choose an available withdrawal method, preferably the original deposit method where applicable.",
+            "Enter the withdrawal amount and check your personal limit.",
+            "Complete any required identity or payment verification.",
+            "Confirm the withdrawal request.",
+            "Allow up to 72 hours for internal processing, followed by the payment provider settlement period."
+          ]
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[0]",
+          "value": "A withdrawal minimum between €50 and €120 depends on country or payment method."
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[1]",
+          "value": "Deposited funds must be wagered at least three times before withdrawal."
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[2]",
+          "value": "No withdrawals are processed until full account verification."
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[3]",
+          "value": "Maximum withdrawal limits may depend on loyalty rank and are visible in the cashier."
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[4]",
+          "value": "The detailed terms allow monthly installments of up to €10,000 for winnings exceeding €10,000, overriding the older stored €15,000 installment rule."
+        }
+      ],
+      "coverage_units": {
+        "facts": 8,
+        "entities": 5
+      },
+      "words_base": [
+        167,
+        213
+      ]
+    },
+    {
+      "id": "b18",
+      "level": 3,
+      "heading": "Account Verification (KYC)",
+      "source": "unique",
+      "covers_clusters": [
+        "k12"
+      ],
+      "kb_refs": [
+        "brandinfo_account.verification.required",
+        "brandinfo_account.verification.documents",
+        "brandinfo_account.verification.processing_time",
+        "brandinfo_account.verification.important_terms"
+      ],
+      "words_min": 106,
+      "words_max": 134,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "KYC Verification",
+          "priority": 10
+        },
+        {
+          "name": "Identity Document",
+          "priority": 7
+        },
+        {
+          "name": "Proof of Address",
+          "priority": 6
+        },
+        {
+          "name": "Proof of Payment Method",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "KYC Verification",
+          "relation": "is required before",
+          "object": "the First Withdrawal",
+          "priority": 9
+        },
+        {
+          "subject": "False Documents",
+          "relation": "lead to",
+          "object": "Seizure of Funds",
+          "priority": 6
+        }
+      ],
+      "summary": "Why and how the account is verified: required documents, review time and the consequence of false documents.",
+      "copywriter_notes": "Explain that identity verification may be required before the first withdrawal and during deposit checks. A bulleted list of the four document kinds from the Brand Information (identity document, recent utility bill or bank statement, evidence of the payment method, selfie or live identity check). Then the review time as the source gives it (a few hours to one day according to the website overview, phrased as an indication) and the warning that false documents may lead to seizure of deposited funds and winnings. Use \"Incaspin\" once, in the introductory sentence.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "listed_entities": [
+        "Identity Document",
+        "Proof of Address",
+        "Proof of Payment Method"
+      ],
+      "words": 120,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.verification.required",
+          "value": "Identity verification may be required before the first withdrawal and during deposit checks; no withdrawals are processed until the account is fully verified."
+        },
+        {
+          "path": "brandinfo_account.verification.documents",
+          "value": [
+            "Passport or national identity card or driving licence",
+            "Recent utility bill or bank statement",
+            "Evidence of the payment method used",
+            "Selfie with identity document or live identity check"
+          ]
+        },
+        {
+          "path": "brandinfo_account.verification.processing_time",
+          "value": "Most document reviews take a few hours to one day according to the website overview."
+        },
+        {
+          "path": "brandinfo_account.verification.important_terms",
+          "value": [
+            "Documents must be authentic.",
+            "False or fraudulent documentation may result in seizure of deposited funds and winnings."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 2
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b19",
+      "level": 2,
+      "heading": "Mobile Play: Incaspin on Android and iOS",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k13"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.type",
+        "brandinfo_app.app_information.distribution",
+        "brandinfo_app.app_information.ios_guide",
+        "brandinfo_app.app_information.android_guide",
+        "brandinfo_app.app_information.sections"
+      ],
+      "words_min": 132,
+      "words_max": 168,
+      "keywords": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "entities": [
+        {
+          "name": "Progressive Web App",
+          "priority": 10
+        },
+        {
+          "name": "iOS",
+          "priority": 8
+        },
+        {
+          "name": "Android",
+          "priority": 8
+        },
+        {
+          "name": "Add to Home Screen",
+          "priority": 6
+        },
+        {
+          "name": "Mobile Browser",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Progressive Web App",
+          "relation": "installs from",
+          "object": "the Browser",
+          "priority": 8
+        },
+        {
+          "subject": "Progressive Web App",
+          "relation": "works on",
+          "object": "iOS and Android",
+          "priority": 8
+        }
+      ],
+      "summary": "Mobile play through the progressive web app: no store download, installation steps for iOS and Android and the available sections.",
+      "copywriter_notes": "Lead with the Progressive Web App: installed directly from the browser, no app store, available for iOS and Android (do not mention an APK, App Store or Google Play download). One short paragraph with \"Incaspin Casino\" once, then two short numbered lists, one for iOS (4 steps) and one for Android (4 steps), taken from the Brand Information; the first step of each names the brand, which are the two \"Incaspin\" occurrences of this block (no other brand mention). Finish with one sentence naming a few sections of the app (casino, live casino, sports, bonuses, loyalty, missions).",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "listed_entities": [
+        "iOS",
+        "Android",
+        "Add to Home Screen"
+      ],
+      "words": 150,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.type",
+          "value": "Progressive Web App (PWA)"
+        },
+        {
+          "path": "brandinfo_app.app_information.distribution",
+          "value": "Install directly from the website/browser, without using an app store"
+        },
+        {
+          "path": "brandinfo_app.app_information.ios_guide",
+          "value": [
+            "Open Incaspin in Safari on iPhone or iPad.",
+            "Tap Share.",
+            "Select Add to Home Screen.",
+            "Choose a name and tap Add."
+          ]
+        },
+        {
+          "path": "brandinfo_app.app_information.android_guide",
+          "value": [
+            "Open Incaspin in the mobile browser.",
+            "Select Install App or Add to Home Screen.",
+            "Confirm installation.",
+            "Launch from the home-screen icon."
+          ]
+        },
+        {
+          "path": "brandinfo_app.app_information.sections",
+          "value": [
+            "Casino",
+            "Live Casino",
+            "Sports",
+            "Esports",
+            "Bonuses",
+            "Promotions",
+            "Wheel of Fortune",
+            "Loyalty",
+            "Missions"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 3
+      },
+      "words_base": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b20",
+      "level": 2,
+      "heading": "VIP and Loyalty Programme at Incaspin",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.program_name",
+        "brandinfo_loyalty.loyalty_vip_program.currency",
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_loyalty.loyalty_vip_program.ranks",
+        "brandinfo_loyalty.loyalty_vip_program.rewards",
+        "brandinfo_loyalty.loyalty_vip_program.important_terms[1]",
+        "brandinfo_promotions.gamification_features"
+      ],
+      "words_min": 209,
+      "words_max": 266,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Loyalty Programme",
+          "priority": 10
+        },
+        {
+          "name": "Boomerang Points",
+          "priority": 9
+        },
+        {
+          "name": "Ranks",
+          "priority": 8
+        },
+        {
+          "name": "Missions",
+          "priority": 6
+        },
+        {
+          "name": "Reward Chests",
+          "priority": 6
+        },
+        {
+          "name": "Wheel of Fortune",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Boomerang Points",
+          "relation": "determine",
+          "object": "the Player Rank",
+          "priority": 9
+        },
+        {
+          "subject": "Missions",
+          "relation": "earn",
+          "object": "Boomerang Points",
+          "priority": 7
+        },
+        {
+          "subject": "Boomerang Points",
+          "relation": "open",
+          "object": "Reward Chests",
+          "priority": 7
+        }
+      ],
+      "summary": "The Boomerang loyalty programme: points, the six ranks in a table, missions, wheel of fortune and reward chests.",
+      "copywriter_notes": "Lead with the Boomerang programme: players earn Boomerang Points (BP) through real-money slots play, the cumulative lifetime BP decide the rank, the spendable BP can be exchanged for reward chests and in the points store. A table with the columns \"Livello\", \"BP richiesti\" and \"BP per 10 EUR puntati sulle slot\" for the six ranks: Scout (0, 100), Shaman (25.000, 150), Chief (150.000, 200), Emperor (1.500.000, 300), Legend (10.000.000, 400), Inca (60.000.000, 500). Then one paragraph on daily, weekly and lifetime missions, the Wheel of Fortune and the reward chests (cash bonuses, free spins, BP; the special Inca Chest and Paititi Treasure) and that a higher rank may increase withdrawal limits. The Brand Information flags a second Bronze-to-Platinum model as unrelated: leave it out completely (no Bronze, Silver, Gold, Platinum, no extra cashback percentages, no VIP club). Do not list luxury prizes. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "listed_entities": [
+        "Ranks"
+      ],
+      "words": 238,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.program_name",
+          "value": "Boomerang"
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.currency",
+          "value": "Boomerang Points (BP)"
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.progression",
+          "value": "Earn BP through real-money slots activity; cumulative lifetime BP determines rank and spendable BP can be redeemed for chests"
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.ranks",
+          "value": [
+            {
+              "name": "Scout",
+              "rank_number": 1,
+              "points_to_unlock": 0,
+              "bp_per_10_eur_slot_stake": 100
+            },
+            {
+              "name": "Shaman",
+              "rank_number": 2,
+              "points_to_unlock": 25000,
+              "bp_per_10_eur_slot_stake": 150
+            },
+            {
+              "name": "Chief",
+              "rank_number": 3,
+              "points_to_unlock": 150000,
+              "bp_per_10_eur_slot_stake": 200
+            },
+            {
+              "name": "Emperor",
+              "rank_number": 4,
+              "points_to_unlock": 1500000,
+              "bp_per_10_eur_slot_stake": 300
+            },
+            {
+              "name": "Legend",
+              "rank_number": 5,
+              "points_to_unlock": 10000000,
+              "bp_per_10_eur_slot_stake": 400
+            },
+            {
+              "name": "Inca",
+              "rank_number": 6,
+              "points_to_unlock": 60000000,
+              "bp_per_10_eur_slot_stake": 500
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.rewards",
+          "value": [
+            "Boomerang Points",
+            "Reward chests",
+            "Free Spins",
+            "Cash bonuses",
+            "Prizes from reward chests"
+          ]
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.important_terms[1]",
+          "value": "Loyalty rank may increase withdrawal limits."
+        },
+        {
+          "path": "brandinfo_promotions.gamification_features",
+          "value": [
+            {
+              "name": "Wheel of Fortune",
+              "mechanics": "Spin the wheel to win prizes",
+              "rewards": [
+                "Prizes"
+              ]
+            },
+            {
+              "name": "Missions",
+              "mechanics": "Complete daily, weekly and lifetime missions",
+              "rewards": [
+                "Boomerang Points and other mission rewards"
+              ],
+              "important_terms": [
+                "Daily missions reset each day.",
+                "Lifetime missions can award up to 100,000 BP."
+              ]
+            },
+            {
+              "name": "Reward Chests",
+              "mechanics": "Spend Boomerang Points to open chests with randomized rewards",
+              "possible_rewards": [
+                "Cash bonuses",
+                "Free Spins",
+                "Boomerang Points",
+                "iPhone 17",
+                "Rolex",
+                "100 g gold bar",
+                "MacBook Pro M5",
+                "Porsche 911 Turbo S"
+              ],
+              "examples": [
+                "€10 cash",
+                "€50 cash",
+                "5 Free Spins",
+                "10 Free Spins",
+                "50 BP",
+                "100 BP",
+                "250 BP"
+              ],
+              "special_chests": [
+                {
+                  "name": "Inca Chest",
+                  "displayed_price": "1,000 BP"
+                },
+                {
+                  "name": "Paititi Treasure",
+                  "displayed_price": "1,000,000 BP"
+                }
+              ]
+            },
+            {
+              "name": "Points Store",
+              "mechanics": "Redeem earned Boomerang Points for rewards"
+            }
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 7,
+        "entities": 6
+      },
+      "words_base": [
+        167,
+        213
+      ]
+    },
+    {
+      "id": "b21",
+      "level": 2,
+      "heading": "Safety and Licence at Incaspin Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k14"
+      ],
+      "kb_refs": [
+        "brandinfo_general.licences",
+        "brandinfo_general.operator",
+        "brandinfo_general.payment_agent",
+        "brandinfo_general.business_overview.security",
+        "brandinfo_privacy_policy.privacy_policy.data_security",
+        "brandinfo_privacy_policy.privacy_policy.third_party_sharing",
+        "brandinfo_privacy_policy.privacy_policy.minors_privacy.age_restrictions"
+      ],
+      "words_min": 165,
+      "words_max": 210,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "entities": [
+        {
+          "name": "Gambling Licence",
+          "priority": 10
+        },
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Encryption (TLS)",
+          "priority": 7
+        },
+        {
+          "name": "Payment Agent",
+          "priority": 6
+        },
+        {
+          "name": "KYC and AML Checks",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Gambling Licence",
+          "relation": "is held by",
+          "object": "the Operator",
+          "priority": 8
+        },
+        {
+          "subject": "Encryption (TLS)",
+          "relation": "protects",
+          "object": "Player Data",
+          "priority": 7
+        }
+      ],
+      "summary": "Safety facts: licence and operator, payment agent, encryption and attack protection, document handling and the 18+ rule.",
+      "copywriter_notes": "Lead with the Gambling Licence: Tobique Gaming Commission, licence number 0000158, jurisdiction Tobique, and the operator Legasta Technologies SRL (Costa Rica); payment-related operations are handled by OptaStream Innovations Limited (Cyprus). Then security: HTTPS/TLS 1.3, SSL certificates, web application firewall and DDoS protection; verification documents are encrypted; identity and payment checks are carried out for compliance (KYC, AML); players must be at least 18. Never call the licence European, Italian or ADM and do not suggest approval in Italy; one neutral sentence that players should check the rules of their own country is allowed. Use \"Incaspin\" once and \"Incaspin casino\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 188,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.licences",
+          "value": [
+            {
+              "authority": "Tobique Gaming Commission",
+              "licence_number": "0000158",
+              "jurisdiction": "Tobique"
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_general.operator",
+          "value": {
+            "company_name": "Legasta Technologies SRL",
+            "company_number": "3-102-921383",
+            "jurisdiction": "Costa Rica",
+            "registered_address": "Province 01 San Jose, Canton 01 San Jose, Cathedral District, Tenth Avenue, Thirty-Three and Thirty-Five Streets, Office 3335"
+          }
+        },
+        {
+          "path": "brandinfo_general.payment_agent",
+          "value": {
+            "company_name": "OptaStream Innovations Limited",
+            "registration_number": "HE 472273",
+            "jurisdiction": "Cyprus",
+            "registered_address": "Souliou, 18, 2018, Strovolos, Nicosia, Cyprus"
+          }
+        },
+        {
+          "path": "brandinfo_general.business_overview.security",
+          "value": "HTTPS/TLS 1.3, SSL certificates, WAF and DDoS protection; identity checks and responsible-gaming controls"
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_security",
+          "value": {
+            "encryption": "TLS 1.3 / HTTPS / SSL protection stated in the supplied site overview",
+            "infrastructure": [
+              "Web Application Firewall",
+              "DDoS protection"
+            ],
+            "verification_documents": "The site states that verification documents are encrypted and processed securely"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.third_party_sharing",
+          "value": {
+            "payment_agent": "OptaStream Innovations Limited handles payment-related operations as named in earlier accepted brand data",
+            "regulatory_compliance": "The site describes identity and payment verification carried out for compliance"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.minors_privacy.age_restrictions",
+          "value": "Players must be at least 18 years old"
+        }
+      ],
+      "coverage_units": {
+        "facts": 18,
+        "entities": 5
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b22",
+      "level": 2,
+      "heading": "Responsible Gambling",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k15"
+      ],
+      "kb_refs": [
+        "brandinfo_responsible_gaming.responsible_gaming.minimum_age",
+        "brandinfo_responsible_gaming.responsible_gaming.deposit_limits",
+        "brandinfo_responsible_gaming.responsible_gaming.other_limits",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.duration",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.default_if_not_specified",
+        "brandinfo_responsible_gaming.responsible_gaming.support",
+        "brandinfo_responsible_gaming.responsible_gaming.minors_protection",
+        "brandinfo_responsible_gaming.responsible_gaming.warnings"
+      ],
+      "words_min": 192,
+      "words_max": 245,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Responsible Gambling",
+          "priority": 10
+        },
+        {
+          "name": "Deposit Limits",
+          "priority": 8
+        },
+        {
+          "name": "Self-Exclusion",
+          "priority": 8
+        },
+        {
+          "name": "Support Organisations",
+          "priority": 6
+        },
+        {
+          "name": "Minors Protection",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Deposit Limits",
+          "relation": "help",
+          "object": "Control Spending",
+          "priority": 8
+        },
+        {
+          "subject": "Self-Exclusion",
+          "relation": "blocks",
+          "object": "Account Access",
+          "priority": 7
+        }
+      ],
+      "summary": "Responsible-gambling tools: deposit limits, other limits, self-exclusion, support organisations, protection of minors and practical warnings.",
+      "copywriter_notes": "Open with the 18+ minimum age and the principle of play under control. A bulleted list of the tools: deposit limits (daily, weekly and monthly, set under My Account > Responsible Gaming; decreases apply immediately, increases or removal after a 24-hour delay), further limits (wagering, loss and session-time limits as the source says), self-exclusion (3 months to 5 years or indefinite, 6 months if no period is chosen). Then a paragraph with the support organisations (Gambling Therapy, Gamblers Anonymous, BeGambleAware), the minors protection tips (do not share login details or cards, use filtering software) and the warnings (gambling is not income, do not chase losses, set budgets, take breaks). Do not add Italian helplines or regulators that the Brand Information does not give. Use \"Incaspin\" once.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "listed_entities": [
+        "Minors Protection"
+      ],
+      "words": 218,
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.minimum_age",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.deposit_limits",
+          "value": {
+            "periods": [
+              "Daily (rolling 24 hours)",
+              "Weekly (rolling 168 hours)",
+              "Monthly (rolling 720 hours)"
+            ],
+            "how_to_set": "My Account > Responsible Gaming > Daily Limit, Weekly Limit or Monthly Limit",
+            "decreasing_limits": "Immediately",
+            "increasing_or_removing_limits": "24-hour delay",
+            "interaction": "A lower weekly or monthly cap can supersede higher shorter-period caps; rolling-window deposits count toward limits."
+          }
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.other_limits",
+          "value": [
+            "Wagering limits",
+            "Loss caps mentioned in the site overview",
+            "Session-time limits mentioned in the site overview"
+          ]
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.duration",
+          "value": "3 months to 5 years or indefinite"
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.default_if_not_specified",
+          "value": "6 months"
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.support",
+          "value": [
+            "Live chat",
+            "Email",
+            "Gambling Therapy",
+            "Gamblers Anonymous",
+            "BeGambleAware self-assessment"
+          ]
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.minors_protection",
+          "value": [
+            "Do not share login details or bank cards with minors",
+            "Use parental-control or filtering software"
+          ]
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.warnings",
+          "value": [
+            "Gambling should not be considered income.",
+            "Avoid chasing losses and betting while under the influence.",
+            "Set and keep budgets and take breaks."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 8,
+        "entities": 5
+      },
+      "words_base": [
+        154,
+        196
+      ]
+    },
+    {
+      "id": "b23",
+      "level": 2,
+      "heading": "Customer Support",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k16"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support.channels",
+        "brandinfo_general.customer_support.availability",
+        "brandinfo_general.customer_support.languages",
+        "brandinfo_general.customer_support.email"
+      ],
+      "words_min": 88,
+      "words_max": 112,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Customer Support",
+          "priority": 10
+        },
+        {
+          "name": "Live Chat",
+          "priority": 8
+        },
+        {
+          "name": "Email Support",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Customer Support",
+          "relation": "is available",
+          "object": "24/7 via Live Chat and Email",
+          "priority": 8
+        }
+      ],
+      "summary": "Support channels: 24/7 live chat, e-mail with the address, FAQ and the languages of the support.",
+      "copywriter_notes": "Lead with Customer Support: 24/7 live chat, e-mail and an FAQ section. Print the e-mail exactly as given (support@incaspin.com); it contains the tracked keyword \"Incaspin\" and is the one occurrence of this block. Say that the support works in English and other languages as the source states; never claim Italian-language support. One practical sentence on what to ask support about (verification, payments, bonuses). No response-time promises.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 100,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email",
+            "FAQ"
+          ]
+        },
+        {
+          "path": "brandinfo_general.customer_support.availability",
+          "value": "24/7"
+        },
+        {
+          "path": "brandinfo_general.customer_support.languages",
+          "value": [
+            "English",
+            "Multiple languages"
+          ]
+        },
+        {
+          "path": "brandinfo_general.customer_support.email",
+          "value": "support@incaspin.com"
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 3
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b24",
+      "level": 2,
+      "heading": "Frequently Asked Questions about Incaspin Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k18"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.promo_code_required",
+        "brandinfo_welcome.welcome_bonus.claiming",
+        "brandinfo_general.minimum_age",
+        "brandinfo_withdrawal.important_terms[0]",
+        "brandinfo_withdrawal.important_terms[1]",
+        "brandinfo_app.app_information.distribution",
+        "brandinfo_account.registration.restrictions",
+        "brandinfo_general.currencies",
+        "brandinfo_account.login.password_recovery"
+      ],
+      "words_min": 220,
+      "words_max": 280,
+      "keywords": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        {
+          "name": "Promo Code",
+          "priority": 6
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 6
+        },
+        {
+          "name": "Withdrawals",
+          "priority": 8
+        },
+        {
+          "name": "Mobile Access",
+          "priority": 6
+        },
+        {
+          "name": "Multiple Accounts",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Welcome Package Bonuses",
+          "relation": "are credited",
+          "object": "Automatically",
+          "priority": 7
+        },
+        {
+          "subject": "Withdrawals",
+          "relation": "require",
+          "object": "Wagering of Deposits",
+          "priority": 6
+        }
+      ],
+      "summary": "A FAQ list with six questions: promo code, age, withdrawals, mobile access, multiple accounts and currencies, each answered in one or two sentences.",
+      "copywriter_notes": "A bulleted list of six items, each \"- **Question?** Answer.\" (question in bold, answer of one or two sentences, about 40 words per item), no paragraph before or after. Questions: is a promo code needed for the welcome bonus (no, bonuses are credited automatically, a code makes the player ineligible; never mention any code name); what is the minimum age (18); how long do withdrawals take and what is the minimum (up to 72 hours internal processing plus provider time; 50 to 120 EUR depending on country or payment option; deposits must be wagered three times); is there an app (a progressive web app installed from the browser, no store); can a player have several accounts (no: one per person, household, IP address and computer); in which currencies can one play (EUR, BRL, CAD, AUD, BTC, ETH; do not claim that all of them are offered to Italian players). Use \"Incaspin\" 3 times in total, in the question wording, and no other tracked keyword.",
+      "formats": [
+        "list"
+      ],
+      "words": 250,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.promo_code_required",
+          "value": false
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming",
+          "value": "Welcome Package bonuses are credited automatically; entering a promo code for a Welcome Package bonus makes the player ineligible for that package bonus"
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[0]",
+          "value": "A withdrawal minimum between €50 and €120 depends on country or payment method."
+        },
+        {
+          "path": "brandinfo_withdrawal.important_terms[1]",
+          "value": "Deposited funds must be wagered at least three times before withdrawal."
+        },
+        {
+          "path": "brandinfo_app.app_information.distribution",
+          "value": "Install directly from the website/browser, without using an app store"
+        },
+        {
+          "path": "brandinfo_account.registration.restrictions",
+          "value": [
+            "Only one account per person.",
+            "One account per household, IP address and computer.",
+            "Duplicate accounts may be suspended, closed and their wagers, bonuses or winnings voided."
+          ]
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "BRL",
+            "CAD",
+            "AUD",
+            "BTC",
+            "ETH"
+          ]
+        },
+        {
+          "path": "brandinfo_account.login.password_recovery",
+          "value": "Use Forgot Password on the login screen and follow the emailed reset instructions."
+        }
+      ],
+      "coverage_units": {
+        "facts": 9,
+        "entities": 5
+      },
+      "words_base": [
+        220,
+        280
+      ]
+    },
+    {
+      "id": "b25",
+      "level": 2,
+      "heading": "Conclusion",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.business_overview.welcome_bonus",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 66,
+      "words_max": 84,
+      "keywords": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Welcome Package",
+          "priority": 7
+        },
+        {
+          "name": "Responsible Gambling",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Online Casino",
+          "relation": "combines",
+          "object": "Welcome Package, Games and Mobile Access",
+          "priority": 7
+        }
+      ],
+      "summary": "A short wrap-up of the strengths named on the page and a reminder to play responsibly.",
+      "copywriter_notes": "Two or three sentences: the welcome package (up to 2.750 EUR plus 275 free spins), the large game library, the web app and the 24/7 support, then a reminder that play is for adults (18+) and should stay under control; advise to read the bonus terms. No new facts, no promises about winnings. Use \"Incaspin Casino\" once and \"Incaspin\" once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 75,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.business_overview.welcome_bonus",
+          "value": "Up to €2,750 + 275 Free Spins"
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_units": {
+        "facts": 2,
+        "entities": 3
+      },
+      "words_base": [
+        53,
+        67
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [
+    {
+      "id": "b01",
+      "heading": "Incaspin Casino: Bonus, Registration, Games and Withdrawals",
+      "facts": 4,
+      "entities": 5,
+      "from": [
+        60,
+        76
+      ],
+      "to": [
+        75,
+        95
+      ]
+    },
+    {
+      "id": "b02",
+      "heading": "Incaspin Casino Overview",
+      "facts": 13,
+      "entities": 6,
+      "from": [
+        123,
+        157
+      ],
+      "to": [
+        154,
+        196
+      ]
+    },
+    {
+      "id": "b04",
+      "heading": "Registration at Incaspin Casino",
+      "facts": 4,
+      "entities": 4,
+      "from": [
+        132,
+        168
+      ],
+      "to": [
+        141,
+        179
+      ]
+    },
+    {
+      "id": "b05",
+      "heading": "Login and Account Security",
+      "facts": 5,
+      "entities": 4,
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b06",
+      "heading": "Welcome Bonus at Incaspin Casino",
+      "facts": 8,
+      "entities": 4,
+      "from": [
+        185,
+        235
+      ],
+      "to": [
+        211,
+        269
+      ]
+    },
+    {
+      "id": "b08",
+      "heading": "Promo Code and Activation",
+      "facts": 3,
+      "entities": 3,
+      "from": [
+        66,
+        84
+      ],
+      "to": [
+        82,
+        105
+      ]
+    },
+    {
+      "id": "b10",
+      "heading": "Games at Incaspin Casino",
+      "facts": 5,
+      "entities": 4,
+      "from": [
+        106,
+        134
+      ],
+      "to": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b11",
+      "heading": "Slots",
+      "facts": 4,
+      "entities": 3,
+      "from": [
+        84,
+        106
+      ],
+      "to": [
+        105,
+        132
+      ]
+    },
+    {
+      "id": "b12",
+      "heading": "Live Casino",
+      "facts": 4,
+      "entities": 3,
+      "from": [
+        84,
+        106
+      ],
+      "to": [
+        105,
+        132
+      ]
+    },
+    {
+      "id": "b13",
+      "heading": "Table Games, Jackpots and Crash Games",
+      "facts": 13,
+      "entities": 4,
+      "from": [
+        97,
+        123
+      ],
+      "to": [
+        121,
+        154
+      ]
+    },
+    {
+      "id": "b14",
+      "heading": "Game Providers",
+      "facts": 4,
+      "entities": 4,
+      "from": [
+        66,
+        84
+      ],
+      "to": [
+        82,
+        105
+      ]
+    },
+    {
+      "id": "b15",
+      "heading": "Sports Betting and Esports at Incaspin",
+      "facts": 24,
+      "entities": 5,
+      "from": [
+        132,
+        168
+      ],
+      "to": [
+        165,
+        210
+      ]
+    },
+    {
+      "id": "b17",
+      "heading": "Withdrawals at Incaspin",
+      "facts": 8,
+      "entities": 5,
+      "from": [
+        167,
+        213
+      ],
+      "to": [
+        209,
+        266
+      ]
+    },
+    {
+      "id": "b18",
+      "heading": "Account Verification (KYC)",
+      "facts": 4,
+      "entities": 2,
+      "from": [
+        88,
+        112
+      ],
+      "to": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b19",
+      "heading": "Mobile Play: Incaspin on Android and iOS",
+      "facts": 5,
+      "entities": 3,
+      "from": [
+        106,
+        134
+      ],
+      "to": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b20",
+      "heading": "VIP and Loyalty Programme at Incaspin",
+      "facts": 7,
+      "entities": 6,
+      "from": [
+        167,
+        213
+      ],
+      "to": [
+        209,
+        266
+      ]
+    },
+    {
+      "id": "b21",
+      "heading": "Safety and Licence at Incaspin Casino",
+      "facts": 18,
+      "entities": 5,
+      "from": [
+        132,
+        168
+      ],
+      "to": [
+        165,
+        210
+      ]
+    },
+    {
+      "id": "b22",
+      "heading": "Responsible Gambling",
+      "facts": 8,
+      "entities": 5,
+      "from": [
+        154,
+        196
+      ],
+      "to": [
+        192,
+        245
+      ]
+    },
+    {
+      "id": "b23",
+      "heading": "Customer Support",
+      "facts": 5,
+      "entities": 3,
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b25",
+      "heading": "Conclusion",
+      "facts": 2,
+      "entities": 3,
+      "from": [
+        53,
+        67
+      ],
+      "to": [
+        66,
+        84
+      ]
+    }
+  ]
+}

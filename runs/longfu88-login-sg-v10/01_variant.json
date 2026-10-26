@@ -1,0 +1,250 @@
+{
+  "id": "v10",
+  "name": "Offer-led account guide",
+  "tier": "medium",
+  "angle": "A player who registers for the welcome offer and wants to know how it all works.",
+  "intent_summary": "Brand-subpage for players in Singapore who come to Longfu88 for the welcome offer: registration, the Casino Welcome Bonus with its conditions and the activation in My Bonuses, the login, what the first payout needs, the documents, the phone access, the VIP levels that open after the login, how to take a break and support. Page voice: brisk and concrete, the offer named early, sentences of about 16 words, a consequence after each condition, no promises of winnings; one plain invitation to register. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Account Guide: Sign Up, Claim the Offer, Log In",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(registration, the welcome offer, login, the first payout, verification, phone access, the VIP levels, taking a break, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Register: Start With the Account",
+      "words": 145,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "One plain invitation to register is allowed here."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "The Casino Welcome Bonus Step by Step",
+      "words": 180,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "This page is about the account, so keep the bonus short and strictly to the Brand Information:",
+          "Keep the bonus strictly to the Brand Information:"
+        ],
+        [
+          "Do not add terms that are not listed (validity, limits, exclusions are described elsewhere).",
+          "Do not add terms that are not listed."
+        ]
+      ],
+      "extra": "Add the validity, the free-spins wagering, the maximum bet and the maximum cashout of the offer, and show the four claiming steps as a numbered list.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_welcome.welcome_bonus.maximum_bet",
+        "brandinfo_welcome.welcome_bonus.maximum_cashout",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Login and Bonus Activation",
+      "words": 105,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Add that the offer is activated in My Bonuses after the login."
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "What Happens at the First Payout",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Verification Before Payouts",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Play on Mobile",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "VIP Levels After the Login",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "What a logged-in player gets from the VIP programme: five tiers, points from real-money play, the extra benefits and the terms.",
+      "entities": [
+        [
+          "VIP Programme",
+          10
+        ],
+        [
+          "VIP Points",
+          7
+        ],
+        [
+          "Tiers",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "earns",
+          "VIP points through eligible real-money gameplay, which unlock reward levels",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.tiers",
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_loyalty.loyalty_vip_program.additional_benefits",
+        "brandinfo_loyalty.loyalty_vip_program.important_terms"
+      ],
+      "notes": "Five tiers: Bronze, Silver, Gold, Platinum and Diamond. Points are earned through eligible real-money gameplay and unlock numbered reward levels. Additional benefits: personalised offers, VIP cashback, higher withdrawal limits and a personal VIP manager for eligible high tiers. Terms: reward and withdrawal limits may differ by VIP level and currency, and level-based benefits and eligibility may change under the programme rules. Do not give level numbers, point thresholds, rewards or limits (they are on the VIP page) and do not use the official name of the programme (it contains the brand name).",
+      "covers_clusters": [
+        "k09"
+      ]
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Taking a Break From the Offers",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Questions About Offers and Accounts",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Offer and Login FAQ",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) when the welcome bonus can be claimed (after registration, on the first qualifying deposit of at least €50); (2) how to log in (with the registered e-mail and password, as the page explains); (3) how fast a withdrawal request is processed (generally within three working days; do not promise a payout time); (4) how long verification takes (a complete document set is normally reviewed within up to 10 days); (5) whether there is a VIP programme (yes, with five tiers: Bronze, Silver, Gold, Platinum and Diamond); (6) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]",
+        "brandinfo_loyalty.loyalty_vip_program.tiers"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.password_recovery[1]",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+=== b05 ===
+Returning players compare reload deals directly, so this grid sets seven of them side by side.
+
+| Offer | Reward | Min. deposit | Wagering | Validity |
+|---|---|---|---|---|
+| Casino Weekly Crypto Reload | 60% up to 1,000 USDT | 20 USDT | 30x deposit + bonus | 7 days |
+| Casino Dragon Quest | €10 bonus credit | €20 | 30x credit | 7 days |
+| Casino Weekend Reload | Up to €3,360 + 50 Free Spins | €50 | 30x deposit + bonus, 40x Free Spins winnings | 7 days |
+| Casino Trick or Treat Pumpkin Bonanza | Up to 100 Free Spins | €20 | 40x Free Spins winnings | 7 days |
+| Casino Weekly Reload | 50 Free Spins | €30 | 40x Free Spins winnings | 7 days |
+| Casino Double Fortune | 50% up to €500 | €30 | 30x deposit + bonus | 24 hours |
+| Casino Weekend Crypto Reload | 75% up to 750 USDT + 100 Free Spins | 20 USDT | 30x deposit + bonus, 40x Free Spins winnings | 7 days |
+
+All offers are switched on in My Bonuses, can be claimed once per promotional period and cannot run alongside another casino promotion still in force. Stakes are limited to €5 per spin during bonus wagering.
+
+=== b06 ===
+Casino Weekly Cashback returns as much as 10% of net casino losses across a week, with a ceiling of €6,988. Counting starts on Monday at 00:00 UTC and ends on Sunday at 23:59 UTC. After opt-in, the credit reaches My Bonuses each Monday with 10x wagering, and the rate follows VIP tier:
+
+| VIP tier | Rate | Weekly ceiling |
+|---|---|---|
+| Diamond | 10% | €6,988 |
+| Platinum | 8% | €3,988 |
+| Gold | 6% | €2,988 |
+| Silver | 4% | €2,388 |
+| Bronze | 2% | €1,888 |
+
+Live Casino Cashback gives 25% up to €850. Daily rebates arrive each day: live casino 1.0%, casino 0.9%, lottery 1.0%, P2P 0.8%, each with 1x wagering and counted on real-money bets only. Opt in to the weekly cashback before the week begins.
+
+=== b07 ===
+The Rewards area groups five features. Bonus Crab reveals a crab reward from claimed picks, lasts 7 days and carries 40x wagering on free spin winnings and 30x on bonus credit. The Wheel of Fortune is spun with an eligible spin or Coins, also lasts 7 days and needs 30x wagering. Challenges and Collections both sit under Rewards, and finishing a challenge leads to earnings of coins, free spins and bonus credits. Coins are spent at the Coin Shop to obtain rewards and bonus credits up to €4,500, at prices that differ by item. Rewards may carry wagering of their own.

@@ -1,0 +1,480 @@
+{
+  "id": "v02",
+  "name": "Bonus-first (offer-led order)",
+  "angle": "A reader who comes for the bonuses and wants to know the terms behind each figure before registering.",
+  "intent_summary": "Brand-review page about the Incaspin online casino for players from Poland, ordered around the offer: the casino in brief, the fact table, then the welcome package with its terms, weekly promotions, loyalty programme and the sportsbook offer, followed by registration, payments, games, providers, mobile play, licence and safety, responsible gambling, support, an FAQ about bonuses and payouts and a closing assessment. Page voice: businesslike and comparative, paragraphs of three to four sentences, sentences of about 18 words on average; every bonus figure is followed by the condition it depends on (context before the figure, consequence, contrast); calls to action only at the welcome package, the weekly cashback and the sportsbook offer. All brand facts come from the AffBulk knowledge base incaspin-new; nothing is claimed about the legal status of the casino in Poland.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Incaspin Casino Review: Bonuses, Games and Payments",
+      "words": 85,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.total_bonus",
+        "brandinfo_welcome.welcome_bonus.total_free_spins"
+      ],
+      "summary": "What the casino is, the headline of its welcome package and a signpost to the offer-first order of the page.",
+      "notes": "Open with the casino as the subject of the first sentence and define it by its four areas exactly as in the Brand Information (online casino, live casino, sportsbook, esports betting). In the second sentence name the Casino Welcome Package once as the reason many players look at the brand, with its headline figures as in the Brand Information (up to 2750 EUR and 275 free spins over three deposits), and say that the page goes through the offer first, then registration, payments and games. State the 18+ age limit once. Say that the page is written for players from Poland. NEVER say or imply that the casino is licensed, legal or approved in Poland. No terms, no payment or registration details here. Neutral-positive tone, no promises of winnings."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Casino Information",
+      "words": 75,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "fact_rows": [
+        "company",
+        "licence",
+        "founded",
+        "languages",
+        "currencies",
+        "payment_methods",
+        "welcome_bonus",
+        "min_deposit",
+        "cashback",
+        {
+          "key": "other",
+          "label": "Minimum age",
+          "kb_refs": [
+            "brandinfo_general.minimum_age"
+          ]
+        },
+        {
+          "key": "other",
+          "label": "Loyalty programme",
+          "kb_refs": [
+            "brandinfo_loyalty.loyalty_vip_program.program_name"
+          ]
+        },
+        "support"
+      ],
+      "extra": "Two rows go beyond the standard ones: Minimum age = the age limit as a number; Loyalty programme = the programme name only.",
+      "summary": "A fact sheet in the style of competitor review pages: operator, licence, launch year, languages, currencies, payments, bonus, deposit, cashback, age, loyalty programme and support e-mail."
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "The Casino Welcome Package",
+      "words": 135,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Total amount and free spins of the Casino Welcome Package, its three deposit stages, the minimum deposit and how the bonus is claimed.",
+      "extra": "Start from what the package is for (a bonus spread over the first three deposits), then the figures, and close with the plain invitation to claim it: this is the first of three call-to-action places of the page."
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 3,
+      "heading": "Wagering, Maximum Bet and Validity",
+      "words": 105,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "The terms behind the welcome package in a table, with what they mean in practice.",
+      "extra": "Put the wagering row first and the consequence of the game contribution (a bonus is cleared on slots) right after the table."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Reloads, Highroller Offer and Weekly Cashback",
+      "words": 130,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Weekly Cashback, Highroller Bonus and Sunday Reload compared in a table with a short commentary.",
+      "extra": "The second call-to-action place: one plain invitation tied to the weekly cashback."
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Boomerang Loyalty Programme: Ranks and Points",
+      "words": 130,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Boomerang Points, the six ranks in a table, the rewards and the gamification features.",
+      "extra": "Explain what the rank changes in practice (points rate and withdrawal limits) before the gamification features."
+    },
+    {
+      "from": [
+        "b19"
+      ],
+      "level": 2,
+      "heading": "Sportsbook Offer: Markets and Welcome Bonus",
+      "words": 125,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "edit": [
+        [
+          "as a bulleted list of its three stages",
+          "as a small table Deposit | Match | Maximum (Polish header) with its three stages"
+        ]
+      ],
+      "summary": "Sports and esports covered, the bet types and the Sportsbook Welcome Package as a table of three stages.",
+      "extra": "The third call-to-action place: one plain invitation tied to the sportsbook package. Keep it clearly separate from the casino package."
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Account Setup: Registration and Login",
+      "words": 125,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "How to open an account by e-mail in five steps, the one-account rule, login, password recovery and two-factor authentication."
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Verification Before the First Withdrawal",
+      "words": 95,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "When identity verification is required, which documents are accepted, how long the review takes and what happens with false documents."
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Deposits: Methods, Limits and Speed",
+      "words": 130,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Deposit methods with minimum, maximum and speed in a table, and the short route of a deposit through the cashier."
+    },
+    {
+      "from": [
+        "b16",
+        "b17"
+      ],
+      "level": 3,
+      "heading": "Cashing Out: Steps, Timing and Limits",
+      "words": 175,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "ent_top": 6,
+      "edit": [
+        [
+          "Do not repeat the deposit table or the minimum withdrawal of the neighbouring sections and do not state the 15000 EUR figures.",
+          "Do not repeat the deposit table or the minimum withdrawal in the limits part and do not state the 15000 EUR figures."
+        ]
+      ],
+      "summary": "How withdrawals work (methods, the six-step route, processing time, minimum amount, wagering of deposits, verification) and the account currencies with example limits.",
+      "extra": "Currencies and limits take about a third of the block and come after the numbered list."
+    },
+    {
+      "from": [
+        "b10",
+        "b11"
+      ],
+      "level": 2,
+      "heading": "What the Game Lobby Offers",
+      "words": 150,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "ent_top": 6,
+      "edit": [
+        [
+          "Lead into the sub-sections on slots, live casino and table, crash and instant games without retelling their facts.",
+          "Move on to the live, table, crash and instant games that follow in the next section without retelling their facts."
+        ]
+      ],
+      "summary": "The size and the categories of the lobby, then slot and jackpot titles.",
+      "extra": "Title picks for this page, to be used instead of the examples named above: slots Burning Chilli X, Book of Hidden Tombs and Coin Strike Hold and Win; jackpots Shining Hot 40 Jackpot Play and Halloween Jackpot."
+    },
+    {
+      "from": [
+        "b12",
+        "b13"
+      ],
+      "level": 3,
+      "heading": "Live Dealer, Table and Crash Games",
+      "words": 140,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "ent_top": 7,
+      "summary": "The live casino with its roulette, baccarat and game show titles, followed by the table, crash, instant and original games.",
+      "extra": "Live casino first (about 55% of the block), then the instant and crash titles and the casino's own games. Title picks for this page, to be used instead of the lists named above: live Crazy Time, Speed Baccarat, Dragon Tiger and Ice Fishing; instant and crash Aviamasters, Tower Rush and Golden Plinko; original games MegaBlock, Dragon Pots and Joker's Clash."
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Studios Behind the Games",
+      "words": 95,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "edit": [
+        [
+          "name Pragmatic Play and Evolution in the sentence",
+          "name Pragmatic Play and Evolution in the sentence"
+        ],
+        [
+          "Then a bulleted list with exactly these providers, names only, as given: Pragmatic Play, Evolution, Playtech, NetEnt, Microgaming, Hacksaw Gaming, Nolimit City, Push Gaming.",
+          "Then a bulleted list with exactly these providers, names only, as given: Pragmatic Play, Evolution, BGaming, Endorphina, Spinomenal, Hacksaw Gaming, Yggdrasil, Red Tiger."
+        ]
+      ],
+      "entities": [
+        [
+          "Game Providers",
+          10
+        ],
+        [
+          "Pragmatic Play",
+          8
+        ],
+        [
+          "Evolution",
+          8
+        ],
+        [
+          "BGaming",
+          5
+        ],
+        [
+          "Endorphina",
+          5
+        ],
+        [
+          "Spinomenal",
+          5
+        ],
+        [
+          "Hacksaw Gaming",
+          5
+        ],
+        [
+          "Yggdrasil",
+          5
+        ],
+        [
+          "Red Tiger",
+          5
+        ]
+      ],
+      "listed_entities": [
+        "Pragmatic Play",
+        "Evolution",
+        "BGaming",
+        "Endorphina",
+        "Spinomenal",
+        "Hacksaw Gaming",
+        "Yggdrasil",
+        "Red Tiger"
+      ],
+      "summary": "Which studios supply the games: a few key providers named in a sentence and a bulleted list of further studios."
+    },
+    {
+      "from": [
+        "b18"
+      ],
+      "level": 2,
+      "heading": "Installing the Incaspin PWA on iPhone and Android",
+      "words": 115,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "edit": [
+        [
+          "Then two NUMBERED lists: iOS (four steps: Incaspin in Safari, Share, Add to Home Screen, name and Add) and Android (four steps: Incaspin in the mobile browser, Install App or Add to Home Screen, confirm, launch from the icon). Each list is preceded by one short sentence.",
+          "Then one Markdown table Step | iPhone or iPad (Safari) | Android (browser) (Polish header) with four rows, one per step (1: Incaspin in Safari / Incaspin in the mobile browser; 2: Share / Install App or Add to Home Screen; 3: Add to Home Screen / confirm; 4: choose a name and tap Add / launch from the home-screen icon). One short sentence precedes the table."
+        ]
+      ],
+      "summary": "Mobile play as a Progressive Web App: what it is, how to install it on iPhone and Android and which sections it contains."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Licence, Operator and Data Protection",
+      "words": 120,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Who licenses and runs the casino (authority, number, jurisdiction, operator company, payment agent) and how accounts and documents are protected technically."
+    },
+    {
+      "from": [
+        "b20"
+      ],
+      "level": 2,
+      "heading": "Setting Limits and Self-Exclusion",
+      "words": 130,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Tools for responsible play: age limit, deposit limits, other limits, self-exclusion, help organisations and basic rules."
+    },
+    {
+      "from": [
+        "b21"
+      ],
+      "level": 2,
+      "heading": "Contacting Incaspin Support",
+      "words": 80,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Support channels, availability and languages."
+    },
+    {
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Questions About Bonuses and Payouts",
+      "words": 135,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 1,
+        "Incaspin casino": 1
+      },
+      "kw_lists_ok": true,
+      "entities": [
+        [
+          "Promo Code",
+          7
+        ],
+        [
+          "Game Contribution",
+          7
+        ],
+        [
+          "Weekly Cashback",
+          7
+        ],
+        [
+          "Boomerang Points",
+          6
+        ],
+        [
+          "Withdrawal Time",
+          7
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_app.app_information.distribution"
+      ],
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.important_terms[4]",
+        "brandinfo_promotions.other_bonuses[2]",
+        "brandinfo_loyalty.loyalty_vip_program.progression"
+      ],
+      "connections": [
+        [
+          "Welcome Package",
+          "is credited",
+          "without a promo code",
+          7
+        ],
+        [
+          "Slots",
+          "contribute",
+          "100% to wagering",
+          7
+        ],
+        [
+          "Withdrawal",
+          "takes up to",
+          "72 hours of internal processing",
+          7
+        ]
+      ],
+      "summary": "Five short answers about bonuses and payouts: promo code, game contribution to wagering, weekly cashback, Boomerang Points and withdrawal time.",
+      "notes": "A bulleted list of exactly five items, each a bold question followed by a short answer of 25-35 words, in this order: (1) is a promo code needed for the welcome bonus (credited automatically, no code needed, entering a code for a Welcome Package bonus makes the player ineligible for it; never mention INC2 or INC3); (2) which games count towards wagering (slots 100%, card games, roulette, poker and video poker 5%, live dealer games 0%); (3) does the casino pay cashback: the question contains the name Incaspin Casino (the one occurrence of \"Incaspin casino\"), the answer: Weekly Cashback of up to 25% of weekly net losses, the amount depends on player activity and loyalty status; (4) how are Boomerang Points earned: the question must contain the keyword \"Inca Spin\" in the form \"konto Inca Spin\" (exactly once in the block), the answer: through real-money slots activity, lifetime points set the rank, spendable points open reward chests; (5) how long does a withdrawal take (up to 72 hours of internal processing, then the payment provider's time; wording must differ from the withdrawals section). The brand name \"Incaspin\" goes into one answer, not into a question. These are the only questions on the page; the questions are the one place where question form is allowed."
+    },
+    {
+      "from": [
+        "b23"
+      ],
+      "level": 2,
+      "heading": "Bottom Line on the Offer",
+      "words": 85,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "kw_tail": "Put the first occurrence into the first sentence.",
+      "summary": "Closing assessment: what the offer is worth to a player who compares terms, what to read before depositing and the responsible-gambling reminder.",
+      "notes": "Draw a modest conclusion from facts already on the page (the three-stage welcome package, the weekly cashback, the loyalty ranks, the mobile PWA) without repeating figures. Advice: read the wagering terms and the limits of the chosen payment method before depositing. End with the 18+ age limit and the reminders that gambling is not a source of income, that losses should not be chased and that a budget and breaks help. No promises of winnings, no hype."
+    }
+  ]
+}

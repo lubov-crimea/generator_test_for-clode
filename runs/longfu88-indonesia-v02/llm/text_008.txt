@@ -1,0 +1,23 @@
+=== b10 ===
+Promosi berulang mengikuti pola mingguan dan akhir pekan, dengan versi kripto dan kampanye khusus. Tujuh penawarannya:
+
+- **Casino Weekly Reload**: memberi 50 Free Spins, minimum deposit €30, wagering 40x kemenangan Free Spins, 7 hari.
+- **Casino Weekly Crypto Reload**: penawaran 60% hingga 1.000 USDT dengan setoran minimum 20 USDT, wagering 30x dari deposit dan bonus, berlaku 7 hari.
+- **Casino Weekend Reload**: hingga €3.360 + 50 Free Spins, minimum deposit €50, wagering 30x deposit dan bonus serta 40x kemenangan Free Spins, 7 hari.
+- **Casino Weekend Crypto Reload**: bonus 75% hingga 750 USDT + 100 Free Spins, minimum deposit 20 USDT, wagering sama seperti Weekend Reload, 7 hari.
+- **Casino Double Fortune: One-Day Reload Special**: bonus 50% hingga €500, minimum deposit €30, wagering 30x deposit dan bonus, 24 jam.
+- **Casino Trick or Treat Pumpkin Bonanza**: promosi musiman hingga 100 Free Spins, minimum deposit €20, wagering 40x kemenangan Free Spins, 7 hari.
+- **Casino Dragon Quest: Get Verified and Get Extra!**: kredit bonus €10 untuk verifikasi akun, minimum deposit €20, wagering 30x kredit promosi, 7 hari.
+
+Aturan bersama: aktivasi di My Bonuses, satu klaim per periode promosi kecuali ditentukan lain, tidak dapat digabung dengan bonus kasino lain yang sedang aktif, dan taruhan maksimum €5 per putaran selama wagering dana bonus.
+
+=== b11 ===
+Casino Weekly Cashback mengembalikan hingga 10% dari kerugian bersih kasino mingguan, dengan batas €6.988. Periode hitungnya Senin 00:00 UTC sampai Minggu 23:59 UTC. Pemain ikut lewat opt-in untuk siklus empat minggu, dan hasilnya masuk ke My Bonuses pada hari Senin dengan wagering 10x. Persentasenya bergantung pada tier VIP, sedangkan Live Casino Cashback memberi 25% hingga €850. Unlimited Rebate dikreditkan setiap hari dengan wagering 1x: kasino 0,9%, live casino 1,0%, P2P 0,8%, dan lotere 1,0%. Hanya taruhan uang sungguhan yang dihitung, bukan dana bonus.
+
+| Tier VIP | Persentase | Maksimum |
+|---|---|---|
+| Bronze | 2% | €1.888 |
+| Silver | 4% | €2.388 |
+| Gold | 6% | €2.988 |
+| Platinum | 8% | €3.988 |
+| Diamond | 10% | €6.988 |

@@ -1,0 +1,6 @@
+Longfu88 on a phone can run into four typical problems, and each has a short remedy:
+
+- Shortcut missing: add it again, using the Android steps in Chrome or the iOS steps in Safari.
+- Page not loading: refresh it and verify the internet connection.
+- Login failing: recheck the typed e-mail address, then pick Forgot Password, found on the login screen.
+- Anything else goes to customer support, which answers e-mail and runs a live chat day and night.

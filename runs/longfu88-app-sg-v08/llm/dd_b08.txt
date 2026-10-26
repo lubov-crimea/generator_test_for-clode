@@ -1,0 +1,13 @@
+The casino area of the mobile website is split by game category, with these categories listed:
+
+- Jackpots
+- Slots
+- Fishing
+- Live dealer games
+- Lottery
+- Table games
+- Crash & instant games
+- P2P games
+- Fast games
+
+Providers behind the games include Evolution, Pragmatic Play, NetEnt, Hacksaw Gaming and Yggdrasil, plus others in the provider list.

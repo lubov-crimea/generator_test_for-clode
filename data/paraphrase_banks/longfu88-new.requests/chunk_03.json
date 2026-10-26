@@ -1,0 +1,175 @@
+{
+ "rules": "For EVERY sentence write 12 alternative wordings (English). Each wording states exactly the same fact: keep every figure, amount, period, percentage and every name listed in keep_figures / keep_names exactly as written. Do not add a figure, a condition or a claim; do not drop one. The wordings must differ in construction (subject, order of the clauses, voice, sentence type), not by swapping single words: no run of 6 words in a row may be shared with the original or with another wording of the same sentence. About the same length as the original (0.6x to 1.6x). Neutral editorial third person, no em dashes, no semicolons, no second person.",
+ "slots": 12,
+ "items": [
+  {
+   "key": "1b6a4642bab3",
+   "text": "18+ and of legal gambling age in the relevant jurisdiction.",
+   "keep_figures": [
+    "18"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "4c0382e31276",
+   "text": "Only one personal account per player.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "1d449848418f",
+   "text": "Select Login on the website.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "696ba0630880",
+   "text": "Enter registered email and password.",
+   "keep_figures": [],
+   "keep_names": [
+    "email and password"
+   ]
+  },
+  {
+   "key": "cb3720560455",
+   "text": "Complete any security check and access the account.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "9cdad16feb06",
+   "text": "Choose Forgot Password on the login screen.",
+   "keep_figures": [],
+   "keep_names": [
+    "forgot password"
+   ]
+  },
+  {
+   "key": "1f7ec217744c",
+   "text": "Request a reset link using the registered email.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "b2a31fd200e8",
+   "text": "Follow the emailed instructions to set a new password.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "05383c5a4449",
+   "text": "Access the verification request in the account or follow the support instructions.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "9300eb2dc8a6",
+   "text": "Upload legible current documents matching the account profile.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "d3fd659dc436",
+   "text": "Complete additional telephone or face verification if requested.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "7c0d8ce1dfbf",
+   "text": "Wait for approval before withdrawal or other restricted activity.",
+   "keep_figures": [],
+   "keep_names": [
+    "before withdrawal"
+   ]
+  },
+  {
+   "key": "e26c1d07bb99",
+   "text": "Players must be at least 18 years old and gamble only where lawful.",
+   "keep_figures": [
+    "18"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "cba1d0623e1c",
+   "text": "Account access and gambling may be restricted for the agreed period.",
+   "keep_figures": [],
+   "keep_names": [
+    "account access"
+   ]
+  },
+  {
+   "key": "444cea42939d",
+   "text": "Request account closure through customer support.",
+   "keep_figures": [],
+   "keep_names": [
+    "customer support"
+   ]
+  },
+  {
+   "key": "e87ca7f10c4c",
+   "text": "Self-assessment questions help players identify possible gambling-related harm.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "2ad26dbfac32",
+   "text": "Contact support and request self-exclusion or account closure.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "ef03d5272198",
+   "text": "Confirm your account details and preferred exclusion terms.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "061f480a1043",
+   "text": "Allow the casino to restrict or close access.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "1b35a9566dcb",
+   "text": "Seek independent support where appropriate.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "759cbf11d955",
+   "text": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+   "keep_figures": [],
+   "keep_names": [
+    "my bonuses"
+   ]
+  },
+  {
+   "key": "3d4b45cda39e",
+   "text": "Only settled qualifying sports bets contribute to wagering.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "2094ba10c0aa",
+   "text": "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+   "keep_figures": [
+    "2.00",
+    "1.50"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "adf6a35521cb",
+   "text": "Voided and cashed-out bets do not qualify.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "06745214ce9e",
+   "text": "One claim per stated promotional period.",
+   "keep_figures": [],
+   "keep_names": []
+  }
+ ]
+}

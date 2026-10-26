@@ -1,0 +1,14 @@
+Deposit methods fall into six groups, and the general limits are the same for every method: a minimum of €10 and a maximum of €5,000 per transaction. For Malaysia, the local MYR options are DuitNow, Touch'n Go, GrabPay and Online Banking.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local bank and wallet methods | DuitNow, Touch'n Go, GrabPay, Online Banking | MYR |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Deposits are credited within 1-2 minutes. The casino charges no processing fee, but provider or blockchain network fees may apply, and limits can differ by country, currency and method. Deposits made with Neteller or Skrill do not qualify for the welcome bonus.
+
+To deposit, log in to the Longfu88 account, open the cashier and select Deposit. Choose a method with its currency or network, enter the amount and payment details, then confirm the payment as the provider instructs and wait for the funds in the playable balance.

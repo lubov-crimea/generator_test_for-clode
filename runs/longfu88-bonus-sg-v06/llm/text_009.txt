@@ -1,0 +1,11 @@
+Minimum deposit depends on the offer and on the currency of the deposit: the two euro offers ask for €50 and €30, while the three crypto offers are counted in USDT. Each line below belongs to one offer at Longfu88.
+
+| Offer | Minimum deposit |
+|---|---|
+| Casino Welcome Bonus | €50 |
+| Live Casino Welcome Bonus | €30 |
+| Casino Crypto Welcome Bonus | 50 USDT |
+| Casino Weekly Crypto Reload | 20 USDT |
+| Casino Weekend Crypto Reload | 20 USDT |
+
+Neteller and Skrill deposits are excluded from the Casino Welcome Bonus. The general minimum deposit of the casino is not the minimum of an offer, so the player checks the offer first.

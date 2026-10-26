@@ -1,0 +1,5 @@
+{"issues": [
+{"block_id": "b02", "problem": "The last sentence says 'entered in the second step', which is ambiguous on a page that also has 'Step 2: Log In' (it means the second registration step).", "fix": "Reword the last sentence so it says the e-mail address and password entered during registration are the pair that the login uses later; do not use the words 'second step'."},
+{"block_id": "b08", "problem": "The second sentence repeats the first (the casino treats the credentials as the holder's own responsibility) and adds the unsupported claim that sharing credentials puts the account at risk as a casino statement.", "fix": "Remove the repetition; keep the holder's responsibility once, then the operator's safeguards and the right to suspend activity, without new claims."},
+{"block_id": "b09", "problem": "The closing clause 'the starting point for everything covered later on the site' is vague filler and refers to content not described in the brief.", "fix": "Replace it with a short factual sentence that the cashier holds deposits and withdrawals and bonuses are managed from the account, without promises about other pages."}
+], "missing_data": []}

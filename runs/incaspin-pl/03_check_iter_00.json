@@ -1,0 +1,92 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2941,
+    "target_body_words": 2950,
+    "keywords_total": {
+      "Incaspin": 42,
+      "Inca Spin": 1,
+      "Incaspin casino": 14
+    },
+    "keyword_targets": {
+      "Incaspin": 42,
+      "Inca Spin": 1,
+      "Incaspin casino": 14
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [
+      {
+        "check": "consistency",
+        "problem": "The sentence \"Reguły dotyczące gier online różnią się między państwami, dlatego polski gracz powinien samodzielnie sprawdzić, czy korzystanie z takiej oferty jest dla niego dozwolone\" repeats the same idea and almost the same wording as the second sentence of b01 (\"zasady dotyczące gier online różnią się między państwami, dlatego każdy użytkownik powinien sprawdzić, czy ta oferta jest dla niego dostępna\").",
+        "fix": "Rewrite this sentence in b03 with different wording and a different angle (for example: before opening an account a Polish player should check for themselves how the rules of their own country treat an offer run by a foreign operator). Keep it neutral, do not say or imply that the casino is licensed, legal or approved in Poland, and keep all other facts unchanged. The tracked keywords must stay as they are in the block: \"Incaspin\" twice and \"Incaspin Casino\" once (none of them is in the sentence being changed)."
+      }
+    ],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [
+      {
+        "check": "consistency",
+        "problem": "The entity connection \"Wagering Requirement -> must be met before -> bonus winnings can be withdrawn\" (priority 8) is not stated anywhere in the block: the table only lists wagering values.",
+        "fix": "In the closing sentences after the table add a short statement that winnings from the bonus can be withdrawn only after the wagering requirement has been met (a general statement about how wagering works), next to the sentence that the bonus is cleared on slots. Do not change the table. The tracked keyword \"Incaspin\" must stay exactly twice in the block (both in the sentences around the table)."
+      }
+    ],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The block repeats itself and contains an unsupported claim: \"w których liczy się szybkość rundy\" is repeated in the last sentence (\"w jednych liczy się szybkość rundy\"), the last two sentences restate the idea of a broad choice, and \"Najważniejsze są sloty i kasyno na żywo\" is an evaluation that the brand information does not support.",
+        "fix": "Remove the sentence \"Wybór jest szeroki także dlatego, że kategorie różnią się tempem ...\" and the evaluation \"Najważniejsze są sloty i kasyno na żywo\" (start that sentence neutrally, for example by naming slots and live casino first among the categories). Keep the game count \"ponad 5000 tytułów\", the list of categories and the lead-in to the sub-sections. \"Incaspin\" must stay exactly twice (one of the removed sentences contains one: keep it in another sentence) and \"Incaspin Casino\" exactly once. The block may become shorter than before but must stay inside 110-168 words."
+      }
+    ],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "The entity connection \"Slots -> are listed among -> the main categories of the lobby\" is only implied: the first sentence just starts listing titles.",
+        "fix": "Add one clause to the first sentence stating that slots are one of the main categories of the lobby (for example: sloty należą do głównych kategorii lobby, a wśród tytułów znajdują się ...). Keep the rest of the block and keep \"Incaspin\" exactly once."
+      }
+    ],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "Chicken Road and Chicken Road 2 are listed twice (once among instant and crash games, once among the casino's own games, with the awkward \"wspomniane już\").",
+        "fix": "Name Chicken Road and Chicken Road 2 only once and say explicitly that they belong both to the instant and crash games and to the casino's own games; list the other instant titles (Plinko, Plinko 2, Golden Plinko, Tower Rush, Aviamasters) and the other own titles (Dragon Pots, MegaBlock, Chicken Coin, Joker's Clash, Plinko1000) without repeating them. Keep \"Incaspin\" exactly once."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [
+      {
+        "check": "consistency",
+        "problem": "The sentence \"Kasyno nie pobiera opłat, ale zewnętrzne koszty banku lub dostawcy mogą wystąpić\" repeats the fee statements of b15 (\"Kasyno nie pobiera opłat za wpłaty, ale zewnętrzni dostawcy płatności mogą naliczać własne koszty\") and b17 (bank charges of the transfer).",
+        "fix": "Delete the fee sentence from b16 (fees are explained in b15 and b17) but keep the closing advice that contains the tracked keyword: the block must still contain \"Incaspin\" exactly once (for example: \"W Incaspin warto zaplanować wypłatę z wyprzedzeniem.\"). The six numbered steps and all other facts stay unchanged."
+      }
+    ],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": [
+      {
+        "check": "consistency",
+        "problem": "Several answers repeat sentences of earlier blocks almost word for word: the promo code answer repeats b06 (\"pozbawia gracza prawa do tego bonusu\"), the minimum deposit answer repeats the b06 sentence \"pierwsza wpłata wymaga 20 €, a oferta przewiduje progi wpłat 20 €, 50 € i 300 €\", the login answer repeats b04 (\"opcja przypomnienia hasła na ekranie logowania ... instrukcję ... e-mailem\"), and the mobile answer repeats b18 (\"instalowana bezpośrednio z przeglądarki, bez sklepu z aplikacjami\").",
+        "fix": "Rewrite the answers in new words while keeping every fact: (1) bonuses of the welcome package are credited without any code, and a code typed for such a bonus cancels the claim to it; (2) the first deposit of the package starts at 20 € and the tiers are 20, 50 and 300 €; (3) up to 72 hours of internal checks, then the time of the payment operator, so the total depends on the method; (4) login with the registration email and password, and a password reset link sent by email if the password is forgotten; (5) the casino runs as a PWA that is added to the home screen from the browser, so no store download is needed. Keep the list of exactly five bold questions in the same order. Tracked keywords stay as they are: the question 4 contains \"Inca Spin\" (once), the question 5 contains \"Incaspin Casino\" (once), and \"Incaspin\" appears exactly once in an answer, not in a question."
+      }
+    ],
+    "b23": [
+      {
+        "check": "consistency",
+        "problem": "The entity connection \"Responsible Gambling -> should accompany -> every gaming session\" (priority 7) is only implied by the reminders at the end.",
+        "fix": "Make the connection explicit in the last sentences: state that responsible gambling should accompany every gaming session, followed by the existing reminders (18+, gambling is not income, budget, breaks, do not chase losses). Keep \"Incaspin\" exactly twice (the first sentence keeps the keyword)."
+      }
+    ]
+  },
+  "missing_data": []
+}

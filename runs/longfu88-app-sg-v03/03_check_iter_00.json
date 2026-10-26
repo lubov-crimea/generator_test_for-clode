@@ -1,0 +1,46 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 653,
+    "max_body_words": 911,
+    "target_body_words": 690,
+    "keywords_total": {
+      "Longfu88": 5,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 5,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [
+      {
+        "check": "consistency",
+        "problem": "The lead-in says the rules apply on a phone exactly as on a computer: this is not stated in the Brand Information (the eligibility rules say nothing about devices).",
+        "fix": "Remove the device claim from the lead-in; keep the three-rule lead-in about the minimum age, the residence rule and the account rules, and keep the word count in 53-67."
+      }
+    ],
+    "b08": []
+  },
+  "missing_data": []
+}

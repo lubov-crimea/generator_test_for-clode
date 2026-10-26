@@ -1,0 +1,606 @@
+{
+  "id": "v03",
+  "name": "Player journey (how-to order)",
+  "angle": "A new player who wants to know what happens at each stage, from the licence check to the first withdrawal.",
+  "intent_summary": "Brand-review page about the Incaspin online casino for players from Poland, organised as the route of a new player: the basic facts, the licence check, account creation and verification, the first deposit, the welcome package and its wagering terms, choosing games, providers, promotions and the Boomerang loyalty programme after the welcome package, mobile access, withdrawals and limits, sports betting, responsible gambling, support and short answers to common questions. Page voice: sequence-driven; each section opens with what the player does at this stage and ends by leading into the next stage, sentences of about 16 words, paragraphs of two to three sentences, the structure of the product described first and then who the feature suits; numbered lists wherever the order of steps matters. Calls to action are tied to concrete steps (register, deposit, claim). All brand facts come from the AffBulk knowledge base incaspin-new; nothing is claimed about the legal status of the casino in Poland.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Incaspin Casino from Registration to Withdrawal: a Step-by-Step Review",
+      "words": 70,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Definition of the casino by its four areas, the stage-by-stage order of the page, the 18+ limit and the audience.",
+      "notes": "Open with a one-sentence definition of the casino by its four areas exactly as in the Brand Information (online casino, live casino, sportsbook, esports betting). In the second sentence say that the page follows the order in which a new player meets the casino: licence check, account, first deposit, welcome package, games, mobile access, withdrawal and limits. State the 18+ age limit once and say that the page is written for players from Poland. NEVER say or imply that the casino is licensed, legal or approved in Poland. No amounts and no payment or registration details here. Neutral-positive tone, no promises of winnings."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Basic Facts Before Registration",
+      "words": 58,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "fact_rows": [
+        "company",
+        "founded",
+        "licence",
+        "welcome_bonus",
+        "min_deposit",
+        "payment_methods",
+        "currencies",
+        "cashback",
+        "languages",
+        {
+          "key": "other",
+          "label": "Mobile version",
+          "kb_refs": [
+            "brandinfo_app.app_information.type"
+          ]
+        },
+        "support"
+      ],
+      "extra": "One extra row: Mobile version = the app type as given (Progressive Web App).",
+      "summary": "A short fact sheet read before registering: operator, launch year, licence, welcome bonus, deposit, payments, currencies, cashback, languages, mobile version and support e-mail."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Checking the Licence and Security First",
+      "words": 110,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Who licenses and runs the casino and how data is protected, as the first stage before an account is created."
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Creating an Incaspin Account and Logging In",
+      "words": 110,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Registration by e-mail in five numbered steps, the one-account rule, login, password recovery and two-factor authentication.",
+      "extra": "The numbered list is the centre of the block; the login part follows it in two sentences."
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Passing Identity Verification",
+      "words": 84,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "When identity verification is required, which documents are accepted, how long the review takes and what happens with false documents."
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Funding the Account: Deposit Methods",
+      "words": 114,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Deposit methods with minimum, maximum and speed in a table, and the short route of a deposit through the cashier."
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Claiming the Casino Welcome Package",
+      "words": 114,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "The Casino Welcome Package: total amount, free spins, the three deposit stages, minimum deposit and automatic crediting.",
+      "extra": "Tie the plain invitation to a concrete step: register, make the first deposit, receive the first stage automatically."
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 3,
+      "heading": "Meeting the Wagering Terms",
+      "words": 88,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "a Markdown table Condition | Value (Polish header) with these rows:",
+          "a bulleted list, one condition per item (the condition in bold, then its value), with these items:"
+        ]
+      ],
+      "summary": "The terms of the welcome package as a list: wagering, maximum bet, validity, free spin delivery, game contribution, winnings cap and eligible slots."
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Choosing What to Play at Incaspin Casino",
+      "words": 79,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Overview of the game library: the categories offered and the size of the lobby; details follow in the sub-sections."
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 3,
+      "heading": "Slots and Jackpot Games",
+      "words": 70,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Slot examples and jackpot titles available in the lobby.",
+      "extra": "Title picks for this page, to be used instead of the examples named above: slots Gates of Olympus 2500, Obsidian Rush, Double Dragon Gold: Hold & Win and Big Bass Splash; jackpots Break The Piggy Bank and Crown of Fire Jackpot Play."
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 3,
+      "heading": "Live Casino Tables and Shows",
+      "words": 70,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "The live casino section with its roulette, baccarat and game show titles.",
+      "extra": "Name only these titles instead of the full list: Lightning Roulette, Red Door Roulette, Gates of Olympus Roulette, Sic Bo and Disco Balls."
+    },
+    {
+      "from": [
+        "b13"
+      ],
+      "level": 3,
+      "heading": "Crash, Instant and Original Games",
+      "words": 79,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Instant and crash titles and the casino's own original games.",
+      "extra": "Title picks for this page, to be used instead of the lists named above: instant and crash Chicken Road, Plinko 2 and Aviamasters; original games Chicken Coin, Plinko1000 and Chicken Road 2."
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Where the Games Come From: Providers",
+      "words": 84,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "edit": [
+        [
+          "name Pragmatic Play and Evolution in the sentence",
+          "name Evolution and Playson in the sentence"
+        ],
+        [
+          "Then a bulleted list with exactly these providers, names only, as given: Pragmatic Play, Evolution, Playtech, NetEnt, Microgaming, Hacksaw Gaming, Nolimit City, Push Gaming.",
+          "Then a bulleted list with exactly these providers, names only, as given: Evolution, Playson, Pragmatic Play Live, Novomatic, Evoplay, PG Soft, Thunderkick, Big Time Gaming."
+        ]
+      ],
+      "entities": [
+        [
+          "Game Providers",
+          10
+        ],
+        [
+          "Evolution",
+          8
+        ],
+        [
+          "Playson",
+          8
+        ],
+        [
+          "Pragmatic Play Live",
+          5
+        ],
+        [
+          "Novomatic",
+          5
+        ],
+        [
+          "Evoplay",
+          5
+        ],
+        [
+          "PG Soft",
+          5
+        ],
+        [
+          "Thunderkick",
+          5
+        ],
+        [
+          "Big Time Gaming",
+          5
+        ]
+      ],
+      "listed_entities": [
+        "Evolution",
+        "Playson",
+        "Pragmatic Play Live",
+        "Novomatic",
+        "Evoplay",
+        "PG Soft",
+        "Thunderkick",
+        "Big Time Gaming"
+      ],
+      "summary": "Which studios supply the games: a few key providers named in a sentence and a bulleted list of further studios."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Promotions After the Welcome Package",
+      "words": 110,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "Then a Markdown table Promotion | Bonus | Min. deposit | Wagering (Polish header) with the Highroller Bonus",
+          "Then a bulleted list with one bullet per promotion (the name in bold, then bonus, minimum deposit and wagering) for the Highroller Bonus"
+        ],
+        [
+          "the cashback row has no deposit and wagering values, put a dash.",
+          "the cashback item has no deposit and wagering values, leave them out."
+        ]
+      ],
+      "summary": "Weekly Cashback, Highroller Bonus and Sunday Reload compared in a table with a short commentary."
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 3,
+      "heading": "Climbing the Boomerang Ranks",
+      "words": 106,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Boomerang Points, the six ranks in a table, the rewards and the gamification features."
+    },
+    {
+      "from": [
+        "b18"
+      ],
+      "level": 2,
+      "heading": "Phone and Tablet Access Through the PWA",
+      "words": 101,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Mobile play as a Progressive Web App: what it is, how to install it on iPhone and Android and which sections it contains."
+    },
+    {
+      "from": [
+        "b16"
+      ],
+      "level": 2,
+      "heading": "Withdrawing Winnings",
+      "words": 123,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "How withdrawals work: methods, the six-step route, processing time, minimum amount, wagering of deposits and verification."
+    },
+    {
+      "from": [
+        "b17"
+      ],
+      "level": 3,
+      "heading": "Currencies and Withdrawal Limits",
+      "words": 79,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Which currencies the account can use and examples of withdrawal limits and bank charges."
+    },
+    {
+      "from": [
+        "b19"
+      ],
+      "level": 2,
+      "heading": "Adding Sports: the Incaspin Sportsbook",
+      "words": 97,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "The sportsbook: sports and esports covered, bet types and the separate Sportsbook Welcome Package."
+    },
+    {
+      "from": [
+        "b20"
+      ],
+      "level": 2,
+      "heading": "Playing Within Limits",
+      "words": 110,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Tools for responsible play: age limit, deposit limits, other limits, self-exclusion, help organisations and basic rules."
+    },
+    {
+      "from": [
+        "b21"
+      ],
+      "level": 2,
+      "heading": "Getting Help from Incaspin Support",
+      "words": 66,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Support channels, availability and languages."
+    },
+    {
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Common Questions Before Registering",
+      "words": 35,
+      "kw": {
+        "Incaspin": 0,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        [
+          "Frequently Asked Questions",
+          8
+        ],
+        [
+          "Minimum Age",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Frequently Asked Questions",
+          "cover",
+          "promo code, login, minimum deposit and withdrawal time",
+          6
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.claiming",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_withdrawal.withdrawal_guide[5]",
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_app.app_information.distribution"
+      ],
+      "refs_add": [
+        "brandinfo_general.minimum_age"
+      ],
+      "summary": "Introduction to four short answers on the promo code, login, minimum deposit and withdrawal time.",
+      "notes": "One or two sentences only: the page ends with four short answers to the points new players ask about most (promo code, login and password recovery, minimum deposit, withdrawal time), and registration is for adults aged 18 and over. No list and no facts from the answers below."
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Promo Code for the Welcome Package",
+      "words": 44,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "entities": [
+        [
+          "Promo Code",
+          8
+        ],
+        [
+          "Welcome Package",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Welcome Package",
+          "is credited",
+          "without a promo code",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.claiming"
+      ],
+      "summary": "Whether a promo code is needed for the welcome bonus.",
+      "notes": "The block is the answer to the question named by the heading: one paragraph of 30-40 words, no list. Answer: the Welcome Package bonuses are credited automatically, no promo code is needed, and entering a promo code for a Welcome Package bonus makes the player ineligible for that bonus. Never mention INC2 or INC3. The name Incaspin Casino appears once, in the answer."
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Inca Spin Account and Password Recovery",
+      "words": 44,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        [
+          "Password Recovery",
+          8
+        ],
+        [
+          "Login",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Forgot Password",
+          "sends",
+          "reset instructions by email",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_account.login.guide"
+      ],
+      "summary": "How to log in and what to do when the password is lost.",
+      "notes": "The block is the answer to the question named by the heading: one paragraph of 30-40 words, no list. Answer: log in with the registered email and password; if the password is lost, use Forgot Password on the login screen and follow the reset instructions sent by email. The wording \"Inca Spin\" is in the heading only, not in the answer."
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Minimum Deposit for the Welcome Package",
+      "words": 44,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        [
+          "Minimum Deposit",
+          8
+        ],
+        [
+          "Deposit Tiers",
+          5
+        ]
+      ],
+      "connections": [
+        [
+          "Welcome Package",
+          "starts with",
+          "a first deposit of 20 EUR",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit"
+      ],
+      "summary": "The minimum deposit for the welcome package.",
+      "notes": "The block is the answer to the question named by the heading: one paragraph of 30-40 words, no list. Answer: 20 EUR for the first deposit, with the deposit tiers of 20, 50 and 300 EUR displayed. Do not use the older 15 EUR figure."
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Withdrawal Time After a Request",
+      "words": 44,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "entities": [
+        [
+          "Withdrawal Time",
+          8
+        ],
+        [
+          "Payment Provider",
+          5
+        ]
+      ],
+      "connections": [
+        [
+          "Withdrawal",
+          "takes up to",
+          "72 hours of internal processing",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_guide[5]"
+      ],
+      "summary": "How long a withdrawal takes.",
+      "notes": "The block is the answer to the question named by the heading: one paragraph of 30-40 words, no list. Answer: up to 72 hours of internal processing, followed by the settlement period of the payment provider; the wording must differ from the withdrawals section."
+    },
+    {
+      "from": [
+        "b23"
+      ],
+      "level": 2,
+      "heading": "Summary for New Players",
+      "words": 70,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "kw_tail": "Put the first occurrence into the first sentence.",
+      "summary": "The route in two sentences, the kind of player the offer fits and the responsible-gambling reminder.",
+      "notes": "Sum up the route in two sentences: check the licence and the bonus terms first, then deposit and play within limits. Say in one sentence which kind of player the facts fit (a player who wants a staged welcome package and mobile access without an app store). End with the 18+ age limit and the reminders that gambling is not a source of income, that losses should not be chased and that a budget and breaks help. No new figures, no promises of winnings, no hype."
+    }
+  ]
+}

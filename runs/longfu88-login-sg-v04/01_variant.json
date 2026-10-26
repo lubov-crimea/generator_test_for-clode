@@ -1,0 +1,148 @@
+{
+  "id": "v04",
+  "name": "Control and privacy (small)",
+  "tier": "small",
+  "angle": "A cautious reader who wants to know what the player controls.",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the text is about the control of the account (privacy, settings, closing); the welcome offer is left to the longer texts"
+    }
+  ],
+  "intent_summary": "Short brand-subpage for the small size group: what an account holder of Longfu88 in Singapore controls: the registration details, the protection of the credentials and the data, the currency and one-account rules, taking a break or closing the account, marketing and cookie settings, and where to ask. Page voice: sober and exact, every claim tied to a stated fact, sentences of about 17 words, no reassurance beyond the facts; no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login and Account Control for Singapore",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(registration, protection of the data, rules of the account, taking a break, settings, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Register: Details and Eligibility",
+      "words": 155,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Protecting Your Details",
+      "words": 140,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Add with whom data may be shared and which rights the player has, as two short lists inside the paragraph.",
+      "refs_add": [
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights"
+      ]
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Account Currencies and Player Rules",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Add that residents must be legally permitted to gamble where they live.",
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.eligibility.residency_requirements"
+      ]
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Stopping, Pausing and Closing an Account",
+      "words": 155,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "Add the four steps of the procedure as a numbered list, in the order of the Brand Information, without the e-mail address.",
+      "refs_add": [
+        "brandinfo_responsible_gaming.responsible_gaming.procedure",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment"
+      ]
+    },
+    {
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Marketing Messages and Cookies",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Where to Ask Account Questions",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    }
+  ]
+}

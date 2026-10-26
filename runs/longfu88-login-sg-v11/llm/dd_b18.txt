@@ -1,0 +1,8 @@
+- **What does a player enter to log in to Longfu88?** Registered e-mail plus password.
+- **How is a forgotten password dealt with?** A reset link is sent after a request that uses the registered e-mail.
+- **Is there more than one way to log in?** No, e-mail and password is the only login method.
+- **What does registration ask for?** Legal name, date of birth, e-mail, password and residential address.
+- **Which ID does the casino take as proof of identity?** A passport, a driving licence or a national identity card.
+- **How long is the review of a full document set?** Normally up to 10 days.
+- **Can a player have several accounts?** No, one personal account per player.
+- **Does the casino run a VIP programme?** Yes, five tiers, from Bronze up through Silver, Gold and Platinum to Diamond.

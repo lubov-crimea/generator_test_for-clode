@@ -1,0 +1,9 @@
+Deposits can be made in NZD with cards and e-wallets or with nine cryptocurrencies: Bitcoin, Ethereum, Litecoin, Bitcoin Cash, Dogecoin, Tether (USDT), BNB, Cardano and TRON. The table compares the main routes at VegasHunter.
+
+| Method | Minimum | Maximum | Speed |
+|---|---|---|---|
+| Visa, Mastercard, MiFinity, Interac | NZ$20 | NZ$5,000 | Instant |
+| Neteller | NZ$20 | NZ$5,000 | Within 24 hours |
+| Cryptocurrencies | Depends on the coin | NZ$5,000 equivalent | Instant after blockchain confirmation |
+
+The casino charges no deposit fees, although blockchain network charges may apply to crypto transfers. Only payment instruments owned by the player may be used, and availability depends on the country and the selected account currency. To deposit, a player signs in, opens the Deposit or Wallet section, picks a method and currency, enters an amount at or above the minimum and authorises the payment. Crypto deposits at VegasHunter also earn the Crypto Bonus, 7% extra on eligible deposits with no wagering, credited automatically. They are excluded from the deposit-limit feature, which covers fiat deposits only.

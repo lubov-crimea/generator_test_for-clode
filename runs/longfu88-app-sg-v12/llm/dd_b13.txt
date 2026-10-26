@@ -1,0 +1,9 @@
+The mobile site's cashier handles deposits, reached from the phone browser or from the home-screen shortcut. Three options are listed, PayNow, PayNow QR and DBS Bank, and each works in Singapore dollars.
+
+| Method | Deposit time | Currency |
+|---|---|---|
+| DBS Bank | 1–2 minutes | SGD |
+| PayNow QR | 1–2 minutes | SGD |
+| PayNow | 1–2 minutes | SGD |
+
+Currency (SGD) and deposit time (1–2 minutes) are the same in all three rows, which means the methods do not differ in speed.

@@ -1,0 +1,5 @@
+{"issues": [
+{"block_id": "b01", "problem": "The last sentence uses the vague range construction 'from shortcut and features to registration ...', which the style rules forbid.", "fix": "Replace the range with a plain signpost list (shortcut, features, registration, withdrawals, protection, data, sports, currencies, fixes, support) without 'from ... to'. Keep keywords and word range unchanged."},
+{"block_id": "b12", "problem": "The lead-in repeats the construction of b11 ('... of the mobile website ..., and nine ... :') and restates the first categories before the list.", "fix": "Rephrase the lead-in with a different structure (for example a short sentence naming the casino section and the nine categories, no repeated enumeration), keeping the list unchanged."},
+{"block_id": "b13", "problem": "The block opens with the same sentence start as b08 ('The cashier is part of the mobile website').", "fix": "Open b13 differently (for example: deposits are made in the cashier of the mobile website, in the phone browser or from the home-screen shortcut, with the three listed methods in Singapore dollars). Keep table and all other facts."}
+], "missing_data": []}

@@ -1,0 +1,123 @@
+{
+  "id": "v02",
+  "name": "Register first (small)",
+  "tier": "small",
+  "angle": "A new player who needs the account first.",
+  "skipped_clusters": [
+    {
+      "id": "k06",
+      "reason": "left out of the short text; the player's duty to keep the credentials is one clause of another block"
+    },
+    {
+      "id": "k11",
+      "reason": "Deposits and payment methods belong to the payments page of the site."
+    }
+  ],
+  "intent_summary": "Short brand-subpage for the small size group: a newcomer to Longfu88 in Malaysia creates the account, logs in, replaces a lost password and meets the verification documents, with support and a short FAQ. Page voice: a patient guide in plain \"first, then\" order, sentences of about 15 words, one plain invitation to register. The credentials rule is one clause of the login block. Flat H2s with one H3. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Login and Account Guide for Malaysia",
+      "words": 40,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, support)",
+          "(registration, login, password reset, documents, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Open the Account First",
+      "words": 75,
+      "kw": {
+        "Longfu88 register": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "One plain invitation to register is allowed here."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Then Log In",
+      "words": 55,
+      "kw": {
+        "Longfu login": 1
+      },
+      "extra": "Add one clause: the account holder is responsible for safeguarding the login credentials.",
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.account_terms"
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Lost Password",
+      "words": 45,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Documents the Casino May Ask For",
+      "words": 60,
+      "kw": {},
+      "notes": "A TABLE with two columns, document type | accepted documents, one row each for identity (passport, national identity card, driving licence), address (utility bill, bank statement), payment method (bank or card ownership evidence, digital wallet ownership evidence) and source of funds (proof of income, bank statements, other supporting financial documents); the source-of-funds row applies only when requested. Before the table one sentence says that the casino may ask for these documents; then, after the table, one sentence: a complete document set is normally reviewed within up to 10 days. Do not say that verification is needed at registration or for login.",
+      "refs_drop": [
+        "brandinfo_account.verification.triggers",
+        "brandinfo_account.verification.document_submission_window"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Where to Get Help",
+      "words": 35,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Beginner FAQ",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 casino login": 1
+      },
+      "summary": "5 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 5 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) whether a player may hold more than one account (no: one personal account per player); (5) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_account.registration.required_details",
+        "brandinfo_account.registration.eligibility[1]"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

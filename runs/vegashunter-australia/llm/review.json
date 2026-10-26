@@ -1,0 +1,1632 @@
+{
+ "issues": [
+  {
+   "block_id": "b15",
+   "problem": "The notes ask for a 'regional availability' con, which implies a brand-specific restriction that is not in the brand information.",
+   "fix": "Replace it with a general con: bonus terms that need careful reading."
+  },
+  {
+   "block_id": "b05",
+   "problem": "The notes assume a dedicated 'promotions page' exists on the official site.",
+   "fix": "Refer generally to the bonus terms on the official site."
+  }
+ ],
+ "blocks": [
+  {
+   "id": "b01",
+   "level": 1,
+   "heading": "VegasHunter Online Casino Australia: Pokies, Bonuses and App",
+   "source": "h1",
+   "words_min": 97,
+   "words_max": 123,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 1,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 1,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [],
+   "entities": [
+    {
+     "name": "Online Casino",
+     "priority": 10
+    },
+    {
+     "name": "Australian Players",
+     "priority": 9
+    },
+    {
+     "name": "Pokies",
+     "priority": 7
+    },
+    {
+     "name": "Welcome Bonus",
+     "priority": 7
+    },
+    {
+     "name": "Mobile App",
+     "priority": 6
+    },
+    {
+     "name": "Registration",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Online Casino",
+     "relation": "serves",
+     "object": "Australian Players",
+     "priority": 9
+    },
+    {
+     "subject": "Online Casino",
+     "relation": "offers",
+     "object": "Pokies",
+     "priority": 8
+    },
+    {
+     "subject": "Official Website",
+     "relation": "is the entry point for",
+     "object": "Registration and Login",
+     "priority": 7
+    }
+   ],
+   "summary": "Short introduction for Australian players: what this guide covers (registration, login, bonuses, pokies, payments, mobile play, safety) and who the casino is for. It builds the central entity Online Casino and signposts the main sections.",
+   "copywriter_notes": "Open with one clear sentence on what the casino is and who it serves (Online Casino has the highest priority). Use 'VegasHunter official' exactly once, naturally, where you point the reader to the official website, and 'Vegas Hunter' once. Only name the topics of the page: do not describe bonus terms, payments or registration steps here. No promises about winnings; neutral-positive tone.",
+   "words": 110,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 1
+   }
+  },
+  {
+   "id": "b02",
+   "level": 2,
+   "heading": "About the Casino",
+   "source": "mandatory",
+   "words_min": 132,
+   "words_max": 168,
+   "keywords": {
+    "VegasHunter": 1,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k01",
+    "k18"
+   ],
+   "entities": [
+    {
+     "name": "Online Casino",
+     "priority": 10
+    },
+    {
+     "name": "Pokies",
+     "priority": 8
+    },
+    {
+     "name": "Australian Players",
+     "priority": 8
+    },
+    {
+     "name": "Live Casino",
+     "priority": 7
+    },
+    {
+     "name": "Crash Games",
+     "priority": 6
+    },
+    {
+     "name": "Mobile Play",
+     "priority": 6
+    },
+    {
+     "name": "Customer Support",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Online Casino",
+     "relation": "offers",
+     "object": "Pokies, Table Games and Live Casino",
+     "priority": 9
+    },
+    {
+     "subject": "Online Casino",
+     "relation": "accepts",
+     "object": "Australian Players aged 18+",
+     "priority": 8
+    },
+    {
+     "subject": "Online Casino",
+     "relation": "supports",
+     "object": "Mobile Play",
+     "priority": 6
+    }
+   ],
+   "summary": "Overview of the platform: what kind of casino it is, its main product lines (pokies, table games, live dealers, crash games), who can play (adults from Australia) and a quick-facts list.",
+   "copywriter_notes": "Define the platform first (entity Online Casino), then name the product lines. Finish with a short quick-facts list: platform type, game types, mobile access, support channels, minimum age 18+. Use 'VegasHunter' once. Currency, language and support channels only if they appear in the brand information. No licence numbers, owner names or dates. Do not invent brand facts; name specifics only if they are given in the brand information.",
+   "words": 150,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b03",
+   "level": 2,
+   "heading": "VegasHunter Register: Step-by-Step Guide",
+   "source": "mandatory",
+   "words_min": 150,
+   "words_max": 190,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 1,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k14"
+   ],
+   "entities": [
+    {
+     "name": "Registration",
+     "priority": 10
+    },
+    {
+     "name": "Sign-up Form",
+     "priority": 8
+    },
+    {
+     "name": "First Deposit",
+     "priority": 7
+    },
+    {
+     "name": "Account Verification (KYC)",
+     "priority": 7
+    },
+    {
+     "name": "Email Confirmation",
+     "priority": 6
+    },
+    {
+     "name": "Welcome Bonus",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Registration",
+     "relation": "requires",
+     "object": "Accurate Personal Details",
+     "priority": 8
+    },
+    {
+     "subject": "Accurate Personal Details",
+     "relation": "enable",
+     "object": "Smooth KYC Verification",
+     "priority": 8
+    },
+    {
+     "subject": "First Deposit",
+     "relation": "follows",
+     "object": "Registration",
+     "priority": 6
+    }
+   ],
+   "summary": "Step-by-step guide from opening the site to the first deposit, with short tips that make later verification smoother.",
+   "copywriter_notes": "Open with one sentence on what registration gives access to, then a numbered list of steps: open the official site, fill in the sign-up form, confirm email or phone, complete the profile, optionally choose the welcome bonus, make the first deposit. Add two or three tips: real details, one account per person, strong password. Do not list exact form fields or bonus amounts unless given. Use 'Vegas Hunter' once in a natural sentence. The heading already carries the keyword 'VegasHunter register', so do not repeat the brand in other spellings.",
+   "words": 170,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 1,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b04",
+   "level": 2,
+   "heading": "How to Log In to Your Account",
+   "source": "unique",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 1,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [],
+   "entities": [
+    {
+     "name": "Login",
+     "priority": 10
+    },
+    {
+     "name": "Account Security",
+     "priority": 8
+    },
+    {
+     "name": "Password Reset",
+     "priority": 7
+    },
+    {
+     "name": "Mobile Login",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Login",
+     "relation": "requires",
+     "object": "Registered Account",
+     "priority": 7
+    },
+    {
+     "subject": "Password Reset",
+     "relation": "restores",
+     "object": "Account Access",
+     "priority": 8
+    },
+    {
+     "subject": "Strong Password",
+     "relation": "protects",
+     "object": "Account Security",
+     "priority": 7
+    }
+   ],
+   "summary": "How to log in on desktop and mobile, what to do after a forgotten password and basic account-security advice.",
+   "copywriter_notes": "Explain the login steps in one short paragraph, then the password reset path (via email) and two security tips (strong unique password, never share login data). Use 'VegasHunter login' once. No technical claims about two-factor authentication unless given in the brand information.",
+   "words": 90,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b05",
+   "level": 2,
+   "heading": "Bonuses and Promotions",
+   "source": "mandatory",
+   "words_min": 150,
+   "words_max": 190,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 1,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k02",
+    "k19",
+    "k20"
+   ],
+   "entities": [
+    {
+     "name": "Welcome Bonus",
+     "priority": 10
+    },
+    {
+     "name": "Wagering Requirements",
+     "priority": 9
+    },
+    {
+     "name": "Bonus Terms",
+     "priority": 8
+    },
+    {
+     "name": "Free Spins",
+     "priority": 8
+    },
+    {
+     "name": "Reload Bonus",
+     "priority": 6
+    },
+    {
+     "name": "Cashback",
+     "priority": 6
+    },
+    {
+     "name": "Tournaments",
+     "priority": 5
+    },
+    {
+     "name": "VIP Program",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Welcome Bonus",
+     "relation": "is subject to",
+     "object": "Wagering Requirements",
+     "priority": 9
+    },
+    {
+     "subject": "Bonus Terms",
+     "relation": "define",
+     "object": "Maximum Bet, Game Weighting and Expiry",
+     "priority": 8
+    },
+    {
+     "subject": "VIP Program",
+     "relation": "rewards",
+     "object": "Regular Players",
+     "priority": 5
+    }
+   ],
+   "summary": "The welcome offer and the types of ongoing promotions, with the reminder to read the bonus terms before claiming anything.",
+   "copywriter_notes": "Lead with the welcome bonus (highest priority), then list the main promotion types as bullets: free spins, reloads, cashback, tournaments, VIP rewards. Say what wagering requirements, game weighting, maximum bet and expiry mean in one or two sentences each. Use 'Vegas Hunter casino' once. Do not invent percentages, amounts or promo codes; if they are not given, describe the offers in general terms and send the reader to the bonus terms on the official site.",
+   "words": 170,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b06",
+   "level": 2,
+   "heading": "Games and Pokies Overview",
+   "source": "mandatory",
+   "words_min": 132,
+   "words_max": 168,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 1,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k03"
+   ],
+   "entities": [
+    {
+     "name": "Pokies",
+     "priority": 10
+    },
+    {
+     "name": "Game Lobby",
+     "priority": 8
+    },
+    {
+     "name": "Game Providers",
+     "priority": 7
+    },
+    {
+     "name": "RTP",
+     "priority": 7
+    },
+    {
+     "name": "Demo Mode",
+     "priority": 6
+    },
+    {
+     "name": "Jackpot Games",
+     "priority": 6
+    },
+    {
+     "name": "Bonus Buy",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Pokies",
+     "relation": "have",
+     "object": "RTP and Volatility",
+     "priority": 8
+    },
+    {
+     "subject": "Demo Mode",
+     "relation": "allows",
+     "object": "Free Play Without a Deposit",
+     "priority": 7
+    },
+    {
+     "subject": "Provider Filter",
+     "relation": "helps find",
+     "object": "Pokies",
+     "priority": 6
+    }
+   ],
+   "summary": "Overview of the game lobby with the emphasis on pokies: themes, features, how to search and try games.",
+   "copywriter_notes": "Lead with pokies (the Australian term for slots). Explain themes, common features (free spins, bonus buy, jackpots) and how to find games by provider or feature. Explain RTP and volatility as general concepts without numbers. Mention demo mode only if the brand information confirms it. Use 'VegasHunter pokies' once.",
+   "words": 150,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b07",
+   "level": 3,
+   "heading": "Game Categories",
+   "source": "mandatory",
+   "words_min": 141,
+   "words_max": 179,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "table"
+   ],
+   "covers_clusters": [
+    "k04"
+   ],
+   "entities": [
+    {
+     "name": "Pokies",
+     "priority": 9
+    },
+    {
+     "name": "Table Games",
+     "priority": 8
+    },
+    {
+     "name": "Roulette",
+     "priority": 7
+    },
+    {
+     "name": "Blackjack",
+     "priority": 7
+    },
+    {
+     "name": "Baccarat",
+     "priority": 7
+    },
+    {
+     "name": "Jackpot Games",
+     "priority": 6
+    },
+    {
+     "name": "Video Poker",
+     "priority": 6
+    },
+    {
+     "name": "Game Shows",
+     "priority": 6
+    },
+    {
+     "name": "Virtual Sports",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Game Categories",
+     "relation": "group",
+     "object": "Casino Games by Type",
+     "priority": 8
+    },
+    {
+     "subject": "Table Games",
+     "relation": "include",
+     "object": "Roulette, Blackjack and Baccarat",
+     "priority": 8
+    },
+    {
+     "subject": "Game Shows",
+     "relation": "belong to",
+     "object": "Live Casino",
+     "priority": 6
+    }
+   ],
+   "summary": "A table of the main game categories with what each offers and which type of player it suits.",
+   "copywriter_notes": "Build a table with columns: Category, What it offers, Good for. One row per category in the entity list, one short sentence per cell. Describe categories in general terms; do not name specific titles or claim that every category is available unless the brand information says so. No hype. One short lead-in sentence is allowed.",
+   "words": 160,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b08",
+   "level": 3,
+   "heading": "Crash Games",
+   "source": "mandatory",
+   "words_min": 97,
+   "words_max": 123,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k05"
+   ],
+   "entities": [
+    {
+     "name": "Crash Games",
+     "priority": 10
+    },
+    {
+     "name": "Multiplier",
+     "priority": 8
+    },
+    {
+     "name": "Cash Out",
+     "priority": 8
+    },
+    {
+     "name": "RNG",
+     "priority": 7
+    },
+    {
+     "name": "Risk",
+     "priority": 7
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Crash Games",
+     "relation": "use",
+     "object": "a Rising Multiplier",
+     "priority": 9
+    },
+    {
+     "subject": "Player",
+     "relation": "must cash out",
+     "object": "Before the Crash",
+     "priority": 9
+    },
+    {
+     "subject": "RNG",
+     "relation": "determines",
+     "object": "the Result of Each Round",
+     "priority": 7
+    }
+   ],
+   "summary": "What crash games are, how a round works and why no strategy can guarantee a win.",
+   "copywriter_notes": "Explain a round in plain steps inside one or two paragraphs: the multiplier rises, the player cashes out before the crash. State clearly that results are random (RNG) and that no strategy guarantees a win. Keep it neutral; no promises. Do not claim specific crash titles.",
+   "words": 110,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b09",
+   "level": 3,
+   "heading": "Live Dealer Games",
+   "source": "unique",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k06"
+   ],
+   "entities": [
+    {
+     "name": "Live Casino",
+     "priority": 10
+    },
+    {
+     "name": "Live Dealers",
+     "priority": 9
+    },
+    {
+     "name": "Streaming",
+     "priority": 6
+    },
+    {
+     "name": "Game Shows",
+     "priority": 6
+    },
+    {
+     "name": "Betting Limits",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Live Casino",
+     "relation": "streams",
+     "object": "Real Dealers in Real Time",
+     "priority": 9
+    },
+    {
+     "subject": "Stable Connection",
+     "relation": "is needed for",
+     "object": "Live Streaming",
+     "priority": 6
+    }
+   ],
+   "summary": "The live casino section: real dealers streamed in real time, typical table types and the need for a stable connection.",
+   "copywriter_notes": "Describe how live tables work in general: real dealers, video stream, betting limits, chat. Name the usual table types (blackjack, roulette, baccarat) and game shows as general examples. Mention the stable internet connection. Do not claim specific tables or providers.",
+   "words": 90,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b10",
+   "level": 2,
+   "heading": "Game Providers",
+   "source": "mandatory",
+   "words_min": 88,
+   "words_max": 112,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k08"
+   ],
+   "entities": [
+    {
+     "name": "Game Providers",
+     "priority": 10
+    },
+    {
+     "name": "RNG",
+     "priority": 8
+    },
+    {
+     "name": "Game Variety",
+     "priority": 7
+    },
+    {
+     "name": "Provider Filter",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Game Providers",
+     "relation": "supply",
+     "object": "Games to the Lobby",
+     "priority": 9
+    },
+    {
+     "subject": "Independent Testing",
+     "relation": "verifies",
+     "object": "RNG Fairness",
+     "priority": 7
+    }
+   ],
+   "summary": "Why the choice of game providers matters for variety and fair results, and how the provider filter helps.",
+   "copywriter_notes": "Explain in general terms why provider variety and tested RNG matter and how a provider filter helps. Do NOT name any studio unless it appears in the brand information (competitor pages name providers, but that does not confirm them for this casino).",
+   "words": 100,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b11",
+   "level": 2,
+   "heading": "Payment Methods",
+   "source": "mandatory",
+   "words_min": 132,
+   "words_max": 168,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "table"
+   ],
+   "covers_clusters": [
+    "k09",
+    "k10"
+   ],
+   "entities": [
+    {
+     "name": "Payment Methods",
+     "priority": 10
+    },
+    {
+     "name": "Bank Cards",
+     "priority": 8
+    },
+    {
+     "name": "E-wallets",
+     "priority": 8
+    },
+    {
+     "name": "Bank Transfer",
+     "priority": 7
+    },
+    {
+     "name": "Cryptocurrency",
+     "priority": 7
+    },
+    {
+     "name": "AUD",
+     "priority": 6
+    },
+    {
+     "name": "SSL Encryption",
+     "priority": 6
+    },
+    {
+     "name": "Vouchers",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Payment Methods",
+     "relation": "enable",
+     "object": "Deposits and Withdrawals",
+     "priority": 9
+    },
+    {
+     "subject": "E-wallets",
+     "relation": "are typically",
+     "object": "Faster than Bank Transfers",
+     "priority": 6
+    },
+    {
+     "subject": "SSL Encryption",
+     "relation": "protects",
+     "object": "Payment Data",
+     "priority": 7
+    }
+   ],
+   "summary": "A comparison table of the payment method types with deposit and withdrawal availability and typical speed, plus a note on payment security.",
+   "copywriter_notes": "One short lead-in sentence (currency and security), then a table with columns: Method type, Deposit, Withdrawal, Typical speed. Rows by category: bank cards, e-wallets, bank transfer, cryptocurrency, vouchers. Fill cells only from the brand information; otherwise write 'Not specified' (in the output language). Do not name specific providers as available unless confirmed. Speeds are indicative at most.",
+   "words": 150,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b12",
+   "level": 3,
+   "heading": "Withdrawals, Limits and KYC Verification",
+   "source": "unique",
+   "words_min": 106,
+   "words_max": 134,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k11",
+    "k12"
+   ],
+   "entities": [
+    {
+     "name": "Withdrawal",
+     "priority": 10
+    },
+    {
+     "name": "KYC Verification",
+     "priority": 9
+    },
+    {
+     "name": "Identity Documents",
+     "priority": 7
+    },
+    {
+     "name": "Withdrawal Limits",
+     "priority": 7
+    },
+    {
+     "name": "Processing Time",
+     "priority": 7
+    },
+    {
+     "name": "Same-method Rule",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Withdrawal",
+     "relation": "requires",
+     "object": "Completed KYC Verification",
+     "priority": 9
+    },
+    {
+     "subject": "KYC Verification",
+     "relation": "checks",
+     "object": "Identity and Address Documents",
+     "priority": 8
+    },
+    {
+     "subject": "Payment Method",
+     "relation": "influences",
+     "object": "Processing Time",
+     "priority": 7
+    }
+   ],
+   "summary": "How withdrawals work, why verification (KYC) is required and which documents are usually requested.",
+   "copywriter_notes": "Explain the withdrawal flow in a short paragraph: request in the cashier, processing time depends on the method and verification status, limits apply, payout usually goes back to the deposit method. Then a short list of the documents typically requested (ID, proof of address, proof of payment method). No exact times or limits unless in the brand information.",
+   "words": 120,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b13",
+   "level": 2,
+   "heading": "VegasHunter App for Android and iOS",
+   "source": "mandatory",
+   "words_min": 123,
+   "words_max": 157,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k07"
+   ],
+   "entities": [
+    {
+     "name": "Mobile App",
+     "priority": 10
+    },
+    {
+     "name": "Android",
+     "priority": 8
+    },
+    {
+     "name": "iOS",
+     "priority": 8
+    },
+    {
+     "name": "Browser Version",
+     "priority": 7
+    },
+    {
+     "name": "Home Screen Shortcut",
+     "priority": 6
+    },
+    {
+     "name": "Device Requirements",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Mobile Site",
+     "relation": "works on",
+     "object": "Android and iOS Browsers",
+     "priority": 8
+    },
+    {
+     "subject": "Home Screen Shortcut",
+     "relation": "gives",
+     "object": "App-like Access",
+     "priority": 6
+    }
+   ],
+   "summary": "How to play on mobile: the browser version and, if confirmed, a shortcut or app for Android and iOS, with a short list of benefits.",
+   "copywriter_notes": "Explain mobile play in a short paragraph, then a short list of benefits (no download needed, same account, same games, touch-friendly). Describe the home-screen shortcut generally. Do NOT claim store availability, APK downloads or an app size unless the brand information confirms them. The heading already carries 'VegasHunter app', so do not repeat the brand here.",
+   "words": 140,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 1,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b14",
+   "level": 2,
+   "heading": "Licensing and Safety",
+   "source": "unique",
+   "words_min": 97,
+   "words_max": 123,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 1,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k17"
+   ],
+   "entities": [
+    {
+     "name": "Gambling Licence",
+     "priority": 10
+    },
+    {
+     "name": "Licensing Authority",
+     "priority": 8
+    },
+    {
+     "name": "SSL Encryption",
+     "priority": 7
+    },
+    {
+     "name": "RNG Testing",
+     "priority": 7
+    },
+    {
+     "name": "KYC",
+     "priority": 6
+    },
+    {
+     "name": "Responsible Gambling Tools",
+     "priority": 6
+    },
+    {
+     "name": "Terms and Conditions",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Gambling Licence",
+     "relation": "indicates",
+     "object": "Regulated Operation",
+     "priority": 8
+    },
+    {
+     "subject": "Players",
+     "relation": "should verify",
+     "object": "Licence Details on the Official Site",
+     "priority": 9
+    },
+    {
+     "subject": "RNG Testing",
+     "relation": "supports",
+     "object": "Fair Results",
+     "priority": 7
+    }
+   ],
+   "summary": "How players can check licensing and security: licence details, encryption, RNG testing, KYC and responsible-gambling tools.",
+   "copywriter_notes": "Tell the reader what to check (licence information in the footer or terms, encryption, tested RNG, KYC, player-protection tools) and to verify it on the official site. Do NOT name a regulator, a licence number or an operator, and do not state that online casino play is legal or licensed in Australia unless the brand information says so; advise checking local rules. Use 'VegasHunter casino' once.",
+   "words": 110,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b15",
+   "level": 2,
+   "heading": "Pros and Cons for Australian Players",
+   "source": "mandatory",
+   "words_min": 114,
+   "words_max": 146,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "list"
+   ],
+   "covers_clusters": [
+    "k13"
+   ],
+   "entities": [
+    {
+     "name": "Advantages",
+     "priority": 9
+    },
+    {
+     "name": "Disadvantages",
+     "priority": 9
+    },
+    {
+     "name": "Game Variety",
+     "priority": 7
+    },
+    {
+     "name": "Wagering Requirements",
+     "priority": 7
+    },
+    {
+     "name": "Mobile Play",
+     "priority": 6
+    },
+    {
+     "name": "Verification",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Game Variety",
+     "relation": "is",
+     "object": "an Advantage for Players",
+     "priority": 7
+    },
+    {
+     "subject": "Wagering Requirements",
+     "relation": "are",
+     "object": "a Limitation for Players",
+     "priority": 8
+    }
+   ],
+   "summary": "An honest, balanced list of strengths and limitations of the casino for Australian players.",
+   "copywriter_notes": "Write a bulleted list with a short lead-in sentence: roughly half pros (game variety, mobile play, promotions, support) and half cons (wagering requirements, mandatory verification, bonus terms that need careful reading). Items are 1-2 short sentences, balanced, no hype. Base every pro on the brand information or on general categories; do not invent features.",
+   "words": 130,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b16",
+   "level": 2,
+   "heading": "Customer Support",
+   "source": "mandatory",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 1,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k16"
+   ],
+   "entities": [
+    {
+     "name": "Customer Support",
+     "priority": 10
+    },
+    {
+     "name": "Live Chat",
+     "priority": 8
+    },
+    {
+     "name": "Email Support",
+     "priority": 7
+    },
+    {
+     "name": "Response Time",
+     "priority": 6
+    },
+    {
+     "name": "Transaction ID",
+     "priority": 4
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Customer Support",
+     "relation": "is reachable via",
+     "object": "Live Chat and Email",
+     "priority": 8
+    },
+    {
+     "subject": "Account Details",
+     "relation": "speed up",
+     "object": "Support Resolution",
+     "priority": 5
+    }
+   ],
+   "summary": "How to contact support, what to prepare and what to expect.",
+   "copywriter_notes": "Describe the channels in general (live chat, email) and say what to prepare before contacting support: username, transaction ID, a clear description. Hours, languages and response times only if given in the brand information. Use 'Vegas Hunter' once.",
+   "words": 90,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b17",
+   "level": 2,
+   "heading": "Responsible Gambling",
+   "source": "mandatory",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k15"
+   ],
+   "entities": [
+    {
+     "name": "Responsible Gambling",
+     "priority": 10
+    },
+    {
+     "name": "Deposit Limits",
+     "priority": 8
+    },
+    {
+     "name": "Self-Exclusion",
+     "priority": 8
+    },
+    {
+     "name": "Time-Outs",
+     "priority": 7
+    },
+    {
+     "name": "Gambling Help Online",
+     "priority": 7
+    },
+    {
+     "name": "18+ Age Limit",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Deposit Limits",
+     "relation": "help",
+     "object": "Control Spending",
+     "priority": 8
+    },
+    {
+     "subject": "Self-Exclusion",
+     "relation": "blocks",
+     "object": "Account Access for a Chosen Period",
+     "priority": 8
+    },
+    {
+     "subject": "Gambling Help Online",
+     "relation": "provides",
+     "object": "Free Support in Australia",
+     "priority": 7
+    }
+   ],
+   "summary": "Responsible-gambling tools and help resources for players in Australia, with a short list of warning signs.",
+   "copywriter_notes": "Name the tools in general (deposit limits, time-outs, self-exclusion, reality checks) and say they should be set before playing. Then a short list of warning signs. Mention Gambling Help Online as the national free help service. State 18+ and that gambling is entertainment, not income. Do not claim which tools this casino offers unless the brand information confirms them.",
+   "words": 90,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b18",
+   "level": 2,
+   "heading": "FAQ",
+   "source": "unique",
+   "words_min": 176,
+   "words_max": 224,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "list"
+   ],
+   "covers_clusters": [
+    "k22"
+   ],
+   "entities": [
+    {
+     "name": "Online Casino",
+     "priority": 8
+    },
+    {
+     "name": "Withdrawal Time",
+     "priority": 8
+    },
+    {
+     "name": "Welcome Bonus",
+     "priority": 7
+    },
+    {
+     "name": "Safety",
+     "priority": 7
+    },
+    {
+     "name": "Mobile App",
+     "priority": 6
+    },
+    {
+     "name": "Customer Support",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Welcome Bonus",
+     "relation": "requires",
+     "object": "Meeting the Bonus Terms",
+     "priority": 7
+    },
+    {
+     "subject": "Withdrawal",
+     "relation": "depends on",
+     "object": "Payment Method and Verification",
+     "priority": 8
+    }
+   ],
+   "summary": "Five or six short questions and direct answers that match what players ask most.",
+   "copywriter_notes": "Write a list of 5-6 items in the form '**Question?** Answer.' (bold only for the question lead-in). Cover: is it safe to play, how fast are withdrawals, how to claim the welcome bonus, is there a mobile app, how to contact support, how to set limits. Answers: 1-2 sentences, general and consistent with earlier sections; no new brand facts. Do not repeat earlier text word for word.",
+   "words": 200,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  },
+  {
+   "id": "b19",
+   "level": 2,
+   "heading": "Conclusion",
+   "source": "unique",
+   "words_min": 62,
+   "words_max": 78,
+   "keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k21"
+   ],
+   "entities": [
+    {
+     "name": "Online Casino",
+     "priority": 9
+    },
+    {
+     "name": "Responsible Gambling",
+     "priority": 8
+    },
+    {
+     "name": "Bonus Terms",
+     "priority": 6
+    },
+    {
+     "name": "Official Website",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Responsible Gambling",
+     "relation": "should guide",
+     "object": "Every Play Session",
+     "priority": 8
+    }
+   ],
+   "summary": "A short wrap-up with a neutral call to action.",
+   "copywriter_notes": "Two or three sentences: what the casino offers Australian players, a reminder to read bonus terms and play responsibly, a neutral invitation to register on the official site. No new facts, no summary of every section, no hype, no 'exciting journey' clichés.",
+   "words": 70,
+   "heading_keywords": {
+    "VegasHunter": 0,
+    "Vegas Hunter": 0,
+    "VegasHunter casino": 0,
+    "Vegas Hunter casino": 0,
+    "VegasHunter login": 0,
+    "VegasHunter app": 0,
+    "VegasHunter pokies": 0,
+    "VegasHunter register": 0,
+    "VegasHunter official": 0,
+    "VegasHunter online casino": 0
+   }
+  }
+ ]
+}

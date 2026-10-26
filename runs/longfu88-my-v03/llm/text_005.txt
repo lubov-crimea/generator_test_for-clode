@@ -1,0 +1,12 @@
+Payment methods fall into groups, and every group shares the same general limits: a minimum of €10 and a maximum of €5,000 per transaction, credited within 1-2 minutes. The casino charges no processing fee on deposits, while provider or blockchain network fees may apply.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local banks and wallets | DuitNow, Touch'n Go, GrabPay, Online Banking | MYR |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus. The route is short. Log in to the Longfu88 account, open the cashier, select Deposit, pick a method and its currency or network, enter the amount, confirm as the provider instructs and wait for the playable balance.

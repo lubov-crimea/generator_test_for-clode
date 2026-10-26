@@ -1,0 +1,33 @@
+{
+ "website_id": 4967,
+ "domain": "longfu88casino.live",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login Help: Failed Sign-In and Payout Checks",
+  "description": "Longfu88 login help for Singapore players: the normal sign-in route, reasons a login fails, password reset, account checks, first payout checks and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Locked out? Start with the normal login route",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Play Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Offer"
+ }
+}

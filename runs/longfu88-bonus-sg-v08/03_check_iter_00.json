@@ -1,0 +1,59 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2315,
+    "max_body_words": 3053,
+    "target_body_words": 2401,
+    "keywords_total": {
+      "Longfu88": 20,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 20,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Nothing here claims that either campaign is running now.' is stiff and talks about the page itself; it adds no fact.",
+        "fix": "State plainly that the two campaigns are described by their conditions and that the text does not say whether either one is running at present, in the voice of an editor, or drop the meta sentence and keep the first sentence that already says the list may change."
+      }
+    ],
+    "b14": [],
+    "b15": [
+      {
+        "check": "consistency",
+        "problem": "'so a change of mind after activation has a cost' is an inference that the facts do not state.",
+        "fix": "State only the fact: cancelling the promotion forfeits bonus funds and unconverted promotional winnings."
+      }
+    ],
+    "b16": [],
+    "b17": []
+  },
+  "missing_data": []
+}

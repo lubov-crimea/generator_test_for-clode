@@ -1,0 +1,5 @@
+Entry to the account works through a single method, a registered e-mail paired with its password. The Longfu login is a sequence of three steps, with the security check placed last, so the order matters. At Longfu88 the player starts from the sign-in screen, and the Longfu88 login is finished only once any security check the site may show has been passed. Once that happens, the account can be used as normal. The sequence is:
+
+1. Open the Login option of the site.
+2. Key in the e-mail on file together with its password.
+3. Clear the security check where one appears, and the account is ready.

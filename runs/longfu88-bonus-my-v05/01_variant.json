@@ -1,0 +1,277 @@
+{
+  "id": "v05",
+  "name": "Crypto and live casino focus",
+  "tier": "medium",
+  "angle": "A player who deposits in crypto or plays live casino and wants the matching offers.",
+  "skipped_clusters": [
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Brand-subpage about the Longfu88 offers for crypto and live casino players in Malaysia: the bonus families side by side, the three welcome offers compared, the claiming steps, the crypto offers with the eligible coins, the live casino offers, the terms, the reload and free spin offers, the weekly cashback and the questions. Page voice: calm and comparative, the choice first and the numbers after it, sentences of about 16 words; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Offers for Crypto and Live Casino Players",
+      "words": 65,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1,
+        "Longfu88 promotions": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promotions\" is used it stands in the sentence that signposts the topics."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Offer Families Compared",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Welcome Bonus Options: Casino, Live and Crypto",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 welcome bonus": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "notes": "Lead-in of two sentences: the Casino Welcome Bonus is the main offer, a first-deposit casino bonus of 188% up to €2,088 plus 18 Free Spins for new registered players on the first qualifying deposit, one welcome offer per account; the Casino Welcome Bonus and the Casino Crypto Welcome Bonus are alternative first-deposit offers. Then a TABLE with four columns, offer | reward | minimum deposit | validity, and three rows in this order: Casino Welcome Bonus (188% up to €2,088 + 18 Free Spins | €50 | 10 days from activation), Live Casino Welcome Bonus (125% up to €888 | €30 | 7 days), Casino Crypto Welcome Bonus (188% up to 2,888 USDT | 50 USDT | 10 days). Use the €50 of the bonus, do NOT mention the general minimum deposit of €10. No wagering numbers here (the terms section gives them). Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].validity",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].validity"
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[1].important_terms[2]"
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Claiming a Welcome Offer",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 promo code": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promo code\" is used it stands in the closing sentence, which says that the Brand Information lists no promo code and that the activation happens in My Bonuses."
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Crypto Bonuses and Eligible Coins",
+      "words": 105,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The crypto offers: the Casino Crypto Welcome Bonus (188% up to 2,888 USDT), the weekly and weekend crypto reloads and the eligible coins.",
+      "entities": [
+        [
+          "Crypto Bonuses",
+          10
+        ],
+        [
+          "USDT",
+          7
+        ],
+        [
+          "Eligible Cryptocurrencies",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Casino Crypto Welcome Bonus",
+          "accepts",
+          "a first qualifying crypto deposit",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].reward",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[1].validity",
+        "brandinfo_promotions.other_bonuses[1].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[1].eligible_cryptocurrencies",
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].reward",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[5].name",
+        "brandinfo_promotions.other_bonuses[5].reward",
+        "brandinfo_promotions.other_bonuses[5].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[5].wagering_requirement"
+      ],
+      "notes": "Lead with the Casino Crypto Welcome Bonus: 188% up to 2,888 USDT for a first qualifying crypto deposit of at least 50 USDT, wagering 40x deposit plus bonus, valid 10 days, maximum bonus wager 5 USDT per spin. Then a TABLE with four columns, offer | reward | minimum deposit | wagering, and two rows: Casino Weekly Crypto Reload, Casino Weekend Crypto Reload (values exactly as in the Brand Information). Then one sentence with the eligible cryptocurrencies as given (USDT, BTC, BCH, LTC, ETH, XRP, USDC). The Casino Welcome Bonus and the Crypto Welcome Bonus are alternative first-deposit offers: say so once. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k01",
+        "k04"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Live Casino Bonuses",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The live casino offers: the Live Casino Welcome Bonus (125% up to €888), the Live Casino Cashback (25% up to €850) and the Unlimited Live Casino Rebate (1.0%).",
+      "entities": [
+        [
+          "Live Casino",
+          10
+        ],
+        [
+          "Live Casino Cashback",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Live Casino Welcome Bonus",
+          "targets",
+          "new players who start with live casino games",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].reward",
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[0].validity",
+        "brandinfo_promotions.other_bonuses[0].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[10].name",
+        "brandinfo_promotions.other_bonuses[10].reward",
+        "brandinfo_promotions.other_bonuses[10].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[12].name",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ],
+      "notes": "Lead with the Live Casino Welcome Bonus: 125% up to €888, minimum deposit €30, wagering 30x the deposit plus bonus, valid 7 days, maximum bet €25, for new players on the first qualifying deposit. Then the Live Casino Cashback in one sentence (25% up to €850, wagering 10x the credited cashback, based on real-money stakes less winnings in eligible Live Casino games) and the Unlimited Live Casino Rebate in one sentence (1.0%, credited daily). No game names. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k01",
+        "k05"
+      ]
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Wagering and Terms of the Main Offer",
+      "words": 100,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b07",
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Reload and Free Spin Offers in Euro",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "Three euro reload offers with reward, minimum deposit and wagering, including the 50 Free Spins of the Weekly Reload.",
+      "notes": "This block covers two topics in ONE continuous section without sub-headings. One lead-in sentence that says that the euro offers reward repeat deposits, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and three rows in this order: Casino Weekly Reload, Casino Weekend Reload, Casino Double Fortune: One-Day Reload Special (values exactly as in the Brand Information). After the table two sentences: the weekly and weekend offers are valid for 7 days and the Double Fortune special for 24 hours; the stake while wagering bonus funds is limited to €5 per spin. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].reward",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[5].name",
+        "brandinfo_promotions.other_bonuses[5].reward",
+        "brandinfo_promotions.other_bonuses[5].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[5].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].reward",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Weekly Cashback and Rebates",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence, and the Unlimited Casino Rebate (0.9%) and the Unlimited Live Casino Rebate (1.0%) in one sentence: ",
+          "Then the Unlimited Casino Rebate (0.9%) in one sentence: "
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[10].reward",
+        "brandinfo_promotions.other_bonuses[10].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ]
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Crypto and Live Offers FAQ",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "6 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) whether crypto deposits have a welcome offer (yes: the Casino Crypto Welcome Bonus, 188% up to 2,888 USDT); (2) whether live casino has its own welcome offer (yes: the Live Casino Welcome Bonus, 125% up to €888); (3) which payment methods are excluded from the welcome bonus (Neteller and Skrill); (4) what is the minimum first deposit for the welcome bonus (€50); (5) how the weekly cashback is claimed (opt in for a four-week cycle, then activate the credited cashback in My Bonuses); (6) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].reward",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].reward",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_promotions.other_bonuses[9].crediting"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]"
+      ]
+    }
+  ]
+}

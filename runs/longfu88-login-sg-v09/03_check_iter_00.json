@@ -1,0 +1,55 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1207,
+    "max_body_words": 1559,
+    "target_body_words": 1225,
+    "keywords_total": {
+      "Longfu88": 10,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 10,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [
+      {
+        "check": "consistency",
+        "problem": "The closing clause 'which covers the two checks that matter most before the payment is released' is an unsupported claim about which checks matter most and when the payment is released.",
+        "fix": "End the paragraph after the practical tip (identity documents ready, payment method in the player's own name) without ranking the checks or describing release of the payment."
+      }
+    ],
+    "b08": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Accurate details matter because they are what the verification step later compares against the documents' asserts a mechanism that the Brand Information does not give.",
+        "fix": "Remove or replace it with a neutral sentence that does not describe how verification works, keeping the currencies, the three requirements and the residency sentence."
+      }
+    ],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The clause 'before any answer is expected' reads as a response-time hint and is clumsy.",
+        "fix": "Finish the sentence after the language list with a plain clause about describing the problem in a familiar language, with no timing implication."
+      }
+    ],
+    "b11": []
+  },
+  "missing_data": []
+}

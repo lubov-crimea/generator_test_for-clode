@@ -1,0 +1,101 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2526,
+    "target_body_words": 2553,
+    "keywords_total": {
+      "Lizaro": 23,
+      "Lizaro casino": 18,
+      "Lizaro login": 1,
+      "Lizaro register": 1,
+      "Lizaro app": 1,
+      "Lizaro online casino": 2,
+      "casino Lizaro": 1
+    },
+    "keyword_targets": {
+      "Lizaro": 22,
+      "Lizaro casino": 17,
+      "Lizaro login": 1,
+      "Lizaro register": 1,
+      "Lizaro app": 1,
+      "Lizaro online casino": 1,
+      "casino Lizaro": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [
+      {
+        "check": "keywords",
+        "problem": "\"Lizaro\": 2 found, 1 required",
+        "fix": "Keyword \"Lizaro\" appears 2 time(s) but must appear exactly 1: remove 1 occurrence(s)."
+      },
+      {
+        "check": "keywords",
+        "problem": "\"Lizaro casino\": 1 found, 0 required",
+        "fix": "Keyword \"Lizaro casino\" appears 1 time(s) but must appear exactly 0: remove all occurrences (rephrase, e.g. use a pronoun or a descriptive noun)."
+      },
+      {
+        "check": "keywords",
+        "problem": "\"Lizaro online casino\": 1 found, 0 required",
+        "fix": "Keyword \"Lizaro online casino\" appears 1 time(s) but must appear exactly 0: remove all occurrences (rephrase, e.g. use a pronoun or a descriptive noun)."
+      },
+      {
+        "check": "format",
+        "problem": "missing list",
+        "fix": "The ТЗ requires the format 'list' but it is missing. Add a markdown list (\"- \" or \"1. \")."
+      }
+    ],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": [],
+    "b26": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b22",
+      "note": "No data for the licensing authority, licence number or operating company: the knowledge base has none, so the text says they are not confirmed."
+    },
+    {
+      "block_id": "b12",
+      "note": "No data for the wagering requirement, minimum deposit and validity of the casino Welcome Package (null in the knowledge base)."
+    },
+    {
+      "block_id": "b13",
+      "note": "No data for the minimum deposit, wagering and claiming steps of the Weekend Reload Bonus."
+    },
+    {
+      "block_id": "b14",
+      "note": "No data for the claiming steps, wagering and eligible games of the Weekly Reload free spins."
+    },
+    {
+      "block_id": "b06",
+      "note": "No data for game provider names or slot titles (provider list is empty in the knowledge base)."
+    },
+    {
+      "block_id": "b18",
+      "note": "No data confirming a dedicated native app (native_app_available is null)."
+    }
+  ]
+}

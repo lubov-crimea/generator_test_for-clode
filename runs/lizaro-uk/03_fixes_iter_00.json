@@ -1,0 +1,8 @@
+{
+  "b17": [
+    "Keyword \"Lizaro\" appears 2 time(s) but must appear exactly 1: remove 1 occurrence(s).",
+    "Keyword \"Lizaro casino\" appears 1 time(s) but must appear exactly 0: remove all occurrences (rephrase, e.g. use a pronoun or a descriptive noun).",
+    "Keyword \"Lizaro online casino\" appears 1 time(s) but must appear exactly 0: remove all occurrences (rephrase, e.g. use a pronoun or a descriptive noun).",
+    "The ТЗ requires the format 'list' but it is missing. Add a markdown list (\"- \" or \"1. \")."
+  ]
+}

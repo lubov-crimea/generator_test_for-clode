@@ -1,0 +1,71 @@
+{
+  "geo": "MY",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu login",
+    "Longfu88 register",
+    "Longfu88 casino login"
+  ],
+  "page_type": "brand-subpage",
+  "passed_checks": true,
+  "blocks": [
+    {
+      "level": 1,
+      "heading": "Longfu88 Casino Login: Sign In Step by Step",
+      "heading_en": "Longfu88 Casino Login: Sign In Step by Step",
+      "text": "Longfu88 lets a registered player log in to the player account with the e-mail and password chosen at registration. The casino is for players aged 18 or over, and this page is for players from Malaysia. It covers login, reset, registration, verification and support.",
+      "formats": [
+        "paragraph"
+      ]
+    },
+    {
+      "level": 2,
+      "heading": "Log In and Reset a Forgotten Password",
+      "heading_en": "Log In and Reset a Forgotten Password",
+      "text": "Longfu88 accepts one login method, e-mail and password, and the account opens in three steps.\n\n1. Select Login on the website.\n2. Enter the registered e-mail and password on the login screen.\n3. Complete any security check and access the account.\n\nA forgotten password blocks any Longfu login, but the reset takes three steps. Choose Forgot Password on the login screen, request a reset link with the registered e-mail, then follow the e-mailed instructions to set a new password. A player without access to that mailbox should contact support.",
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "level": 2,
+      "heading": "Longfu88 Register: Open an Account",
+      "heading_en": "Longfu88 Register: Open an Account",
+      "text": "Registration is by e-mail only, in five steps.\n\n1. Open the site and select Register.\n2. Enter e-mail and create a password.\n3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.\n4. Add the remaining personal details and residential address.\n5. Select Create Account and complete any e-mail confirmation.\n\nRegistration requires e-mail, password, legal name, date of birth and residential address, and each player may hold one personal account, if 18+ and of legal gambling age in the relevant jurisdiction.",
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "level": 2,
+      "heading": "Verification Documents and Account Security",
+      "heading_en": "Verification Documents and Account Security",
+      "text": "The casino may request these documents before a withdrawal, during an account review and for unusual or high-value transactions.\n\n| Document | Accepted |\n|---|---|\n| Identity | Passport, national identity card, driving licence |\n| Address | Utility bill, bank statement |\n| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |\n| Source of funds, if requested | Proof of income, bank statements, other supporting financial documents |\n\nA complete document set is normally reviewed within up to 10 days. The account holder is responsible for the login credentials, while technical and organisational safeguards protect accounts, payments and personal information.",
+      "formats": [
+        "paragraph",
+        "table"
+      ]
+    },
+    {
+      "level": 2,
+      "heading": "Get Help",
+      "heading_en": "Get Help",
+      "text": "Customer support answers login failures, missing reset e-mails and document upload questions through 24/7 live chat and e-mail at support@longfu88.com. The team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.",
+      "formats": [
+        "paragraph"
+      ]
+    },
+    {
+      "level": 2,
+      "heading": "Login FAQ",
+      "heading_en": "Login FAQ",
+      "text": "- **How does a player log in?** Enter the registered e-mail and password on the Longfu88 site.\n- **What follows a forgotten password?** Request a reset link with the registered e-mail.\n- **How long does verification take?** A complete document set is normally reviewed within up to 10 days.\n- **Where to turn if login still fails?** Customer support helps through live chat 24/7 or e-mail.",
+      "formats": [
+        "list"
+      ]
+    }
+  ]
+}

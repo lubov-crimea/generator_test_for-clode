@@ -1,0 +1,5 @@
+A forgotten password is fixed through the registered e-mail address, and the Longfu88 reset takes three steps that start on the login screen. Anyone who can no longer open that mailbox should contact support instead, because the reset link is requested with the registered address only, and the contact details are given in the support section. The steps in order:
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.

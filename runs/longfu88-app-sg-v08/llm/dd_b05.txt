@@ -1,0 +1,1 @@
+Before any setup, this part answers whether a particular phone is supported. Coverage spans Android, iOS and mobile web, with the Longfu88 layout resizing itself for smartphone and tablet screens. On Android the browser to use is Chrome, on iPhone or iPad it is Safari, and neither route calls for an installation file, so the browser already on the device is enough.

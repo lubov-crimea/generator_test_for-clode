@@ -1,0 +1,71 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2503,
+    "target_body_words": 2358,
+    "keywords_total": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence 'Tap the new icon once to check that the site opens in full screen' asserts a behaviour (full-screen display) that is not in the block's Brand Information.",
+        "fix": "Replace the last sentence with a neutral check that makes no claim about display mode, for example 'Tap the new icon once to check that the site opens.' Keep 'Longfu88' (2 occurrences, both in the table) and 'Longfu88 app' (1) unchanged."
+      }
+    ],
+    "b04": [],
+    "b05": [],
+    "b06": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Neteller and Skrill deposits are excluded from the welcome bonus.' repeats almost word for word the sentence in block b05 ('Neteller and Skrill deposits are excluded').",
+        "fix": "Reword the sentence in b06 so it does not repeat b05, for example 'Deposits made with Neteller or Skrill do not qualify for the welcome bonus.' Keep the fact and keep 'Longfu88' exactly once in the block."
+      }
+    ],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": []
+  },
+  "missing_data": []
+}

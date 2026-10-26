@@ -1,0 +1,7 @@
+Three groups of personal data are held about an account holder, answering who the player is, how to reach the player and whether the payment methods are the player's own:
+
+- Identity data: name, identity documents and birth date.
+- Contact data: e-mail, telephone and residential address.
+- Verification data: KYC documents, with payment method ownership evidence.
+
+Longfu88 may pass the data on to technology providers, identity verification providers and payment service providers, and, when required, to law enforcement and regulators. The player's rights: erasure where legally permitted, access, rectification, restriction, objection, withdrawal of consent and, where applicable, portability.

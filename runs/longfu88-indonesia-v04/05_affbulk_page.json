@@ -1,0 +1,701 @@
+{
+ "website": 107,
+ "slug": "index",
+ "seo": {
+  "title": "Longfu88 di Ponsel: Panduan Cepat untuk Indonesia",
+  "description": "Longfu88 di ponsel untuk pemain Indonesia: cara membuka situs, daftar dan masuk, bonus pertama, deposit, penarikan, permainan, dan taruhan olahraga.",
+  "index": true,
+  "customCanonical": "https://longfu-888.com/",
+  "customPageLang": "id-ID"
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "kasino, kasino online, kasino kripto, bermain, judi, slot, live casino, taruhan olahraga, daftar, login, KYC, aplikasi, pembayaran, bonus, bonus selamat datang, Indonesia, ID"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Casino di Ponsel: Ulasan untuk Pemain Indonesia",
+   "label": "Bonus Selamat Datang Kasino: 188% hingga €2.088 + 18 Putaran Gratis",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Gabung Sekarang",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Slot Teratas",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "888 gold",
+     "image": 94,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Dead",
+     "image": 109,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Ra",
+     "image": 85,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Dead or Alive",
+     "image": 93,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Le Bandit",
+     "image": 231,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Maya Gold",
+     "image": 103,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "StarBurst",
+     "image": 73,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 100,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "The Dog House",
+     "image": 92,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Thunder Coins",
+     "image": 230,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Wild Clusters",
+     "image": 229,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Wolf Gold",
+     "image": 106,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Crash & Game Instan",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Aviamasters",
+     "image": 78,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviator",
+     "image": 89,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviatrix",
+     "image": 77,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ballonix",
+     "image": 81,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Balloon",
+     "image": 86,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Chicken Road",
+     "image": 97,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "F777 Fighters",
+     "image": 108,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lucky Jet",
+     "image": 104,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Penalty Shoot Out",
+     "image": 90,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Reactoonz",
+     "image": 76,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "SpaceMan",
+     "image": 75,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Tower Rush",
+     "image": 232,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Live Casino",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "American Roulette",
+     "image": 2628,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Balls",
+     "image": 2630,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Time",
+     "image": 2208,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ice Fishing",
+     "image": 102,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Infinite Blackjack",
+     "image": 2626,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lightning Dragon Tiger",
+     "image": 2629,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lightning Roulette",
+     "image": 79,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Marble Race",
+     "image": 2627,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Money Time",
+     "image": 233,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Monopoly Live",
+     "image": 234,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Race Track",
+     "image": 2625,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza Candyland",
+     "image": 235,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "Bonus Longfu88",
+   "items": [
+    {
+     "image": 4652,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Dapatkan Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4653,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Klaim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4654,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Lihat Penawaran",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4657,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Klaim Sekarang",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4656,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Dapatkan Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4655,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Klaim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Longfu88 adalah kasino online yang meluncur pada 2026 dan menggabungkan slot, permainan dealer langsung, permainan meja, jackpot, tembak ikan, permainan P2P, permainan cepat, lotere, serta permainan crash dan instan dengan sportsbook dalam satu akun. Setiap kategori permainan punya bagian sendiri di lobi, sehingga pemain bisa langsung menuju jenis permainan yang diminati.</p>\n<p>Halaman ini ditulis untuk pemain dari Indonesia dan dibaca paling nyaman lewat ponsel. Urutannya mengikuti langkah pemain: fakta singkat, lisensi, bonus, permainan, pembayaran, cara bermain di ponsel, dan permainan yang bertanggung jawab. Pemain wajib berusia minimal 18 tahun.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Mulai Bermain",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Fakta Singkat dalam Tabel</h2>\n<table>\n<tr>\n<td>Parameter</td>\n<td>Keterangan</td>\n</tr>\n<tr>\n<td>Lisensi</td>\n<td>Yurisdiksi Kosta Rika, operator Lumina, nomor registrasi 000-039123-R-319326-001</td>\n</tr>\n<tr>\n<td>Setoran minimum</td>\n<td>€10</td>\n</tr>\n<tr>\n<td>Bonus selamat datang</td>\n<td>188% hingga €2.088 + 18 putaran gratis</td>\n</tr>\n<tr>\n<td>Metode pembayaran</td>\n<td>QRIS, DANA, OVO Wallet, Visa, Mastercard, Bank Transfer, Bitcoin, USDT</td>\n</tr>\n<tr>\n<td>Akses seluler</td>\n<td>Android, iOS, web seluler</td>\n</tr>\n<tr>\n<td>Mata uang</td>\n<td>EUR, USD, MYR, THB, SGD, USDT</td>\n</tr>\n<tr>\n<td>Bahasa dukungan</td>\n<td>Inggris, Melayu, Mandarin Sederhana, Thai, Indonesia, Vietnam</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>Hingga 10% dari kerugian bersih kasino mingguan</td>\n</tr>\n<tr>\n<td>Dukungan</td>\n<td>Alamat e-mail support@longfu88.com dan obrolan langsung 24/7 setiap hari</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Cara Membuka Situs di Ponsel</h2>\n<p>Buka situs lewat peramban ponsel, tanpa perlu mengunduh apa pun. Situs responsifnya berjalan di peramban ponsel pintar dan tablet, sehingga Android, iOS, dan web seluler memakai alamat yang sama. Pintasan di layar utama berfungsi sebagai Longfu88 app, yaitu versi layar utama dari situs yang sama, dengan akses cepat ke kasino dan sportsbook. Dari sana tersedia juga akses akun, setoran, penarikan, dan bonus. Pakai Chrome di Android dan Safari di iOS, lalu ikuti tiga langkah berikut.</p>\n<table>\n<tr>\n<td>Langkah</td>\n<td>Android (Chrome)</td>\n<td>iOS (Safari)</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Buka Longfu88 di Chrome.</td>\n<td>Buka Longfu88 di Safari.</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Buka menu peramban dan pilih Tambahkan ke layar utama.</td>\n<td>Ketuk Bagikan dan pilih Tambah ke Layar Utama.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Konfirmasi pintasan.</td>\n<td>Konfirmasi dengan Tambah.</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Daftar Akun dan Masuk</h2>\n<p>Daftar lewat e-mail dalam lima langkah, dengan data berikut: e-mail, kata sandi, nama lengkap sesuai identitas, tanggal lahir, dan alamat tempat tinggal.</p>\n<ol>\n<li>Buka Longfu88 dan pilih Daftar.</li>\n<li>Masukkan e-mail dan buat kata sandi.</li>\n<li>Konfirmasi usia serta persetujuan atas Syarat dan Ketentuan dan Kebijakan Privasi.</li>\n<li>Lengkapi data pribadi tambahan dan alamat tempat tinggal.</li>\n<li>Pilih Buat Akun dan selesaikan konfirmasi e-mail bila diminta.</li>\n</ol>\n<p>Setiap pemain hanya boleh memiliki satu akun pribadi. Untuk masuk, pilih Masuk di situs, isi e-mail dan kata sandi terdaftar, lalu selesaikan pemeriksaan keamanan bila muncul. Pemain yang mencari halaman Longfu caino login cukup memakai alur yang sama. Bila kata sandi terlupa, pilih Lupa Kata Sandi di layar masuk, minta tautan reset ke e-mail terdaftar, lalu ikuti petunjuk di e-mail tersebut.</p>\n<p>Verifikasi KYC bisa diminta sebelum penarikan, pada transaksi tidak biasa atau bernilai tinggi, dan saat data akun atau pembayaran berubah. Siapkan dokumen berikut:</p>\n<ul>\n<li>Identitas: paspor, kartu identitas nasional, atau surat izin mengemudi.</li>\n<li>Alamat: tagihan utilitas atau rekening koran.</li>\n<li>Bukti kepemilikan metode pembayaran: kartu, rekening bank, atau dompet digital.</li>\n<li>Sumber dana bila diminta: bukti penghasilan atau rekening koran.</li>\n</ul>\n<p>Kirim dokumen dalam 30 hari sejak diminta. Set dokumen yang lengkap biasanya ditinjau dalam waktu hingga 10 hari. Selama pemeriksaan berjalan, penarikan dapat ditahan, dan pemeriksaan yang gagal bisa berujung pada penolakan transaksi atau pembatasan akun. Periksa satu hal sebelum mengunggah: dokumen harus terbaca jelas, masih berlaku, dan sesuai profil akun.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Dapatkan Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Bonus Pertama dan Syaratnya</h2>\n<p>Longfu88 bonus pertama bernama Casino Welcome Bonus: 188% hingga €2.088 plus 18 putaran gratis. Bonus setoran ini untuk pemain baru yang sudah terdaftar, berlaku pada setoran pertama yang memenuhi syarat, dan hanya satu penawaran selamat datang per akun. Setoran minimum bonus ini €50, bukan setoran minimum umum kasino.</p>\n<ul>\n<li>Daftar akun dan lengkapi data pribadi yang diminta.</li>\n<li>Lakukan setoran pertama yang memenuhi syarat.</li>\n<li>Aktifkan Casino Welcome Bonus di My Bonuses sebelum memasang taruhan apa pun.</li>\n<li>Mainkan permainan kasino yang memenuhi syarat dan selesaikan taruhan wajib sebelum bonus kedaluwarsa.</li>\n</ul>\n<p>Daftar langkah di atas tidak memuat kode promo. Jalur klaimnya adalah aktivasi di My Bonuses setelah setoran yang memenuhi syarat. Dua alternatif setoran pertama juga tersedia: Live Casino Welcome Bonus (125% hingga €888, setoran minimum €30) dan Casino Crypto Welcome Bonus (188% hingga 2.888 USDT, setoran minimum 50 USDT). Casino Welcome Bonus dan Crypto Welcome Bonus adalah penawaran alternatif untuk setoran pertama. Daftar di Longfu88 dan klaim bonus pertama setelah setoran.</p>\n<p>Taruhan wajib bonus ini adalah 25 kali setoran plus jumlah bonus, dan bonus kedaluwarsa 10 hari setelah aktivasi.</p>\n<table>\n<tr>\n<td>Syarat</td>\n<td>Nilai</td>\n</tr>\n<tr>\n<td>Taruhan wajib</td>\n<td>25x setoran plus bonus</td>\n</tr>\n<tr>\n<td>Taruhan wajib putaran gratis</td>\n<td>40x kemenangan putaran gratis</td>\n</tr>\n<tr>\n<td>Masa berlaku</td>\n<td>10 hari sejak aktivasi</td>\n</tr>\n<tr>\n<td>Taruhan maksimum</td>\n<td>€22,5 per putaran</td>\n</tr>\n<tr>\n<td>Penarikan maksimum</td>\n<td>5x jumlah bonus awal</td>\n</tr>\n</table>\n<p>Setoran lewat Neteller dan Skrill tidak termasuk dalam promosi ini, dan hanya satu bonus promosi yang boleh aktif pada satu waktu. Permintaan penarikan sebelum klaim atau saat bonus aktif dapat membatalkan kelayakan, sedangkan pembatalan menghanguskan dana bonus dan kemenangan promosi yang belum dikonversi. Verifikasi akun mungkin diperlukan sebelum kemenangan promosi dibayarkan.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pembayaran: Cara Isi Saldo</h2>\n<p>Pilih metode setoran dari enam kelompok berikut, yang semuanya memakai batas umum yang sama.</p>\n<table>\n<tr>\n<td>Jenis metode</td>\n<td>Contoh</td>\n<td>Mata uang</td>\n</tr>\n<tr>\n<td>Bank dan dompet lokal</td>\n<td>QRIS, DANA, OVO Wallet, Mandiri, BNI, BCA</td>\n<td>IDR</td>\n</tr>\n<tr>\n<td>Kartu</td>\n<td>Visa, Mastercard</td>\n<td>IDR, MYR, SGD, VND</td>\n</tr>\n<tr>\n<td>Transfer bank</td>\n<td>Bank Transfer</td>\n<td>IDR, MYR, VND</td>\n</tr>\n<tr>\n<td>Kripto</td>\n<td>Bitcoin, Ethereum, Litecoin, USDC, dan USDT di jaringan TRC20, ERC20, serta BEP20</td>\n<td>BTC, ETH, LTC, USDT, USDC</td>\n</tr>\n<tr>\n<td>Dompet elektronik</td>\n<td>Neteller, Skrill</td>\n<td>EUR</td>\n</tr>\n<tr>\n<td>Metode Eropa</td>\n<td>Sofort, Giropay</td>\n<td>EUR</td>\n</tr>\n</table>\n<p>Setoran minimum €10 dan maksimum €5.000 per transaksi, dengan dana masuk dalam 1-2 menit. Kasino tidak memungut biaya pemrosesan, tetapi biaya penyedia pembayaran atau jaringan blockchain mungkin berlaku. Batas dapat berbeda menurut negara, mata uang, dan metode. Setoran Neteller dan Skrill tidak berlaku untuk bonus selamat datang.</p>\n<p>Alurnya enam langkah: masuk ke akun Longfu88, buka kasir dan pilih Setoran, lalu pilih metode beserta mata uang atau jaringan blockchain yang didukung. Isi jumlah dan data pembayaran, konfirmasi transaksi sesuai petunjuk penyedia, dan tunggu dana masuk ke saldo yang bisa dimainkan.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Cara Menarik Dana</h2>\n<p>Penarikan dana tersedia lewat Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT di tiga jaringan (TRC20, ERC20, BEP20), Touch'n Go, DANA, MoMo, DBS Bank, dan Online Banking. Batasnya minimum €20 dan maksimum €5.000, dengan enam langkah berikut.</p>\n<ol>\n<li>Masuk ke Longfu88 dan buka kasir.</li>\n<li>Pilih Penarikan dan metode pembayaran yang didukung.</li>\n<li>Isi jumlah serta rekening bank, dompet, atau alamat blockchain penerima.</li>\n<li>Selesaikan verifikasi identitas dan metode pembayaran bila diminta.</li>\n<li>Periksa permintaan dan konfirmasi pengiriman.</li>\n<li>Tunggu pemrosesan kasino dan penyelesaian bank atau jaringan.</li>\n</ol>\n<p>Soal Lngfu88 withdrawal time, penarikan lewat kartu, kripto, dan dompet digital memakan 1 sampai 3 hari kerja. Transfer bank butuh hingga 3 hari kerja pemrosesan kasino, ditambah 3 sampai 5 hari kerja pengiriman oleh bank. Secara umum, permintaan diproses dalam tiga hari kerja. Kasino tidak memungut biaya penarikan standar, tetapi biaya penyedia dan blockchain mungkin berlaku. Komisi 10% (minimum €2,25) dapat dikenakan bila perputaran taruhan di bawah jumlah setoran, sebab perputaran setoran minimal 1x dapat berlaku sebelum penarikan. Pada sebagian transaksi yang didanai kartu atau transfer bank, biayanya 15%. Pemeriksaan identitas dapat menunda pembayaran.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Lihat Penawaran",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Permainan yang Bisa Dimainkan</h2>\n<p>Buka lobi Longfu88 Casino dan pilih satu dari sembilan kategori permainan: slot, permainan dealer langsung, permainan meja, jackpot, tembak ikan, permainan P2P, permainan cepat, lotere, serta permainan crash dan instan. Pembagian ini membuat pemain bisa langsung menuju jenis permainan yang diinginkan, tanpa menggulir daftar panjang.</p>\n<p>Slot adalah kategori pertama yang perlu dilihat. Gates of Olympus dari Pragmatic Play memiliki RTP 96,50%, volatilitas tinggi, dan pengali maksimum 5.000x. Sweet Bonanza dari Pragmatic Play mencatat RTP 96,48%, volatilitas tinggi, dan pengali maksimum 21.175x. Wanted Dead or a Wild dari Hacksaw Gaming memiliki RTP 96,38%, volatilitas sangat tinggi, dan pengali maksimum 12.500x. RTP adalah persentase taruhan yang secara teoretis kembali ke pemain dalam jangka panjang, sedangkan volatilitas menunjukkan seberapa besar dan seberapa jarang kemenangan datang. Karena itu, RTP yang tinggi tidak menjamin hasil dalam satu sesi.</p>\n<p>Dealer langsung berdiri sebagai kategori tersendiri di lobi. Di sana tersedia Longfu88 Baccarat, permainan live atau meja eksklusif dengan gameplay baccarat. Evolution dan SA Gaming, dua nama dari daftar penyedia, dikenal sebagai studio dealer langsung.</p>\n<p>Kategori lainnya dapat dibedakan dari apa yang dilakukan pemain. Permainan meja menghadirkan permainan kartu dan roda dengan aturan baku. Jackpot berfokus pada hadiah utama berukuran besar. Pada tembak ikan, pemain membidik ikan di layar untuk mengumpulkan poin. Permainan P2P mempertemukan pemain dengan sesama pemain, bukan dengan kasino. Permainan cepat dan permainan crash serta instan memberi hasil dalam hitungan detik, sedangkan lotere bertumpu pada pemilihan angka dan hasil pengundian.</p>\n<p>Di Longfu 88, daftar penyedia mencakup Evolution, Red Tiger, NetEnt, Big Time Gaming, Pragmatic Play, Yggdrasil, SA Gaming, Skywind, Betsoft, dan Hacksaw Gaming. Para penyedia ini memasok slot, permainan live, dan permainan meja ke Longfu 88 Casino. Cek satu hal sebelum bermain: pilih permainan sesuai anggaran, bukan sesuai pengali tertinggi.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Taruhan Olahraga</h2>\n<p>Buka bagian Longfu sports untuk memasang taruhan olahraga. Longfu88 menyediakan sportsbook dengan sembilan pilihan: sepak bola, basket, tenis, bulu tangkis, kriket, tenis meja, bola voli, esports, dan sepak bola virtual. Jenis taruhannya ada tujuh: taruhan tunggal, akumulator, taruhan langsung, handicap, total, outright, dan Bet Builder. Taruhan tunggal memuat satu pilihan, sedangkan akumulator menggabungkan beberapa pilihan dalam satu taruhan, sehingga semuanya harus tepat. Handicap memberi selisih awal pada salah satu pihak, dan outright dipasang pada hasil akhir sebuah kompetisi. Bet Builder menyusun beberapa pasar dari satu pertandingan. Taruhan langsung menyediakan odds langsung dan pasar in-play selama pertandingan berjalan. Ketersediaan acara dan pilihan pasar dapat berbeda menurut yurisdiksi, jadi cek daftar pertandingan sebelum memasang taruhan.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Klaim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Promo Rutin dan Hadiah</h2>\n<p>Promo berikut tersedia di Longfu88.</p>\n<table>\n<tr>\n<td>Penawaran</td>\n<td>Hadiah</td>\n<td>Setoran minimum</td>\n<td>Taruhan wajib</td>\n<td>Berlaku</td>\n</tr>\n<tr>\n<td>Casino Weekly Reload</td>\n<td>50 putaran gratis</td>\n<td>€30</td>\n<td>40x kemenangan putaran gratis</td>\n<td>7 hari</td>\n</tr>\n<tr>\n<td>Casino Weekly Crypto Reload</td>\n<td>60% hingga 1.000 USDT</td>\n<td>20 USDT</td>\n<td>30x setoran + bonus</td>\n<td>7 hari</td>\n</tr>\n<tr>\n<td>Casino Weekend Reload</td>\n<td>Hingga €3.360 + 50 putaran gratis</td>\n<td>€50</td>\n<td>30x setoran + bonus, 40x kemenangan putaran gratis</td>\n<td>7 hari</td>\n</tr>\n<tr>\n<td>Casino Weekend Crypto Reload</td>\n<td>75% hingga 750 USDT + 100 putaran gratis</td>\n<td>20 USDT</td>\n<td>30x setoran + bonus, 40x kemenangan putaran gratis</td>\n<td>7 hari</td>\n</tr>\n<tr>\n<td>Casino Double Fortune</td>\n<td>50% hingga €500</td>\n<td>€30</td>\n<td>30x setoran + bonus</td>\n<td>24 jam</td>\n</tr>\n<tr>\n<td>Casino Trick or Treat Pumpkin Bonanza (musiman)</td>\n<td>Hingga 100 putaran gratis</td>\n<td>€20</td>\n<td>40x kemenangan putaran gratis</td>\n<td>7 hari</td>\n</tr>\n<tr>\n<td>Casino Dragon Quest</td>\n<td>Kredit bonus €10</td>\n<td>€20</td>\n<td>30x kredit promosi</td>\n<td>7 hari</td>\n</tr>\n</table>\n<p>Semua promo diaktifkan di My Bonuses, hanya sekali per periode, tanpa gabungan dengan bonus aktif lain, dengan taruhan maksimum €5 per putaran.</p>\n<p>Casino Weekly Cashback mengembalikan hingga 10% kerugian bersih kasino mingguan, maksimum €6.988, dalam periode Senin sampai Minggu (UTC). Pemain mengikutinya per siklus empat minggu, dan dana masuk ke My Bonuses setiap Senin dengan taruhan wajib 10x. Tarifnya 2% di Bronze sampai 10% di Diamond. Live Casino Cashback memberi 25% hingga €850. Rebat harian dikreditkan dengan taruhan wajib 1x: kasino 0,9%, live casino 1,0%, P2P 0,8%, lotere 1,0%, hanya dari taruhan uang asli.</p>\n<p>Di menu Rewards, Bonus Crab dan Wheel of Fortune berlaku 7 hari. Challenges dan Collections juga tersedia. Coin Shop menukar Coins dengan hadiah dan kredit bonus hingga €4.500, dan setiap hadiah dapat membawa syarat taruhan sendiri.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Level Klub VIP</h2>\n<p>Poin VIP didapat dari permainan uang asli yang memenuhi syarat, dan poin itu membuka level hadiah bernomor. Ada 25 level yang dikelompokkan ke lima tingkat: Bronze, Silver, Gold, Platinum, dan Diamond. Level 1 butuh 1 poin, dengan hadiah level €9,8, cashback 1%, dan batas penarikan €9.800. Level 25 butuh 5.500 poin, dengan hadiah level €980, cashback 10%, dan batas penarikan €147.000. Semakin tinggi level, semakin besar cashback dan batas penarikan, ditambah penawaran personal serta manajer VIP pribadi mulai level 4. Besaran hadiah dan batas penarikan dapat berbeda menurut level dan mata uang, dan aturannya dapat berubah, jadi cek ketentuan terbaru sebelum mengejar level berikutnya.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Lisensi dan Aturan Data</h2>\n<p>Kasino ini diluncurkan pada 2026 dan menerima akun dalam mata uang EUR, USD, MYR, THB, SGD, dan USDT, jadi pilih mata uang akun sebelum setoran pertama. Gunakan alamat Longfu 88 Official Site dan hindari halaman tiruan. Pemain harus berusia minimal 18 tahun, diizinkan secara hukum untuk berjudi di tempat tinggalnya, memakai satu akun pribadi, dan tidak memakai metode pembayaran milik pihak ketiga. Periksa aturan perjudian di tempat tinggal sebelum mendaftar.</p>\n<p>Lisensi casino Longfu88 tercatat di yurisdiksi Kosta Rika atas nama operator Lumina, dengan nomor registrasi 000-039123-R-319326-001. Operator yang sama bertindak sebagai pengendali data, dan petugas perlindungan data dapat dihubungi di dpo@longfu88.com. Operator melindungi akun, pembayaran, dan data pribadi dengan pengamanan teknis dan organisasi. Data dapat dibagikan kepada penyedia layanan pembayaran, penyedia verifikasi identitas, penyedia teknologi, serta regulator dan penegak hukum bila diwajibkan.</p>\n<p>Pemain berhak atas akses, perbaikan, penghapusan bila diizinkan hukum, pembatasan, keberatan, portabilitas bila berlaku, dan penarikan persetujuan. Pemegang akun bertanggung jawab menjaga kredensialnya, sedangkan operator dapat menangguhkan aktivitas untuk verifikasi atau dugaan penyalahgunaan. Jaga kata sandi tetap pribadi dan jangan bagikan ke siapa pun.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Gabung Sekarang",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Bermain dengan Bertanggung Jawab</h2>\n<p>Pemain harus berusia minimal 18 tahun dan hanya berjudi di tempat yang mengizinkannya. Untuk pengecualian diri, kirim permintaan lewat e-mail ke dukungan pelanggan. Akses akun dan permainan dapat dibatasi selama periode yang disepakati, dan prosesnya selesai dalam 24 jam setelah permintaan diproses. Penutupan akun juga diajukan lewat dukungan pelanggan dalam empat langkah: hubungi dukungan, konfirmasi data akun serta ketentuan pengecualian yang diinginkan, biarkan kasino membatasi atau menutup akses, lalu cari bantuan independen bila perlu. Pertanyaan penilaian diri membantu pemain mengenali kemungkinan dampak buruk judi. Bantuan independen tersedia dari GamCare, Gamblers Anonymous, dan Gambling Therapy, karena halaman ini tidak dapat menggantikannya.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Dukungan Pelanggan</h2>\n<p>Hubungi dukungan pelanggan lewat dua kanal: obrolan langsung yang aktif 24/7 atau e-mail ke support@longfu88.com. Obrolan langsung cocok untuk pertanyaan yang butuh jawaban cepat, sedangkan e-mail lebih praktis untuk pesan yang panjang. Dukungan tersedia dalam enam bahasa: Inggris, Melayu, Mandarin Sederhana, Thai, Indonesia, dan Vietnam, sehingga pemain dari Indonesia dapat menulis dalam bahasa sendiri. Tulis inti masalah di pesan pertama agar penanganannya lebih mudah, dan simpan balasan dukungan untuk rujukan berikutnya.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Kesimpulan</h2>\n<p>Longfu88 Casino cocok bagi pemain yang ingin kasino, dealer langsung, dan taruhan olahraga dalam satu akun, dengan pembayaran lokal dan kripto. Satu akun itu mencakup lobi permainan, sportsbook, dan kasir, sehingga pemain tidak perlu berpindah situs. Sebelum menyetor, cek setoran bonus yang memenuhi syarat sebesar €50, taruhan wajib 25x, aturan perputaran setoran saat penarikan, dan verifikasi akun. Longfu hanya boleh dimainkan oleh pemain berusia minimal 18 tahun. Judi bukan sumber penghasilan, kerugian tidak perlu dikejar, dan anggaran serta jeda membantu pemain tetap terkendali di Longfu88.</p>"
+  },
+  {
+   "__component": "blocks.reviews-2",
+   "title": "Ulasan Pemain",
+   "reviews": [
+    {
+     "username": "Maya Sari",
+     "review": "Pencarian berdasarkan jenis game berfungsi baik, dan studio yang terkenal mudah dikenali di lobi. Secara keseluruhan situsnya rapi dan mudah dipakai.",
+     "date": "2026-10-23",
+     "avatar": 3857,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Andi Wijaya",
+     "review": "Alur membuat akun sederhana: email dan kata sandi dulu, lalu data pribadi di layar berikutnya. Tidak mewah, tapi bekerja seperti yang dijelaskan.",
+     "date": "2026-10-18",
+     "avatar": 3856,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Rina Wulandari",
+     "review": "Versi mobilnya responsif, dan kasir maupun lobi game tampil baik di layar kecil. Untuk sekarang saya akan tetap memakainya.",
+     "date": "2026-10-15",
+     "avatar": 3854,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Siti Rahmawati",
+     "review": "Saya suka bertaruh sepak bola di sini, dan jenis taruhan tersusun jelas di kupon. Pilihan yang pas bagi yang suka tampilan bersih.",
+     "date": "2026-10-15",
+     "avatar": 3860,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Intan Permata",
+     "review": "Halaman promosi mudah ditemukan, dan setiap penawaran menunjukkan syarat sebelum saya mengaktifkannya. Pengalamannya terasa tertata dengan baik.",
+     "date": "2026-10-14",
+     "avatar": 3861,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "FAQ Seputar Ponsel",
+   "faqs": [
+    {
+     "question": "Berapa lama waktu yang dibutuhkan untuk menarik dana dari akun setelah permintaan dikirim?",
+     "answer": "Di Longfu88, kartu, kripto, dan dompet digital butuh 1 sampai 3 hari kerja. Transfer bank butuh hingga 3 hari kerja di kasino, lalu 3 sampai 5 hari kerja di bank."
+    },
+    {
+     "question": "Apakah klaim Casino Welcome Bonus memerlukan langkah tambahan berupa Longfu88 promo code?",
+     "answer": "Tidak ada langkah kode promo. Aktifkan Casino Welcome Bonus di My Bonuses setelah setoran pertama €50 yang memenuhi syarat, sebelum memasang taruhan apa pun, lalu selesaikan taruhan wajibnya."
+    },
+    {
+     "question": "Apa yang harus dilakukan jika lupa kata sandi saat Longfu88 login?",
+     "answer": "Pilih Lupa Kata Sandi di layar masuk, minta tautan reset ke e-mail terdaftar, lalu ikuti petunjuk di e-mail itu untuk membuat kata sandi baru. Setelah itu masuk lagi memakai kata sandi baru."
+    },
+    {
+     "question": "Apakah ada aplikasi yang bisa diunduh ke ponsel Android atau iOS?",
+     "answer": "Tidak ada unduhan aplikasi yang dijelaskan. Kasino berjalan sebagai situs responsif di peramban, yang bisa ditambahkan ke layar utama pada Android dan iOS sebagai pintasan."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Bonus Selamat Datang Kasino",
+   "description": "188% hingga €2.088 + 18 Putaran Gratis",
+   "disclaimer": "18+. Syarat dan ketentuan berlaku. Bermainlah dengan bijak.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Klaim Penawaran",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ],
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-888.com/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-888.com/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-888.com/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-888.com/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-888.com/vn\" />"
+}

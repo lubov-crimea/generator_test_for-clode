@@ -1,0 +1,78 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 704,
+    "max_body_words": 908,
+    "target_body_words": 655,
+    "keywords_total": {
+      "Longfu88": 10,
+      "Longfu bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 10,
+      "Longfu bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b03": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b04": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b05": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b06": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b07": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b08": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ]
+  },
+  "missing_data": []
+}

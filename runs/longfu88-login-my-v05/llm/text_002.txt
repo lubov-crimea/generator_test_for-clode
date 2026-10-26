@@ -1,0 +1,5 @@
+The Longfu login relies on one method, the e-mail address and the password set at registration, so the route has only three steps in a fixed order. A security check, where one appears, always comes before the account opens.
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password on the login screen.
+3. Complete any security check and access the account.

@@ -1,0 +1,4 @@
+{"issues": [
+{"block_id": "b12", "problem": "Unsupported claims: 'Readers who prefer a dealer to an animated reel will look here first'; 'the Longfu 88 lobby is built from their catalogues'; invented gameplay details (a cannon in fishing games, 'a few seconds' for fast games).", "fix": "Remove the reader-preference sentence and the 'built from their catalogues' claim (state only that the ten providers supply content for slots, live tables and table games, keeping 'Longfu 88' once). Describe fishing and fast games in generic, non-specific terms."},
+{"block_id": "b17", "problem": "'returns 100% of the first sports deposit' misstates a match bonus.", "fix": "Say the Sport First Deposit Bonus is a 100% match up to €1,888 on a first sports deposit of at least €50; keep 30 days and 8x wagering."}
+], "missing_data": []}

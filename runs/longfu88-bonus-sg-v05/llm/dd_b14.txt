@@ -1,0 +1,8 @@
+At Longfu88 the order is wagering first and withdrawal second: bonus winnings are released for withdrawal when the wagering has been completed, and the Casino Welcome Bonus can pay out no more than the initial bonus amount multiplied by 5. A withdrawal requested before the bonus has been claimed, or while it is running, can invalidate eligibility for the promotion, and the casino may ask for verification ahead of paying promotional winnings. Once those points are settled, the withdrawal takes six steps:
+
+1. Reach the cashier from the logged-in account.
+2. Pick Withdrawal, then the payment method or destination that is supported.
+3. Fill in the amount and the receiving point, which can be a bank, a wallet or a blockchain address.
+4. Go through any identity check or payment-method check that the casino asks for.
+5. Check the details once more and confirm the submission.
+6. Wait for casino processing, followed by whatever settlement the bank or the network needs, until the funds are received.

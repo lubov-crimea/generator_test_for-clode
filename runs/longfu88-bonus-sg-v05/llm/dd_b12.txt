@@ -1,0 +1,11 @@
+Cashback at Longfu88 has three parts: the weekly cashback, the rates that follow the VIP level of a player, and the Live Casino Cashback. The Casino Weekly Cashback returns the net loss on casino games over a week at a top rate of 10%, net loss meaning what is left lost after wins are set against stakes, with a cap of €6,988. A week begins with Monday 00:00 UTC and ends with Sunday 23:59 UTC, the minimum cashback paid out is €4.5, and participation is booked by opting in, one opt-in covering a four-week cycle that accounts which stay active can renew on their own. Prior to withdrawal, the cashback has to meet a 10x wagering requirement. Live Casino Cashback, the last part, gives back 25% with a limit of €850, is joined by opting in and activated inside My Bonuses, and its credited cashback is wagered 10x.
+
+How much of the weekly net loss comes back is settled by the VIP level, and every level carries a cap of its own:
+
+| Tier | Rate | Weekly cap |
+|---|---|---|
+| VIP Bronze | 2% of net losses | €1,888 |
+| VIP Silver | 4% of net losses | €2,388 |
+| VIP Gold | 6% of net losses | €2,988 |
+| VIP Platinum | 8% of net losses | €3,988 |
+| VIP Diamond | 10% of net losses | €6,988 |

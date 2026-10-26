@@ -1,0 +1,5 @@
+Access to an account at Longfu88 relies on one method alone: the e-mail registered with the account plus its password. The Longfu88 login follows three steps in a fixed sequence, and nothing beyond those two credentials is asked for. All of it takes place on the sign-in screen. A security check is the one possible extra obstacle, and it shows up only if the site decides to require it. Since that final step is the one that can stop a Longfu login, it is worth knowing in advance.
+
+1. Press the Login option on the site.
+2. Key in the credentials from registration: the e-mail and its password.
+3. Pass the security check, if one appears, and the account opens.

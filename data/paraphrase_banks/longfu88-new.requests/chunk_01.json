@@ -1,0 +1,186 @@
+{
+ "rules": "For EVERY sentence write 12 alternative wordings (English). Each wording states exactly the same fact: keep every figure, amount, period, percentage and every name listed in keep_figures / keep_names exactly as written. Do not add a figure, a condition or a claim; do not drop one. The wordings must differ in construction (subject, order of the clauses, voice, sentence type), not by swapping single words: no run of 6 words in a row may be shared with the original or with another wording of the same sentence. About the same length as the original (0.6x to 1.6x). Neutral editorial third person, no em dashes, no semicolons, no second person.",
+ "slots": 12,
+ "items": [
+  {
+   "key": "5cde906de809",
+   "text": "188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings.",
+   "keep_figures": [
+    "188",
+    "2,088",
+    "18",
+    "25x",
+    "40x"
+   ],
+   "keep_names": [
+    "free spins"
+   ]
+  },
+  {
+   "key": "be836ceccb3f",
+   "text": "New registered players on their first qualifying deposit; one welcome offer per account.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "95fa17e4e3f5",
+   "text": "Register an account and complete the required personal details.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "894986ceb3aa",
+   "text": "Make the first qualifying deposit.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "d11a72c9346c",
+   "text": "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.",
+   "keep_figures": [],
+   "keep_names": [
+    "casino welcome bonus",
+    "my bonuses"
+   ]
+  },
+  {
+   "key": "8c5ab5d9c62a",
+   "text": "Play eligible casino games and complete the wagering before expiry.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "990808ee14ff",
+   "text": "Neteller and Skrill deposits are excluded from this promotion.",
+   "keep_figures": [],
+   "keep_names": [
+    "neteller",
+    "skrill"
+   ]
+  },
+  {
+   "key": "8a40fd6b36b6",
+   "text": "Free Spins winnings have separate wagering requirements.",
+   "keep_figures": [],
+   "keep_names": [
+    "free spins"
+   ]
+  },
+  {
+   "key": "998930b571e3",
+   "text": "Only one promotional bonus may be active at a time.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "a894c6c510d5",
+   "text": "A withdrawal request before claiming or while the bonus is active can void promotional eligibility.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "6f74436667b3",
+   "text": "Cancelling the promotion forfeits bonus funds and unconverted promotional winnings.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "6c5c42786b7f",
+   "text": "Account verification may be required before payment of promotional winnings.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "9dd6ec27dab7",
+   "text": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+   "keep_figures": [],
+   "keep_names": [
+    "my bonuses"
+   ]
+  },
+  {
+   "key": "4de79c7c22d2",
+   "text": "Registered players meeting the offer-specific qualification rules.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "bc21dd3498ce",
+   "text": "New players only; first qualifying deposit.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "12436a1dd1a9",
+   "text": "Must activate before wagering; cannot combine with another active bonus.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "3dde86eb0ce6",
+   "text": "First qualifying crypto deposit only.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "416c73297dde",
+   "text": "Maximum bonus wager: 5 USDT per spin.",
+   "keep_figures": [
+    "5"
+   ],
+   "keep_names": [
+    "usdt"
+   ]
+  },
+  {
+   "key": "dd03baefcb27",
+   "text": "Casino Welcome Bonus and Crypto Welcome Bonus are alternative first-deposit offers.",
+   "keep_figures": [],
+   "keep_names": [
+    "casino welcome bonus",
+    "crypto welcome bonus"
+   ]
+  },
+  {
+   "key": "0d3c5af031fb",
+   "text": "One claim per promotional period unless otherwise stated.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "c8c2214dfb6a",
+   "text": "Cannot be combined with another active casino bonus.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "4eb272d04523",
+   "text": "Maximum stake while wagering bonus funds: €5 per spin.",
+   "keep_figures": [
+    "5"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "33903239ae17",
+   "text": "Casino Dragon Quest: Get Verified and Get Extra!",
+   "keep_figures": [],
+   "keep_names": [
+    "dragon quest",
+    "get verified and get extra"
+   ]
+  },
+  {
+   "key": "a4199c583ac3",
+   "text": "Players who complete requested account verification during the campaign.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "94096d07cfa1",
+   "text": "Opt in for a four-week cycle; active accounts can renew automatically.",
+   "keep_figures": [],
+   "keep_names": []
+  }
+ ]
+}

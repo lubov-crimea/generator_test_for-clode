@@ -1,0 +1,36 @@
+{
+ "website_id": 4974,
+ "domain": "longfu88-my.live",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login Help: Fix Access and Reset Password",
+  "description": "Longfu88 login help for Malaysia: the normal sign-in route, why a login fails, how to reset the password, which checks can hold an account and who to contact."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Cannot log in? Start with the checks on this page",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Register",
+  "Play Now",
+  "Join Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

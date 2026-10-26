@@ -1,0 +1,13 @@
+Sòng bạc chạy như một website responsive trên trình duyệt điện thoại và máy tính bảng, với các nền tảng Android, iOS và web di động. Trang có thể thêm vào màn hình chính làm lối tắt, giúp mở nhanh casino và mục cược thể thao. Qua cách này người chơi vẫn dùng đủ casino, cược thể thao, truy cập tài khoản, gửi tiền, rút tiền và ưu đãi.
+
+Trên Android, lối tắt được thêm qua ba bước:
+
+1. Mở Longfu88 trong Chrome.
+2. Mở menu trình duyệt và chọn Add to Home screen.
+3. Xác nhận lối tắt.
+
+Trên iOS, Safari cũng cần ba bước:
+
+1. Mở Longfu88 trong Safari.
+2. Chạm Share và chọn Add to Home Screen.
+3. Xác nhận Add.

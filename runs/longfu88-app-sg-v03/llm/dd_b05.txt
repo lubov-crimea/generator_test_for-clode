@@ -1,0 +1,8 @@
+Players on phones at Longfu88 meet four typical snags, each paired below with a quick remedy, and support takes over when none of them works.
+
+| Snag | Remedy |
+|---|---|
+| The shortcut is missing | Repeat the setup, using Safari on iOS or Chrome on Android |
+| A page that refuses to load | Reload it and test the internet connection |
+| Login not accepted | Double-check the e-mail address, or tap Forgot Password at the login screen |
+| Still stuck | Get in touch with support through live chat (round the clock, 24/7) or by writing an e-mail, naming the step that failed |

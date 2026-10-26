@@ -1,0 +1,166 @@
+{
+ "website": 4971,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Account Handbook: Login, Register, Verify",
+  "description": "Longfu88 account handbook for Malaysian players: login, registration, password reset, verification, security, settings, mobile access and support.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Account Handbook for Malaysian Players",
+   "label": "Everything about the Longfu88 account in one handbook",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> opens every player account with the e-mail address and the password chosen at registration, and the same pair signs the player in later. The casino is meant for players aged 18 or over, and this handbook is written for players from Malaysia. It covers access and entry first, then compliance checks, the protection of credentials and data, settings, taking a break, mobile access, the VIP programme and support. Each section states what it is for and what follows from its conditions.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Entry: Opening an Account</h2>\n<p>The Longfu88 register process works by e-mail, the only method offered, and takes five steps in this order:</p>\n<ol>\n<li>Open the site and select Register.</li>\n<li>Enter an e-mail address and create a password.</li>\n<li>Confirm age and acceptance of Terms and Conditions and Privacy Policy.</li>\n<li>Complete the additional personal details and residential address.</li>\n<li>Select Create Account and complete any requested e-mail confirmation.</li>\n</ol>\n<p>Registration requires an e-mail address, a password, a legal name, a date of birth and a residential address. The player must be 18 or over and of legal gambling age in the relevant jurisdiction, and may hold only one personal account. Players who meet these rules can register by e-mail and move on to the welcome offer below.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>The Welcome Offer in Brief</h3>\n<p>The Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088, plus 18 free spins. It requires a first qualifying deposit of at least €50, and the wagering requirement is 25x the deposit plus bonus amount, so the play on eligible games must reach that mark before expiry. To claim it, a player registers and completes the personal details, makes the first qualifying deposit and activates the bonus in My Bonuses before placing any wager. Only then does the wagering begin.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Access: The Login Route</h2>\n<p>The Longfu login method is e-mail and password, so access depends on the address given at registration. Three steps lead from the website to the account:</p>\n<ol>\n<li>Select Login on the website.</li>\n<li>Enter the registered e-mail and password on the login screen.</li>\n<li>Complete any security check and access the account.</li>\n</ol>\n<p>A security check, when one is requested, precedes access to the account, so entry follows only once it is completed. A mismatch in the address or the password stops the sign-in at the second step, and the next two sub-sections cover that case.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Recovering a Lost Password</h3>\n<p>A player who has forgotten the password can set a new one through the e-mail address registered with the account:</p>\n<ol>\n<li>Choose Forgot Password on the login screen.</li>\n<li>Request a reset link using the registered e-mail.</li>\n<li>Follow the e-mailed instructions to set a new password.</li>\n</ol>\n<p>A player who no longer has access to the registered mailbox should contact support, whose details are in the support section.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Diagnosing Failed Logins</h3>\n<p>A failed login usually comes from a small mismatch, so the first checks are simple: the e-mail address must be typed exactly as registered, and the keyboard layout and caps lock must be right. If the password is lost, a reset link can be requested with the registered e-mail. The casino may also suspend activity for verification or suspected abuse, and an account review of this kind may delay access until verification is complete. In that case support is available through 24/7 live chat and by e-mail.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Protection: Credentials and Data</h2>\n<p>Account security starts with the player: the account holder is responsible for safeguarding the login credentials, which are the registered e-mail address and the password. The operator adds its own layer, since technical and organisational safeguards protect accounts, payments and personal information, and it may suspend activity for verification or suspected abuse. Personal data may be shared with payment service providers, identity verification providers and technology providers, and with regulators and law enforcement when required. The player holds the rights of access, rectification, restriction, objection and withdrawal of consent, along with erasure where legally permitted and portability where applicable.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Compliance: Verification Documents</h2>\n<p>Account verification is requested on set triggers: during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. It is not a condition of registration or login.</p>\n<table>\n<tr>\n<td>Document type</td>\n<td>Accepted documents</td>\n</tr>\n<tr>\n<td>Identity</td>\n<td>Passport, national identity card, driving licence</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>Utility bill, bank statement</td>\n</tr>\n<tr>\n<td>Payment method</td>\n<td>Bank or card ownership evidence, digital wallet ownership evidence</td>\n</tr>\n<tr>\n<td>Source of funds (only when requested)</td>\n<td>Proof of income, bank statements, other supporting financial documents</td>\n</tr>\n</table>\n<p>Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days. The player uploads legible, current documents that match the account profile, completes telephone or face verification if requested, and waits for approval before a withdrawal.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Settings: Communication Preferences and Cookies</h2>\n<p>Communication preferences are the part of the account a player controls directly: a player may manage direct-marketing preferences and unsubscribe from promotional communications, so the amount of promotional contact stays the player's choice. The site also uses necessary, preference, analytics and marketing cookies, which support website functions and measurement.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Currencies and the One-Account Rule</h2>\n<p>An account can use EUR, USD, MYR, THB, SGD and USDT. The account itself carries three requirements for the player: register with accurate information, use only one personal account and do not use third-party payment methods. A second account, or a payment method that belongs to someone else, therefore falls outside the rules.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Taking a Break or Closing the Account</h2>\n<p>This section covers how a player limits or ends access. Players must be at least 18 and gamble only where lawful, and a player who wants to stop contacts customer support to request self-exclusion or account closure. The player confirms the account details and the preferred exclusion terms, and the casino then restricts or closes access, so account access and gambling may be restricted for the agreed period. Self-assessment questions help to identify possible gambling-related harm. Independent support is available from GamCare, Gamblers Anonymous and Gambling Therapy, where appropriate.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>What Opens After the Login</h2>\n<p>Once a player has logged in, the account gives access to the casino, the sportsbook, account access itself, deposits, withdrawals and bonuses. A short pointer is enough here: the casino side is organised into these game categories:</p>\n<ul>\n<li>Slots</li>\n<li>Live dealer games</li>\n<li>Table games</li>\n<li>Jackpots</li>\n<li>Fishing</li>\n<li>P2P games</li>\n<li>Fast games</li>\n<li>Lottery</li>\n<li>Crash &amp; instant games</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Mobile and Tablet Access</h2>\n<p>The casino works in the browser of a smartphone or a tablet on Android and iOS, and the login is the same as on a computer. A shortcut on the home screen gives quicker access to the site and is added in a few steps that differ by system:</p>\n<ul>\n<li>Android: open the site in Chrome, open the browser menu and choose Add to Home screen, then confirm the shortcut.</li>\n<li>iOS: open the site in Safari, tap Share and choose Add to Home Screen, then confirm Add.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VIP Levels and Rewards</h2>\n<p>The VIP programme rewards continued play from a logged-in account and has five tiers: Bronze, Silver, Gold, Platinum and Diamond. A player earns VIP points through eligible real-money gameplay, and the points unlock numbered reward levels. Additional benefits include personalised offers, VIP cashback, higher withdrawal limits and a personal VIP manager for eligible high tiers. Different reward and withdrawal limits may apply to VIP levels and currencies, and level-based benefits and promotion eligibility may change under the programme rules, so the current terms are worth checking.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Assistance and Contact Channels</h2>\n<p>Customer support answers account, login and verification questions, such as a login failure, a reset e-mail that does not arrive or a document upload. Live chat is open 24/7, and e-mail goes to support@longfu88.com. The team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese, so a problem can be described in Malay or English.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Handbook FAQ",
+   "faqs": [
+    {
+     "question": "How does the Longfu88 casino login work?",
+     "answer": "The player selects Login and enters the registered e-mail and password."
+    },
+    {
+     "question": "What happens after a forgotten password?",
+     "answer": "A reset link is requested with the registered e-mail."
+    },
+    {
+     "question": "Which login method does the casino use?",
+     "answer": "The method is e-mail and password."
+    },
+    {
+     "question": "Which details does registration ask for?",
+     "answer": "The form asks for an e-mail address, a password, a legal name, a date of birth and a residential address."
+    },
+    {
+     "question": "Which identity document is accepted?",
+     "answer": "A passport, a national identity card or a driving licence."
+    },
+    {
+     "question": "How long does verification take?",
+     "answer": "A complete document set is normally reviewed within up to 10 days."
+    },
+    {
+     "question": "May a player hold more than one account?",
+     "answer": "No, the rule is one personal account per player."
+    },
+    {
+     "question": "Does Longfu88 have a VIP programme?",
+     "answer": "Yes, it has five tiers: Bronze, Silver, Gold, Platinum and Diamond."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

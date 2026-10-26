@@ -1,0 +1,61 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2385,
+    "max_body_words": 2634,
+    "target_body_words": 2268,
+    "keywords_total": {
+      "Longfu88": 26,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 26,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [
+      {
+        "check": "consistency",
+        "problem": "The second sentence repeats almost word for word the opening sentence of b19 (withdrawal request before claiming or while a bonus is active can void promotional eligibility; verification may be required before promotional winnings are paid).",
+        "fix": "Rephrase the sentence so it does not echo b19, keep the facts (withdrawal request before claiming or during an active bonus can void promotional eligibility; verification may precede payment), keep the keyword count, the 5x cap and the six steps, and stay within the word cap."
+      }
+    ],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": []
+  },
+  "missing_data": []
+}

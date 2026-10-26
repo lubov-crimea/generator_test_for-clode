@@ -1,0 +1,43 @@
+{
+ "website_id": 4964,
+ "domain": "longfu88casino-sg.com",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Casino: Play, Bet and Claim on a Phone",
+  "description": "Longfu88 mobile casino on a phone: add the shortcut, play slots and live dealer games, bet on sports, claim the welcome offer, verify and request a cash-out."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Play, bet and claim from your phone",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Play Now"
+ },
+ "cta_texts": [
+  "Play Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "welcome offer",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "login page",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Offer"
+ }
+}

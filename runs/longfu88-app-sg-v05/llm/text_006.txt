@@ -1,0 +1,9 @@
+A player registers with an e-mail address and a password in five steps.
+
+1. Open the website and select Register.
+2. Enter an email and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested email confirmation.
+
+Required details are an e-mail, a password, a legal name, a date of birth and a residential address, and the same e-mail and password are used for login afterwards.

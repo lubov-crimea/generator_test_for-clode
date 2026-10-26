@@ -1,0 +1,75 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3115,
+    "target_body_words": 2852,
+    "keywords_total": {
+      "Longfu88": 17,
+      "Longfu 88": 1,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [
+      {
+        "check": "consistency",
+        "problem": "The first sentence repeats the opening of the H1 block b01 almost word for word ('Longfu88 is an online casino launched in 2026'), and 'Eligibility is stated plainly' sounds like a reference to a source of the fact.",
+        "fix": "Open the block with a different construction that still carries the launch year and the account currencies (for example 'The platform went live in 2026 and holds player accounts in EUR, USD, MYR, THB, SGD or USDT'), keep the bare keyword Longfu88 once in the running text, and state the eligibility rules directly without 'stated plainly'."
+      }
+    ],
+    "b19": [
+      {
+        "check": "consistency",
+        "problem": "'The request is handled within 24 hours after it is processed' is awkward and reads as circular.",
+        "fix": "Say that self-exclusion takes effect within 24 hours after the request is processed; keep the e-mail address, 18+ rule, closure, four-step procedure, self-assessment and the three organisations."
+      }
+    ],
+    "b20": [],
+    "b21": [],
+    "b22": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,23 @@
+=== b11 ===
+Deposits can be made through several families of methods, grouped below with the currencies they handle.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| European options | Giropay, Sofort | EUR |
+| Wallets | Neteller, Skrill | EUR |
+| Coins | Bitcoin, Ethereum, Litecoin, USDC, USDT (TRC20, ERC20, BEP20) | BTC, ETH, LTC, USDC, USDT |
+| Cards | Visa, Mastercard | SGD, VND, MYR, IDR |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| For Singapore | OCBC Bank, DBS Bank, PayNow, PayNow QR | SGD |
+
+Every method shares a range of €10 to €5,000 per transaction, and deposits reflect in the balance after a wait of 1-2 minutes. The casino keeps processing free of charge, yet the payment provider or the network can add a fee on top. Limits differ by method, currency and country, while the welcome bonus is not triggered by a Neteller or Skrill deposit. Six steps make up the route: logging in to the Longfu88 account, entering the Deposit section of the cashier, choosing a method together with a currency or network it supports, typing in the amount and the payment information, confirming the payment, and waiting for the funds to land in the playable balance.
+
+=== b12 ===
+Payout channels are bank transfer, Mastercard, Visa, USDT on three networks, Bitcoin, Ethereum, Litecoin, Touch'n Go, DANA, MoMo, DBS Bank and Online Banking, each between €20 and €5,000. On the casino side, the Lngfu88 withdrawal time is no more than 3 business days. Card, crypto and wallet requests take 1-3 business days, while a bank transfer afterwards spends 3-5 more business days at the bank. The casino charges no standard fee, but providers and networks might. A 10% commission (at least €2.25) can apply when the deposit was not turned over, and a 15% charge to some payouts tied to card or bank funding. Identity checks (see the verification section) may hold a payout.
+
+1. Log in at Longfu88 and click Withdrawal.
+2. Pick a destination or a supported payment method.
+3. Enter the amount and the recipient: blockchain address, bank or wallet.
+4. Review the request and confirm its submission.
+5. Finish the identity and payment-method checks if a prompt appears.
+6. Await the casino review, followed by settlement via the bank or network.

@@ -1,0 +1,74 @@
+{
+ "website_id": 4974,
+ "domain": "longfu88-my.live",
+ "locale": "en",
+ "slug": "bonuses",
+ "seo": {
+  "title": "Longfu88 Offers for Crypto and Live Casino Players",
+  "description": "Longfu88 offers for crypto and live casino players in Malaysia: three welcome offers compared, USDT reloads, live cashback, terms and eligible coins."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "bonuses, promotions, offers, promo code, welcome bonus, free spins, reload bonus, cashback, wagering requirements, My Bonuses, casino, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Crypto and live casino offers in one place",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Claim Bonus"
+ },
+ "cta_texts": [
+  "Claim Bonus",
+  "Register"
+ ],
+ "preview": {
+  "title": "Crypto and Live Casino Offers",
+  "items": [
+   {
+    "image": 4654,
+    "title": "Casino Crypto Welcome Bonus",
+    "text": "188% up to 2,888 USDT",
+    "button": "Join Now"
+   },
+   {
+    "image": 4655,
+    "title": "Casino Weekend Crypto Reload",
+    "text": "75% up to 750 USDT + 100 Free Spins",
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4657,
+    "title": "Live Casino Welcome Bonus",
+    "text": "125% up to €888",
+    "button": "Get Offer"
+   },
+   {
+    "image": 4652,
+    "title": "Casino Weekly Cashback",
+    "text": "Up to 10% of weekly net casino losses",
+    "button": "See Offer"
+   },
+   {
+    "image": 4653,
+    "title": "Bonus Crab",
+    "text": "Qualifying picks reveal bonus credits, free spins or coins",
+    "button": "Claim Now"
+   },
+   {
+    "image": 4656,
+    "title": "Sport First Deposit Bonus",
+    "text": "100% up to €1,888",
+    "button": "Get Bonus"
+   }
+  ]
+ },
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

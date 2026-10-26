@@ -1,0 +1,26 @@
+=== b03 ===
+Deposit options group into a few method types, with the Singapore routes listed first.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore routes | PayNow, PayNow QR, OCBC Bank, DBS Bank | SGD |
+| Cards | Mastercard, Visa | SGD, MYR, IDR, VND |
+| Bank transfer | Bank Transfer | MYR, VND, IDR |
+| E-wallets | Neteller, Skrill | EUR |
+| European routes | Giropay, Sofort | EUR |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDC, USDT (BEP20, ERC20, TRC20), Ripple, Cardano, Bitcoin Cash | BTC, ETH, LTC, USDC, USDT, XRP, ADA, BCH |
+| Regional banks and wallets | DuitNow, GrabPay, DANA, QRIS, MoMo, PromptPay QR | MYR, IDR, VND, THB |
+
+Every method shares one frame: a €10 minimum, a €5,000 maximum per transaction, and funds on the balance in roughly 1-2 minutes. Country, currency and method can each change the limits. The casino bills no handling charge on a deposit, whereas payment providers or blockchain networks may tack on their own. Neteller and Skrill deposits are left out of the welcome bonus. Six steps cover the process: sign in to Longfu88, open the cashier, press Deposit, pick a method and currency or network, enter the amount and payment information, then confirm with the provider.
+
+=== b04 ===
+Longfu88 pays out through bank-style options (Online Banking, DBS Bank, Bank Transfer), wallets (MoMo, DANA, Touch'n Go), cards (Mastercard, Visa) and crypto (USDT on three networks, Litecoin, Ethereum, Bitcoin). Each request must be at least €20 and no more than €5,000.
+
+A withdrawal is capped at three business days on the casino's side, and typical requests finish within that span. Cards, crypto and wallets complete in 1-3 business days, while a bank transfer can be followed by 3 to 5 extra business days before the bank releases the money. Identity checks may delay a payout (see the verification section). The casino charges no regular withdrawal fee, though providers and networks may. If turnover falls below the deposited amount, a 10% commission (minimum €2.25) may apply under the 1x deposit turnover rule, and some card- or bank-funded transactions may attract 15%.
+
+1. Sign in and open the cashier.
+2. Tap Withdrawal.
+3. Choose a payout method.
+4. Enter the amount and receiving details.
+5. Review and submit the request.
+6. Wait while the casino and bank or network process it.

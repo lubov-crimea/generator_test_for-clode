@@ -1,0 +1,95 @@
+# Longfu88 Welcome Bonus and Promotions for New Players
+
+Longfu88 runs bonuses that start with the Casino Welcome Bonus: 188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings. Players looking for the Longfu bonus find the welcome offer, weekly and weekend reloads, cashback and a rewards area. Longfu88 promotions range from claim steps to the promo code question. The bonuses of Longfu88 are for players aged 18 or over, and the page is written for players from Malaysia.
+
+## How the Welcome Offer Works
+
+The Casino Welcome Bonus is the main first-deposit offer at Longfu88: a 188% match up to €2,088 plus 18 Free Spins. It is meant for new registered players, applies to the first qualifying deposit of at least €50 and is limited to one welcome offer per account. Two alternatives exist for the same first deposit. The Live Casino Welcome Bonus gives 125% up to €888, while the Casino Crypto Welcome Bonus gives 188% up to 2,888 USDT. At Longfu88, the Casino Welcome Bonus and the Crypto Welcome Bonus are alternative first-deposit offers, so an account takes one of them.
+
+## Claim It in Four Steps
+
+Claiming the Casino Welcome Bonus at Longfu88 takes four steps, and the order matters because the third step has to come before any play.
+
+1. Register an account and complete the required personal details.
+2. Make the first qualifying deposit.
+3. Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.
+4. Play eligible casino games and complete the wagering before expiry.
+
+The bonus is valid for 10 days from activation, and the activation must happen before the first wager is placed at Longfu88.
+
+## Terms to Read Before You Deposit
+
+The terms below belong to the Casino Welcome Bonus at Longfu88 and set the conditions for the wagering, the stake and the payout.
+
+| Term | Value |
+|---|---|
+| Wagering | 25x the deposit plus bonus amount |
+| Free Spins wagering | 40x Free Spins winnings |
+| Validity | 10 days from activation |
+| Maximum bet | €22.5 per spin |
+| Maximum cashout | 5x the initial bonus amount |
+
+The wagering requirement applies to the deposit plus the bonus amount, and the Free Spins winnings carry their own separate requirement. Four more rules matter. Neteller and Skrill deposits are excluded from this promotion, so the first payment needs another method. Only one promotional bonus may be active at a time. A withdrawal request before claiming or while the bonus is active can void promotional eligibility. Account verification may be required before promotional winnings are paid.
+
+## Minimum Deposit of Every Offer
+
+The minimum deposit at Longfu88 depends on the offer and on the currency of the deposit, so each offer has its own figure.
+
+| Offer | Minimum deposit |
+|---|---|
+| Casino Welcome Bonus | €50 |
+| Live Casino Welcome Bonus | €30 |
+| Casino Crypto Welcome Bonus | 50 USDT |
+| Casino Weekly Reload | €30 |
+| Casino Weekly Crypto Reload | 20 USDT |
+| Casino Weekend Reload | €50 |
+| Casino Weekend Crypto Reload | 20 USDT |
+| Casino Double Fortune: One-Day Reload Special | €30 |
+| Casino Trick or Treat Pumpkin Bonanza | €20 |
+| Casino Dragon Quest: Get Verified and Get Extra! | €20 |
+
+The general minimum deposit of the casino is not the minimum of an offer, so a player checks the offer first and deposits afterwards.
+
+## Longfu88 Promo Code: Is One Listed Today?
+
+Longfu88 lists no promo code for its offers, so there is nothing to type in during registration or at the cashier. Offers are activated in My Bonuses instead. The Casino Welcome Bonus is activated there before the first wager, and every other offer follows once its eligibility and deposit conditions are met.
+
+## Reload Offers for Your Next Deposits
+
+The reload offers of Longfu88 reward repeat deposits during the week or at the weekend.
+
+| Offer | Reward | Minimum deposit | Wagering |
+|---|---|---|---|
+| Casino Weekly Crypto Reload | 60% up to 1,000 USDT | 20 USDT | 30x deposit plus bonus |
+| Casino Weekend Reload | Up to €3,360 + 50 Free Spins | €50 | 30x deposit plus bonus; 40x Free Spins winnings |
+| Casino Weekend Crypto Reload | 75% up to 750 USDT + 100 Free Spins | 20 USDT | 30x deposit plus bonus; 40x Free Spins winnings |
+| Casino Double Fortune: One-Day Reload Special | 50% up to €500 | €30 | 30x deposit plus bonus |
+
+The weekly and weekend offers are valid for 7 days and the Double Fortune special for 24 hours. At Longfu88 the stake is limited to €5 per spin while bonus funds are wagered, and a reload cannot be combined with another active casino bonus.
+
+## Free Spin Offers
+
+The Casino Weekly Reload at Longfu88 gives 50 Free Spins for a minimum deposit of €30 and stays valid for 7 days, with 40x winnings from Free Spins. Up to 100 Free Spins come with the seasonal Casino Trick or Treat Pumpkin Bonanza, from a minimum deposit of €20 and also with 40x Free Spins winnings. The welcome bonus adds 18 Free Spins on the same 40x basis. In every case, wagering is counted on the winnings of the free spins.
+
+## Cashback and Rebates
+
+The Casino Weekly Cashback at Longfu88 returns up to 10% of weekly net casino losses, capped at €6,988. Each week is calculated from Monday 00:00 UTC through Sunday 23:59 UTC, the minimum cashback is €4.5, and a player opts in for a four-week cycle. Before withdrawal, the cashback must be wagered 10x. The Live Casino Cashback pays 25% up to €850, with 10x wagering on the credited cashback. Rebates work on a daily basis instead: the Unlimited Casino Rebate is 0.9% and the Unlimited Live Casino Rebate is 1.0%, both credited with 1x wagering on the credited rebate. At Longfu88, only real-money bets count, while bonus funds are excluded.
+
+## Rewards Area for Active Players
+
+The rewards area of Longfu88 adds game-like features to the bonuses. Coins play a role in two of them at Longfu88, the wheel and the shop.
+
+- Bonus Crab: claim qualifying picks to open a crab reward.
+- Wheel of Fortune: spend an eligible spin or Coins to rotate a prize wheel.
+- Challenges: complete qualifying gambling tasks to receive listed rewards.
+- Collections: collect campaign items by completing qualifying activity.
+- Coin Shop: exchange earned Coins for reward items and bonus credits up to €4,500.
+
+## Longfu88 Offers for Newcomers: FAQ
+
+- **What is the minimum first deposit for the welcome bonus?** The first qualifying deposit must be at least €50.
+- **How many promotional bonuses can be active at once?** Only one promotional bonus may be active at a time.
+- **Is a promo code needed?** The casino lists no promo code, and the offers are activated in My Bonuses.
+- **How long is the welcome bonus valid?** It stays valid for 10 days from activation at Longfu88.
+- **How is the weekly cashback claimed?** A player opts in for a four-week cycle, then activates the credited cashback in My Bonuses.
+- **Where can a bonus question be sent?** Customer support answers through a 24/7 live chat or by e-mail.

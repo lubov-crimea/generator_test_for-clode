@@ -1,0 +1,10 @@
+The casino may ask for account verification before a withdrawal, during an account review and for unusual or high-value transactions.
+
+| Type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card, driving licence |
+| Address | Utility bill, bank statement |
+| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |
+| Source of funds (when requested) | Proof of income, bank statements, other supporting financial documents |
+
+Review of a complete document set normally takes up to 10 days.

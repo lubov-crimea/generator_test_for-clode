@@ -1,0 +1,22 @@
+=== b04 ===
+Konto w Incaspin Casino zakłada się wyłącznie przy użyciu adresu e-mail, a cały proces mieści się w pięciu krokach:
+
+1. Otworzyć stronę serwisu i wybrać opcję rejestracji.
+2. Wpisać adres e-mail.
+3. Utworzyć hasło.
+4. Potwierdzić, że ma się ukończone 18 lat.
+5. Wysłać formularz rejestracyjny.
+
+Obowiązuje przy tym jedna zasada: każda osoba może mieć tylko jedno konto, a limit dotyczy także gospodarstwa domowego, adresu IP i komputera. Duplikaty mogą zostać zawieszone lub zamknięte, a zakłady, bonusy i wygrane z takich kont mogą zostać unieważnione. Dodatkowe konto nie daje więc żadnej przewagi, a naraża saldo na utratę.
+
+Logowanie w Incaspin przebiega równie prosto: wystarczy wybrać opcję logowania i podać e-mail oraz hasło użyte przy rejestracji. Gracz, który zapomniał hasła, korzysta z opcji przypomnienia hasła na ekranie logowania i postępuje według instrukcji wysłanej e-mailem. Dodatkową warstwę ochrony daje uwierzytelnianie dwuskładnikowe, czyli drugi etap potwierdzenia obok hasła, które można włączyć w ustawieniach konta. W Incaspin warto włączyć je od razu po rejestracji.
+
+=== b05 ===
+Weryfikacja tożsamości (KYC, czyli sprawdzenie, kim jest gracz) może być wymagana przed pierwszą wypłatą oraz podczas kontroli wpłat, a do czasu pełnej weryfikacji konta kasyno nie realizuje żadnych wypłat. Wymagane dokumenty gracz przesyła w ramach weryfikacji, a w Incaspin należą do nich:
+
+- dokument tożsamości: paszport, dowód osobisty lub prawo jazdy
+- aktualny rachunek za media albo wyciąg bankowy
+- potwierdzenie metody płatności, z której korzysta gracz
+- selfie z dokumentem tożsamości lub kontrola tożsamości na żywo
+
+Większość dokumentów jest sprawdzana w czasie od kilku godzin do jednego dnia. Dokumenty muszą być autentyczne, ponieważ fałszywe lub podrobione materiały mogą skutkować zajęciem wpłaconych środków i wygranych.

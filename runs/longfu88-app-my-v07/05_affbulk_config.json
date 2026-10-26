@@ -1,0 +1,36 @@
+{
+ "website_id": 4972,
+ "domain": "longfu88casino-my.bet",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Casino Help: Setup and Fixes",
+  "description": "Longfu88 mobile casino help for Malaysia: quick fixes for common phone problems, adding the shortcut again on Android and iOS, sign-in and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Phone not working? Start with the quick fixes",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Play Now"
+ },
+ "cta_texts": [
+  "Play Now",
+  "Log In",
+  "Register",
+  "Join Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

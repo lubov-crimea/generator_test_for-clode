@@ -1,0 +1,110 @@
+{
+ "website": 4978,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login: Sign In and Reset Your Password",
+  "description": "Longfu88 login explained for Malaysia: the three sign-in steps, password reset by e-mail, registration, verification documents and support.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Casino Login: Sign In Step by Step",
+   "label": "Log in with your registered e-mail and password",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> lets a registered player log in to the player account with the e-mail and password chosen at registration. The casino is for players aged 18 or over, and this page is for players from Malaysia. It covers login, reset, registration, verification and support.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Log In and Reset a Forgotten Password</h2>\n<p>Longfu88 accepts one login method, e-mail and password, and the account opens in three steps.</p>\n<ol>\n<li>Select Login on the website.</li>\n<li>Enter the registered e-mail and password on the login screen.</li>\n<li>Complete any security check and access the account.</li>\n</ol>\n<p>A forgotten password blocks any Longfu login, but the reset takes three steps. Choose Forgot Password on the login screen, request a reset link with the registered e-mail, then follow the e-mailed instructions to set a new password. A player without access to that mailbox should contact support.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Register: Open an Account</h2>\n<p>Registration is by e-mail only, in five steps.</p>\n<ol>\n<li>Open the site and select Register.</li>\n<li>Enter e-mail and create a password.</li>\n<li>Confirm age and acceptance of Terms and Conditions and Privacy Policy.</li>\n<li>Add the remaining personal details and residential address.</li>\n<li>Select Create Account and complete any e-mail confirmation.</li>\n</ol>\n<p>Registration requires e-mail, password, legal name, date of birth and residential address, and each player may hold one personal account, if 18+ and of legal gambling age in the relevant jurisdiction.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Verification Documents and Account Security</h2>\n<p>The casino may request these documents before a withdrawal, during an account review and for unusual or high-value transactions.</p>\n<table>\n<tr>\n<td>Document</td>\n<td>Accepted</td>\n</tr>\n<tr>\n<td>Identity</td>\n<td>Passport, national identity card, driving licence</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>Utility bill, bank statement</td>\n</tr>\n<tr>\n<td>Payment method</td>\n<td>Bank or card ownership evidence, digital wallet ownership evidence</td>\n</tr>\n<tr>\n<td>Source of funds, if requested</td>\n<td>Proof of income, bank statements, other supporting financial documents</td>\n</tr>\n</table>\n<p>A complete document set is normally reviewed within up to 10 days. The account holder is responsible for the login credentials, while technical and organisational safeguards protect accounts, payments and personal information.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Get Help</h2>\n<p>Customer support answers login failures, missing reset e-mails and document upload questions through 24/7 live chat and e-mail at support@longfu88.com. The team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Login FAQ",
+   "faqs": [
+    {
+     "question": "How does a player log in?",
+     "answer": "Enter the registered e-mail and password on the Longfu88 site."
+    },
+    {
+     "question": "What follows a forgotten password?",
+     "answer": "Request a reset link with the registered e-mail."
+    },
+    {
+     "question": "How long does verification take?",
+     "answer": "A complete document set is normally reviewed within up to 10 days."
+    },
+    {
+     "question": "Where to turn if login still fails?",
+     "answer": "Customer support helps through live chat 24/7 or e-mail."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

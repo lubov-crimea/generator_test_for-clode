@@ -1,0 +1,4675 @@
+{
+  "geo": "SG",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu 88",
+    "Longfu88 casino",
+    "Longfu88 login",
+    "Longfu88 bonus",
+    "Longfu88 app",
+    "Longfu88 promo code",
+    "Longfu 88 casino",
+    "casino Longfu88",
+    "Lngfu88 withdrawal time",
+    "Longfu 88 Official Site",
+    "Longfu",
+    "Longfu sports"
+  ],
+  "targets": {
+    "target_body_words": 2671,
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "base_body_words": 1899
+  },
+  "brand": "Longfu88",
+  "knowledge_base": {
+    "id": 576,
+    "title": "longfu88-new"
+  },
+  "intent_summary": "Written for Singapore players who favour crypto: an editorial look at the Longfu88 online casino. Covered in order: fact sheet, deposits with the cryptocurrencies and networks, crypto and fiat withdrawals with fees, the crypto welcome bonus and its alternatives, crypto reloads and other weekly offers, sports offers, VIP levels, verification ahead of payouts, registration, games and providers, mobile access, the licence together with data safety, then responsible-gambling tools, support, a crypto FAQ and a verdict. Voice: technical and plain; sentences near 16 words, paragraphs of two to four sentences; each crypto figure is paired with its currency or network and its condition; fiat and crypto offers stay apart and are never merged into a single sum; the page carries a single call to action, placed at the crypto welcome bonus. Facts about the brand are drawn solely from the AffBulk knowledge base longfu88-new; the page stays silent on the standing of the casino under Singapore law.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino for Crypto Players in Singapore: Review",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.release_year",
+        "brandinfo_general.minimum_age",
+        "brandinfo_games.game_types"
+      ],
+      "words_min": 102,
+      "words_max": 130,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Players from Singapore",
+          "priority": 8
+        },
+        {
+          "name": "Game Categories",
+          "priority": 7
+        },
+        {
+          "name": "Sportsbook",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a casino game library, live croupier tables, sports betting and a lottery under one roof",
+          "priority": 8,
+          "relation": "combines",
+          "subject": "Online Casino"
+        },
+        {
+          "object": "an age of 18 or above",
+          "priority": 7,
+          "relation": "are admitted only at",
+          "subject": "Adult Players"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Opening overview: what the casino is, its game areas, the launch year and the adult Singapore audience of the page.",
+      "copywriter_notes": "Opening hook, brand first. Sentence one takes the keyword \"Longfu88\" as its subject and defines the online casino by what it offers: a sportsbook plus, among the game areas, slots and live dealer games, table games, jackpot titles, fishing and P2P, fast games, a lottery, plus crash and instant titles. Add the year of launch as well, taken from the Brand Information. Age gate: mention 18+ one time only. Audience: the page addresses players from Singapore, and the text says so. Off the table: wording that credits Singapore with licensing, legalisation or sanction of the casino, whether explicit or implied. Any licence mentioned must be the one the Brand Information names, and no other. Scope limit: leave out bonus amounts, payment details and registration details; just signal the page's topics in passing: payments, mobile play, games, bonus offers, the licence, brand facts and, finally, responsible gambling. Mood: balanced and mildly upbeat; no winnings are ever promised. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b01"
+      ],
+      "words": 116,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 1,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.release_year",
+          "value": 2026
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_games.game_types",
+          "value": [
+            "Slots",
+            "Live dealer games",
+            "Table games",
+            "Jackpots",
+            "Fishing",
+            "P2P games",
+            "Fast games",
+            "Lottery",
+            "Crash & instant games"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 6,
+        "entities": 4
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Casino and Crypto Facts",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.licences[0]",
+        "brandinfo_privacy_policy.privacy_policy.data_controller.company_name",
+        "brandinfo_general.payment_methods.deposit",
+        "brandinfo_general.currencies",
+        "brandinfo_promotions.other_bonuses[1].reward",
+        "brandinfo_general.welcome_bonus_summary",
+        "brandinfo_general.minimum_deposit",
+        "brandinfo_promotions.other_bonuses[9].reward",
+        "brandinfo_general.customer_support.languages",
+        "brandinfo_general.customer_support.email",
+        "brandinfo_general.customer_support.channels"
+      ],
+      "words_min": 81,
+      "words_max": 103,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Gambling Licence",
+          "priority": 8
+        },
+        {
+          "name": "Welcome Bonus",
+          "priority": 7
+        },
+        {
+          "name": "Payment Methods",
+          "priority": 6
+        },
+        {
+          "name": "Currencies",
+          "priority": 5
+        },
+        {
+          "name": "Customer Support",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the Online Casino",
+          "priority": 7,
+          "relation": "was issued to cover",
+          "subject": "Gambling Licence"
+        },
+        {
+          "object": "the Online Casino",
+          "priority": 6,
+          "relation": "is a component of the package from",
+          "subject": "Welcome Bonus"
+        }
+      ],
+      "listed_entities": [
+        "Operator",
+        "Gambling Licence",
+        "Welcome Bonus",
+        "Payment Methods",
+        "Currencies",
+        "Customer Support"
+      ],
+      "summary": "Fact table: licence, operator, payment methods, currencies, Crypto bonus, welcome bonus, minimum deposit, cashback, languages and support.",
+      "copywriter_notes": "Fact table. Rows: exactly those of the Fact Table list, same order, nothing extra. Left cell = row label, right cell = a compact fact: a single figure, a single name or a comma-joined list of up to 20 words; full sentences are not allowed. Licence row: registration number, operator and jurisdiction, all as given. Welcome bonus: cut the summary line down to its percentage, its ceiling and its count of free spins. Cashback: percentage and base only (weekly net casino losses). In the row for minimum deposit, put the general casino minimum (€10), and keep the welcome bonus's €50 out of it. Payment methods row: pick five or six recognisable methods rather than the whole list (for instance Visa, Mastercard, Bitcoin, USDT, PayNow, Bank Transfer). Currencies row and support languages row hold names only. Support: live chat first, then the e-mail in its given form, which includes the string \"Longfu88\" (a tracked keyword). No intro line and no sign-off. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them. The Support row prints the e-mail address exactly as given; it contains the tracked keyword \"Longfu88\", which counts toward the exact count of this block.",
+      "formats": [
+        "table"
+      ],
+      "variant_origin": [
+        "b02"
+      ],
+      "fact_table": [
+        {
+          "key": "licence",
+          "label": "Licence",
+          "kb_refs": [
+            "brandinfo_general.licences[0]"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.licences[0]",
+              "value": {
+                "jurisdiction": "Costa Rica",
+                "operator": "Lumina",
+                "registration_number": "000-039123-R-319326-001"
+              }
+            }
+          ]
+        },
+        {
+          "key": "company",
+          "label": "Operator",
+          "kb_refs": [
+            "brandinfo_privacy_policy.privacy_policy.data_controller.company_name"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_privacy_policy.privacy_policy.data_controller.company_name",
+              "value": "Lumina"
+            }
+          ]
+        },
+        {
+          "key": "payment_methods",
+          "label": "Payment methods",
+          "kb_refs": [
+            "brandinfo_general.payment_methods.deposit"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.payment_methods.deposit",
+              "value": [
+                "QRIS",
+                "DANA",
+                "OVO Wallet",
+                "Mandiri",
+                "BNI",
+                "Bank Transfer",
+                "Visa",
+                "Mastercard",
+                "USDT (TRC20)",
+                "USDT (ERC20)",
+                "USDT (BEP20)",
+                "Bitcoin",
+                "Ethereum",
+                "Litecoin",
+                "Ripple",
+                "USDC",
+                "Bitcoin Cash",
+                "Cardano",
+                "Touch'n Go",
+                "GrabPay",
+                "DuitNow",
+                "Online Banking",
+                "DBS Bank",
+                "OCBC Bank",
+                "PromptPay QR",
+                "MoMo",
+                "Zalo",
+                "ViettelPay",
+                "VietQR",
+                "Sofort",
+                "Giropay",
+                "PayNow QR",
+                "BCA",
+                "PayNow",
+                "Neteller",
+                "Skrill"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "currencies",
+          "label": "Currencies",
+          "kb_refs": [
+            "brandinfo_general.currencies"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.currencies",
+              "value": [
+                "EUR",
+                "USD",
+                "MYR",
+                "THB",
+                "SGD",
+                "USDT"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "other",
+          "label": "Crypto bonus",
+          "kb_refs": [
+            "brandinfo_promotions.other_bonuses[1].reward"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_promotions.other_bonuses[1].reward",
+              "value": "188% up to 2,888 USDT"
+            }
+          ]
+        },
+        {
+          "key": "welcome_bonus",
+          "label": "Welcome bonus",
+          "kb_refs": [
+            "brandinfo_general.welcome_bonus_summary"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.welcome_bonus_summary",
+              "value": "188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings."
+            }
+          ]
+        },
+        {
+          "key": "min_deposit",
+          "label": "Minimum deposit",
+          "kb_refs": [
+            "brandinfo_general.minimum_deposit"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.minimum_deposit",
+              "value": "€10"
+            }
+          ]
+        },
+        {
+          "key": "cashback",
+          "label": "Cashback",
+          "kb_refs": [
+            "brandinfo_promotions.other_bonuses[9].reward"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_promotions.other_bonuses[9].reward",
+              "value": "Up to 10% of weekly net casino losses, capped at €6,988"
+            }
+          ]
+        },
+        {
+          "key": "languages",
+          "label": "Support languages",
+          "kb_refs": [
+            "brandinfo_general.customer_support.languages"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.customer_support.languages",
+              "value": [
+                "English",
+                "Malay",
+                "Simplified Chinese",
+                "Thai",
+                "Indonesian",
+                "Vietnamese"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "support",
+          "label": "Support",
+          "kb_refs": [
+            "brandinfo_general.customer_support.email",
+            "brandinfo_general.customer_support.channels"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.customer_support.email",
+              "value": "support@longfu88.com"
+            },
+            {
+              "path": "brandinfo_general.customer_support.channels",
+              "value": [
+                "24/7 live chat",
+                "Email"
+              ]
+            }
+          ]
+        }
+      ],
+      "words": 92,
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.licences[0]",
+          "value": {
+            "jurisdiction": "Costa Rica",
+            "operator": "Lumina",
+            "registration_number": "000-039123-R-319326-001"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_controller.company_name",
+          "value": "Lumina"
+        },
+        {
+          "path": "brandinfo_general.payment_methods.deposit",
+          "value": [
+            "QRIS",
+            "DANA",
+            "OVO Wallet",
+            "Mandiri",
+            "BNI",
+            "Bank Transfer",
+            "Visa",
+            "Mastercard",
+            "USDT (TRC20)",
+            "USDT (ERC20)",
+            "USDT (BEP20)",
+            "Bitcoin",
+            "Ethereum",
+            "Litecoin",
+            "Ripple",
+            "USDC",
+            "Bitcoin Cash",
+            "Cardano",
+            "Touch'n Go",
+            "GrabPay",
+            "DuitNow",
+            "Online Banking",
+            "DBS Bank",
+            "OCBC Bank",
+            "PromptPay QR",
+            "MoMo",
+            "Zalo",
+            "ViettelPay",
+            "VietQR",
+            "Sofort",
+            "Giropay",
+            "PayNow QR",
+            "BCA",
+            "PayNow",
+            "Neteller",
+            "Skrill"
+          ]
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "MYR",
+            "THB",
+            "SGD",
+            "USDT"
+          ]
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].reward",
+          "value": "188% up to 2,888 USDT"
+        },
+        {
+          "path": "brandinfo_general.welcome_bonus_summary",
+          "value": "188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings."
+        },
+        {
+          "path": "brandinfo_general.minimum_deposit",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].reward",
+          "value": "Up to 10% of weekly net casino losses, capped at €6,988"
+        },
+        {
+          "path": "brandinfo_general.customer_support.languages",
+          "value": [
+            "English",
+            "Malay",
+            "Simplified Chinese",
+            "Thai",
+            "Indonesian",
+            "Vietnamese"
+          ]
+        },
+        {
+          "path": "brandinfo_general.customer_support.email",
+          "value": "support@longfu88.com"
+        },
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 13,
+        "entities": 1
+      },
+      "words_base": [
+        81,
+        103
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "Deposit Methods: Crypto Networks and Local Options",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k14",
+        "k16"
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.deposit_methods",
+        "brandinfo_deposit.deposit_guide",
+        "brandinfo_general.minimum_deposit",
+        "brandinfo_general.currencies"
+      ],
+      "words_min": 141,
+      "words_max": 179,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Payment Methods",
+          "priority": 10
+        },
+        {
+          "name": "Bank Transfer",
+          "priority": 7
+        },
+        {
+          "name": "Cryptocurrency",
+          "priority": 7
+        },
+        {
+          "name": "E-wallets",
+          "priority": 6
+        },
+        {
+          "name": "Deposit Limits",
+          "priority": 7
+        },
+        {
+          "name": "Processing Speed",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "within 1-2 minutes",
+          "priority": 8,
+          "relation": "show up on the balance",
+          "subject": "Deposits"
+        },
+        {
+          "object": "no charge for processing a deposit, while provider or network costs can still arise",
+          "priority": 7,
+          "relation": "levies",
+          "subject": "Casino"
+        }
+      ],
+      "listed_entities": [
+        "Bank Transfer",
+        "Cryptocurrency",
+        "E-wallets"
+      ],
+      "summary": "Deposit methods grouped by type, limits and speed common to all of them, local Singapore options and the six-step deposit path.",
+      "copywriter_notes": "Deposit overview in table form. One lead-in sentence comes first. Next comes a Markdown-formatted table of three columns named Method type | Examples | Currencies, with these groups: cryptocurrencies (Bitcoin, Ethereum, Litecoin, USDT across TRC20, ERC20 and BEP20, USDC plus other listed coins), then cards (Visa, Mastercard), bank transfers, domestic banking and wallet options, e-wallets (Skrill, Neteller) and the European methods Giropay and Sofort. Singapore spotlight: DBS Bank and OCBC Bank (SGD), PayNow QR and PayNow, as given. Limits common to every method: a single transaction must fall between €10 and €5,000; processing takes 1-2 minutes; the casino charges no processing fee, but blockchain network fees or fees from the provider may apply. Leave out single-method limit lines, because euro signs end up beside local-currency figures there; say instead that three things move the limits: where the player is, which currency is used, which method is chosen. The welcome bonus cannot be triggered by money coming in through Neteller or Skrill. Underneath, retell the six deposit steps in no more than two sentences, as flowing text. Table cells: no tracked keywords. Presentation order: crypto and the three USDT networks first, local and card methods after, no per-method limits. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b20"
+      ],
+      "words": 160,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_deposit.deposit_methods",
+          "value": [
+            {
+              "method": "BCA",
+              "currencies": [
+                "IDR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "BNI",
+              "currencies": [
+                "IDR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €20, maximum €40,000 per transaction"
+              ]
+            },
+            {
+              "method": "Bank Transfer",
+              "currencies": [
+                "IDR",
+                "MYR",
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €25, maximum €82,000 per transaction",
+                "MYR: minimum €50, maximum €50,000 per transaction",
+                "VND: minimum €100, maximum €500,000 per transaction"
+              ]
+            },
+            {
+              "method": "Bitcoin",
+              "currencies": [
+                "BTC"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €590, maximum €98,490 per transaction",
+                "MYR: minimum €145, maximum €23,840 per transaction",
+                "SGD: minimum €45, maximum €7,560 per transaction",
+                "THB: minimum €1,100, maximum €182,910 per transaction",
+                "VND: minimum €929, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "Bitcoin Cash",
+              "currencies": [
+                "BCH"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "Cardano",
+              "currencies": [
+                "ADA"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "DANA",
+              "currencies": [
+                "IDR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "DBS Bank",
+              "currencies": [
+                "SGD"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "SGD: minimum €50, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "DuitNow",
+              "currencies": [
+                "MYR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "MYR: minimum €30, maximum €50,000 per transaction"
+              ]
+            },
+            {
+              "method": "Ethereum",
+              "currencies": [
+                "ETH"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "Giropay",
+              "currencies": [
+                "EUR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "EUR: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "GrabPay",
+              "currencies": [
+                "MYR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "MYR: minimum €30, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "Litecoin",
+              "currencies": [
+                "LTC"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "Mandiri",
+              "currencies": [
+                "IDR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €20, maximum €40,000 per transaction"
+              ]
+            },
+            {
+              "method": "Mastercard",
+              "currencies": [
+                "IDR",
+                "MYR",
+                "SGD",
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €200, maximum €30,000 per transaction",
+                "MYR: minimum €50, maximum €9,000 per transaction",
+                "SGD: minimum €18, maximum €3,000 per transaction",
+                "VND: minimum €320, maximum €50,000 per transaction"
+              ]
+            },
+            {
+              "method": "MoMo",
+              "currencies": [
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "VND: minimum €50, maximum €30,000 per transaction"
+              ]
+            },
+            {
+              "method": "Neteller",
+              "currencies": [
+                "EUR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "EUR: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "OCBC Bank",
+              "currencies": [
+                "SGD"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "SGD: minimum €50, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "OVO Wallet",
+              "currencies": [
+                "IDR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €10, maximum €2,000 per transaction"
+              ]
+            },
+            {
+              "method": "Online Banking",
+              "currencies": [
+                "MYR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "MYR: minimum €30, maximum €10,000 per transaction"
+              ]
+            },
+            {
+              "method": "PayNow",
+              "currencies": [
+                "SGD"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "SGD: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "PayNow QR",
+              "currencies": [
+                "SGD"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "SGD: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "PromptPay QR",
+              "currencies": [
+                "THB"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "THB: minimum €300, maximum €200,000 per transaction"
+              ]
+            },
+            {
+              "method": "QRIS",
+              "currencies": [
+                "IDR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €10, maximum €50,000 per transaction"
+              ]
+            },
+            {
+              "method": "Ripple",
+              "currencies": [
+                "XRP"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "Skrill",
+              "currencies": [
+                "EUR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "EUR: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "Sofort",
+              "currencies": [
+                "EUR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "EUR: minimum €10, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "Touch'n Go",
+              "currencies": [
+                "MYR"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "MYR: minimum €30, maximum €5,000 per transaction"
+              ]
+            },
+            {
+              "method": "USDC",
+              "currencies": [
+                "USDC"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ]
+            },
+            {
+              "method": "USDT (BEP20)",
+              "currencies": [
+                "USDT"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ],
+              "network": "BEP20"
+            },
+            {
+              "method": "USDT (ERC20)",
+              "currencies": [
+                "USDT"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ],
+              "network": "ERC20"
+            },
+            {
+              "method": "USDT (TRC20)",
+              "currencies": [
+                "USDT"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €196, maximum €98,490 per transaction",
+                "MYR: minimum €50, maximum €23,840 per transaction",
+                "SGD: minimum €15, maximum €7,560 per transaction",
+                "THB: minimum €370, maximum €182,910 per transaction",
+                "VND: minimum €309, maximum €154,949 per transaction"
+              ],
+              "network": "TRC20"
+            },
+            {
+              "method": "VietQR",
+              "currencies": [
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "VND: minimum €50, maximum €300,000 per transaction"
+              ]
+            },
+            {
+              "method": "ViettelPay",
+              "currencies": [
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "VND: minimum €50, maximum €20,000 per transaction"
+              ]
+            },
+            {
+              "method": "Visa",
+              "currencies": [
+                "IDR",
+                "MYR",
+                "SGD",
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "IDR: minimum €200, maximum €30,000 per transaction",
+                "MYR: minimum €50, maximum €9,000 per transaction",
+                "SGD: minimum €18, maximum €3,000 per transaction",
+                "VND: minimum €320, maximum €50,000 per transaction"
+              ]
+            },
+            {
+              "method": "Zalo",
+              "currencies": [
+                "VND"
+              ],
+              "minimum": "€10",
+              "maximum": "€5,000",
+              "fee": "No casino processing fee; payment provider or blockchain network fees may apply",
+              "transaction_speed": "1–2 minutes",
+              "important_terms": [
+                "VND: minimum €50, maximum €100,000 per transaction"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_deposit.deposit_guide",
+          "value": [
+            "Log in to the Longfu88 account.",
+            "Open the cashier and select Deposit.",
+            "Choose an available payment method and its supported currency or blockchain network.",
+            "Enter the amount and payment information.",
+            "Confirm and authorize the transaction using the provider instructions.",
+            "Wait for the funds to be credited to the playable balance."
+          ]
+        },
+        {
+          "path": "brandinfo_general.minimum_deposit",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "MYR",
+            "THB",
+            "SGD",
+            "USDT"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 4
+      },
+      "words_base": [
+        101,
+        129
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 3,
+      "heading": "Crypto and Fiat Withdrawals: Timing and Fees",
+      "source": "unique",
+      "covers_clusters": [
+        "k15"
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_methods",
+        "brandinfo_withdrawal.withdrawal_guide",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms",
+        "brandinfo_privacy_policy.terms_conditions.conditional_fees",
+        "brandinfo_general.payment_methods.withdrawal"
+      ],
+      "words_min": 128,
+      "words_max": 162,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 1,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Withdrawal Time",
+          "priority": 10
+        },
+        {
+          "name": "Withdrawal Methods",
+          "priority": 8
+        },
+        {
+          "name": "Minimum Withdrawal",
+          "priority": 7
+        },
+        {
+          "name": "Withdrawal Fees",
+          "priority": 7
+        },
+        {
+          "name": "Deposit Turnover",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "no more than three business days",
+          "priority": 9,
+          "relation": "gets cleared by the casino in",
+          "subject": "Withdrawal"
+        },
+        {
+          "object": "3-5 more business days, spent at the player's bank",
+          "priority": 7,
+          "relation": "can add",
+          "subject": "Bank Transfer"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Cash-out mechanics: choice of channels, a six-step path, waiting period, floor and ceiling per request, and charges that apply under certain conditions.",
+      "copywriter_notes": "Withdrawal explainer, methods first. Methods (names as given): Mastercard, Visa, bank transfer, Online Banking, DBS Bank, MoMo, DANA, Touch'n Go, Litecoin, Ethereum, Bitcoin and USDT in three networks. Limits: minimum €20, maximum €5,000. Route: a NUMBERED list carries the six steps. Timing: card, crypto and e-wallet payouts take 1-3 working days. A bank transfer runs in two stages. First the operator's own handling, 3 business days at most. Then the player's bank spends another 3 to 5 working days before the money is visible. As a general rule the casino handles each request inside three working days. Whichever sentence gives the processing time has to include \"Lngfu88 withdrawal time\" exactly as typed here, misspelling intact. Fees: the standard casino withdrawal fee is zero, though fees from providers and the blockchain can still apply. Commission: a 10% charge (minimum €2.25) may apply when the amount wagered is lower than the amount paid in (the casino may require deposit turnover of 1x ahead of any withdrawal), and a 15% charge may apply to certain transactions funded via card or bank transfer. Do not quote single methods' minimum lines per market, because euro signs and local-currency amounts are mixed there. Identity checks may delay payouts (see the verification section). Use \"Longfu88\" exactly once and \"Lngfu88 withdrawal time\" (verbatim, with this spelling) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b21"
+      ],
+      "words": 145,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_withdrawal.withdrawal_methods",
+          "value": [
+            {
+              "method": "Bank Transfer",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days",
+              "currencies": [
+                "IDR",
+                "MYR",
+                "VND"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €25,000 (IDR market)",
+                "Malaysia: minimum €50 (MYR market)",
+                "Singapore: minimum €80 (SGD market)",
+                "Thailand: minimum €1,945 (THB market)",
+                "Vietnam: minimum €10,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Visa",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "IDR",
+                "MYR",
+                "SGD",
+                "VND"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €25,000 (IDR market)",
+                "Malaysia: minimum €50 (MYR market)",
+                "Singapore: minimum €80 (SGD market)",
+                "Thailand: minimum €1,945 (THB market)",
+                "Vietnam: minimum €10,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Mastercard",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "IDR",
+                "MYR",
+                "SGD",
+                "VND"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €25,000 (IDR market)",
+                "Malaysia: minimum €50 (MYR market)",
+                "Singapore: minimum €80 (SGD market)",
+                "Thailand: minimum €1,945 (THB market)",
+                "Vietnam: minimum €10,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Bitcoin",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "BTC"
+              ],
+              "important_terms": [
+                "Singapore: minimum €15 (SGD market)",
+                "Thailand: minimum €375 (THB market)",
+                "Vietnam: minimum €308,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Ethereum",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "ETH"
+              ],
+              "important_terms": [
+                "Singapore: minimum €15 (SGD market)",
+                "Thailand: minimum €375 (THB market)",
+                "Vietnam: minimum €308,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Litecoin",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "LTC"
+              ],
+              "important_terms": [
+                "Singapore: minimum €15 (SGD market)",
+                "Thailand: minimum €375 (THB market)",
+                "Vietnam: minimum €308,000 (VND market)"
+              ]
+            },
+            {
+              "method": "USDT (TRC20)",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "USDT"
+              ],
+              "important_terms": [
+                "Singapore: minimum €15 (SGD market)",
+                "Thailand: minimum €375 (THB market)",
+                "Vietnam: minimum €308,000 (VND market)"
+              ]
+            },
+            {
+              "method": "USDT (ERC20)",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "USDT"
+              ],
+              "important_terms": [
+                "Singapore: minimum €15 (SGD market)",
+                "Thailand: minimum €375 (THB market)",
+                "Vietnam: minimum €308,000 (VND market)"
+              ]
+            },
+            {
+              "method": "USDT (BEP20)",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "USDT"
+              ],
+              "important_terms": [
+                "Singapore: minimum €15 (SGD market)",
+                "Thailand: minimum €375 (THB market)",
+                "Vietnam: minimum €308,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Touch'n Go",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "MYR"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €10,000 (IDR market)",
+                "Malaysia: minimum €100 (MYR market)"
+              ]
+            },
+            {
+              "method": "DANA",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "IDR"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €10,000 (IDR market)",
+                "Malaysia: minimum €100 (MYR market)"
+              ]
+            },
+            {
+              "method": "MoMo",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "1–3 business days",
+              "currencies": [
+                "VND"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €10,000 (IDR market)",
+                "Malaysia: minimum €100 (MYR market)"
+              ]
+            },
+            {
+              "method": "DBS Bank",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days",
+              "currencies": [
+                "SGD"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €25,000 (IDR market)",
+                "Malaysia: minimum €50 (MYR market)",
+                "Singapore: minimum €80 (SGD market)",
+                "Thailand: minimum €1,945 (THB market)",
+                "Vietnam: minimum €10,000 (VND market)"
+              ]
+            },
+            {
+              "method": "Online Banking",
+              "minimum": "€20",
+              "maximum": "€5,000",
+              "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+              "transaction_speed": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days",
+              "currencies": [
+                "MYR"
+              ],
+              "important_terms": [
+                "Indonesia: minimum €25,000 (IDR market)",
+                "Malaysia: minimum €50 (MYR market)",
+                "Singapore: minimum €80 (SGD market)",
+                "Thailand: minimum €1,945 (THB market)",
+                "Vietnam: minimum €10,000 (VND market)"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_withdrawal.withdrawal_guide",
+          "value": [
+            "Log in to Longfu88 and open the cashier.",
+            "Select Withdrawal and choose a supported destination or payment method.",
+            "Enter the amount and the receiving bank, wallet, or blockchain address.",
+            "Complete identity and payment-method verification if prompted.",
+            "Review the request and confirm submission.",
+            "Wait for casino processing and any bank or network settlement before receiving funds."
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.withdrawal_terms",
+          "value": [
+            "A minimum 1x deposit turnover can apply before a withdrawal.",
+            "Withdrawal requests are generally processed within three working days.",
+            "Bank transfers may need another 3–5 business days for settlement.",
+            "The operator may request KYC documents before processing payments."
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.conditional_fees",
+          "value": [
+            "Where qualifying turnover is below the deposited amount, a 10% commission may apply with minimum €2.25.",
+            "A 15% charge can apply to some card or bank transfer funded transactions under the casino rules."
+          ]
+        },
+        {
+          "path": "brandinfo_general.payment_methods.withdrawal",
+          "value": [
+            "Bank Transfer",
+            "Visa",
+            "Mastercard",
+            "Bitcoin",
+            "Ethereum",
+            "Litecoin",
+            "USDT (TRC20)",
+            "USDT (ERC20)",
+            "USDT (BEP20)",
+            "Touch'n Go",
+            "DANA",
+            "MoMo",
+            "DBS Bank",
+            "Online Banking"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 5
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 2,
+      "heading": "Crypto Welcome Bonus and the Alternatives",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k10"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.type",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.eligibility",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure",
+        "brandinfo_promotions.other_bonuses[0]",
+        "brandinfo_promotions.other_bonuses[1]"
+      ],
+      "words_min": 146,
+      "words_max": 187,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 1,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 1,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Casino Welcome Bonus",
+          "priority": 10
+        },
+        {
+          "name": "Deposit Bonus",
+          "priority": 8
+        },
+        {
+          "name": "Free Spins",
+          "priority": 7
+        },
+        {
+          "name": "Minimum Deposit",
+          "priority": 6
+        },
+        {
+          "name": "My Bonuses",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "18 free spins and a bonus of 188% up to €2,088",
+          "priority": 9,
+          "relation": "gives",
+          "subject": "Casino Welcome Bonus"
+        },
+        {
+          "object": "inside My Bonuses, ahead of any wager",
+          "priority": 7,
+          "relation": "switches on",
+          "subject": "Casino Welcome Bonus"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Casino Welcome Bonus: percentage, maximum, free spins, qualifying deposit, eligible players and the four claiming steps, plus the pair of other first-deposit offers.",
+      "copywriter_notes": "Lead offer, crypto version first: 188% up to 2,888 USDT, 50 USDT minimum deposit, 10 days of validity, 40x deposit plus bonus, plus the eligible cryptocurrencies (the offer is called Casino Crypto Welcome Bonus). It is the one call-to-action spot of the page. Fiat follows: the Casino Welcome Bonus, then the Live Casino Welcome Bonus. Keep crypto and fiat figures from ever being summed. Fiat bonus, named \"Casino Welcome Bonus\": 18 Free Spins are paired with a 188% match capped at €2,088 (as in the Brand Information, word for word). Eligibility: players newly registered who place a first qualifying deposit; each account receives a single welcome offer. Threshold: THIS bonus requires €50 as its qualifying deposit, which is not the general €10 minimum deposit that applies casino-wide; never mix the two. Claiming steps: four short bullet points (sign up; make the first qualifying deposit; activate the bonus under My Bonuses before betting; play eligible games and complete the wagering within the bonus validity period). PROMO CODE: no code appears among the claiming steps. \"Longfu88 promo code\" goes into a single sentence stating that no code is needed; the qualifying deposit is followed by taking the bonus in My Bonuses, and not one of the listed steps asks for a promo code. Inventing a code, naming one or dropping hints about one is forbidden. Alternatives, in a single sentence: the Casino Crypto Welcome Bonus wants 50 USDT and returns 188% up to 2,888 USDT, whereas the Live Casino Welcome Bonus starts from a €30 deposit and gives 125% up to €888. State that the Casino Welcome Bonus and the Crypto Welcome Bonus replace each other as first-deposit offers. Place \"Longfu88 bonus\" in the sentence carrying percentage and maximum amount. The wagering rule, the maximum bet and the validity period are deferred to the sub-section that follows. Use \"Longfu88\" exactly once, \"Longfu88 bonus\" exactly once and \"Longfu88 promo code\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b07"
+      ],
+      "words": 166,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.type",
+          "value": "First deposit casino bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.bonus_percentage",
+          "value": 188
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bonus",
+          "value": "€2,088"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.eligibility",
+          "value": "New registered players on their first qualifying deposit; one welcome offer per account."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming_procedure",
+          "value": [
+            "Register an account and complete the required personal details.",
+            "Make the first qualifying deposit.",
+            "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.",
+            "Play eligible casino games and complete the wagering before expiry."
+          ]
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[0]",
+          "value": {
+            "name": "Live Casino Welcome Bonus",
+            "type": "Live casino welcome",
+            "reward": "125% up to €888",
+            "minimum_deposit": "€30",
+            "wagering_requirement": "30x the deposit plus bonus",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "New players only; first qualifying deposit.",
+              "Maximum bet: €25.",
+              "Neteller and Skrill excluded.",
+              "Must activate before wagering; cannot combine with another active bonus."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1]",
+          "value": {
+            "name": "Casino Crypto Welcome Bonus",
+            "type": "Crypto casino welcome",
+            "reward": "188% up to 2,888 USDT",
+            "minimum_deposit": "50 USDT",
+            "wagering_requirement": "40x deposit plus bonus",
+            "validity": "10 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "First qualifying crypto deposit only.",
+              "Maximum bonus wager: 5 USDT per spin.",
+              "Casino Welcome Bonus and Crypto Welcome Bonus are alternative first-deposit offers."
+            ],
+            "eligible_cryptocurrencies": [
+              "USDT",
+              "BTC",
+              "BCH",
+              "LTC",
+              "ETH",
+              "XRP",
+              "USDC"
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 10,
+        "entities": 5
+      },
+      "words_base": [
+        101,
+        129
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 3,
+      "heading": "Wagering and Caps of the Fiat Welcome Bonus",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.maximum_bet",
+        "brandinfo_welcome.welcome_bonus.maximum_cashout",
+        "brandinfo_welcome.welcome_bonus.important_terms"
+      ],
+      "words_min": 102,
+      "words_max": 130,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Wagering Requirement",
+          "priority": 10
+        },
+        {
+          "name": "Maximum Bet",
+          "priority": 7
+        },
+        {
+          "name": "Maximum Cashout",
+          "priority": 7
+        },
+        {
+          "name": "Bonus Validity",
+          "priority": 6
+        },
+        {
+          "name": "Free Spins Winnings",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "25 times the deposit plus the bonus",
+          "priority": 9,
+          "relation": "comes to",
+          "subject": "Wagering Requirement"
+        },
+        {
+          "object": "10 days following activation",
+          "priority": 7,
+          "relation": "lapses",
+          "subject": "Bonus"
+        }
+      ],
+      "listed_entities": [
+        "Wagering Requirement",
+        "Maximum Bet",
+        "Maximum Cashout",
+        "Bonus Validity",
+        "Free Spins Winnings"
+      ],
+      "summary": "Table of the Casino Welcome Bonus terms, followed by the restrictions and the way they work out for the player.",
+      "copywriter_notes": "Terms table plus exclusions. A one-sentence introduction goes first; then, formatted in Markdown, a table where column one is Condition and column two is Value, with these rows: maximum cashout (5x the initial bonus amount), maximum bet (€22.5 per spin), validity (10 days from activation), free spins wagering (40x Free Spins winnings), wagering (25x applied to deposit plus bonus amount). Under the terms table, fit the exclusions and rules into one or two sentences. Money sent via Neteller or Skrill does not qualify for the bonus. Two bonuses cannot run simultaneously. A withdrawal request made before the claim, or while the bonus is active, can cost the player eligibility. Cancelling wipes the bonus funds plus winnings not yet converted. The casino may demand verification before it releases what the bonus won. Table cells hold no tracked keywords. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b08"
+      ],
+      "words": 116,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.wagering_requirement",
+          "value": "25x the deposit plus bonus amount"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+          "value": "40x Free Spins winnings"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.validity",
+          "value": "10 days from activation"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bet",
+          "value": "€22.5 per spin"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_cashout",
+          "value": "5x the initial bonus amount"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms",
+          "value": [
+            "Neteller and Skrill deposits are excluded from this promotion.",
+            "Free Spins winnings have separate wagering requirements.",
+            "Only one promotional bonus may be active at a time.",
+            "A withdrawal request before claiming or while the bonus is active can void promotional eligibility.",
+            "Cancelling the promotion forfeits bonus funds and unconverted promotional winnings.",
+            "Account verification may be required before payment of promotional winnings."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 6,
+        "entities": 1
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Crypto Reloads and Weekly Offers",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k11"
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[2]",
+        "brandinfo_promotions.other_bonuses[3]",
+        "brandinfo_promotions.other_bonuses[4]",
+        "brandinfo_promotions.other_bonuses[5]",
+        "brandinfo_promotions.other_bonuses[6]",
+        "brandinfo_promotions.other_bonuses[7]",
+        "brandinfo_promotions.other_bonuses[8]"
+      ],
+      "words_min": 128,
+      "words_max": 162,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Weekly Reload",
+          "priority": 9
+        },
+        {
+          "name": "Weekend Reload",
+          "priority": 8
+        },
+        {
+          "name": "Crypto Reload",
+          "priority": 7
+        },
+        {
+          "name": "One-Day Reload Special",
+          "priority": 5
+        },
+        {
+          "name": "Seasonal Promotion",
+          "priority": 5
+        },
+        {
+          "name": "Free Spins",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "50 Free Spins",
+          "priority": 7,
+          "relation": "grants",
+          "subject": "Weekly Reload"
+        },
+        {
+          "object": "another casino bonus that is already running",
+          "priority": 8,
+          "relation": "do not stack with",
+          "subject": "Promotions"
+        }
+      ],
+      "listed_entities": [
+        "Weekly Reload",
+        "Weekend Reload",
+        "Crypto Reload",
+        "One-Day Reload Special",
+        "Seasonal Promotion"
+      ],
+      "summary": "Recurring reloads and special campaigns in a comparison table (reward, minimum deposit, wagering, validity), with the rules they share.",
+      "copywriter_notes": "Reload offers in one table. Lead-in sentence first; the table underneath it (Markdown) has one column per attribute, in this order: Offer, Reward, Min. deposit, Wagering, Validity. It covers seven offers as given. Row order: Casino Weekly Crypto Reload and Casino Weekend Crypto Reload first, then Casino Weekly Reload, Casino Weekend Reload, Casino Double Fortune (one-day reload special), Casino Trick or Treat Pumpkin Bonanza, Casino Dragon Quest (verification reward). Rules common to all offers, stated once below the table: the maximum bet is €5 per spin as long as bonus money is in play; every claim is switched on inside My Bonuses; within one promotional period only a single claim can be made; combining with a casino bonus that is already active is not possible. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b09"
+      ],
+      "words": 145,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses[2]",
+          "value": {
+            "name": "Casino Weekly Reload",
+            "type": "Weekly free spins",
+            "reward": "50 Free Spins",
+            "minimum_deposit": "€30",
+            "wagering_requirement": "40x winnings from Free Spins",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[3]",
+          "value": {
+            "name": "Casino Weekly Crypto Reload",
+            "type": "Crypto weekly reload",
+            "reward": "60% up to 1,000 USDT",
+            "minimum_deposit": "20 USDT",
+            "wagering_requirement": "30x deposit plus bonus",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[4]",
+          "value": {
+            "name": "Casino Weekend Reload",
+            "type": "Weekend deposit bonus",
+            "reward": "Up to €3,360 + 50 Free Spins",
+            "minimum_deposit": "€50",
+            "wagering_requirement": "30x deposit plus bonus; 40x Free Spins winnings",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[5]",
+          "value": {
+            "name": "Casino Weekend Crypto Reload",
+            "type": "Weekend crypto bonus",
+            "reward": "75% up to 750 USDT + 100 Free Spins",
+            "minimum_deposit": "20 USDT",
+            "wagering_requirement": "30x deposit plus bonus; 40x Free Spins winnings",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[6]",
+          "value": {
+            "name": "Casino Double Fortune: One-Day Reload Special",
+            "type": "One-day reload",
+            "reward": "50% up to €500",
+            "minimum_deposit": "€30",
+            "wagering_requirement": "30x deposit plus bonus",
+            "validity": "24 hours",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[7]",
+          "value": {
+            "name": "Casino Trick or Treat Pumpkin Bonanza",
+            "type": "Seasonal casino promotion",
+            "reward": "Up to 100 Free Spins",
+            "minimum_deposit": "€20",
+            "wagering_requirement": "40x Free Spins winnings",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[8]",
+          "value": {
+            "name": "Casino Dragon Quest: Get Verified and Get Extra!",
+            "type": "Verification reward",
+            "reward": "€10 bonus credit",
+            "minimum_deposit": "€20",
+            "wagering_requirement": "30x promotional credit",
+            "validity": "7 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Players who complete requested account verification during the campaign.",
+            "important_terms": [
+              "One claim per promotional period unless otherwise stated.",
+              "Cannot be combined with another active casino bonus.",
+              "Maximum stake while wagering bonus funds: €5 per spin."
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 7,
+        "entities": 2
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 3,
+      "heading": "Cashback and Rebates",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[9]",
+        "brandinfo_promotions.other_bonuses[10]",
+        "brandinfo_promotions.other_bonuses[11]",
+        "brandinfo_promotions.other_bonuses[12]",
+        "brandinfo_promotions.other_bonuses[13]",
+        "brandinfo_promotions.other_bonuses[14]"
+      ],
+      "words_min": 83,
+      "words_max": 106,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Weekly Cashback",
+          "priority": 10
+        },
+        {
+          "name": "Live Casino Cashback",
+          "priority": 8
+        },
+        {
+          "name": "Unlimited Rebate",
+          "priority": 7
+        },
+        {
+          "name": "VIP Cashback Rates",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "10% of net losses at most, counted across the week",
+          "priority": 9,
+          "relation": "returns",
+          "subject": "Weekly Cashback"
+        },
+        {
+          "object": "each day",
+          "priority": 7,
+          "relation": "are credited",
+          "subject": "Rebates"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Weekly and live casino cashback including the VIP rates, plus the daily rebates per game category.",
+      "copywriter_notes": "Cashback and rebates, two layers. Casino Weekly Cashback: the Monday credit goes to My Bonuses; cashback wagering is 10x; opting in is valid for a cycle of four weeks; the week runs Monday (00:00 UTC) through Sunday (23:59 UTC); with a ceiling of €6,988, the refund tops out at 10% of the net loss the player ran up on casino play over those seven days. VIP tier decides the rate, and one sentence lists tier, percentage and cap: Rates by tier: Bronze, Silver, Gold, Platinum, Diamond = 2%, 4%, 6%, 8%, 10%. Live Casino Cashback: 25% up to €850. Daily rebates, packed into one sentence, with P2P at 0.8%, casino at 0.9% and both live casino and lottery at 1.0%, each carrying 1x wagering. What counts is wagering from the real-money balance; bonus funds never qualify. Percentages tied to VIP levels live in the VIP section, and these tier rates here (weekly cashback) must never be blended with them. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b10"
+      ],
+      "words": 94,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses[9]",
+          "value": {
+            "name": "Casino Weekly Cashback",
+            "type": "Casino cashback",
+            "reward": "Up to 10% of weekly net casino losses, capped at €6,988",
+            "calculation_period": "Monday 00:00 UTC through Sunday 23:59 UTC",
+            "minimum_cashback": "€4.5",
+            "opt_in": "Opt in for a four-week cycle; active accounts can renew automatically.",
+            "crediting": "Credited to My Bonuses on Monday; activation required.",
+            "wagering_requirement": "10x cashback before withdrawal",
+            "cashback_by_vip": [
+              {
+                "level": "VIP Bronze",
+                "percentage": 2,
+                "maximum": "€1,888"
+              },
+              {
+                "level": "VIP Silver",
+                "percentage": 4,
+                "maximum": "€2,388"
+              },
+              {
+                "level": "VIP Gold",
+                "percentage": 6,
+                "maximum": "€2,988"
+              },
+              {
+                "level": "VIP Platinum",
+                "percentage": 8,
+                "maximum": "€3,988"
+              },
+              {
+                "level": "VIP Diamond",
+                "percentage": 10,
+                "maximum": "€6,988"
+              }
+            ],
+            "important_terms": [
+              "Only real-money casino bets and winnings count; bonus funds excluded.",
+              "Weekly cashback expires if it is not activated within its claim window."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[10]",
+          "value": {
+            "name": "Live Casino Cashback",
+            "type": "Live casino cashback",
+            "reward": "25% up to €850",
+            "minimum_cashback": "€4.5",
+            "calculation_period": "Monday 00:00 UTC through Sunday 23:59 UTC",
+            "crediting": "Credited to My Bonuses on Monday; opt-in and activation required.",
+            "wagering_requirement": "10x credited cashback",
+            "important_terms": [
+              "Based on real-money stakes less winnings in eligible Live Casino games.",
+              "Bonus balances are excluded from cashback calculations."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[11]",
+          "value": {
+            "name": "Unlimited Casino Rebate",
+            "type": "Rebate",
+            "rebate_percentage": 0.9,
+            "calculation": "Qualifying settled real-money wagering on the relevant game category.",
+            "crediting": "Rebate credited daily to the rewards balance.",
+            "wagering_requirement": "1x credited rebate",
+            "eligibility": "Registered players with qualifying settled wagers."
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[12]",
+          "value": {
+            "name": "Unlimited Live Casino Rebate",
+            "type": "Rebate",
+            "rebate_percentage": 1.0,
+            "calculation": "Qualifying settled real-money wagering on the relevant game category.",
+            "crediting": "Rebate credited daily to the rewards balance.",
+            "wagering_requirement": "1x credited rebate",
+            "eligibility": "Registered players with qualifying settled wagers."
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[13]",
+          "value": {
+            "name": "Unlimited P2P Rebate",
+            "type": "Rebate",
+            "rebate_percentage": 0.8,
+            "calculation": "Qualifying settled real-money wagering on the relevant game category.",
+            "crediting": "Rebate credited daily to the rewards balance.",
+            "wagering_requirement": "1x credited rebate",
+            "eligibility": "Registered players with qualifying settled wagers."
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[14]",
+          "value": {
+            "name": "Unlimited Lottery Rebate",
+            "type": "Rebate",
+            "rebate_percentage": 1.0,
+            "calculation": "Qualifying settled real-money wagering on the relevant game category.",
+            "crediting": "Rebate credited daily to the rewards balance.",
+            "wagering_requirement": "1x credited rebate",
+            "eligibility": "Registered players with qualifying settled wagers."
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 24,
+        "entities": 4
+      },
+      "words_base": [
+        57,
+        73
+      ]
+    },
+    {
+      "id": "b09",
+      "level": 2,
+      "heading": "Sports Betting with Crypto Offers",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k08"
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.bet_types",
+        "brandinfo_sportsbook.sportsbook.live_betting",
+        "brandinfo_sportsbook.sportsbook.important_terms",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses"
+      ],
+      "words_min": 160,
+      "words_max": 203,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 1
+      },
+      "entities": [
+        {
+          "name": "Sportsbook",
+          "priority": 10
+        },
+        {
+          "name": "Football",
+          "priority": 7
+        },
+        {
+          "name": "Esports",
+          "priority": 6
+        },
+        {
+          "name": "Live Betting",
+          "priority": 7
+        },
+        {
+          "name": "Bet Builder",
+          "priority": 5
+        },
+        {
+          "name": "Accumulator",
+          "priority": 5
+        },
+        {
+          "name": "Sport First Deposit Bonus",
+          "priority": 10
+        },
+        {
+          "name": "Sports Cashback",
+          "priority": 7
+        },
+        {
+          "name": "Parlay Boost",
+          "priority": 6
+        },
+        {
+          "name": "Minimum Odds",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "esports and virtual football alongside basketball, football, volleyball, badminton, tennis, cricket and table tennis",
+          "priority": 8,
+          "relation": "includes",
+          "subject": "Sportsbook"
+        },
+        {
+          "object": "in-play markets and live odds",
+          "priority": 7,
+          "relation": "comes with",
+          "subject": "Live Betting"
+        },
+        {
+          "object": "100% up to €1,888",
+          "priority": 8,
+          "relation": "pays",
+          "subject": "Sport First Deposit Bonus"
+        },
+        {
+          "object": "single bets priced from 2.00 upwards",
+          "priority": 7,
+          "relation": "require",
+          "subject": "Qualifying Bets"
+        }
+      ],
+      "listed_entities": [
+        "Sport First Deposit Bonus"
+      ],
+      "summary": "Sports and bet types, live betting, then bonuses for sports, which share one odds rule, crypto equivalents included.",
+      "copywriter_notes": "One continuous section, no further headings below it. It has two parts, ordered as listed, each sized by its weight in the block. (1) Sports Betting: say which sports and esports are offered, in this order: virtual football and esports, then volleyball and table tennis, then cricket plus badminton, then tennis, basketball and football (nine in total); the seven bet types are Bet Builder and handicap, outrights and totals, then live, single and accumulator; add live betting through in-play markets and live odds. Work \"Longfu sports\" into a normal-sounding expression naming the sports area (e.g. the Longfu sports section). Event and market availability may differ by jurisdiction. No sportsbook platform, league or event is named. (2) The sports bonuses and promotions part: a short table with Offer in the first column, then Reward, Min. deposit and Wagering. Sport Weekend Reload Bonus: up to €3,750 at 50%, min. €50, 8x. Sport Weekly Reload Bonus: €50 minimum, 8x, up to €2,500 at 50%. Sport First Deposit Bonus: 100% up to €1,888, min. €50, wagering 8x, valid for 30 days. The names Sport Crypto Weekend Reload, Sport Crypto Weekly Reload and Sport Crypto Welcome Bonus appear in the bonus part. Further crypto equivalents go into prose: Bet Builder Risk Free (stake returned at 50%, max. €250), Parlay Boost (at least three legs, extra winnings of up to 100%), 2 Goals Ahead early payout, Unlimited Sports Rebate (0.70%), Sports Cashback (weekly, 10% back with a €2,500 ceiling, measured against the player's net loss across eligible sports). Rules: qualifying sports bets count only once settled; for singles the odds have to reach 2.00, for each leg of an accumulator 1.50; neither voided nor cashed-out bets qualify. Casino bonuses stay apart from all of this. Use \"Longfu88\" exactly once and \"Longfu sports\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b18",
+        "b19"
+      ],
+      "words": 182,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_available",
+          "value": [
+            "Football",
+            "Basketball",
+            "Tennis",
+            "Badminton",
+            "Cricket",
+            "Table tennis",
+            "Volleyball",
+            "Esports",
+            "Virtual football"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.bet_types",
+          "value": [
+            "Single",
+            "Accumulator",
+            "Live",
+            "Handicap",
+            "Totals",
+            "Outrights",
+            "Bet Builder"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.live_betting",
+          "value": {
+            "available": true,
+            "features": [
+              "Live odds",
+              "In-play markets"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.important_terms",
+          "value": [
+            "Event availability and market selection can vary by jurisdiction."
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses",
+          "value": [
+            {
+              "name": "Sport First Deposit Bonus",
+              "reward": "100% up to €1,888",
+              "minimum_deposit": "€50",
+              "wagering_requirement": "8x deposit plus bonus",
+              "validity": "30 days",
+              "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+              "important_terms": [
+                "Only settled qualifying sports bets contribute to wagering.",
+                "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+                "Voided and cashed-out bets do not qualify.",
+                "One claim per stated promotional period."
+              ]
+            },
+            {
+              "name": "Sport Crypto Welcome Bonus",
+              "reward": "100% up to 200 USDT",
+              "minimum_deposit": "20 USDT",
+              "wagering_requirement": "8x deposit plus bonus",
+              "validity": "30 days",
+              "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+              "important_terms": [
+                "Only settled qualifying sports bets contribute to wagering.",
+                "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+                "Voided and cashed-out bets do not qualify.",
+                "One claim per stated promotional period."
+              ]
+            },
+            {
+              "name": "Sport Weekly Reload Bonus",
+              "reward": "50% up to €2,500",
+              "minimum_deposit": "€50",
+              "wagering_requirement": "8x deposit plus bonus",
+              "validity": "30 days",
+              "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+              "important_terms": [
+                "Only settled qualifying sports bets contribute to wagering.",
+                "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+                "Voided and cashed-out bets do not qualify.",
+                "One claim per stated promotional period."
+              ]
+            },
+            {
+              "name": "Sport Weekend Reload Bonus",
+              "reward": "50% up to €3,750",
+              "minimum_deposit": "€50",
+              "wagering_requirement": "8x deposit plus bonus",
+              "validity": "30 days",
+              "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+              "important_terms": [
+                "Only settled qualifying sports bets contribute to wagering.",
+                "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+                "Voided and cashed-out bets do not qualify.",
+                "One claim per stated promotional period."
+              ]
+            },
+            {
+              "name": "Sport Crypto Weekly Reload",
+              "reward": "50% up to 500 USDT",
+              "minimum_deposit": "20 USDT",
+              "wagering_requirement": "8x deposit plus bonus",
+              "validity": "30 days",
+              "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+              "important_terms": [
+                "Only settled qualifying sports bets contribute to wagering.",
+                "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+                "Voided and cashed-out bets do not qualify.",
+                "One claim per stated promotional period."
+              ]
+            },
+            {
+              "name": "Sport Crypto Weekend Reload",
+              "reward": "50% up to 1,000 USDT",
+              "minimum_deposit": "20 USDT",
+              "wagering_requirement": "8x deposit plus bonus",
+              "validity": "30 days",
+              "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.",
+              "important_terms": [
+                "Only settled qualifying sports bets contribute to wagering.",
+                "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.",
+                "Voided and cashed-out bets do not qualify.",
+                "One claim per stated promotional period."
+              ]
+            },
+            {
+              "name": "Unlimited Sports Rebate",
+              "reward": "0.70% of qualifying settled sports wagers",
+              "wagering_requirement": "1x credited rebate",
+              "crediting": "Daily"
+            },
+            {
+              "name": "Sports Cashback",
+              "reward": "10% up to €2,500 of eligible sports net losses",
+              "calculation_period": "Weekly",
+              "wagering_requirement": "1x cashback",
+              "eligibility": "Registered players with eligible real-money losing bets"
+            },
+            {
+              "name": "2 Goals Ahead - Early Payout",
+              "reward": "Early settlement of eligible football bets when the selected team leads by two goals",
+              "important_terms": [
+                "Only participating pre-match match-winner markets qualify.",
+                "Settlement is subject to published event eligibility."
+              ]
+            },
+            {
+              "name": "Parlay Boost",
+              "reward": "Up to 100% extra winnings on qualifying accumulators",
+              "minimum_legs": 3,
+              "wagering_requirement": "No additional bonus wagering on settled enhanced winnings",
+              "important_terms": [
+                "Boost depends on the number of qualifying selections."
+              ]
+            },
+            {
+              "name": "Bet Builder Risk Free",
+              "reward": "50% risk-free stake return up to €250",
+              "eligibility": "Qualifying pre-match Bet Builder selections",
+              "wagering_requirement": "1x credited free-bet stake",
+              "validity": "7 days"
+            }
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 10
+      },
+      "words_base": [
+        110,
+        140
+      ]
+    },
+    {
+      "id": "b10",
+      "level": 2,
+      "heading": "VIP Programme and Withdrawal Limits",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k12"
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.name",
+        "brandinfo_loyalty.loyalty_vip_program.tiers",
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0]",
+        "brandinfo_loyalty.loyalty_vip_program.levels[3]",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4]",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9]",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14]",
+        "brandinfo_loyalty.loyalty_vip_program.levels[19]",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24]",
+        "brandinfo_loyalty.loyalty_vip_program.additional_benefits",
+        "brandinfo_loyalty.loyalty_vip_program.important_terms"
+      ],
+      "words_min": 109,
+      "words_max": 138,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "VIP Programme",
+          "priority": 10
+        },
+        {
+          "name": "VIP Points",
+          "priority": 8
+        },
+        {
+          "name": "VIP Levels",
+          "priority": 8
+        },
+        {
+          "name": "Withdrawal Limits",
+          "priority": 6
+        },
+        {
+          "name": "Personal VIP Manager",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "successive levels of reward",
+          "priority": 8,
+          "relation": "give access to",
+          "subject": "VIP Points"
+        },
+        {
+          "object": "the cashback share together with withdrawal ceilings",
+          "priority": 7,
+          "relation": "lift",
+          "subject": "Higher VIP Levels"
+        }
+      ],
+      "listed_entities": [
+        "VIP Levels"
+      ],
+      "summary": "VIP programme mechanics: points from real-money play, five tiers, a total of 25 reward levels, numbered, and what gets better towards the top.",
+      "copywriter_notes": "Programme mechanics. VIP points are earned by eligible play with real money; collecting them unlocks the reward levels, which are numbered and come to 25 altogether, grouped into the tiers Bronze, Silver, Gold, Platinum and Diamond. Two sentences, one for level 1 and one for level 25, quoted as the Brand Information has them (level 25: 5,500 points, and €980, 10%, €147,000; level 1: 1 point, and €9.8, 1%, €9,800); no table. Climbing adds tailored offers, cashback and larger withdrawal limits; a dedicated VIP manager is assigned starting at level 4. Remark too that the programme terms may change over time, and that both VIP level and currency decide the reward amounts and the withdrawal caps. If the name \"Longfu88 VIP Program\" appears as given, it counts once toward the tracked keyword \"Longfu88\" for this block. No weekly cashback tier table appears in this block; that belongs to the cashback section. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b12"
+      ],
+      "words": 124,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.name",
+          "value": "Longfu88 VIP Program"
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.tiers",
+          "value": [
+            "Bronze",
+            "Silver",
+            "Gold",
+            "Platinum",
+            "Diamond"
+          ]
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.progression",
+          "value": "Earn VIP points through eligible real-money gameplay; points unlock numbered reward levels."
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[0]",
+          "value": {
+            "level": 1,
+            "points_required": 1,
+            "level_reward": "€9.8",
+            "cashback_percentage": 1,
+            "withdrawal_limit": "€9,800",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[3]",
+          "value": {
+            "level": 4,
+            "points_required": 50,
+            "level_reward": "€19.6",
+            "cashback_percentage": 1.5,
+            "withdrawal_limit": "€29,400",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat",
+              "Personalised offers",
+              "Higher withdrawal limits",
+              "Cashback",
+              "Personal VIP Manager"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[4]",
+          "value": {
+            "level": 5,
+            "points_required": 70,
+            "level_reward": "€24.5",
+            "cashback_percentage": 2,
+            "withdrawal_limit": "€34,300",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat",
+              "Personalised offers",
+              "Higher withdrawal limits",
+              "Cashback",
+              "Personal VIP Manager"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[9]",
+          "value": {
+            "level": 10,
+            "points_required": 700,
+            "level_reward": "€147",
+            "cashback_percentage": 4,
+            "withdrawal_limit": "€63,700",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat",
+              "Personalised offers",
+              "Higher withdrawal limits",
+              "Cashback",
+              "Personal VIP Manager"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[14]",
+          "value": {
+            "level": 15,
+            "points_required": 2100,
+            "level_reward": "€392",
+            "cashback_percentage": 6,
+            "withdrawal_limit": "€88,200",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat",
+              "Personalised offers",
+              "Higher withdrawal limits",
+              "Cashback",
+              "Personal VIP Manager"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[19]",
+          "value": {
+            "level": 20,
+            "points_required": 3600,
+            "level_reward": "€637",
+            "cashback_percentage": 8,
+            "withdrawal_limit": "€117,600",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat",
+              "Personalised offers",
+              "Higher withdrawal limits",
+              "Cashback",
+              "Personal VIP Manager"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels[24]",
+          "value": {
+            "level": 25,
+            "points_required": 5500,
+            "level_reward": "€980",
+            "cashback_percentage": 10,
+            "withdrawal_limit": "€147,000",
+            "benefits": [
+              "On-site promotions",
+              "24/7 Live Chat",
+              "Personalised offers",
+              "Higher withdrawal limits",
+              "Cashback",
+              "Personal VIP Manager"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.additional_benefits",
+          "value": [
+            "Personalised offers",
+            "VIP cashback",
+            "Higher withdrawal limits",
+            "Personal VIP manager for eligible high tiers"
+          ]
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.important_terms",
+          "value": [
+            "Different reward and withdrawal limits may apply to VIP levels and currencies.",
+            "Level-based benefits and promotion eligibility may change under program rules."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 35,
+        "entities": 5
+      },
+      "words_base": [
+        75,
+        95
+      ]
+    },
+    {
+      "id": "b11",
+      "level": 2,
+      "heading": "Verification Before Crypto and Card Payouts",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.verification",
+        "brandinfo_privacy_policy.kyc_aml.required_documents",
+        "brandinfo_privacy_policy.kyc_aml.processing_time",
+        "brandinfo_privacy_policy.kyc_aml.failure_consequences"
+      ],
+      "words_min": 109,
+      "words_max": 138,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "KYC Verification",
+          "priority": 10
+        },
+        {
+          "name": "Identity Documents",
+          "priority": 8
+        },
+        {
+          "name": "Proof of Address",
+          "priority": 6
+        },
+        {
+          "name": "Source of Funds",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "before any payout",
+          "priority": 8,
+          "relation": "can be requested",
+          "subject": "Verification"
+        },
+        {
+          "object": "10 days",
+          "priority": 7,
+          "relation": "receives a verdict inside",
+          "subject": "Complete Document Set"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Verification: when it is requested, the accepted documents, the submission deadline, the review time and the consequence of failed checks.",
+      "copywriter_notes": "Checks before payout. Causes: withdrawal requests, odd or high-value transactions, changes to account or payment details. Documents, compact bulleted list: source of funds when requested; proof of payment-method ownership; address, via bank statement or utility bill; identity, via driving licence, national identity card or passport. Submission window: 30 days; the review itself takes up to 10 days once every document is in. Payouts may remain pending during the checks, and failing them can mean that transactions are declined and restrictions follow. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b06"
+      ],
+      "words": 124,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.verification",
+          "value": {
+            "triggers": [
+              "Account review",
+              "Before withdrawal",
+              "Unusual or high-value transactions",
+              "Changes to account or payment details"
+            ],
+            "documents": [
+              "Government-issued photo ID or passport",
+              "Proof of residential address",
+              "Proof of ownership of a payment method",
+              "Source of funds or wealth documents when requested"
+            ],
+            "procedure": [
+              "Access the verification request in the account or follow the support instructions.",
+              "Upload legible current documents matching the account profile.",
+              "Complete additional telephone or face verification if requested.",
+              "Wait for approval before withdrawal or other restricted activity."
+            ],
+            "document_submission_window": "Up to 30 days when requested",
+            "typical_review_time": "Up to 10 days after a complete document set is received"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.kyc_aml.required_documents",
+          "value": {
+            "identity": [
+              "Passport",
+              "National identity card",
+              "Driving licence"
+            ],
+            "address": [
+              "Utility bill",
+              "Bank statement"
+            ],
+            "payment_method": [
+              "Bank or card ownership evidence",
+              "Digital wallet ownership evidence"
+            ],
+            "source_of_funds": [
+              "Proof of income",
+              "Bank statements",
+              "Other supporting financial documents"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.kyc_aml.processing_time",
+          "value": "Normally within 10 days of receipt of a complete document set"
+        },
+        {
+          "path": "brandinfo_privacy_policy.kyc_aml.failure_consequences",
+          "value": [
+            "Transaction refusal",
+            "Account restrictions",
+            "Withholding of withdrawals pending compliance"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 4
+      },
+      "words_base": [
+        75,
+        95
+      ]
+    },
+    {
+      "id": "b12",
+      "level": 2,
+      "heading": "Registration and Login",
+      "source": "unique",
+      "covers_clusters": [
+        "k13"
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration",
+        "brandinfo_account.login"
+      ],
+      "words_min": 123,
+      "words_max": 157,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 1,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Registration",
+          "priority": 10
+        },
+        {
+          "name": "Login",
+          "priority": 8
+        },
+        {
+          "name": "Password Recovery",
+          "priority": 6
+        },
+        {
+          "name": "Two Accounts Rule",
+          "priority": 5
+        },
+        {
+          "name": "Email Confirmation",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "full legal name, residential address, date of birth, plus an email and a password",
+          "priority": 8,
+          "relation": "asks for",
+          "subject": "Registration"
+        },
+        {
+          "object": "one personal account per person",
+          "priority": 7,
+          "relation": "is restricted to",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Registration with an e-mail address in five steps, listed by number; plus the required details, the one-account rule, login and password recovery.",
+      "copywriter_notes": "Sign-up walkthrough. One introductory sentence leads in, and a NUMBERED list covering the five registration steps comes next, in Brand Information order. Following the list, add a brief login paragraph (press Login, supply the email and password registered, clear any security check); the same paragraph handles a forgotten password, which the player resets by clicking Forgot Password on the login screen; a reset message then arrives by email. State the required details (residential address, date of birth, legal name, password and email) plus the rule that a player holds one personal account. \"Longfu88 login\" belongs in the login paragraph. Inside list items, no tracked keyword appears unless the brand is part of a verbatim step. The identity-document check is left out here, since it has its own section. Use \"Longfu88\" exactly once and \"Longfu88 login\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b05"
+      ],
+      "words": 140,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.registration",
+          "value": {
+            "methods": [
+              "Email registration"
+            ],
+            "required_details": [
+              "Email",
+              "Password",
+              "Legal name",
+              "Date of birth",
+              "Residential address"
+            ],
+            "steps": [
+              "Open Longfu88 and select Register.",
+              "Enter email and create a password.",
+              "Confirm age and acceptance of Terms and Conditions and Privacy Policy.",
+              "Complete the additional personal details and residential address.",
+              "Select Create Account and complete any requested email confirmation."
+            ],
+            "eligibility": [
+              "18+ and of legal gambling age in the relevant jurisdiction.",
+              "Only one personal account per player."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_account.login",
+          "value": {
+            "method": "Email and password",
+            "steps": [
+              "Select Login on the website.",
+              "Enter registered email and password.",
+              "Complete any security check and access the account."
+            ],
+            "password_recovery": [
+              "Choose Forgot Password on the login screen.",
+              "Request a reset link using the registered email.",
+              "Follow the emailed instructions to set a new password."
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 2,
+        "entities": 5
+      },
+      "words_base": [
+        92,
+        118
+      ]
+    },
+    {
+      "id": "b13",
+      "level": 2,
+      "heading": "Games and Providers",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02",
+        "k03",
+        "k04",
+        "k05",
+        "k06",
+        "k09",
+        "k07"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_games.game_examples",
+        "brandinfo_games.original_games",
+        "brandinfo_games.providers[0]",
+        "brandinfo_games.providers[6]",
+        "brandinfo_games.providers"
+      ],
+      "words_min": 242,
+      "words_max": 309,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 1,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 1,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Game Categories",
+          "priority": 10
+        },
+        {
+          "name": "Slots",
+          "priority": 10
+        },
+        {
+          "name": "Live Dealer Games",
+          "priority": 10
+        },
+        {
+          "name": "Gates of Olympus",
+          "priority": 7
+        },
+        {
+          "name": "Sweet Bonanza",
+          "priority": 7
+        },
+        {
+          "name": "Wanted Dead or a Wild",
+          "priority": 7
+        },
+        {
+          "name": "Evolution",
+          "priority": 7
+        },
+        {
+          "name": "Table Games",
+          "priority": 8
+        },
+        {
+          "name": "Game Providers",
+          "priority": 10
+        },
+        {
+          "name": "Pragmatic Play",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "jackpot games alongside crash titles, a lottery, P2P, fast games, fishing, table games, live dealer tables and slots",
+          "priority": 8,
+          "relation": "features",
+          "subject": "Online Casino"
+        },
+        {
+          "object": "RTP 96.50%, top multiplier 5,000x",
+          "priority": 7,
+          "relation": "is listed with",
+          "subject": "Gates of Olympus"
+        },
+        {
+          "object": "Longfu88 Baccarat, the exclusive game",
+          "priority": 7,
+          "relation": "hosts",
+          "subject": "Live Casino"
+        },
+        {
+          "object": "the slots, the live tables and the table games of the casino",
+          "priority": 7,
+          "relation": "provide",
+          "subject": "Game Providers"
+        }
+      ],
+      "listed_entities": [
+        "Evolution",
+        "Pragmatic Play"
+      ],
+      "summary": "Slots with RTP (three examples) and an overview of all nine game categories; the live lobby with its exclusive baccarat game; the other categories; ten providers.",
+      "copywriter_notes": "Single flowing section, no sub-headings, five parts in this order, each sized by its weight in the block. (1) Games Overview: cover all nine game categories listed in the Brand Information, in running text; the slots, the live casino and the other categories are all dealt with in this very part. Give no figures for games or providers, because the data holds none. (2) Slots: three sample slots, data taken verbatim from the Brand Information: Wanted Dead or a Wild (12,500x, very high volatility, RTP 96.38%, by Hacksaw Gaming), Sweet Bonanza (21,175x, high volatility, RTP 96.48%, by Pragmatic Play), Gates of Olympus (Pragmatic Play, 5,000x, RTP 96.50%, high volatility). Add one line defining RTP and volatility in terms the reader can follow. The slots must not be described as the only ones or the best known; no further title is named. (3) Live Casino: treat the live dealer area as a single lobby entry; the exclusive game is \"Longfu88 Baccarat\", labelled as given (a baccarat-style live or table game, exclusive). Evolution and SA Gaming may be mentioned as live studios, provided the sentence stays factual. Both names figure among the providers; the live titles behind each studio stay unnamed. Name no other live title or show. (4) Other categories: one sentence apiece that says only what the category is and what the player does in it. Cover table games, fishing, P2P (play against other players), fast games, lottery and crash and instant games. No titles, no per-category providers and no numbers (the data has none). (5) Game Providers: a running sentence or two with all ten providers from the Brand Information, spelled as given: Pragmatic Play, Hacksaw Gaming, Evolution, NetEnt, SA Gaming, Red Tiger, Yggdrasil, Skywind, Big Time Gaming, Betsoft. State no overall studio count, and attribute games to providers only as the slots part does. Use \"Longfu88\" exactly once, \"Longfu88 casino\" (written as the name Longfu88 Casino) exactly once and \"Longfu 88 casino\" (written as the name Longfu 88 Casino, with a space) exactly once, and no other tracked keyword. The exclusive game \"Longfu88 Baccarat\" carries the tracked keyword \"Longfu88\" and counts toward the block's exact total.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b13",
+        "b14",
+        "b15",
+        "b16",
+        "b17"
+      ],
+      "words": 276,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_types",
+          "value": [
+            "Slots",
+            "Live dealer games",
+            "Table games",
+            "Jackpots",
+            "Fishing",
+            "P2P games",
+            "Fast games",
+            "Lottery",
+            "Crash & instant games"
+          ]
+        },
+        {
+          "path": "brandinfo_games.game_examples",
+          "value": [
+            {
+              "name": "Gates of Olympus",
+              "provider": "Pragmatic Play",
+              "rtp": "96.50%",
+              "volatility": "High",
+              "maximum_multiplier": "5,000x"
+            },
+            {
+              "name": "Sweet Bonanza",
+              "provider": "Pragmatic Play",
+              "rtp": "96.48%",
+              "volatility": "High",
+              "maximum_multiplier": "21,175x"
+            },
+            {
+              "name": "Wanted Dead or a Wild",
+              "provider": "Hacksaw Gaming",
+              "rtp": "96.38%",
+              "volatility": "Very high",
+              "maximum_multiplier": "12,500x"
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_games.original_games",
+          "value": [
+            {
+              "name": "Longfu88 Baccarat",
+              "category": "Exclusive live/table game",
+              "features": [
+                "Baccarat gameplay"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_games.providers[0]",
+          "value": "Evolution"
+        },
+        {
+          "path": "brandinfo_games.providers[6]",
+          "value": "SA Gaming"
+        },
+        {
+          "path": "brandinfo_games.providers",
+          "value": [
+            "Evolution",
+            "Red Tiger",
+            "NetEnt",
+            "Big Time Gaming",
+            "Pragmatic Play",
+            "Yggdrasil",
+            "SA Gaming",
+            "Skywind",
+            "Betsoft",
+            "Hacksaw Gaming"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 17,
+        "entities": 9
+      },
+      "words_base": [
+        167,
+        213
+      ]
+    },
+    {
+      "id": "b14",
+      "level": 2,
+      "heading": "Mobile Access",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k17"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information"
+      ],
+      "words_min": 96,
+      "words_max": 122,
+      "keywords": {
+        "Longfu88": 2,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 1,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Mobile Access",
+          "priority": 10
+        },
+        {
+          "name": "Add to Home Screen",
+          "priority": 8
+        },
+        {
+          "name": "Android",
+          "priority": 6
+        },
+        {
+          "name": "iOS",
+          "priority": 6
+        },
+        {
+          "name": "Responsive Website",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "smartphone and tablet browsers",
+          "priority": 8,
+          "relation": "works inside",
+          "subject": "Responsive Website"
+        },
+        {
+          "object": "both the casino section and the sports betting section, quickly",
+          "priority": 6,
+          "relation": "opens the way to",
+          "subject": "Home Screen Shortcut"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Android, iOS and mobile web play: how the responsive site behaves, how a shortcut reaches the home screen, which account functions are on hand.",
+      "copywriter_notes": "Mobile route, no app store. Responsive web design is what the casino offers, not an app: pages open in browsers on phones and tablets (Android, iOS, mobile web), and the player may pin a shortcut to the home screen. There are two brief numbered lists, and a single sentence introduces each. Android: Chrome, menu button, Add to Home screen, confirm the prompt. iOS: Safari, then Share, then Add to Home Screen and a final Add. Functions on hand: bonuses, withdrawals, deposits, account access, sportsbook, casino. The sentence with \"Longfu88 app\" must make it clear that the home-screen shortcut of the website is what is meant. Claim no app-store download and no APK file, as none is given. Use \"Longfu88\" exactly twice and \"Longfu88 app\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them. Brand name in step one: in both the Android list and the iOS list, the first step names the brand as printed in the Brand Information; those two occurrences of \"Longfu88\" are part of the total expected for the block; whatever remains is placed in the running prose.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b22"
+      ],
+      "words": 109,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information",
+          "value": {
+            "platforms": [
+              "Android",
+              "iOS",
+              "Mobile web"
+            ],
+            "mobile_access": "Responsive Longfu88 website usable on smartphone and tablet browsers.",
+            "android_installation": [
+              "Open Longfu88 in Chrome.",
+              "Open browser menu and choose Add to Home screen.",
+              "Confirm the shortcut."
+            ],
+            "ios_installation": [
+              "Open Longfu88 in Safari.",
+              "Tap Share and choose Add to Home Screen.",
+              "Confirm Add."
+            ],
+            "features": [
+              "Casino",
+              "Sportsbook",
+              "Account access",
+              "Deposits",
+              "Withdrawals",
+              "Bonuses"
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 1,
+        "entities": 5
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b15",
+      "level": 2,
+      "heading": "Licence, Operator and Data Protection",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01",
+        "k18"
+      ],
+      "kb_refs": [
+        "brandinfo_general.release_year",
+        "brandinfo_general.currencies",
+        "brandinfo_privacy_policy.terms_conditions.eligibility",
+        "brandinfo_general.licences[0]",
+        "brandinfo_privacy_policy.privacy_policy.data_controller",
+        "brandinfo_privacy_policy.privacy_policy.security",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights",
+        "brandinfo_privacy_policy.terms_conditions.account_terms"
+      ],
+      "words_min": 173,
+      "words_max": 219,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 1,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 1,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Official Website",
+          "priority": 7
+        },
+        {
+          "name": "Account Currencies",
+          "priority": 5
+        },
+        {
+          "name": "Player Eligibility",
+          "priority": 6
+        },
+        {
+          "name": "Gambling Licence",
+          "priority": 10
+        },
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Data Protection",
+          "priority": 8
+        },
+        {
+          "name": "Data Controller",
+          "priority": 6
+        },
+        {
+          "name": "Account Security",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "in 2026",
+          "priority": 7,
+          "relation": "started operating",
+          "subject": "Online Casino"
+        },
+        {
+          "object": "lawfully able to gamble from their home location",
+          "priority": 6,
+          "relation": "have to be",
+          "subject": "Players"
+        },
+        {
+          "object": "the operating company",
+          "priority": 8,
+          "relation": "is held in the name of",
+          "subject": "Gambling Licence"
+        },
+        {
+          "object": "personal data, payments and player accounts using technical plus organisational protections",
+          "priority": 7,
+          "relation": "secures",
+          "subject": "Operator"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Year of launch, account currencies and player eligibility; then the licence, who runs the casino, and what protects personal data and accounts.",
+      "copywriter_notes": "Fixed order, two parts, one continuous text without subheads, each part sized by its weight. (1) About the Casino: 2026 is the launch year; account currencies (SGD among them) come from the Brand Information. Wherever \"Longfu 88 Official Site\" appears, make it a natural phrase, e.g. advice to stick to the one genuine Longfu 88 Official Site URL and to skip any look-alike pages (advice only, not a statement about domains). Who may play: adults (18+), players for whom gambling is lawful in their place of residence, with one personal account per player and without third-party payment methods. Forbidden: claiming or implying that Singapore authorised, legalised or sanctioned the casino; cite the licence from the Brand Information and no other. (2) Second half: licence, operating company and data handling. Open on the licence together with its jurisdiction (Costa Rica); next the operator that the data names (Lumina); then the registration number, everything exactly as shown in the Brand Information. Data controller: the operator itself. The data protection officer can be contacted via the e-mail listed in the privacy policy (give the address only when it fits naturally; since \"Longfu88\" sits inside the address, it would then add to the keyword total). Data can go to authorities (regulators, law enforcement) if required, and to vendors for technology, for identity checks and for payment services. Player rights: withdrawal of consent, portability, objection, restriction, erasure where legally permitted, rectification, access. The account holder is responsible for keeping login credentials safe. Place \"casino Longfu88\" inside a normal-sounding sentence on the licence. Singapore's authorities must not be presented as having licensed or endorsed the casino in any way; only the Brand Information licence may be cited. Do not claim any audit, eCOGRA seal, RNG certificate, SSL or other certification, as the data has none. Specifics of the identity check are left for the section dedicated to it. Use \"Longfu88\" exactly once, \"casino Longfu88\" exactly once and \"Longfu 88 Official Site\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b03",
+        "b04"
+      ],
+      "words": 196,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.release_year",
+          "value": 2026
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "MYR",
+            "THB",
+            "SGD",
+            "USDT"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.eligibility",
+          "value": {
+            "minimum_age": 18,
+            "residency_requirements": "Players must be legally permitted to gamble in their place of residence.",
+            "player_requirements": [
+              "Register with accurate information",
+              "Use only one personal account",
+              "Do not use third-party payment methods"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_general.licences[0]",
+          "value": {
+            "jurisdiction": "Costa Rica",
+            "operator": "Lumina",
+            "registration_number": "000-039123-R-319326-001"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_controller",
+          "value": {
+            "company_name": "Lumina",
+            "contact_email": "dpo@longfu88.com",
+            "contact_details": "support@longfu88.com"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.security",
+          "value": "Technical and organizational safeguards protect accounts, payments and personal information."
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_sharing",
+          "value": [
+            "Payment service providers",
+            "Identity verification providers",
+            "Technology providers",
+            "Regulators and law enforcement when required"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_subject_rights",
+          "value": [
+            "Access",
+            "Rectification",
+            "Erasure where legally permitted",
+            "Restriction",
+            "Objection",
+            "Portability where applicable",
+            "Withdrawal of consent"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.account_terms",
+          "value": [
+            "The account holder is responsible for safeguarding credentials.",
+            "The operator may suspend activity for verification or suspected abuse."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 22,
+        "entities": 9
+      },
+      "words_base": [
+        119,
+        151
+      ]
+    },
+    {
+      "id": "b16",
+      "level": 2,
+      "heading": "Responsible Gambling",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k20"
+      ],
+      "kb_refs": [
+        "brandinfo_responsible_gaming.responsible_gaming"
+      ],
+      "words_min": 96,
+      "words_max": 122,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Responsible Gambling",
+          "priority": 10
+        },
+        {
+          "name": "Self-Exclusion",
+          "priority": 8
+        },
+        {
+          "name": "Account Closure",
+          "priority": 6
+        },
+        {
+          "name": "Self-Assessment",
+          "priority": 5
+        },
+        {
+          "name": "GamCare",
+          "priority": 5
+        },
+        {
+          "name": "Gambling Therapy",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a message e-mailed to customer support",
+          "priority": 8,
+          "relation": "is initiated by",
+          "subject": "Self-Exclusion"
+        },
+        {
+          "object": "Gambling Therapy, Gamblers Anonymous and GamCare",
+          "priority": 7,
+          "relation": "may turn to",
+          "subject": "Players"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Minimum age, self-exclusion and account closure via an e-mail request, a self-check and support organisations.",
+      "copywriter_notes": "Safer-play block. Age and legality: 18 is the minimum, and gambling is lawful solely in places where legislation allows it. Self-exclusion: ask customer support by e-mail; it limits gambling and access for the agreed period, and the limit starts within 24 hours of the request being processed. Account closure: through customer support, with the four-step procedure in brief. Self-check questions for recognising harm. One sentence naming Gambling Therapy, Gamblers Anonymous and GamCare. Close with a caveat: this page does not stand in for outside, independent help. Printing the support e-mail from the Brand Information supplies the one occurrence of the tracked keyword \"Longfu88\" in this block, say, within the sentence on self-exclusion. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b23"
+      ],
+      "words": 109,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming",
+          "value": {
+            "policy": "Players must be at least 18 years old and gamble only where lawful.",
+            "self_exclusion": {
+              "request_method": "Email support@longfu88.com",
+              "processing_time": "Within 24 hours after the self-exclusion request is processed",
+              "effect": "Account access and gambling may be restricted for the agreed period."
+            },
+            "account_closure": "Request account closure through customer support.",
+            "self_assessment": "Self-assessment questions help players identify possible gambling-related harm.",
+            "support_organizations": [
+              "GamCare",
+              "Gamblers Anonymous",
+              "Gambling Therapy"
+            ],
+            "contact": "support@longfu88.com",
+            "procedure": [
+              "Contact support and request self-exclusion or account closure.",
+              "Confirm your account details and preferred exclusion terms.",
+              "Allow the casino to restrict or close access.",
+              "Seek independent support where appropriate."
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 6
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b17",
+      "level": 2,
+      "heading": "Support Channels",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k19"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support"
+      ],
+      "words_min": 70,
+      "words_max": 90,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Customer Support",
+          "priority": 10
+        },
+        {
+          "name": "Live Chat",
+          "priority": 8
+        },
+        {
+          "name": "Email Support",
+          "priority": 7
+        },
+        {
+          "name": "Support Languages",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "24/7",
+          "priority": 8,
+          "relation": "stays open",
+          "subject": "Live Chat"
+        },
+        {
+          "object": "Simplified Chinese, Vietnamese, Thai, Malay, Indonesian and English",
+          "priority": 6,
+          "relation": "answers in",
+          "subject": "Customer Support"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Ways to get in touch, when they are available and which languages support speaks.",
+      "copywriter_notes": "Contact details. Channels, two in number: e-mail and live chat running 24/7. Print the address in the form given. The brand string \"Longfu88\" is spelled within it, so one occurrence of the keyword is already used up in this block's count. Languages (six in total): Thai, Malay, English, Indonesian, Vietnamese, Simplified Chinese. Mention no phone line, no ticketing tool, no average answer speed and no profiles on social networks, since none exists in the data. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b24"
+      ],
+      "words": 80,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support",
+          "value": {
+            "channels": [
+              "24/7 live chat",
+              "Email"
+            ],
+            "email": "support@longfu88.com",
+            "languages": [
+              "English",
+              "Malay",
+              "Simplified Chinese",
+              "Thai",
+              "Indonesian",
+              "Vietnamese"
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 4
+      },
+      "words_base": [
+        48,
+        62
+      ]
+    },
+    {
+      "id": "b18",
+      "level": 2,
+      "heading": "Crypto Questions",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k22"
+      ],
+      "kb_refs": [
+        "brandinfo_general.minimum_deposit",
+        "brandinfo_general.payment_methods.deposit",
+        "brandinfo_promotions.other_bonuses[1]",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_withdrawal.withdrawal_methods[0].transaction_speed",
+        "brandinfo_withdrawal.withdrawal_methods[1].transaction_speed",
+        "brandinfo_privacy_policy.terms_conditions.conditional_fees"
+      ],
+      "words_min": 172,
+      "words_max": 218,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 1,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Frequently Asked Questions",
+          "priority": 8
+        },
+        {
+          "name": "Cryptocurrencies",
+          "priority": 6
+        },
+        {
+          "name": "The crypto welcome bonus",
+          "priority": 6
+        },
+        {
+          "name": "Minimum deposit",
+          "priority": 6
+        },
+        {
+          "name": "Withdrawal time",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Frequently Asked Questions",
+          "relation": "address",
+          "object": "withdrawal fees, withdrawal time, minimum deposit, the crypto welcome bonus and cryptocurrencies",
+          "priority": 6
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Brief answers on cryptocurrencies, the crypto welcome bonus, the minimum deposit, withdrawal time and withdrawal fees.",
+      "copywriter_notes": "FAQ as a bulleted list with exactly 5 items; per item: a bolded question followed by a compact reply running 20-30 words. Sequence: (1) Cryptocurrencies accepted for deposits: USDT on three networks, Cardano, Bitcoin Cash, USDC, Ripple, Litecoin, Ethereum, Bitcoin; the answer has to include the keyword \"Longfu88\" exactly once, spelled verbatim. (2) The Casino Crypto Welcome Bonus: 10 days of validity, 40x deposit plus bonus, 50 USDT minimum deposit, 188% up to 2,888 USDT; it stands instead of, never on top of, the Casino Welcome Bonus. (3) Minimum deposit: the general floor is €10, while the Casino Welcome Bonus asks for €50. (4) Withdrawal time: for bank transfers, count 3 business days at most for the casino and another 3-5 for the bank to settle; cards, crypto and wallets are quicker at 1-3 business days; avoid copying the wording of the withdrawals section. (5) Fees on withdrawals: the casino itself adds no standard fee, yet provider or blockchain charges can still come up; a 10% commission (minimum €2.25) applies if turnover remains below the deposit, and a 15% rate when the funding came from a card or a bank. The question in this item has to contain \"Longfu 88\" once, typed verbatim. Answers may carry the brand name \"Longfu88\"; questions never do. No further questions appear anywhere on the page, since question form is permitted solely here. Use \"Longfu88\" exactly once and \"Longfu 88\" (written with a space) exactly once, and no other tracked keyword.",
+      "formats": [
+        "list"
+      ],
+      "variant_origin": [
+        "b26"
+      ],
+      "words": 195,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.minimum_deposit",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_general.payment_methods.deposit",
+          "value": [
+            "QRIS",
+            "DANA",
+            "OVO Wallet",
+            "Mandiri",
+            "BNI",
+            "Bank Transfer",
+            "Visa",
+            "Mastercard",
+            "USDT (TRC20)",
+            "USDT (ERC20)",
+            "USDT (BEP20)",
+            "Bitcoin",
+            "Ethereum",
+            "Litecoin",
+            "Ripple",
+            "USDC",
+            "Bitcoin Cash",
+            "Cardano",
+            "Touch'n Go",
+            "GrabPay",
+            "DuitNow",
+            "Online Banking",
+            "DBS Bank",
+            "OCBC Bank",
+            "PromptPay QR",
+            "MoMo",
+            "Zalo",
+            "ViettelPay",
+            "VietQR",
+            "Sofort",
+            "Giropay",
+            "PayNow QR",
+            "BCA",
+            "PayNow",
+            "Neteller",
+            "Skrill"
+          ]
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1]",
+          "value": {
+            "name": "Casino Crypto Welcome Bonus",
+            "type": "Crypto casino welcome",
+            "reward": "188% up to 2,888 USDT",
+            "minimum_deposit": "50 USDT",
+            "wagering_requirement": "40x deposit plus bonus",
+            "validity": "10 days",
+            "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.",
+            "eligibility": "Registered players meeting the offer-specific qualification rules.",
+            "important_terms": [
+              "First qualifying crypto deposit only.",
+              "Maximum bonus wager: 5 USDT per spin.",
+              "Casino Welcome Bonus and Crypto Welcome Bonus are alternative first-deposit offers."
+            ],
+            "eligible_cryptocurrencies": [
+              "USDT",
+              "BTC",
+              "BCH",
+              "LTC",
+              "ETH",
+              "XRP",
+              "USDC"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_withdrawal.withdrawal_methods[0].transaction_speed",
+          "value": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days"
+        },
+        {
+          "path": "brandinfo_withdrawal.withdrawal_methods[1].transaction_speed",
+          "value": "1–3 business days"
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.conditional_fees",
+          "value": [
+            "Where qualifying turnover is below the deposited amount, a 10% commission may apply with minimum €2.25.",
+            "A 15% charge can apply to some card or bank transfer funded transactions under the casino rules."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 8,
+        "entities": 5
+      },
+      "words_base": [
+        134,
+        170
+      ]
+    },
+    {
+      "id": "b19",
+      "level": 2,
+      "heading": "Verdict for Crypto Users",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k21"
+      ],
+      "kb_refs": [
+        "brandinfo_general.minimum_age",
+        "brandinfo_responsible_gaming.responsible_gaming.policy"
+      ],
+      "words_min": 90,
+      "words_max": 113,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu 88": 0,
+        "Longfu88 casino": 1,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 1,
+        "Longfu sports": 0
+      },
+      "entities": [
+        {
+          "name": "Verdict",
+          "priority": 10
+        },
+        {
+          "name": "Welcome Bonus Terms",
+          "priority": 6
+        },
+        {
+          "name": "Responsible Gambling",
+          "priority": 6
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the payment limits and bonus conditions before paying in",
+          "priority": 7,
+          "relation": "ought to review",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Closing verdict: the kind of player it fits, items worth checking ahead of the first payment, and a responsible-gambling reminder.",
+      "copywriter_notes": "Closing paragraph of three to four sentences. First, the fit: someone who wants casino games, live dealers and a sportsbook on a single account, funded through local or crypto methods. Second, a pre-payment checklist: verification, the €50 needed to qualify, the 25x wagering requirement and the turnover requirement that precedes a withdrawal. Last, the 18+ notice plus three short reminders: money from gambling is never a reliable income, trying to win back losses is a mistake, and budgets and pauses help. Put \"Longfu88 casino\" (spelled Longfu88 Casino) in sentence one. \"Longfu\" is the shorthand form for the casino. Do not restate figures; no winning promises, no hype. Never let the reader infer that Singapore has granted the casino any licence, lawful standing or blessing; the only licence that may be cited is the one in the Brand Information. Use \"Longfu88\" exactly once, \"Longfu88 casino\" (written as the name Longfu88 Casino) exactly once and \"Longfu\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b27"
+      ],
+      "words": 102,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu 88": 0,
+        "Longfu88 casino": 0,
+        "Longfu88 login": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 app": 0,
+        "Longfu88 promo code": 0,
+        "Longfu 88 casino": 0,
+        "casino Longfu88": 0,
+        "Lngfu88 withdrawal time": 0,
+        "Longfu 88 Official Site": 0,
+        "Longfu": 0,
+        "Longfu sports": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.policy",
+          "value": "Players must be at least 18 years old and gamble only where lawful."
+        }
+      ],
+      "coverage_units": {
+        "facts": 2,
+        "entities": 4
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [
+    {
+      "id": "b01",
+      "heading": "Longfu88 Casino for Crypto Players in Singapore: Review",
+      "facts": 6,
+      "entities": 4,
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        102,
+        130
+      ]
+    },
+    {
+      "id": "b03",
+      "heading": "Deposit Methods: Crypto Networks and Local Options",
+      "facts": 4,
+      "entities": 4,
+      "from": [
+        101,
+        129
+      ],
+      "to": [
+        141,
+        179
+      ]
+    },
+    {
+      "id": "b04",
+      "heading": "Crypto and Fiat Withdrawals: Timing and Fees",
+      "facts": 5,
+      "entities": 5,
+      "from": [
+        88,
+        112
+      ],
+      "to": [
+        128,
+        162
+      ]
+    },
+    {
+      "id": "b05",
+      "heading": "Crypto Welcome Bonus and the Alternatives",
+      "facts": 10,
+      "entities": 5,
+      "from": [
+        101,
+        129
+      ],
+      "to": [
+        146,
+        187
+      ]
+    },
+    {
+      "id": "b06",
+      "heading": "Wagering and Caps of the Fiat Welcome Bonus",
+      "facts": 6,
+      "entities": 1,
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        102,
+        130
+      ]
+    },
+    {
+      "id": "b07",
+      "heading": "Crypto Reloads and Weekly Offers",
+      "facts": 7,
+      "entities": 2,
+      "from": [
+        88,
+        112
+      ],
+      "to": [
+        128,
+        162
+      ]
+    },
+    {
+      "id": "b08",
+      "heading": "Cashback and Rebates",
+      "facts": 24,
+      "entities": 4,
+      "from": [
+        57,
+        73
+      ],
+      "to": [
+        83,
+        106
+      ]
+    },
+    {
+      "id": "b09",
+      "heading": "Sports Betting with Crypto Offers",
+      "facts": 5,
+      "entities": 10,
+      "from": [
+        110,
+        140
+      ],
+      "to": [
+        160,
+        203
+      ]
+    },
+    {
+      "id": "b10",
+      "heading": "VIP Programme and Withdrawal Limits",
+      "facts": 35,
+      "entities": 5,
+      "from": [
+        75,
+        95
+      ],
+      "to": [
+        109,
+        138
+      ]
+    },
+    {
+      "id": "b11",
+      "heading": "Verification Before Crypto and Card Payouts",
+      "facts": 4,
+      "entities": 4,
+      "from": [
+        75,
+        95
+      ],
+      "to": [
+        109,
+        138
+      ]
+    },
+    {
+      "id": "b12",
+      "heading": "Registration and Login",
+      "facts": 2,
+      "entities": 5,
+      "from": [
+        92,
+        118
+      ],
+      "to": [
+        123,
+        157
+      ]
+    },
+    {
+      "id": "b13",
+      "heading": "Games and Providers",
+      "facts": 17,
+      "entities": 9,
+      "from": [
+        167,
+        213
+      ],
+      "to": [
+        242,
+        309
+      ]
+    },
+    {
+      "id": "b14",
+      "heading": "Mobile Access",
+      "facts": 1,
+      "entities": 5,
+      "from": [
+        66,
+        84
+      ],
+      "to": [
+        96,
+        122
+      ]
+    },
+    {
+      "id": "b15",
+      "heading": "Licence, Operator and Data Protection",
+      "facts": 22,
+      "entities": 9,
+      "from": [
+        119,
+        151
+      ],
+      "to": [
+        173,
+        219
+      ]
+    },
+    {
+      "id": "b16",
+      "heading": "Responsible Gambling",
+      "facts": 4,
+      "entities": 6,
+      "from": [
+        66,
+        84
+      ],
+      "to": [
+        96,
+        122
+      ]
+    },
+    {
+      "id": "b17",
+      "heading": "Support Channels",
+      "facts": 4,
+      "entities": 4,
+      "from": [
+        48,
+        62
+      ],
+      "to": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b18",
+      "heading": "Crypto Questions",
+      "facts": 8,
+      "entities": 5,
+      "from": [
+        134,
+        170
+      ],
+      "to": [
+        172,
+        218
+      ]
+    },
+    {
+      "id": "b19",
+      "heading": "Verdict for Crypto Users",
+      "facts": 2,
+      "entities": 4,
+      "from": [
+        62,
+        78
+      ],
+      "to": [
+        90,
+        113
+      ]
+    }
+  ],
+  "variant": {
+    "id": "v12",
+    "name": "Crypto-friendly guide (USDT and fiat side by side)",
+    "base_run": "longfu88-sg",
+    "angle": "A player who deposits and withdraws in cryptocurrency and wants the crypto offers and the payout rules in one place."
+  }
+}

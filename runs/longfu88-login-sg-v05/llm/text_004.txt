@@ -1,0 +1,10 @@
+Verification is the casino's check that the person behind the account is the registered holder, done by submitting documents. Longfu88 does not ask for it at registration or at login. The casino requests it on four triggers: an account review, a withdrawal, unusual or high-value transactions, and changes to account or payment details. An identity document such as a passport is the first item on the list, and the table shows what else counts. The source-of-funds row applies only when it is requested.
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card, driving licence |
+| Address | Utility bill, bank statement |
+| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |
+| Source of funds | Proof of income, bank statements, other supporting financial documents |
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.

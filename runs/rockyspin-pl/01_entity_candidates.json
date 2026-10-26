@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Ciebie",
+    "competitors": 3,
+    "count": 10
+  },
+  {
+    "entity": "EUR",
+    "competitors": 3,
+    "count": 7
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "VIP",
+    "competitors": 2,
+    "count": 10
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 2,
+    "count": 9
+  },
+  {
+    "entity": "Apple Pay",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Google Pay",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Kasie",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Google",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Olympus",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Rookie Rumble",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Book",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Gates",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Androida",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Do 25",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "USD",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Loteria Newbie Spins",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "PLN",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "BGaming",
+    "competitors": 1,
+    "count": 8
+  },
+  {
+    "entity": "KYC",
+    "competitors": 1,
+    "count": 7
+  },
+  {
+    "entity": "Do 72",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "Win",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Gold",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Evolution",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Pragmatic Play Live",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Wins",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Daily Bronze",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Twoją",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Bonus",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Newbie Spins",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Platinum",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Rossobash SRL",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Penguin King",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "RNG",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Bonus Buy",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Trending",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Deutsches Roulette",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Sunday Reload",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "RELDAY",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Tournament",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "BTC",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "ETH",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "LTC",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "BCH",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "DOGE",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "TRX",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Zarejestruj",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Kasa",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Royal Joker",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Big Bass Bonanza",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Starburst",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Szop Rocky",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Rocky750",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Srebro",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Złoto",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Platyna",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Programy VIP",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Kostaryce",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Kostaryki",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "USA",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Wielka Brytania",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Hiszpania",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Holandia",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "CIS",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Twojego",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Naliczyliśmy 44",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Hold",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Chicken Road 2",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ice Fish",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Penalty Nations Cup",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Exclusive",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Wild Cash",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Big Bass Football Bonanza",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Lord",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ocean",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Novomatic",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cats",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ra Magic",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Amatic",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mummies",
+    "competitors": 1,
+    "count": 1
+  }
+]

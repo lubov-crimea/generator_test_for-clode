@@ -1,0 +1,723 @@
+[
+  {
+    "id": "k07",
+    "topic": "Games overview and game library",
+    "canonical_title": "Spiele im Überblick",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 36,
+    "avg_position": 0.35,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Spiele im Incaspin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Ons Spellenassortiment"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Beliebte Spiele"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Top-Spiele"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Alle Spiele"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Über 5.000 Spiele"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Die Spielebibliothek von IncaSpin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Welke spellen zijn beschikbaar bij Inca Spin?"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Registration",
+    "canonical_title": "Registrierung Schritt für Schritt",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 154,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Incaspin Casino Registrierung"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Hoe je account aanmaken bij IncaSpin"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "In wenigen Schritten registriert"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Slots",
+    "canonical_title": "Slots",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 67,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Top Slots"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Gokkasten en Progressieve Jackpots"
+      },
+      {
+        "competitor": 3,
+        "level": 4,
+        "text": "Slots in allen Variationen"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Welcome bonus and bonus overview",
+    "canonical_title": "Willkommensbonus und Bonusangebote",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 65,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Alle Bonusangebote im Überblick"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Incaspin Casino Bonuses"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Willkommenspaket"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "First Deposit Bonus"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Second Deposit Bonus"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Third Deposit Bonus"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Willkommensbonus – Erste Einzahlungen & Umsatzbedingungen"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Wie aktiviere ich den Willkommensbonus im Incaspin Casino?"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Live casino",
+    "canonical_title": "Live Casino",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 91,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Live"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live Casino"
+      },
+      {
+        "competitor": 3,
+        "level": 4,
+        "text": "Live-Casino mit echten Dealern"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Payments and deposits",
+    "canonical_title": "Zahlungsmethoden und Einzahlungen",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 86,
+    "avg_position": 0.51,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Zahlungen"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Betalingsmethoden bij IncaSpin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Stortingsmethoden"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Zahlungen und schnelle Auszahlungen"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Wat is de minimale storting bij Inca Spin?"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Table games, instant games and jackpots",
+    "canonical_title": "Tischspiele und Jackpots",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 117,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Table Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Tafelspellen en Instantspellen"
+      },
+      {
+        "competitor": 3,
+        "level": 4,
+        "text": "Jackpots und Tischspiele"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Withdrawals: methods and processing time",
+    "canonical_title": "Auszahlungen",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 50,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Opnamemethoden en Verwerkingstijden"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Schnelle Auszahlungen"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Wie zahle ich im Incaspin Casino Gewinne aus?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Hoe lang duurt een uitbetaling bij IncaSpin?"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Mobile app / mobile play",
+    "canonical_title": "App und mobiles Spielen",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 70,
+    "avg_position": 0.73,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Incaspin Casino App"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Kann ich das Incaspin Casino auf dem Handy nutzen?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Mobiel Spelen bij IncaSpin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Kan ik IncaSpin op mijn mobiel spelen?"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Mobil ohne Download"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Mobil spielen – überall und jederzeit"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "FAQ",
+    "canonical_title": "Häufige Fragen",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 72,
+    "avg_position": 0.86,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "FAQ"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Veelgestelde Vragen"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Häufige Fragen zu IncaSpin Casino"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Why choose / what makes the casino special",
+    "canonical_title": "Warum Incaspin Casino",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 72,
+    "avg_position": 0.41,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Waarom Kiezen voor IncaSpin?"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Das macht IncaSpin Casino besonders"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "Casino overview / information",
+    "canonical_title": "Incaspin Casino im Überblick",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 186,
+    "avg_position": 0.51,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Incaspin Casino Informationen"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "IncaSpin Casino – dein Abenteuer rund um den Inka-Goldschatz"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Für wen ist IncaSpin Casino gedacht?"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "VIP and loyalty programme",
+    "canonical_title": "VIP- und Treueprogramm",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 112,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Onze Trouwheidsprogramma en VIP-voordelen"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "VIP-Treueprogramm"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Der VIP-Club und unser Treueprogramm"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Safety, licence and fairness",
+    "canonical_title": "Sicherheit und Lizenz",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 100,
+    "avg_position": 0.55,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Veiligheid en Licentie"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Is IncaSpin een betrouwbaar casino?"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Sicherheit und Fairness"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Customer support",
+    "canonical_title": "Kundensupport",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 54,
+    "avg_position": 0.71,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Klantenservice bij Inca Spin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Hoe neem ik contact op met de klantenservice van IncaSpin?"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Support rund um die Uhr"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Support rund um die Uhr"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "Conclusion / call to action",
+    "canonical_title": "Fazit",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 122,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Conclusie"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Bereit für dein Abenteuer?"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Crash and instant games",
+    "canonical_title": "Crash- und Instant-Spiele",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.08,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Crash & Instant"
+      }
+    ]
+  },
+  {
+    "id": "k24",
+    "topic": "Latest wins widget",
+    "canonical_title": "Letzte Gewinne",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 214,
+    "avg_position": 0.41,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Letzte Gewinne"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Game providers",
+    "canonical_title": "Spieleanbieter",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 160,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Onze Softwareleveranciers"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Other promotions: highroller bonus and cashback",
+    "canonical_title": "Weitere Aktionen und Cashback",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 37,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Highroller Bonus"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Cashback-Aktion – Wöchentliche Rückzahlungen auf Nettoverluste"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Promo code",
+    "canonical_title": "Promo-Code",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 197,
+    "avg_position": 0.58,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Promo-Code im Incaspin Casino: So nutzen Sie exklusive Angebote"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Verification",
+    "canonical_title": "Verifizierung",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      4
+    ],
+    "avg_section_words": 58,
+    "avg_position": 0.69,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 4,
+        "text": "Sichere Verifizierung"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "Responsible gambling",
+    "canonical_title": "Verantwortungsvolles Spielen",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 163,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Verantwortungsvolles Spielen"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "Free play / demo mode",
+    "canonical_title": "Kostenlos spielen",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.88,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Kann ich im Incaspin Casino kostenlos spielen?"
+      }
+    ]
+  }
+]

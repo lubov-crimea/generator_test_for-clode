@@ -1,0 +1,204 @@
+{
+ "website": 4961,
+ "slug": "bonuses",
+ "seo": {
+  "title": "Longfu88 Rewards and VIP Points for Loyal Players",
+  "description": "Longfu88 rewards for loyal Singapore players: VIP points and levels, Bonus Crab, wheel and coin shop, live casino offers and phone access to bonuses.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "bonuses, promotions, offers, promo code, welcome bonus, free spins, reload bonus, cashback, wagering requirements, My Bonuses, casino, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Promotions for Loyal Players: Rewards and VIP Program",
+   "label": "Rewards and VIP points for loyal players",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Join Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "First Offers and Rewards",
+   "items": [
+    {
+     "image": 4654,
+     "content": "<h3><strong>Casino Crypto Welcome Bonus</strong></h3>\n188% up to 2,888 USDT",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4653,
+     "content": "<h3><strong>Bonus Crab</strong></h3>\nQualifying picks reveal bonus credits, free spins or coins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Join Now",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4656,
+     "content": "<h3><strong>Sport First Deposit Bonus</strong></h3>\n100% up to €1,888",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4657,
+     "content": "<h3><strong>Live Casino Welcome Bonus</strong></h3>\n125% up to €888",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4655,
+     "content": "<h3><strong>Casino Weekend Crypto Reload</strong></h3>\n75% up to 750 USDT + 100 Free Spins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "See Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4652,
+     "content": "<h3><strong>Casino Weekly Cashback</strong></h3>\nUp to 10% of weekly net casino losses",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Now",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> opens with the Casino Welcome Bonus. The package carries 18 Free Spins and a first-deposit match worth 188%, capped at €2,088. Spin winnings must be wagered 40x, whereas deposit and bonus together need 25x. The Longfu bonus overview also covers rewards, VIP points and live casino. Eligibility starts at age 18, and the page targets Singapore.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Join Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Starting With the Welcome Offer</h2>\n<p>Behind the Longfu88 welcome bonus sits the offer called Casino Welcome Bonus. Its package pairs 18 Free Spins with a match of 188% on the deposit, capped at €2,088. The qualifying deposit must be the player's first and at least €50. New registered players are eligible, and Longfu88 limits each account to one welcome offer.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Claim Path in Brief</h2>\n<p>The sequence starts with registration, where the required personal details are filled in. A first qualifying deposit follows. After it, the player opens My Bonuses and activates the Casino Welcome Bonus there, and no bet may come first. From activation the player has 10 days at Longfu88 to complete wagering on eligible casino games, and the bonus expires after that.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VIP Points and Reward Levels</h2>\n<p>Five tiers structure the VIP Program: Bronze first, then Silver, Gold and Platinum, with Diamond on top. Eligible gameplay for real money brings VIP points, and these in turn open 25 numbered reward levels. Five of them are listed here.</p>\n<table>\n<tr>\n<td>Reward</td>\n<td>Level</td>\n<td>Points needed</td>\n</tr>\n<tr>\n<td>€9.8</td>\n<td>1</td>\n<td>1</td>\n</tr>\n<tr>\n<td>€24.5</td>\n<td>5</td>\n<td>70</td>\n</tr>\n<tr>\n<td>€147</td>\n<td>10</td>\n<td>700</td>\n</tr>\n<tr>\n<td>€392</td>\n<td>15</td>\n<td>2100</td>\n</tr>\n<tr>\n<td>€980</td>\n<td>25</td>\n<td>5500</td>\n</tr>\n</table>\n<p>Extra benefits at Longfu88 go beyond level payouts. Listed too are higher withdrawal limits and VIP cashback, together with personalised offers and a personal manager for VIPs in the eligible high tiers. Level and currency can change the rewards and withdrawal limits, and benefits tied to levels may be revised under the program rules.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Live Casino Offers</h2>\n<p>Live casino has a welcome offer separate from the standard casino one. Its name is Live Casino Welcome Bonus, and it targets newcomers beginning with live games and matches their first qualifying deposit at 125%, topping out at €888. At Longfu88, deposits start at €30, the bonus is wagered 30x along with the deposit, validity is 7 days and no single bet may top €25.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Promo Code: Anything Listed?</h2>\n<p>This page names no promo code, because none is listed for any offer at Longfu88. Instead, the route for the Casino Welcome Bonus runs through My Bonuses: the first qualifying deposit goes in first, then activation follows ahead of any wager being placed.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Phone Access</h2>\n<p>Smartphone and tablet browsers handle Longfu88 through a responsive layout that adapts to the screen. The casino, sportsbook, deposits, withdrawals, account access and bonuses can all be reached from a handset that way. Anything about apps is covered on the <a href=\"/app\">app page</a>.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Offers: Loyalty Questions</h2>\n<ul>\n<li><strong>What earns VIP points?</strong> Rounds of eligible gameplay played for real money. Those points then open the numbered reward levels.</li>\n<li><strong>What does the Coin Shop sell?</strong> Coins won along the way buy reward items, plus bonus credits to a value of €4,500 at most.</li>\n<li><strong>Does live casino get a welcome offer of its own?</strong> It does. New players can claim a 125% match with an €888 limit, under the name Live Casino Welcome Bonus.</li>\n<li><strong>Where do bonus questions go?</strong> Customer support at Longfu88 takes them, by e-mail, or on live chat available 24/7.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Longfu88 Bonus Crab, Wheel and Coin Shop in Brief",
+   "faqs": [
+    {
+     "question": "Bonus Crab:",
+     "answer": "qualifying picks open a crab that holds a reward."
+    },
+    {
+     "question": "Wheel of Fortune:",
+     "answer": "the prize wheel turns after an eligible spin or a number of Coins is used."
+    },
+    {
+     "question": "Challenges:",
+     "answer": "qualifying gambling tasks, once finished, earn the rewards listed."
+    },
+    {
+     "question": "Collections:",
+     "answer": "campaign items are gathered through qualifying activity."
+    },
+    {
+     "question": "Coin Shop:",
+     "answer": "reward items are on offer, and so are bonus credits reaching €4,500, all paid for with earned Coins."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

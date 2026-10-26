@@ -1,0 +1,23 @@
+Nạp tối thiểu €10, tối đa €5.000 mỗi giao dịch với mọi phương thức, gồm các nhóm sau:
+
+| Loại | Ví dụ | Tiền tệ |
+|---|---|---|
+| Ví, ngân hàng nội địa | MoMo, Zalo, ViettelPay, VietQR | VND |
+| Thẻ | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Chuyển khoản ngân hàng | Bank Transfer | IDR, MYR, VND |
+| Tiền mã hóa | Bitcoin, Ethereum, Litecoin, USDC, USDT (mạng TRC20, ERC20, BEP20) | BTC, ETH, LTC, USDT, USDC |
+| Ví điện tử | Neteller, Skrill | EUR |
+| Phương thức châu Âu | Sofort, Giropay | EUR |
+
+Tiền vào tài khoản sau 1 đến 2 phút và casino không thu phí xử lý, nhưng nhà cung cấp hoặc mạng blockchain có thể thu phí. Giới hạn có thể khác theo quốc gia, loại tiền và phương thức, còn Neteller và Skrill không được tính cho ưu đãi chào mừng. Các bước nạp: đăng nhập, mở quầy thanh toán, chọn Nạp tiền, chọn phương thức, nhập số tiền, xác nhận theo nhà cung cấp rồi chờ tiền vào số dư.
+
+Rút tiền hỗ trợ chuyển khoản ngân hàng, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT trên ba mạng, Touch'n Go, DANA, MoMo, DBS Bank và Online Banking, tối thiểu €20, tối đa €5.000:
+
+1. Đăng nhập Longfu88 và mở quầy thanh toán.
+2. Chọn Rút tiền và phương thức nhận.
+3. Nhập số tiền cùng ngân hàng, ví hoặc địa chỉ blockchain.
+4. Hoàn tất xác minh nếu được yêu cầu.
+5. Xem lại và xác nhận yêu cầu.
+6. Chờ casino xử lý và ngân hàng hoặc mạng thanh toán.
+
+Về Lngfu88 withdrawal time, thẻ, tiền mã hóa và ví mất 1 đến 3 ngày làm việc, còn chuyển khoản ngân hàng mất tối đa 3 ngày làm việc để casino xử lý, cộng 3 đến 5 ngày để ngân hàng chuyển tiền. Casino không thu phí rút tiền tiêu chuẩn. Phí 10% (tối thiểu €2,25) có thể áp dụng khi doanh thu cược thấp hơn tiền nạp, và 15% với một số giao dịch nạp bằng thẻ hoặc chuyển khoản, còn trước khi rút có thể cần cược tối thiểu 1x tiền nạp. Kiểm tra danh tính có thể làm chậm chi trả.

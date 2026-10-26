@@ -1,0 +1,158 @@
+{
+ "website": 4963,
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Rules and Payments for Singapore",
+  "description": "Longfu88 on mobile for Singapore players: who can play, currencies and languages, sports betting rules, game categories, payment methods and cash-outs.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 App Rules and Payments: Mobile Casino for Singapore Players",
+   "label": "Rules, currencies and payments for mobile players",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Join Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> is used on phones and tablets through a responsive website. On Android and iOS, Longfu88 mobile casino access means opening the regular site in the phone's browser. Anyone searching for a Longfu app finds a regular website plus a shortcut icon on the home screen, and no store listing. Longfu88 registration is limited to adults aged 18 and above, and the text targets Singapore. Sections below cover the shortcut, eligibility, currencies, sports, payments, withdrawals, devices, sign-in and support.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Join Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Download: The Home Screen Route</h2>\n<p>Longfu88 is reached from the browser on a smartphone or tablet. A shortcut icon gets placed on the home screen once, and it stays beside the other icons afterwards. Since the casino is a website, no file has to be installed and no Longfu88 apk is needed, and the icon is merely a link to the site. Separate steps follow for Chrome on Android and for Safari on iOS.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Longfu88 Android: Chrome Menu Steps</h3>\n<p>Chrome on an Android phone creates the shortcut in three stages:</p>\n<ol>\n<li>Visit the casino website in Chrome.</li>\n<li>Pick the Add to Home screen item from the Chrome menu.</li>\n<li>Accept the prompt to add it.</li>\n</ol>\n<p>An icon for the site then appears next to the phone's other icons.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Longfu88 iOS: Safari Share Steps</h3>\n<p>The Share menu in Safari is the route to a shortcut on the iPhone or iPad home screen:</p>\n<ol>\n<li>Visit the casino in the Safari browser.</li>\n<li>Press Share and look for Add to Home Screen.</li>\n<li>Complete the process with Add.</li>\n</ol>\n<p>Afterward the home screen holds the new icon next to the other items.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Mobile Features at a Glance</h2>\n<p>Longfu88 adapts its layout to phone and tablet browsers, so a single page structure covers every part of the casino. Six areas are reachable from one account, as the table shows.</p>\n<table>\n<tr>\n<td>Area</td>\n<td>Use on a phone</td>\n</tr>\n<tr>\n<td>Casino</td>\n<td>Playing casino games on the phone</td>\n</tr>\n<tr>\n<td>Sportsbook</td>\n<td>Placing sports bets, including live bets</td>\n</tr>\n<tr>\n<td>Account access</td>\n<td>Registering and logging in</td>\n</tr>\n<tr>\n<td>Deposits</td>\n<td>Funding the account via the cashier</td>\n</tr>\n<tr>\n<td>Withdrawals</td>\n<td>Requesting a payout through the cashier</td>\n</tr>\n<tr>\n<td>Bonuses</td>\n<td>Viewing and activating current offers</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Who Can Play from a Phone</h2>\n<p>Age, residence and account rules apply before anyone plays from a phone. The terms set two conditions: an age of at least 18, and legal permission to gamble wherever the player resides. Three account rules apply as well:</p>\n<ul>\n<li>Give accurate details when registering.</li>\n<li>One personal account per player.</li>\n<li>Payment methods must not belong to a third party.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Currencies and Support Languages</h2>\n<p>Six currencies are supported: SGD, MYR, USD, EUR, THB and USDT. SGD, the Singapore dollar, is the one used by the payment methods shown later on this page. Customer support operates in Thai, Malay, English, Vietnamese, Simplified Chinese and Indonesian, so a question can be asked in whichever of these suits the player.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Sports Betting Rules on Mobile</h2>\n<p>The mobile website includes a sportsbook, and its coverage spans nine sports:</p>\n<ul>\n<li>Basketball</li>\n<li>Esports</li>\n<li>Cricket</li>\n<li>Tennis</li>\n<li>Table tennis</li>\n<li>Football</li>\n<li>Virtual football</li>\n<li>Volleyball</li>\n<li>Badminton</li>\n</ul>\n<p>Single and accumulator bets sit alongside handicap, totals, outrights, live and Bet Builder wagers. Live betting adds odds that update live and markets open in-play, so a bet can still be placed once an event has started. Availability of events and markets can differ by jurisdiction.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Which Game Categories the Casino Section Offers</h2>\n<p>Nine categories organise the games in the mobile casino, which lets a player pick a type before choosing a title. The categories are:</p>\n<ul>\n<li>Fishing</li>\n<li>Slots</li>\n<li>Lottery</li>\n<li>Crash and instant games</li>\n<li>Live dealer games</li>\n<li>P2P games</li>\n<li>Jackpots</li>\n<li>Fast games</li>\n<li>Table games</li>\n</ul>\n<p>The cashback and reload section lower on the page describes the ongoing bonuses for casino play.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Cashback and Reload Offers for Mobile Players</h2>\n<p>Every week the Casino Weekly Cashback gives back a portion of net casino losses, to a maximum of 10%, and €6,988 is the upper limit. Joining requires an opt-in, valid for one four-week cycle, and an account that stays active may renew itself automatically. A separate deposit offer, the Casino Weekend Reload, has a ceiling of €3,360 along with 50 Free Spins. The minimum deposit for it is €50, so smaller deposits do not count. My Bonuses is where both offers get activated.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Payment Methods for Singapore Players</h2>\n<p>Inside the mobile website is the cashier, so deposits are made without leaving the phone browser that opens the casino. Singapore players get four methods in Singapore dollars, made up of two PayNow routes and two banks, all with one deposit speed.</p>\n<table>\n<tr>\n<td>Detail</td>\n<td>OCBC Bank</td>\n<td>DBS Bank</td>\n<td>PayNow QR</td>\n<td>PayNow</td>\n</tr>\n<tr>\n<td>Currency</td>\n<td>SGD</td>\n<td>SGD</td>\n<td>SGD</td>\n<td>SGD</td>\n</tr>\n<tr>\n<td>Deposit speed</td>\n<td>1–2 minutes</td>\n<td>1–2 minutes</td>\n<td>1–2 minutes</td>\n<td>1–2 minutes</td>\n</tr>\n</table>\n<p>Whichever of OCBC Bank, DBS Bank, PayNow QR or PayNow is used, the waiting time stays the same.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Taking Money Out from a Mobile Account</h2>\n<p>Cashing out begins in the cashier on the phone site, and six steps follow the login:</p>\n<ol>\n<li>Sign in, then go to the cashier.</li>\n<li>In Withdrawal, select a supported payment method as the destination.</li>\n<li>Specify the amount and the receiving wallet, bank or blockchain address.</li>\n<li>Identity verification and payment-method verification follow when requested.</li>\n<li>Review the details, then submit.</li>\n<li>The player gets the money once the casino has finished with the request and any bank or network involved has settled it.</li>\n</ol>\n<p>Requests normally finish within three working days, though bank transfers can take a further 3–5 business days to settle. KYC documents can be requested by the operator before processing.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Phones and Browsers That Work</h2>\n<p>Three platforms are listed by Longfu88: mobile web, Android and iOS. Smartphone and tablet screens both get an adapted layout, which lets a single website serve devices of different size. Chrome serves the Android route, Safari the iOS one. Everything happens in the browser, so no installation is needed.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Signing In from a Phone</h2>\n<p>Longfu88 registration is by e-mail only. First the form wants a password with its e-mail, then a legal name, then a date of birth together with a residential address. Logging in on a phone follows the desktop pattern: <a href=\"/login\">Login</a> is selected on the website, and the account opens with the credentials set at registration, e-mail plus password. Anyone who has lost the password can choose Forgot Password at login.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Support for Players on the Go</h2>\n<p>Customer support covers mobile and account questions, with live chat running around the clock and support@longfu88.com as the e-mail address. Replies come in Simplified Chinese, English, Indonesian, Malay, Vietnamese and Thai. Common topics for phone players are a shortcut that fails to appear, a site that refuses to open, difficulty logging in and documents that the operator asks for.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Rules and Payments FAQ",
+   "faqs": [
+    {
+     "question": "Does a store app exist?",
+     "answer": "No. Longfu88 loads in the browser, and only a shortcut is added to the phone's home screen."
+    },
+    {
+     "question": "Which devices can be used?",
+     "answer": "Phones and tablets on Android or iOS, using the mobile web."
+    },
+    {
+     "question": "Is there an age limit?",
+     "answer": "Yes, 18, and gambling has to be legal wherever the player resides."
+    },
+    {
+     "question": "Which languages does support use?",
+     "answer": "Malay, Simplified Chinese and English, along with Vietnamese, Thai and Indonesian."
+    },
+    {
+     "question": "Can sports be bet on from a phone?",
+     "answer": "Yes, the Longfu88 mobile website includes the sportsbook."
+    },
+    {
+     "question": "Who can be contacted about a problem?",
+     "answer": "Customer support: the live chat never closes (24/7), and an e-mail address is there as well."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

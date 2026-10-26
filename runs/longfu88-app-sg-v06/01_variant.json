@@ -1,0 +1,247 @@
+{
+  "id": "v06",
+  "name": "Security-conscious",
+  "tier": "medium",
+  "angle": "A cautious player who wants to know what protects the account before using a phone.",
+  "intent_summary": "Security-conscious brand-subpage about the Longfu88 mobile casino in Singapore for a cautious reader: how the account is protected on a phone, which technical data the website collects, how to sign in safely, why the casino needs no installation file and how the shortcut is added on Android and iOS, the choice between the shortcut and a browser tab, which identity checks can be requested, responsible gaming and support; no feature list and no fix list. Page voice: sober and exact, every claim tied to a stated fact, sentences of about 18 words with a few shorter ones, no reassurance beyond the facts; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 on Android and iOS: Safe Mobile Casino Access",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu app": 1,
+        "Longfu88 mobile casino": 1
+      },
+      "notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence: the casino is used on a smartphone or tablet through its responsive website, on Android and iOS. The phrase \"Longfu88 mobile casino\" stands once, in a sentence that says what the Longfu88 mobile casino is (the responsive website in the phone browser). The phrase \"Longfu app\" stands once, in a sentence that says that players who look for the Longfu app will find the mobile version of the website with a home-screen shortcut (not a store app). State once that the casino is for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (account protection, technical data, safe sign-in, the shortcut instead of a file, identity checks, responsible gaming, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Neutral tone, no promises."
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "How the Account Stays Protected on a Phone",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Which Technical Data the Website Collects",
+      "words": 65,
+      "kw": {},
+      "summary": "Which technical data the website collects from a phone and what the cookies are for.",
+      "entities": [
+        [
+          "Technical Data",
+          10
+        ],
+        [
+          "Cookies",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Mobile Website",
+          "collects",
+          "technical data such as the IP address, device data, browser information and cookies",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.data_collected.technical_data",
+        "brandinfo_privacy_policy.privacy_policy.cookies",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing"
+      ],
+      "notes": "The technical data collected by the website: IP address, device data, browser information and cookies; the cookies are necessary, preference, analytics and marketing cookies that support website functions and measurement; the data may be shared with payment service providers, identity verification providers, technology providers and, when required, regulators and law enforcement. Do not print the contact addresses of the privacy policy. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Signing In Safely from a Phone",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "extra": "Only the login: leave the registration form out of this block.",
+      "refs_drop": [
+        "brandinfo_account.registration.methods",
+        "brandinfo_account.registration.required_details"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download: A Shortcut Instead of a File",
+      "words": 70,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Shortcut",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Shortcut",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Shortcut Versus Browser Tab",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Identity Checks and Account Verification",
+      "words": 85,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "When verification can be requested and which documents are needed.",
+      "entities": [
+        [
+          "Account Verification",
+          10
+        ],
+        [
+          "Identity Documents",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Account Verification",
+          "may be requested",
+          "before a withdrawal or after unusual activity",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_account.verification.triggers",
+        "brandinfo_account.verification.documents",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_account.verification.typical_review_time"
+      ],
+      "notes": "One lead-in sentence that says when verification can be requested (account review, before a withdrawal, unusual or high-value transactions, changes to account or payment details), then a bulleted list of the four document types of the Brand Information (government-issued photo ID or passport, proof of residential address, proof of ownership of a payment method, source of funds or wealth documents when requested), then one sentence: documents are submitted within up to 30 days when requested and a complete set is typically reviewed within up to 10 days. Use only the facts of the Brand Information of this block, character for character; add no other fact, no promise of winnings and no comparison with other casinos. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Responsible Play on a Phone",
+      "words": 70,
+      "kw": {},
+      "summary": "Responsible gaming on the mobile website: the age rule, self-assessment and independent support organisations.",
+      "entities": [
+        [
+          "Responsible Gaming",
+          10
+        ],
+        [
+          "Self-Assessment",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Self-Assessment",
+          "helps",
+          "players identify possible gambling-related harm",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_responsible_gaming.responsible_gaming.policy",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment",
+        "brandinfo_responsible_gaming.responsible_gaming.support_organizations"
+      ],
+      "notes": "State the policy as given: players must be at least 18 years old and gamble only where lawful. Then the self-assessment questions that help players identify possible gambling-related harm, and name the independent support organisations (GamCare, Gamblers Anonymous, Gambling Therapy). Do not print any contact address and do not quote the processing time. Use only the facts of the Brand Information of this block, character for character; add no other fact, no promise of winnings and no comparison with other casinos. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Devices and Browsers",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Reaching Support",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Longfu88 App Safety FAQ",
+      "words": 100,
+      "kw": {
+        "Longfu88": 2
+      },
+      "summary": "6 short questions and answers on the mobile version of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) how a player logs in on a phone (with the registered e-mail and password, as on a computer); (3) what the minimum age is (18, and the player must be legally permitted to gamble where they live); (4) how the iOS shortcut is added (open the casino website in Safari, tap Share, choose Add to Home Screen, confirm Add); (5) how the Android shortcut is added (open the casino website in Chrome, choose Add to Home screen in the browser menu, confirm the shortcut); (6) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "refs_add": [
+        "brandinfo_app.app_information.ios_installation",
+        "brandinfo_app.app_information.android_installation"
+      ],
+      "refs_drop": [
+        "brandinfo_app.app_information.platforms"
+      ]
+    }
+  ],
+  "skipped_clusters": [
+    {
+      "id": "k08",
+      "reason": "the games overview belongs to the games pages of the site; the app page names the casino as one feature of the mobile website"
+    },
+    {
+      "id": "k09",
+      "reason": "the payment methods belong to the payments page of the site; the app page names deposits and withdrawals as features of the mobile website"
+    }
+  ]
+}

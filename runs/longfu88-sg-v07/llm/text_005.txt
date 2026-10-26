@@ -1,0 +1,9 @@
+Longfu88 offers one sign-up route, by e-mail. The form collects a legal name, a date of birth and a residential address, along with the login details of the new account. A player is limited to a single account, and entry starts at age 18.
+
+1. Select Register once the site is open.
+2. Provide an e-mail and a freshly created password.
+3. Tick the age confirmation, then accept the Privacy Policy and the Terms and Conditions.
+4. Complete the extra personal fields, residential address included.
+5. Hit Create Account, then finish whatever e-mail confirmation follows.
+
+Returning players open the site, press Login and fill in the pair picked while joining, meaning the password and the e-mail address. After any security check clears, the Longfu88 login lands in the account. Anyone who forgot the password picks Forgot Password on the login screen, which mails a reset link, and the guidance inside that mail creates a new one.

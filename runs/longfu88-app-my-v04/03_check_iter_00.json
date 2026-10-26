@@ -1,0 +1,54 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 941,
+    "max_body_words": 1175,
+    "target_body_words": 920,
+    "keywords_total": {
+      "Longfu88": 13,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 13,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence claims that a phone and a tablet differ 'only in screen size, not in what a player can do'. This is an absolute statement that the facts do not give; the facts only say the website is responsive and lists six features.",
+        "fix": "Rewrite the closing sentence without the absolute claim: say that these mobile features sit on the same responsive website that opens in a phone or tablet browser. Keep the keyword count, the list and the word range."
+      }
+    ],
+    "b03": [],
+    "b04": [],
+    "b05": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence ('ready for a one-tap visit') repeats the single-tap idea that block b08 develops, and 'next to the other icons of the device' is filler.",
+        "fix": "Replace the closing sentence with a short, different clause that says the shortcut then appears on the home screen of the iPhone or iPad. Keep the numbered steps, no tracked keywords and the word range 48-62."
+      }
+    ],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": []
+  },
+  "missing_data": []
+}

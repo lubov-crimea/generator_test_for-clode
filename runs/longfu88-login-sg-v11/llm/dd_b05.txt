@@ -1,0 +1,7 @@
+No new account is needed once the password is forgotten: the login screen leads to a reset, and the registered e-mail receives the link. Longfu88 handles it in three steps:
+
+1. On the login screen, choose Forgot Password.
+2. Order a reset link for the registered e-mail.
+3. Use the e-mailed instructions to set the new password.
+
+Anyone unable to open the registered mailbox needs support, whose channels are in the support section.

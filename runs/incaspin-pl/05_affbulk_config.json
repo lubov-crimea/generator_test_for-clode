@@ -1,0 +1,42 @@
+{
+  "website_id": 5406,
+  "locale": "pl",
+  "slug": "index",
+  "seo": {
+    "title": "Incaspin Casino: pakiet powitalny do 2 750 € + 275 FS",
+    "description": "Incaspin Casino dla polskich graczy: sloty, kasyno na żywo, zakłady sportowe, pakiet powitalny do 2 750 € i 275 darmowych spinów oraz wsparcie 24/7."
+  },
+  "keywords": {
+    "main": "Incaspin Casino",
+    "additional": "kasyno, kasyno online, sloty, gry na żywo, zakłady sportowe, rejestracja, logowanie, KYC, aplikacja, płatności, bonusy, bonus powitalny, cashback, Polska, PL"
+  },
+  "hero": {
+    "background": 3502,
+    "label": "Pakiet powitalny do 2 750 € + 275 darmowych spinów dla nowych graczy"
+  },
+  "preview": {
+    "title": "Bonusy Incaspin Casino",
+    "items": [
+      {"image": 5092, "title": "Pakiet powitalny kasyna", "text": "Do 2 750 € + 275 darmowych spinów"},
+      {"image": 5091, "title": "Pierwszy bonus sportowy", "text": "100% do 100 €"},
+      {"image": 5093, "title": "Cashback tygodniowy", "text": "Do 25% tygodniowych strat netto"},
+      {"image": 5094, "title": "Bonus Highroller", "text": "50% do 500 € (min. wpłata 300 €)"},
+      {"image": 5096, "title": "Niedzielny reload", "text": "25% do 100 €"},
+      {"image": 5095, "title": "Program VIP Boomerang", "text": "Rangi, punkty BP i skrzynie z nagrodami"}
+    ]
+  },
+  "reviews": {
+    "title": "Opinie graczy",
+    "items": [
+      {"username": "Kamil", "review": "Rejestracja poszła sprawnie, a wszystkie kroki były jasno opisane. Przed wypłatą wiedziałem, jakie dokumenty mogą być potrzebne.", "date": "2026-10-16", "avatar": 3856, "rating": 5},
+      {"username": "Ola", "review": "Lobby jest czytelne, sloty i gry na żywo łatwo znaleźć. Fajnie, że od razu widać podział na kategorie.", "date": "2026-10-17", "avatar": 3859, "rating": 5},
+      {"username": "Marta", "review": "Gram głównie na telefonie i wersja mobilna działa płynnie. Kasjer jest prosty, nawet na małym ekranie.", "date": "2026-10-18", "avatar": 3854, "rating": 4},
+      {"username": "Piotr", "review": "Czat wsparcia odpowiedział konkretnie i wskazał właściwy regulamin bonusu. Zanim zacząłem grać, przeczytałem warunki obrotu.", "date": "2026-10-19", "avatar": 3858, "rating": 4},
+      {"username": "Ewelina", "review": "Podoba mi się wybór metod płatności i to, że wszystko jest opisane w jednym miejscu. Na pewno warto sprawdzić zasady promocji przed wpłatą.", "date": "2026-10-21", "avatar": 3857, "rating": 5}
+    ]
+  },
+  "promo": {
+    "title": "Pakiet powitalny Incaspin Casino",
+    "description": "Do 2 750 € + 275 darmowych spinów"
+  }
+}

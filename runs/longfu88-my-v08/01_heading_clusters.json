@@ -1,0 +1,873 @@
+[
+  {
+    "id": "k02",
+    "topic": "Games overview",
+    "canonical_title": "Games Overview",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 70,
+    "avg_position": 0.36,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Available Games at Longfu88"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Casino Games"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Casino games"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Game Selection and Software Providers"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Explore 2,500+ Casino Games"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Games and Providers – 7,500 Titles from 50+ Studios"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Pilihan Permainan di Longfu Casino"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "What games can I play at Longfu88?"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Sports betting and esports",
+    "canonical_title": "Sports Betting",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 90,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Sports Betting – Bet on Your Favorite Sports"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sportsbook"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Sports Betting Through SABA Sports"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Bet on Global Sports Events"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Sports, E-sports and Lottery"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Sukan & Pertaruhan Bola Sepak (EPL)"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Bonuses and welcome offers",
+    "canonical_title": "Bonuses and Welcome Offers",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 92,
+    "avg_position": 0.39,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Bonuses – Boost Your Play with Generous Offers"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Bonus Crab"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "How do I claim my bonus?"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bonuses & promotions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Welcome Bonuses and Promotional Offers"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Claim Your 188% Welcome Bonus Today"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Longfu88 Bonuses – Four Welcome Offers, One Account"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "What is the longfu88 welcome bonus?"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Live casino",
+    "canonical_title": "Live Casino",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 69,
+    "avg_position": 0.45,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Longfu 88 Live Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live Dealer Games"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Experience Live Dealer Gaming"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Live Casino"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Kasino Langsung & Game Shows"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Pengalaman Kasino Langsung (Live Casino) Tanpa Gangguan"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Deposit methods and payments",
+    "canonical_title": "Payment Methods",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 98,
+    "avg_position": 0.54,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Deposit Methods at Longfu 88"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Deposits & withdrawals"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposit methods"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Banking Methods and Transaction Processing"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Payments – Local Methods for Malaysian Players"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "How do I deposit at longfu88 Malaysia?"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Kaedah Pembayaran: Deposit & Pengeluaran"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Licence, security and fair play",
+    "canonical_title": "Safety and Fair Play",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 135,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Licensing & security"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Security Measures and Fair Gaming"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Payment Security and Fraud Prevention"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Is Longfu88 Safe? Security and Fair Play"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Is longfu88 casino safe to play at?"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Keselamatan: Main Dalam Persekitaran Terkawal"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "Responsible gambling",
+    "canonical_title": "Responsible Gambling",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 103,
+    "avg_position": 0.69,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Responsible gambling tools"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Responsible Gambling Tools"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Responsible Gambling"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Sokongan Pemain & Permainan Bertanggungjawab"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Mobile access and app",
+    "canonical_title": "Mobile Access",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 101,
+    "avg_position": 0.71,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile & app experience"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Mobile Gaming Experience"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Mobile Access"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Pengalaman Mudah Alih (Mobile UX) Tanpa Aplikasi Berat"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Does longfu88 have a mobile app?"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Slots",
+    "canonical_title": "Slots",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 94,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Slot: Dunia Gulungan Untuk Semua Gaya"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Variasi Mesin Slot & Rahsia Pusingan Pertaruhan (TO)"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "Platform overview / about the casino",
+    "canonical_title": "About the Casino",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 88,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "About LongFu88"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "LongFu88 overview"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Platform Overview"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Sorotan Menyeluruh: Permainan, Bonus, Pembayaran & Kebolehpercayaan"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "VIP programme and loyalty",
+    "canonical_title": "VIP Programme",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 115,
+    "avg_position": 0.46,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "VIP Program and Loyalty Rewards"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "VIP Programme – Bronze to Diamond"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Butiran Program VIP"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Keistimewaan Ahli VIP & Keutamaan Pengeluaran (Cuci)"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Ongoing promotions and tournaments",
+    "canonical_title": "Ongoing Promotions",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 109,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Ongoing Promotions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Tournament Competitions and Promotions"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Ganjaran Berterusan Untuk Pemain Sedia Ada"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 135,
+    "avg_position": 0.71,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Customer Support"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Customer support"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Customer Support Channels"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "Verdict and conclusion",
+    "canonical_title": "Verdict",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 178,
+    "avg_position": 0.85,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Our verdict on LongFu88"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Should You Play at Longfu88?"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Ringkasan: Mengapa Memilih Longfu 88 Casino?"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Kesimpulan: Platform Stabil Dengan Proses Kewangan Pantas"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "FAQ",
+    "canonical_title": "Frequently Asked Questions",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.85,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "FAQs – Your Questions Answered"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "FAQ"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Soalan Lazim (FAQ) - Longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Fishing, P2P, fast and free games",
+    "canonical_title": "Instant and Specialty Games",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 50,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Dive into Fishing"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "P2P – Play Against Other Players"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Fast Games – Quick, Instant Wins"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Free games"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Table games and video poker",
+    "canonical_title": "Table Games",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 42,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Table games"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Permainan Meja & Video Poker"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "Pros and cons",
+    "canonical_title": "Pros and Cons",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 50,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Longfu88 Review – What Works and What to Know"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Strengths"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Worth knowing before you deposit"
+      },
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Kelebihan & Kekurangan Longfu Casino"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Withdrawals and payout speed",
+    "canonical_title": "Withdrawals",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 102,
+    "avg_position": 0.63,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Withdrawal methods"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Ujian Pembayaran: Berapa Cepat Boleh \"Cuci\"?"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Registration and login",
+    "canonical_title": "Registration and Login",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 76,
+    "avg_position": 0.68,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Easy Registration and Seamless Login – Getting Started at Longfu88"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Steps to Register:"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "How do I register at Longfu88?"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Akses Link Rasmi & Sistem Log Masuk Auto"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Kemudahan Navigasi Selepas Mendaftar"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Cryptocurrency payments",
+    "canonical_title": "Crypto Payments",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 37,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Can I use cryptocurrency to deposit?"
+      },
+      {
+        "competitor": 6,
+        "level": 3,
+        "text": "Era Baharu Pembayaran Kripto"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Lottery",
+    "canonical_title": "Lottery",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Lottery"
+      }
+    ]
+  },
+  {
+    "id": "k26",
+    "topic": "Hands-on experience: access and payout test",
+    "canonical_title": "Hands-on Experience",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 65,
+    "avg_position": 0.58,
+    "examples": [
+      {
+        "competitor": 6,
+        "level": 2,
+        "text": "Pengalaman Sebenar: Akses Pantas & Ujian Sistem Pembayaran"
+      }
+    ]
+  },
+  {
+    "id": "k25",
+    "topic": "Quick links",
+    "canonical_title": "Quick Links",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 48,
+    "avg_position": 0.65,
+    "examples": [
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Software providers",
+    "canonical_title": "Game Providers",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 204,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Game Provider Partnerships"
+      }
+    ]
+  },
+  {
+    "id": "k24",
+    "topic": "User reviews",
+    "canonical_title": "User Reviews",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 66,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "User Reviews"
+      }
+    ]
+  }
+]

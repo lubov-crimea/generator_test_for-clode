@@ -1,0 +1,10 @@
+The Longfu88 website is responsive, so its layout adapts to smartphone and tablet browsers and gives access to six areas:
+
+- Play casino games on the phone
+- Place bets in the sportsbook
+- Access the account
+- Make deposits into the account
+- Request withdrawals from the account
+- Claim bonuses in the account
+
+The sportsbook sits beside the casino on the same responsive website. Each area opens in the browser or from the home-screen shortcut, on a phone and on a tablet alike.

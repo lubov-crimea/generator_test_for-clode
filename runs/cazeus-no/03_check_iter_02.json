@@ -1,0 +1,46 @@
+{
+  "iteration": 2,
+  "passed": true,
+  "summary": {
+    "body_words": 3090,
+    "target_body_words": 3237,
+    "keywords_total": {
+      "Cazeus": 24,
+      "Cazues casino": 1
+    },
+    "keyword_targets": {
+      "Cazeus": 24,
+      "Cazues casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b02",
+      "note": "No data for the languages of the website and of customer support: the Languages row says that they are not specified."
+    }
+  ]
+}

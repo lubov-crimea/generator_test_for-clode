@@ -1,0 +1,136 @@
+{
+ "clusters": [
+  {
+   "topic": "Registration and login",
+   "canonical_title": "Registration and Login",
+   "member_ids": [
+    "c0h1",
+    "c0h2",
+    "c0h3",
+    "c0h4",
+    "c0h12",
+    "c0h15",
+    "c1h1",
+    "c1h3"
+   ]
+  },
+  {
+   "topic": "Customer support",
+   "canonical_title": "Customer Support",
+   "member_ids": [
+    "c0h7",
+    "c0h10"
+   ]
+  },
+  {
+   "topic": "Bonuses and welcome offers",
+   "canonical_title": "Bonuses and Welcome Offers",
+   "member_ids": [
+    "c0h8",
+    "c0h9",
+    "c1h2"
+   ]
+  },
+  {
+   "topic": "FAQ",
+   "canonical_title": "Frequently Asked Questions",
+   "member_ids": [
+    "c0h11"
+   ]
+  },
+  {
+   "topic": "Licence, security and fair play",
+   "canonical_title": "Safety and Fair Play",
+   "member_ids": [
+    "c0h14",
+    "c1h5",
+    "c1h6",
+    "c1h7"
+   ]
+  },
+  {
+   "topic": "Deposit methods and payments",
+   "canonical_title": "Payment Methods",
+   "member_ids": [
+    "c1h9"
+   ]
+  },
+  {
+   "topic": "Games overview",
+   "canonical_title": "Games Overview",
+   "member_ids": [
+    "c1h13"
+   ]
+  },
+  {
+   "topic": "Mobile access and app",
+   "canonical_title": "Mobile Access",
+   "member_ids": [
+    "c1h14"
+   ]
+  },
+  {
+   "topic": "VIP programme and loyalty",
+   "canonical_title": "VIP Programme",
+   "member_ids": [
+    "c1h15"
+   ]
+  },
+  {
+   "topic": "Other: 2. Clear Your Browser Cache and Cookies",
+   "canonical_title": "2. Clear Your Browser Cache and Cookies",
+   "member_ids": [
+    "c0h5"
+   ]
+  },
+  {
+   "topic": "Other: 3. Try a Different Device or Browser",
+   "canonical_title": "3. Try a Different Device or Browser",
+   "member_ids": [
+    "c0h6"
+   ]
+  },
+  {
+   "topic": "Other: What should I do if I forgot my password?",
+   "canonical_title": "What should I do if I forgot my password?",
+   "member_ids": [
+    "c0h13"
+   ]
+  },
+  {
+   "topic": "Other: Account Recovery and Password Reset",
+   "canonical_title": "Account Recovery and Password Reset",
+   "member_ids": [
+    "c1h4"
+   ]
+  },
+  {
+   "topic": "Other: Managing Your Longfu88 Account Settings",
+   "canonical_title": "Managing Your Longfu88 Account Settings",
+   "member_ids": [
+    "c1h8"
+   ]
+  },
+  {
+   "topic": "Other: Communication Preferences",
+   "canonical_title": "Communication Preferences",
+   "member_ids": [
+    "c1h10"
+   ]
+  },
+  {
+   "topic": "Other: Multi-Currency and Multi-Account Policies",
+   "canonical_title": "Multi-Currency and Multi-Account Policies",
+   "member_ids": [
+    "c1h11"
+   ]
+  },
+  {
+   "topic": "Other: Account Closure and Self-Exclusion",
+   "canonical_title": "Account Closure and Self-Exclusion",
+   "member_ids": [
+    "c1h12"
+   ]
+  }
+ ]
+}

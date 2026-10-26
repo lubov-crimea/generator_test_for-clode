@@ -1,0 +1,11 @@
+Bonus conditions rely on a few terms that return across offers. The glossary below defines each of them and, for the Casino Welcome Bonus, adds the concrete figure wherever one exists.
+
+| Term | Meaning |
+|---|---|
+| Wagering requirement | Number of times a stake base must be played through before withdrawal, here 25x the deposit and bonus amount together |
+| Free Spins winnings | Carry a wagering of their own, 40x the winnings, apart from the bonus amount |
+| Validity | Time window for finishing the wagering, 10 days counted from activation |
+| Maximum bet | Highest stake per spin permitted during wagering, set at €22.5 |
+| Maximum cashout | Payout ceiling of the bonus, expressed against the initial bonus amount as 5x |
+| Opt-in | Joining the Casino Weekly Cashback, whose cycle lasts four weeks |
+| My Bonuses | Account area in which offers are switched on |

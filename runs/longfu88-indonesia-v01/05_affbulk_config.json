@@ -1,0 +1,265 @@
+{
+ "website_id": 38,
+ "domain": "longfu-88.casino",
+ "page_id": 49,
+ "slug": "index",
+ "locale": "id",
+ "seo": {
+  "title": "Longfu88 Casino Indonesia: Bonus 188% hingga €2.088",
+  "description": "Ulasan Longfu88 untuk pemain Indonesia: fakta utama, bonus 188% dengan 18 putaran gratis, permainan, taruhan olahraga, pembayaran, dan dukungan.",
+  "customCanonical": "https://longfu-88.casino/",
+  "customPageLang": "id-ID"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-88.casino/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-88.casino/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-88.casino/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-88.casino/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-88.casino/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "kasino, kasino online, kasino kripto, bermain, judi, slot, live casino, taruhan olahraga, daftar, login, KYC, aplikasi, pembayaran, bonus, bonus selamat datang, Indonesia, ID"
+ },
+ "hero": {
+  "label": "Penawaran awal: 188% hingga €2.088 + 18 Putaran Gratis untuk deposit pertama",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Gabung Sekarang"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "Big Bass Bonanza",
+    72
+   ],
+   [
+    "Book of Dead",
+    109
+   ],
+   [
+    "Buffalo King Megaways",
+    91
+   ],
+   [
+    "Gates Of Olympus 1000",
+    84
+   ],
+   [
+    "Legacy of Dead",
+    71
+   ],
+   [
+    "Maya Gold",
+    103
+   ],
+   [
+    "Mega Moolah",
+    99
+   ],
+   [
+    "Razor Shark",
+    83
+   ],
+   [
+    "Sweet Bonanza",
+    100
+   ],
+   [
+    "The Dog House",
+    92
+   ],
+   [
+    "Wolf Gold",
+    106
+   ],
+   [
+    "Zeus vs Hades",
+    80
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviator",
+    89
+   ],
+   [
+    "Ballonix",
+    81
+   ],
+   [
+    "Balloon",
+    86
+   ],
+   [
+    "Big Bass Crash",
+    88
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Lucky Jet",
+    104
+   ],
+   [
+    "Penalty Shoot Out",
+    90
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "Reactoonz",
+    76
+   ],
+   [
+    "Squid Game",
+    101
+   ],
+   [
+    "Tower Rush",
+    232
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Promo Longfu88",
+  "items": [
+   {
+    "image": 4657,
+    "button": "Klaim Bonus"
+   },
+   {
+    "image": 4656,
+    "button": "Lihat Penawaran"
+   },
+   {
+    "image": 4655,
+    "button": "Klaim Sekarang"
+   },
+   {
+    "image": 4652,
+    "button": "Dapatkan Bonus"
+   },
+   {
+    "image": 4653,
+    "button": "Klaim Bonus"
+   },
+   {
+    "image": 4654,
+    "button": "Lihat Penawaran"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Ulasan Pemain",
+  "items": [
+   {
+    "username": "Maya Sari",
+    "review": "Halaman pembayarannya tidak menyembunyikan apa pun, dan saya bisa melihat metode yang tersedia sebelum memilih. Tidak terlalu ramai, dan fungsinya sesuai yang saya butuhkan.",
+    "date": "2026-10-18",
+    "avatar": 3854,
+    "rating": 5
+   },
+   {
+    "username": "Bayu",
+    "review": "Program VIP dijelaskan dengan baik, dan mudah melihat cara kerja levelnya. Setelah beberapa saat, mudah sekali menemukan semua yang dibutuhkan.",
+    "date": "2026-10-16",
+    "avatar": 3862,
+    "rating": 5
+   },
+   {
+    "username": "Ayu Kartika",
+    "review": "Saya mendaftar lewat ponsel dan email konfirmasinya langsung masuk, jadi akun bisa dipakai tanpa menunggu lama. Layak dicoba bagi yang penasaran.",
+    "date": "2026-10-14",
+    "avatar": 3859,
+    "rating": 4
+   },
+   {
+    "username": "Putri Anggraini",
+    "review": "Saya lebih sering main slot, dan lobi menyusunnya dengan rapi sehingga game favorit mudah dibuka lagi. Untuk sekarang saya akan tetap memakainya.",
+    "date": "2026-10-14",
+    "avatar": 3860,
+    "rating": 5
+   },
+   {
+    "username": "Nadia Safitri",
+    "review": "Bermain lewat browser ponsel terasa lancar dan saya tidak perlu mengunduh apa pun. Secara keseluruhan situsnya rapi dan mudah dipakai.",
+    "date": "2026-10-14",
+    "avatar": 3857,
+    "rating": 4
+   },
+   {
+    "username": "Siti Rahmawati",
+    "review": "Saya menulis ke dukungan lewat email dan menerima jawaban yang jelas serta sopan. Untuk sekarang saya akan tetap memakainya.",
+    "date": "2026-10-14",
+    "avatar": 3861,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Bonus Selamat Datang Kasino",
+  "description": "188% hingga €2.088 + 18 Putaran Gratis",
+  "disclaimer": "Khusus 18+. Syarat bonus berlaku. Mohon bermain dengan bijak.",
+  "button": "Klaim Penawaran"
+ },
+ "cta_texts": [
+  "Dapatkan Bonus",
+  "Main Sekarang",
+  "Daftar",
+  "Klaim Bonus",
+  "Coba Live Casino"
+ ]
+}

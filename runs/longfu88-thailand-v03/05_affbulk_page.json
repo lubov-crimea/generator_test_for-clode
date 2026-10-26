@@ -1,0 +1,711 @@
+{
+ "website": 108,
+ "slug": "th",
+ "seo": {
+  "title": "Longfu88 บนมือถือ คู่มือเริ่มเล่นสำหรับคนไทย",
+  "description": "Longfu88 บนมือถือสำหรับผู้เล่นชาวไทย วิธีตั้งไอคอนที่หน้าจอหลัก สมัคร เข้าสู่ระบบ รับโบนัสแรก ฝากเงิน ถอนเงิน เกมและเดิมพันกีฬา",
+  "index": true,
+  "customCanonical": "https://longfu88.mobi/th",
+  "customPageLang": "th"
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "คาสิโน, คาสิโนออนไลน์, คาสิโนคริปโต, เล่น, สล็อต, คาสิโนสด, แทงกีฬา, สมัครสมาชิก, เข้าสู่ระบบ, KYC, แอป, การชำระเงิน, โบนัส, โบนัสต้อนรับ, ไทย, TH"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "รีวิว Longfu88 casino บนมือถือสำหรับผู้เล่นชาวไทย",
+   "label": "โบนัสฝากครั้งแรก: 188% สูงสุด €2,088 + ฟรีสปิน 18 ครั้ง",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "สมัครเลย",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "สล็อตยอดนิยม",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "888 gold",
+     "image": 94,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Bonanza",
+     "image": 72,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Ra",
+     "image": 85,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Buffalo King Megaways",
+     "image": 91,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Dead or Alive",
+     "image": 93,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Le Bandit",
+     "image": 231,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Maya Gold",
+     "image": 103,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Mega Moolah",
+     "image": 99,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sugar Rush",
+     "image": 87,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 100,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "The Dog House",
+     "image": 92,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Zeus vs Hades",
+     "image": 80,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "เกมแครชและเกมด่วน",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Aviator",
+     "image": 89,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviatrix",
+     "image": 77,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Crash",
+     "image": 88,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Chicken Road",
+     "image": 97,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "F777 Fighters",
+     "image": 108,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "JetX",
+     "image": 70,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lucky Jet",
+     "image": 104,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Plinko",
+     "image": 74,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Reactoonz",
+     "image": 76,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "SpaceMan",
+     "image": 75,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Squid Game",
+     "image": 101,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Tower Rush",
+     "image": 232,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "คาสิโนสด",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "American Roulette",
+     "image": 2628,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Balls",
+     "image": 2630,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Time",
+     "image": 2208,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ice Fishing",
+     "image": 102,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Infinite Blackjack",
+     "image": 2626,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lightning Dragon Tiger",
+     "image": 2629,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lightning Roulette",
+     "image": 79,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Marble Race",
+     "image": 2627,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Money Time",
+     "image": 233,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Monopoly Live",
+     "image": 234,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Race Track",
+     "image": 2625,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza Candyland",
+     "image": 235,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "เล่นเลย",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "ข้อเสนอล่าสุดของ Longfu88",
+   "items": [
+    {
+     "image": 4655,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "ดูโบนัส",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4652,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "รับโบนัส",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4653,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "ดูข้อเสนอ",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4654,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "รับเลย",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4657,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "ดูโบนัส",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4656,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "รับโบนัส",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Longfu88 เป็นคาสิโนออนไลน์ที่เปิดตัวในปี 2026 โดยรวมเกมคาสิโน ไลฟ์ดีลเลอร์ การเดิมพันกีฬา และหวยไว้ในบัญชีเดียว หมวดเกมประกอบด้วยสล็อต ไลฟ์ดีลเลอร์ เกมโต๊ะ แจ็กพอต เกมยิงปลา เกม P2P เกมเร็ว หวย และเกมแครชกับเกมทันใจ พร้อมสปอร์ตบุ๊กสำหรับเดิมพันกีฬา</p>\n<p>หน้านี้เขียนสำหรับผู้เล่นชาวไทย ผู้เล่นต้องมีอายุอย่างน้อย 18 ปี เนื้อหาเรียงตามลำดับการใช้งานจริง ได้แก่ ข้อมูลสำคัญ ใบอนุญาต โบนัส เกม การฝากถอน การเล่นบนมือถือ และการเล่นอย่างรับผิดชอบ</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "เริ่มเล่น",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>ข้อมูลสำคัญในตารางเดียว</h2>\n<table>\n<tr>\n<td>รายการ</td>\n<td>ข้อมูล</td>\n</tr>\n<tr>\n<td>ใบอนุญาต</td>\n<td>คอสตาริกา ผู้ดำเนินการ Lumina 000-039123-R-319326-001</td>\n</tr>\n<tr>\n<td>ฝากขั้นต่ำ</td>\n<td>€10</td>\n</tr>\n<tr>\n<td>โบนัสต้อนรับ</td>\n<td>188% สูงสุด €2,088 + ฟรีสปิน 18 ครั้ง</td>\n</tr>\n<tr>\n<td>ช่องทางชำระเงิน</td>\n<td>บัตร Visa และ Mastercard, โอนผ่านธนาคาร, Bitcoin, USDT, PromptPay QR</td>\n</tr>\n<tr>\n<td>มือถือ</td>\n<td>Android, iOS, เว็บมือถือ</td>\n</tr>\n<tr>\n<td>สกุลเงิน</td>\n<td>EUR, USD, MYR, THB, SGD, USDT</td>\n</tr>\n<tr>\n<td>ภาษาที่รองรับ</td>\n<td>อังกฤษ, มลายู, จีนตัวย่อ, ไทย, อินโดนีเซีย, เวียดนาม</td>\n</tr>\n<tr>\n<td>แคชแบ็ก</td>\n<td>สูงสุด 10% ของยอดขาดทุนสุทธิรายสัปดาห์</td>\n</tr>\n<tr>\n<td>ฝ่ายสนับสนุน</td>\n<td>support@longfu88.com, ไลฟ์แชต 24 ชั่วโมง</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>ตั้งค่าเล่นบนมือถือในไม่กี่นาที</h2>\n<p>เปิดเว็บไซต์ผ่านเบราว์เซอร์บนสมาร์ตโฟนหรือแท็บเล็ต เพราะคาสิโนเป็นเว็บไซต์แบบปรับตามหน้าจอ รองรับ Android, iOS และเว็บมือถือ จากนั้นเพิ่มทางลัดไว้บนหน้าจอหลัก ทางลัดนี้คือ Longfu88 app ในรูปแบบเว็บไซต์ ช่วยให้เข้าคาสิโนและสปอร์ตบุ๊กได้ทันที</p>\n<p>ผ่านทางลัดเดียวกันใช้ได้ทั้งการเข้าบัญชี การฝาก การถอน และโบนัส ทำตามขั้นตอนในตารางตามอุปกรณ์ที่ใช้</p>\n<table>\n<tr>\n<td>ขั้นตอน</td>\n<td>Android (Chrome)</td>\n<td>iOS (Safari)</td>\n</tr>\n<tr>\n<td>1</td>\n<td>เปิด Longfu88 ใน Chrome</td>\n<td>เปิด Longfu88 ใน Safari</td>\n</tr>\n<tr>\n<td>2</td>\n<td>เปิดเมนูเบราว์เซอร์ แล้วเลือก Add to Home screen</td>\n<td>แตะ Share แล้วเลือก Add to Home Screen</td>\n</tr>\n<tr>\n<td>3</td>\n<td>ยืนยันทางลัด</td>\n<td>ยืนยันด้วย Add</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>สมัครสมาชิกและเข้าสู่ระบบ</h2>\n<p>สมัครด้วยอีเมลตามห้าขั้นตอน โดยเตรียมอีเมล รหัสผ่าน ชื่อตามกฎหมาย วันเกิด และที่อยู่ที่พักอาศัยไว้ก่อน</p>\n<ol>\n<li>เปิด Longfu88 แล้วเลือกปุ่ม Register</li>\n<li>กรอกอีเมลและตั้งรหัสผ่าน</li>\n<li>ยืนยันอายุและยอมรับข้อกำหนด เงื่อนไข และนโยบายความเป็นส่วนตัว</li>\n<li>กรอกข้อมูลส่วนตัวและที่อยู่ที่พักอาศัยเพิ่มเติม</li>\n<li>เลือกปุ่ม Create Account แล้วยืนยันอีเมลหากระบบร้องขอ</li>\n</ol>\n<p>หนึ่งคนมีบัญชีส่วนตัวได้เพียงบัญชีเดียว</p>\n<p>ผู้เล่นที่ค้นหา Longfu caino login เพื่อหาหน้าเข้าสู่ระบบ ให้เลือก Login บนเว็บไซต์ ใส่อีเมลและรหัสผ่านที่ลงทะเบียนไว้ แล้วผ่านการตรวจสอบความปลอดภัยหากระบบขอ ลืมรหัสผ่านให้เลือก Forgot Password ขอลิงก์รีเซ็ตทางอีเมล แล้วตั้งรหัสผ่านใหม่ตามคำแนะนำ</p>\n<p>คาสิโนอาจขอยืนยันตัวตนก่อนถอนเงิน เมื่อมีธุรกรรมผิดปกติหรือมูลค่าสูง หรือเมื่อมีการเปลี่ยนข้อมูลบัญชีหรือการชำระเงิน เอกสารที่ใช้มีดังนี้</p>\n<ul>\n<li>ยืนยันตัวตน: หนังสือเดินทาง บัตรประจำตัวประชาชน หรือใบขับขี่</li>\n<li>ยืนยันที่อยู่: ใบแจ้งค่าสาธารณูปโภคหรือใบแจ้งยอดบัญชีธนาคาร</li>\n<li>หลักฐานความเป็นเจ้าของช่องทางชำระเงิน</li>\n<li>เอกสารแหล่งที่มาของเงินเมื่อมีการร้องขอ</li>\n</ul>\n<p>ส่งเอกสารภายใน 30 วันหลังได้รับคำขอ การตรวจสอบใช้เวลาสูงสุด 10 วันหลังได้รับเอกสารครบชุด ระหว่างนี้การถอนเงินอาจถูกพักไว้ หากตรวจสอบไม่ผ่าน ธุรกรรมอาจถูกปฏิเสธหรือบัญชีอาจถูกจำกัด</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "เข้าร่วมเลย",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>โบนัสแรกและเงื่อนไข</h2>\n<p>Casino Welcome Bonus เป็นโบนัสฝากเงินครั้งแรกสำหรับผู้เล่นใหม่ บัญชีหนึ่งรับได้ครั้งเดียว Longfu88 bonus ชุดนี้ให้ 188% สูงสุด €2,088 พร้อมฟรีสปิน 18 ครั้ง ยอดฝากครั้งแรกของโบนัสนี้ขั้นต่ำ €50 ไม่ใช่ €10 ซึ่งเป็นยอดฝากขั้นต่ำทั่วไป สมัครกับ Longfu88 แล้วรับโบนัสตามสี่ขั้นตอนนี้</p>\n<ol>\n<li>ลงทะเบียนบัญชีและกรอกข้อมูลส่วนตัวให้ครบ</li>\n<li>ฝากเงินครั้งแรกที่เข้าเงื่อนไข</li>\n<li>เปิดใช้งาน Casino Welcome Bonus ที่ My Bonuses ก่อนวางเดิมพันใด ๆ</li>\n<li>เล่นเกมคาสิโนที่ร่วมรายการและทำยอดหมุนเวียนให้ครบก่อนโบนัสหมดอายุ</li>\n</ol>\n<p>การรับโบนัสทำผ่าน My Bonuses หลังฝากเงินที่เข้าเงื่อนไข ขั้นตอนนี้ไม่มีการใส่โค้ดโปรโมชัน ทางเลือกอีกสองรายการคือ Live Casino Welcome Bonus 125% สูงสุด €888 ฝากขั้นต่ำ €30 และ Casino Crypto Welcome Bonus 188% สูงสุด 2,888 USDT ฝากขั้นต่ำ 50 USDT โดย Casino Welcome Bonus กับ Crypto Welcome Bonus เลือกได้อย่างใดอย่างหนึ่ง</p>\n<p>เงื่อนไขของโบนัสแรกสรุปไว้ในตารางนี้</p>\n<table>\n<tr>\n<td>เงื่อนไข</td>\n<td>ค่า</td>\n</tr>\n<tr>\n<td>ยอดหมุนเวียนโบนัส</td>\n<td>25x ของยอดฝากรวมโบนัส</td>\n</tr>\n<tr>\n<td>ยอดหมุนเวียนฟรีสปิน</td>\n<td>40x ของเงินรางวัลจากฟรีสปิน</td>\n</tr>\n<tr>\n<td>อายุโบนัส</td>\n<td>10 วันนับจากเปิดใช้งาน</td>\n</tr>\n<tr>\n<td>เดิมพันสูงสุด</td>\n<td>€22.5 ต่อสปิน</td>\n</tr>\n<tr>\n<td>ถอนสูงสุดจากโบนัส</td>\n<td>5x ของยอดโบนัสเริ่มต้น</td>\n</tr>\n</table>\n<p>ฝากด้วย Neteller และ Skrill ไม่ร่วมรายการ และเปิดโบนัสได้ครั้งละหนึ่งรายการ ขอถอนก่อนรับโบนัสหรือระหว่างใช้โบนัสอาจทำให้สิทธิ์เป็นโมฆะ การยกเลิกทำให้เงินโบนัสและเงินรางวัลที่ยังไม่แปลงถูกริบ อาจต้องยืนยันบัญชีก่อนจ่ายเงินรางวัล ฝากครั้งแรกให้ถึง €50 แล้วรับ Casino Welcome Bonus ได้ทันที</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>การฝากเงิน</h2>\n<p>เลือกช่องทางฝากตามประเภทในตาราง ทุกช่องทางฝากขั้นต่ำ €10 สูงสุด €5,000 ต่อรายการ และเงินเข้าภายใน 1-2 นาที</p>\n<table>\n<tr>\n<td>ประเภท</td>\n<td>ตัวอย่าง</td>\n<td>สกุลเงิน</td>\n</tr>\n<tr>\n<td>ธนาคารและวอลเล็ตท้องถิ่น</td>\n<td>QR ของไทยอย่าง PromptPay QR และวอลเล็ต DANA</td>\n<td>THB, IDR</td>\n</tr>\n<tr>\n<td>บัตร</td>\n<td>บัตร Visa และ Mastercard</td>\n<td>IDR, MYR, SGD, VND</td>\n</tr>\n<tr>\n<td>โอนผ่านธนาคาร</td>\n<td>การโอนแบบ Bank Transfer</td>\n<td>IDR, MYR, VND</td>\n</tr>\n<tr>\n<td>คริปโต</td>\n<td>เหรียญ Bitcoin, Ethereum, Litecoin, USDC และ USDT ผ่านเครือข่าย TRC20, ERC20, BEP20</td>\n<td>BTC, ETH, LTC, USDC, USDT</td>\n</tr>\n<tr>\n<td>อีวอลเล็ต</td>\n<td>บริการ Neteller และ Skrill</td>\n<td>EUR</td>\n</tr>\n<tr>\n<td>วิธีแบบยุโรป</td>\n<td>บริการ Sofort และ Giropay</td>\n<td>EUR</td>\n</tr>\n</table>\n<p>ผู้เล่นในไทยใช้ PromptPay QR (THB) ได้ คาสิโนไม่คิดค่าธรรมเนียมประมวลผลการฝาก แต่ผู้ให้บริการชำระเงินหรือเครือข่ายบล็อกเชนอาจคิดค่าธรรมเนียม วงเงินต่างกันได้ตามประเทศ สกุลเงิน และช่องทาง ส่วน Neteller และ Skrill ไม่ร่วมโบนัสต้อนรับ</p>\n<p>ขั้นตอนฝากมีหกขั้น เข้าสู่บัญชี Longfu88 เปิดแคชเชียร์แล้วเลือกฝากเงิน เลือกช่องทางพร้อมสกุลเงินหรือเครือข่าย กรอกจำนวนเงินและข้อมูลชำระเงิน ยืนยันตามคำแนะนำ แล้วรอเงินเข้ายอดเล่น</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>การถอนเงิน</h2>\n<p>ถอนเงินผ่านช่องทางที่รองรับ ได้แก่ Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), Touch'n Go, DANA, MoMo, DBS Bank และ Online Banking ถอนขั้นต่ำ €20 สูงสุด €5,000</p>\n<ol>\n<li>เข้าสู่ระบบ Longfu88 และเปิดแคชเชียร์</li>\n<li>เลือกถอนเงิน แล้วเลือกช่องทางที่รองรับ</li>\n<li>กรอกจำนวนเงินและบัญชีธนาคาร วอลเล็ต หรือที่อยู่บล็อกเชนปลายทาง</li>\n<li>ยืนยันตัวตนและช่องทางชำระเงินหากระบบขอ</li>\n<li>ตรวจรายการแล้วกดยืนยันคำขอ</li>\n<li>รอคาสิโนประมวลผลและรอธนาคารหรือเครือข่ายโอนเงินให้เสร็จ</li>\n</ol>\n<p>Lngfu88 withdrawal time ของบัตร คริปโต และวอลเล็ตคือ 1-3 วันทำการ ส่วนการโอนผ่านธนาคารใช้เวลาประมวลผลสูงสุด 3 วันทำการ และธนาคารอาจส่งเงินเพิ่มอีก 3-5 วันทำการ คำขอโดยทั่วไปประมวลผลภายในสามวันทำการ การตรวจสอบตัวตนอาจทำให้ล่าช้า</p>\n<p>คาสิโนไม่คิดค่าธรรมเนียมถอนมาตรฐาน แต่ผู้ให้บริการและเครือข่ายอาจคิดเพิ่ม หากยอดหมุนเวียนต่ำกว่ายอดฝาก อาจมีค่าธรรมเนียม 10% (ขั้นต่ำ €2.25) และบางธุรกรรมที่ฝากด้วยบัตรหรือโอนผ่านธนาคารอาจถูกคิด 15% ตรวจยอดหมุนเวียนขั้นต่ำ 1x ของยอดฝากก่อนกดถอน</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "ดูโบนัส",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>เกมที่น่าเล่น</h2>\n<p>เปิดล็อบบี้ของ Longfu88 Casino แล้วเลือกจากเก้าหมวดเกม ได้แก่ สล็อต ไลฟ์ดีลเลอร์ เกมโต๊ะ แจ็กพอต เกมยิงปลา เกม P2P เกมเร็ว หวย และเกมแครชกับเกมทันใจ ตรวจดูตัวอย่างสล็อตก่อน เพราะแต่ละเกมมีค่า RTP และตัวคูณสูงสุดต่างกัน</p>\n<p>Gates of Olympus จาก Pragmatic Play มี RTP 96.50% ความผันผวนสูง และตัวคูณสูงสุด 5,000x ส่วน Sweet Bonanza จาก Pragmatic Play มี RTP 96.48% ความผันผวนสูง และตัวคูณสูงสุด 21,175x</p>\n<p>Wanted Dead or a Wild จาก Hacksaw Gaming มี RTP 96.38% ความผันผวนสูงมาก และตัวคูณสูงสุด 12,500x RTP คือสัดส่วนเงินเดิมพันที่เกมคืนให้ผู้เล่นในระยะยาว ส่วนความผันผวนบอกว่าเงินรางวัลมาถี่หรือห่างเพียงใด</p>\n<p>หมวดไลฟ์ดีลเลอร์เป็นอีกส่วนหนึ่งของล็อบบี้ และมี Longfu88 Baccarat เกมเอ็กซ์คลูซีฟที่เล่นแบบบาคาร่า รายชื่อผู้พัฒนาเกมมี Evolution และ SA Gaming ซึ่งเป็นสตูดิโอเกมไลฟ์ ผู้ที่อยากเล่นกับดีลเลอร์จริงควรเริ่มจากหมวดนี้</p>\n<p>หมวดอื่นแยกกันตามวิธีเล่น เกมโต๊ะคือเกมไพ่และเกมโต๊ะแบบดั้งเดิม เกมยิงปลาให้ผู้เล่นเล็งยิงปลาบนหน้าจอ และเกม P2P เป็นการเล่นกับผู้เล่นคนอื่น เกมเร็วจบรอบในเวลาสั้น หวยคือการเลือกเลขแล้วรอผลออก ส่วนเกมแครชและเกมทันใจตัดสินผลทันทีในแต่ละรอบ ผู้เล่นที่เปิดเมนูของ Longfu 88 จะเห็นแจ็กพอตแยกเป็นอีกหมวดหนึ่ง</p>\n<p>เกมของ Longfu 88 Casino มาจากผู้พัฒนาหลายราย ได้แก่ Evolution, Red Tiger, NetEnt, Big Time Gaming, Pragmatic Play, Yggdrasil, SA Gaming, Skywind, Betsoft และ Hacksaw Gaming ผู้พัฒนาเหล่านี้จัดหาสล็อต เกมไลฟ์ และเกมโต๊ะให้กับคาสิโน</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>เดิมพันกีฬา</h2>\n<p>เปิดส่วน Longfu sports เมื่ออยากเดิมพันกีฬา สปอร์ตบุ๊กครอบคลุมฟุตบอล บาสเกตบอล เทนนิส แบดมินตัน คริกเก็ต เทเบิลเทนนิส วอลเลย์บอล อีสปอร์ต และฟุตบอลเสมือน ผู้เล่นที่ติดตามฟุตบอลหรืออีสปอร์ตจึงหาตลาดที่ตามอยู่ได้ง่าย</p>\n<p>Longfu88 มีรูปแบบเดิมพันเจ็ดแบบ ได้แก่ เดี่ยว แอคคิวมูเลเตอร์ ไลฟ์ แฮนดิแคป ยอดรวม เดิมพันระยะยาว และ Bet Builder แอคคิวมูเลเตอร์รวมหลายรายการไว้ในใบเดียว ส่วน Bet Builder ให้ประกอบตลาดของแมตช์เดียวกันเอง การเดิมพันสดมีอัตราต่อรองสดและตลาดระหว่างแข่งขัน เหมาะกับผู้ที่ตามดูเกมไปพร้อมกัน รายการแข่งและตลาดเดิมพันอาจต่างกันตามเขตอำนาจ ตรวจรายการก่อนวางเดิมพัน</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "สมัครสมาชิก",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>โปรโมชันและรางวัลต่อเนื่อง</h2>\n<p>ข้อเสนอฝากซ้ำของ Longfu88 อยู่ในตารางนี้ 30x คิดจากยอดฝากรวมโบนัส</p>\n<table>\n<tr>\n<td>ข้อเสนอ</td>\n<td>รางวัล</td>\n<td>ฝากขั้นต่ำ</td>\n<td>หมุนเวียน</td>\n</tr>\n<tr>\n<td>Casino Weekly Reload</td>\n<td>ฟรีสปิน 50</td>\n<td>€30</td>\n<td>ฟรีสปิน 40x</td>\n</tr>\n<tr>\n<td>Casino Weekly Crypto Reload</td>\n<td>60% ถึง 1,000 USDT</td>\n<td>20 USDT</td>\n<td>30x</td>\n</tr>\n<tr>\n<td>Casino Weekend Reload</td>\n<td>ถึง €3,360 + ฟรีสปิน 50</td>\n<td>€50</td>\n<td>30x + ฟรีสปิน 40x</td>\n</tr>\n<tr>\n<td>Casino Weekend Crypto Reload</td>\n<td>75% ถึง 750 USDT + ฟรีสปิน 100</td>\n<td>20 USDT</td>\n<td>30x + ฟรีสปิน 40x</td>\n</tr>\n<tr>\n<td>Casino Double Fortune</td>\n<td>50% ถึง €500</td>\n<td>€30</td>\n<td>30x</td>\n</tr>\n<tr>\n<td>ข้อเสนอเทศกาลชื่อ Casino Trick or Treat Pumpkin Bonanza</td>\n<td>ฟรีสปินถึง 100</td>\n<td>€20</td>\n<td>ฟรีสปิน 40x</td>\n</tr>\n<tr>\n<td>Casino Dragon Quest</td>\n<td>เครดิตโบนัส €10</td>\n<td>€20</td>\n<td>30x</td>\n</tr>\n</table>\n<p>อายุ 7 วัน ยกเว้น Casino Double Fortune 24 ชั่วโมง เปิดใช้ใน My Bonuses ใช้ร่วมโบนัสอื่นไม่ได้ เดิมพันสูงสุด €5 ต่อสปิน</p>\n<p>Casino Weekly Cashback คืนถึง 10% ของยอดขาดทุนสุทธิคาสิโนรายสัปดาห์ เข้า My Bonuses ทุกวันจันทร์และหมุนเวียน 10x ตามระดับ VIP คือ Bronze 2% (€1,888), Silver 4% (€2,388), Gold 6% (€2,988), Platinum 8% (€3,988), Diamond 10% (€6,988)</p>\n<p>Live Casino Cashback คืน 25% ถึง €850 เรเบตรายวัน: คาสิโน 0.9% ไลฟ์คาสิโน 1.0% P2P 0.8% หวย 1.0% หมุนเวียน 1x</p>\n<p>Bonus Crab กับ Wheel of Fortune ใช้ได้ 7 วัน Bonus Crab หมุนเวียน 30x และฟรีสปิน 40x วงล้อ 30x ส่วน Challenges, Collections และ Coin Shop แลก Coins ได้ถึง €4,500</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>ระดับสมาชิก VIP</h2>\n<p>สะสมคะแนน VIP จากการเล่นด้วยเงินจริงที่เข้าเงื่อนไข คะแนนจะปลดล็อกระดับรางวัลที่มีหมายเลข 25 ระดับ แบ่งเป็นห้ากลุ่ม ได้แก่ Bronze, Silver, Gold, Platinum และ Diamond ระดับ 1 ใช้ 1 คะแนน ให้รางวัล €9.8 แคชแบ็ก 1% และวงเงินถอน €9,800 ส่วนระดับ 25 ใช้ 5,500 คะแนน ให้รางวัล €980 แคชแบ็ก 10% และวงเงินถอน €147,000</p>\n<p>ระดับที่สูงขึ้นเพิ่มข้อเสนอเฉพาะบุคคล แคชแบ็ก วงเงินถอนที่สูงขึ้น และผู้จัดการ VIP ส่วนตัวตั้งแต่ระดับ 4 รางวัลและวงเงินอาจต่างกันตามระดับและสกุลเงิน และกฎอาจเปลี่ยน</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>ใบอนุญาตและกฎข้อมูลส่วนบุคคล</h2>\n<p>คาสิโนเปิดตัวในปี 2026 และรองรับบัญชีสกุล EUR, USD, MYR, THB, SGD และ USDT เข้าเว็บไซต์ผ่านที่อยู่ของ Longfu 88 Official Site เท่านั้น และอย่าใช้หน้าเลียนแบบ ผู้เล่นต้องอายุ 18 ปีขึ้นไปและเล่นได้ตามกฎหมายของสถานที่พำนัก ถือบัญชีส่วนตัวได้เพียงหนึ่งบัญชี และห้ามใช้ช่องทางชำระเงินของบุคคลที่สาม</p>\n<p>ใบอนุญาตของ casino Longfu88 อยู่ภายใต้เขตอำนาจคอสตาริกา ผู้ดำเนินการคือ Lumina เลขทะเบียน 000-039123-R-319326-001 Lumina ยังเป็นผู้ควบคุมข้อมูล และผู้ดูแลการคุ้มครองข้อมูลติดต่อได้ที่ dpo@longfu88.com</p>\n<p>ข้อมูลอาจส่งต่อให้ผู้ให้บริการชำระเงิน ผู้ให้บริการยืนยันตัวตน ผู้ให้บริการเทคโนโลยี และหน่วยงานกำกับหรือเจ้าหน้าที่บังคับใช้กฎหมายเมื่อจำเป็น ผู้เล่นมีสิทธิ์เข้าถึง แก้ไข ลบเมื่อกฎหมายอนุญาต จำกัด คัดค้าน โอนย้ายข้อมูล และถอนความยินยอม</p>\n<p>ผู้ดำเนินการใช้มาตรการทางเทคนิคและการจัดการเพื่อปกป้องบัญชี การชำระเงิน และข้อมูลส่วนบุคคล ส่วนเจ้าของบัญชีต้องดูแลข้อมูลเข้าสู่ระบบด้วยตนเอง</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "เปิดบัญชี",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>การเล่นอย่างรับผิดชอบ</h2>\n<p>ผู้เล่นต้องอายุอย่างน้อย 18 ปีและเล่นเฉพาะในที่ที่กฎหมายอนุญาต หากควบคุมการเล่นไม่ได้ ให้ขอห้ามตัวเองเข้าเล่นทางอีเมลถึงฝ่ายสนับสนุนที่ support@longfu88.com การเข้าบัญชีและการเล่นอาจถูกจำกัดตามระยะเวลาที่ตกลง โดยดำเนินการภายใน 24 ชั่วโมงหลังคำขอได้รับการประมวลผล ปิดบัญชีขอผ่านฝ่ายสนับสนุนลูกค้าได้เช่นกัน ขั้นตอนมีสี่ขั้น ติดต่อฝ่ายสนับสนุน ยืนยันข้อมูลบัญชีและเงื่อนไขที่ต้องการ ให้คาสิโนจำกัดหรือปิดการเข้าถึง แล้วขอความช่วยเหลือจากหน่วยงานอิสระเมื่อเหมาะสม</p>\n<p>แบบประเมินตนเองช่วยให้สังเกตสัญญาณของผลเสียจากการพนัน ผู้ที่ต้องการคำปรึกษาติดต่อ GamCare, Gamblers Anonymous และ Gambling Therapy ได้ หน้านี้ไม่อาจแทนความช่วยเหลือจากผู้เชี่ยวชาญอิสระ</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>ฝ่ายสนับสนุนลูกค้า</h2>\n<p>ติดต่อฝ่ายสนับสนุนลูกค้าผ่านไลฟ์แชตที่เปิดตลอด 24 ชั่วโมง หรือส่งอีเมลถึง support@longfu88.com ไลฟ์แชตเหมาะกับคำถามที่ต้องการคำตอบทันที ส่วนอีเมลเหมาะกับเรื่องที่ต้องอธิบายรายละเอียด ฝ่ายสนับสนุนรองรับหกภาษา ได้แก่ อังกฤษ มลายู จีนตัวย่อ ไทย อินโดนีเซีย และเวียดนาม ผู้เล่นชาวไทยจึงเลือกสื่อสารเป็นภาษาไทยได้ เตรียมข้อมูลบัญชีให้พร้อมก่อนเริ่มแชต</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>สรุปก่อนตัดสินใจ</h2>\n<p>Longfu88 Casino เหมาะกับผู้เล่นที่ต้องการคาสิโน ไลฟ์ดีลเลอร์ และเดิมพันกีฬาในบัญชีเดียว พร้อมช่องทางชำระเงินท้องถิ่นและคริปโต ผู้เล่นที่เรียกคาสิโนนี้สั้น ๆ ว่า Longfu ควรตรวจยอดฝากที่เข้าเงื่อนไข €50 ยอดหมุนเวียน 25x กฎยอดหมุนเวียนก่อนถอน และการยืนยันตัวตนก่อนฝากเงิน</p>\n<p>การเล่นกับ Longfu88 ต้องมีอายุครบ 18 ปี การพนันไม่ใช่แหล่งรายได้ อย่าไล่ตามยอดที่เสีย ตั้งงบประมาณ และพักเป็นระยะเพื่อควบคุมการเล่น</p>"
+  },
+  {
+   "__component": "blocks.reviews-2",
+   "title": "ผู้เล่นว่าอย่างไร",
+   "reviews": [
+    {
+     "username": "ชลธิชา",
+     "review": "เงื่อนไขโบนัสเขียนไว้ชัดเจน จึงรู้ล่วงหน้าว่าต้องทำอะไรบ้างก่อนเข้าร่วม ใช้ไปสักพักก็หาทุกอย่างที่ต้องการได้ง่าย",
+     "date": "2026-10-23",
+     "avatar": 3860,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "สมชาย",
+     "review": "ใช้งานเว็บบนมือถือทุกวัน และหลังเพิ่มไว้ที่หน้าจอหลักก็ให้ความรู้สึกเหมือนแอปทั่วไป ไม่รก และทำงานตรงตามที่ต้องการ",
+     "date": "2026-10-22",
+     "avatar": 3853,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "ปวีณา",
+     "review": "เล่นสล็อตเป็นหลัก ล็อบบี้จัดหมวดไว้เรียบร้อย เปิดเกมโปรดกลับมาเล่นได้สะดวก ตอนนี้ตั้งใจจะใช้ต่อไป",
+     "date": "2026-10-18",
+     "avatar": 3861,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "ชยพล",
+     "review": "การยืนยันอายุและข้อกำหนดอยู่ในหน้าสมัครเลย จึงเห็นทุกอย่างตั้งแต่ต้น น่าลองดูสำหรับคนที่สนใจ",
+     "date": "2026-10-18",
+     "avatar": 3862,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "ปรเมศวร์",
+     "review": "ฝากเงินด้วยช่องทางในประเทศที่คุ้นเคยทำได้ง่าย และแต่ละขั้นตอนแสดงไว้ชัดเจน ไม่รก และทำงานตรงตามที่ต้องการ",
+     "date": "2026-10-15",
+     "avatar": 3858,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "ภานุพงศ์",
+     "review": "การแทงสดทำงานลื่นบนมือถือ และราคาอัปเดตโดยไม่มีหน่วงที่สังเกตได้ เป็นตัวเลือกที่ดีสำหรับคนชอบหน้าตาสะอาด",
+     "date": "2026-10-14",
+     "avatar": 3856,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "คำถามที่พบบ่อยบนมือถือ",
+   "faqs": [
+    {
+     "question": "ถอนเงินใช้เวลานานแค่ไหน?",
+     "answer": "การถอนด้วยบัตร คริปโต และวอลเล็ตเสร็จใน 1-3 วันทำการ ส่วนการโอนผ่านธนาคาร Longfu88 ใช้เวลาประมวลผลสูงสุด 3 วันทำการ แล้วธนาคารอาจใช้เวลาส่งเงินอีก 3-5 วันทำการ การตรวจยืนยันตัวตนอาจทำให้ช้าลง"
+    },
+    {
+     "question": "ต้องกรอก Longfu88 promo code เพื่อรับ Casino Welcome Bonus หรือไม่?",
+     "answer": "ขั้นตอนรับโบนัสไม่มีการใส่โค้ด ให้ฝากครั้งแรกขั้นต่ำ €50 แล้วเปิดใช้ Casino Welcome Bonus ใน My Bonuses ก่อนวางเดิมพันใด ๆ โบนัสมีอายุ 10 วันนับจากเปิดใช้งาน"
+    },
+    {
+     "question": "ลืมรหัสผ่านที่หน้า Longfu88 login ต้องทำอย่างไร?",
+     "answer": "เลือก Forgot Password ที่หน้าเข้าสู่ระบบ ขอลิงก์รีเซ็ตด้วยอีเมลที่ลงทะเบียน แล้วทำตามคำแนะนำในอีเมลเพื่อตั้งรหัสผ่านใหม่ จากนั้นเข้าสู่ระบบด้วยรหัสผ่านใหม่"
+    },
+    {
+     "question": "มีแอปให้ใช้หรือไม่?",
+     "answer": "คาสิโนเป็นเว็บไซต์แบบปรับตามหน้าจอ ผู้ใช้ Android เปิดผ่าน Chrome ส่วนผู้ใช้ iOS เปิดผ่าน Safari แล้วเพิ่มทางลัดไว้บนหน้าจอหลัก จึงเปิดเล่นได้เร็วคล้ายแอป"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "โบนัสต้อนรับคาสิโน",
+   "description": "188% สูงสุด €2,088 + ฟรีสปิน 18 ครั้ง",
+   "disclaimer": "ผู้เล่นต้องมีอายุ 18 ปีขึ้นไป ใช้เงื่อนไขของข้อเสนอ เล่นอย่างรับผิดชอบ",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "รับเลย",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ],
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu88.mobi/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu88.mobi/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu88.mobi/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu88.mobi/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu88.mobi/vn\" />"
+}

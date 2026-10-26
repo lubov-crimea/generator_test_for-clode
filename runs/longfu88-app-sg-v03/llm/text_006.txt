@@ -1,0 +1,10 @@
+The cashier is part of the mobile website, so deposits are made from the browser of the phone or tablet. A player pays with PayNow, PayNow QR, DBS Bank or OCBC Bank, and every method works in Singapore dollars.
+
+| Method | Currency | Deposit speed |
+|---|---|---|
+| PayNow | SGD | 1–2 minutes |
+| PayNow QR | SGD | 1–2 minutes |
+| DBS Bank | SGD | 1–2 minutes |
+| OCBC Bank | SGD | 1–2 minutes |
+
+All four methods share the same currency and the same deposit speed, so the choice rests on which bank or QR route the player already uses.

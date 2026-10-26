@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "APK",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Android",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Curaçao",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "BTC",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "ETH",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "RTP",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Safari",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "USDT",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Virtual Sports",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "KYC",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Crash Games",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Game Shows",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Video Poker",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Payment Methods",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Responsible Gambling",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "App",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "BGaming",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Crash Pirate Casino",
+    "competitors": 1,
+    "count": 22
+  },
+  {
+    "entity": "RNG",
+    "competitors": 1,
+    "count": 8
+  },
+  {
+    "entity": "AUD",
+    "competitors": 1,
+    "count": 6
+  },
+  {
+    "entity": "PayID",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Nautilus Entertainment Ltd",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Curaçao Gaming Control Board",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "GCB",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "UKGC",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Google Play",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Gaming",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Instant Win",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "USD",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "LTC",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Infinite Blackjack",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Apple App Store",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Deposit Match",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "ACMA",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Login",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "CrashPirate Casino UK",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Account",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "CrashPirate",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Table Games",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "VIP Club",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "EUR",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "German",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Finnish",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Norwegian",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Min Deposit",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "SSL",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Tech Labs",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Cashier",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Neteller",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Pirate Crash",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Slots",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Wins",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Evolution Gaming",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Lightning Roulette",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Crazy Time",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Salon Privé Baccarat",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "VIP",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Promotions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Game Categories",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Card Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casual Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Fishing Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Lottery Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mines Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mobile Casino App",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Top Providers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Traditional Payment Methods",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cryptocurrency Payments",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Additional Information",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Start Playing",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Step-by-Step Guide",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Aussie",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gambling Help Online",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "From A",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Use Get Welcome Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "European",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Use Download",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Booongo",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Playson",
+    "competitors": 1,
+    "count": 1
+  }
+]

@@ -1,0 +1,1 @@
+Three platforms are listed by Longfu88: mobile web, Android and iOS. Smartphone and tablet screens both get an adapted layout, which lets a single website serve devices of different size. Chrome serves the Android route, Safari the iOS one. Everything happens in the browser, so no installation is needed.

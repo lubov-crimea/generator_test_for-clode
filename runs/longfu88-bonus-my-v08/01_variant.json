@@ -1,0 +1,636 @@
+{
+  "id": "v08",
+  "name": "Complete bonus handbook (large)",
+  "tier": "large",
+  "angle": "A reader who wants every bonus, term and rule of the casino on one page.",
+  "skipped_clusters": [
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Complete brand-subpage for the large size group of the competitors, built like the longest bonus page of the query: a handbook of the Longfu88 bonuses for players from Malaysia with the offer families, the welcome bonus with its steps and terms, the promo code question, the minimum deposits, the reload, free spin, seasonal, crypto and live casino offers, the cashback with the rates by VIP level, the rebates, the rewards area, the sports bonuses, verification, responsible use and mobile access, and a long FAQ. Page voice: reference-like, each H2 opens with what the section is for, sentences of about 18 words, a consequence after each condition. Every section is written only from the facts of its Brand Information; where a section has few facts it stays short. H2 sections with H3 details. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Promotions Handbook: Every Bonus, Term and Promo Code",
+      "words": 70,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1
+      }
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "All Bonus Families in One Place",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Welcome Bonus: The Main Offer and Its Alternatives",
+      "words": 115,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu88 welcome bonus": 0
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "notes": "Lead-in of two sentences: the Casino Welcome Bonus is the main offer, a first-deposit casino bonus of 188% up to €2,088 plus 18 Free Spins for new registered players on the first qualifying deposit, one welcome offer per account; the Casino Welcome Bonus and the Casino Crypto Welcome Bonus are alternative first-deposit offers. Then a TABLE with four columns, offer | reward | minimum deposit | validity, and three rows in this order: Casino Welcome Bonus (188% up to €2,088 + 18 Free Spins | €50 | 10 days from activation), Live Casino Welcome Bonus (125% up to €888 | €30 | 7 days), Casino Crypto Welcome Bonus (188% up to 2,888 USDT | 50 USDT | 10 days). Use the €50 of the bonus, do NOT mention the general minimum deposit of €10. No wagering numbers here (the terms section gives them). Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].validity",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].validity"
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[1].important_terms[2]"
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "How to Claim the Casino Welcome Bonus",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Wagering and Rules of the Welcome Bonus",
+      "words": 120,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Is There a Promo Code?",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 promo code": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Minimum Deposit of Every Offer at a Glance",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The minimum deposit that each listed offer asks for, offer by offer.",
+      "entities": [
+        [
+          "Minimum Deposit",
+          10
+        ],
+        [
+          "Bonus Offers",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Minimum Deposit",
+          "differs by",
+          "offer and by currency of the deposit",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[2].name",
+        "brandinfo_promotions.other_bonuses[2].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[4].name",
+        "brandinfo_promotions.other_bonuses[4].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[5].name",
+        "brandinfo_promotions.other_bonuses[5].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[6].name",
+        "brandinfo_promotions.other_bonuses[6].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[8].name",
+        "brandinfo_promotions.other_bonuses[8].minimum_deposit"
+      ],
+      "notes": "One lead-in sentence that says that the minimum deposit depends on the offer, then a TABLE with two columns, offer | minimum deposit, and one row per offer in this order: Casino Welcome Bonus, Live Casino Welcome Bonus, Casino Crypto Welcome Bonus, Casino Weekly Reload, Casino Weekly Crypto Reload, Casino Weekend Reload, Casino Weekend Crypto Reload, Casino Double Fortune: One-Day Reload Special, Casino Trick or Treat Pumpkin Bonanza, Casino Dragon Quest: Get Verified and Get Extra! (names and values exactly as in the Brand Information; crypto offers in USDT). One closing sentence: the general minimum deposit of the casino is not the minimum of an offer, so the player checks the offer first. Do NOT state the general minimum deposit amount. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Reload Bonuses: Weekly, Weekend and One-Day",
+      "words": 125,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Free Spins: Weekly Reload and Seasonal Offers",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Seasonal and Verification Campaigns",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "Two limited campaigns: the Trick or Treat Pumpkin Bonanza with up to 100 Free Spins and the Dragon Quest verification reward of a €10 bonus credit.",
+      "entities": [
+        [
+          "Seasonal Promotions",
+          10
+        ],
+        [
+          "Account Verification",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Casino Dragon Quest",
+          "rewards",
+          "players who complete the requested account verification",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].reward",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[8].name",
+        "brandinfo_promotions.other_bonuses[8].reward",
+        "brandinfo_promotions.other_bonuses[8].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[8].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[7].validity",
+        "brandinfo_promotions.other_bonuses[8].eligibility",
+        "brandinfo_promotions.other_bonuses[8].important_terms[2]"
+      ],
+      "notes": "Say first that campaigns come and go, so the list may change: the player checks the promotions page of the casino. Then the two campaigns of the Brand Information: the Casino Trick or Treat Pumpkin Bonanza (up to 100 Free Spins, minimum deposit €20, wagering 40x Free Spins winnings, valid 7 days) and the Casino Dragon Quest: Get Verified and Get Extra! (a €10 bonus credit for players who complete the requested account verification during the campaign, minimum deposit €20, wagering 30x the promotional credit, valid 7 days). Both carry the €5 per spin maximum stake while wagering bonus funds and cannot be combined with another active casino bonus. Do not claim that either campaign is running now. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k06"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Crypto Welcome and Reload Offers with USDT",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The crypto offers: the Casino Crypto Welcome Bonus (188% up to 2,888 USDT), the weekly and weekend crypto reloads and the eligible coins.",
+      "entities": [
+        [
+          "Crypto Bonuses",
+          10
+        ],
+        [
+          "USDT",
+          7
+        ],
+        [
+          "Eligible Cryptocurrencies",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Casino Crypto Welcome Bonus",
+          "accepts",
+          "a first qualifying crypto deposit",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].reward",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[1].validity",
+        "brandinfo_promotions.other_bonuses[1].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[1].eligible_cryptocurrencies",
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].reward",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[5].name",
+        "brandinfo_promotions.other_bonuses[5].reward",
+        "brandinfo_promotions.other_bonuses[5].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[5].wagering_requirement"
+      ],
+      "notes": "Lead with the Casino Crypto Welcome Bonus: 188% up to 2,888 USDT for a first qualifying crypto deposit of at least 50 USDT, wagering 40x deposit plus bonus, valid 10 days, maximum bonus wager 5 USDT per spin. Then a TABLE with four columns, offer | reward | minimum deposit | wagering, and two rows: Casino Weekly Crypto Reload, Casino Weekend Crypto Reload (values exactly as in the Brand Information). Then one sentence with the eligible cryptocurrencies as given (USDT, BTC, BCH, LTC, ETH, XRP, USDC). The Casino Welcome Bonus and the Crypto Welcome Bonus are alternative first-deposit offers: say so once. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k01",
+        "k04"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Offers for Live Dealer Games",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The live casino offers: the Live Casino Welcome Bonus (125% up to €888), the Live Casino Cashback (25% up to €850) and the Unlimited Live Casino Rebate (1.0%).",
+      "entities": [
+        [
+          "Live Casino",
+          10
+        ],
+        [
+          "Live Casino Cashback",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Live Casino Welcome Bonus",
+          "targets",
+          "new players who start with live casino games",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].reward",
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[0].validity",
+        "brandinfo_promotions.other_bonuses[0].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[10].name",
+        "brandinfo_promotions.other_bonuses[10].reward",
+        "brandinfo_promotions.other_bonuses[10].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[12].name",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ],
+      "notes": "Lead with the Live Casino Welcome Bonus: 125% up to €888, minimum deposit €30, wagering 30x the deposit plus bonus, valid 7 days, maximum bet €25, for new players on the first qualifying deposit. Then the Live Casino Cashback in one sentence (25% up to €850, wagering 10x the credited cashback, based on real-money stakes less winnings in eligible Live Casino games) and the Unlimited Live Casino Rebate in one sentence (1.0%, credited daily). No game names. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k01",
+        "k05"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Cashback: Weekly, Live and by VIP Level",
+      "words": 130,
+      "kw": {
+        "Longfu88": 2
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "edit": [
+        [
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence, and the Unlimited Casino Rebate (0.9%) and the Unlimited Live Casino Rebate (1.0%) in one sentence: rebates are credited daily and carry 1x wagering on the credited rebate (that figure is in the Brand Information, state it once). ",
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence. "
+        ],
+        [
+          "Do not give the VIP cashback levels (the VIP page of the site covers them). ",
+          "After the paragraph a TABLE with three columns, VIP level | cashback percentage | maximum, and five rows (VIP Bronze 2% €1,888; VIP Silver 4% €2,388; VIP Gold 6% €2,988; VIP Platinum 8% €3,988; VIP Diamond 10% €6,988) as in the Brand Information. Say in one clause that the VIP Program has its own page. "
+        ]
+      ],
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[9].cashback_by_vip"
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ]
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Unlimited Rebates",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "Four unlimited rebates of 0.8% to 1.0% of qualifying wagering, credited daily with 1x wagering on the credited rebate.",
+      "entities": [
+        [
+          "Rebate",
+          10
+        ],
+        [
+          "Rewards Balance",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Unlimited Rebate",
+          "returns",
+          "a share of qualifying settled real-money wagering every day",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[11].name",
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].name",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[13].name",
+        "brandinfo_promotions.other_bonuses[13].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[14].name",
+        "brandinfo_promotions.other_bonuses[14].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[11].crediting",
+        "brandinfo_promotions.other_bonuses[11].wagering_requirement"
+      ],
+      "notes": "One lead-in sentence that says that a rebate returns a share of qualifying settled real-money wagering on a game category, then a TABLE with two columns, rebate | rate, and four rows in this order: Unlimited Casino Rebate 0.9%, Unlimited Live Casino Rebate 1.0%, Unlimited P2P Rebate 0.8%, Unlimited Lottery Rebate 1.0%. One closing sentence: the rebate is credited daily to the rewards balance and carries 1x wagering on the credited rebate. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k05"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Rewards Area: Bonus Crab, Wheel of Fortune and Coin Shop",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Sportsbook Offers and Qualifying Odds",
+      "words": 150,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The sports bonuses: first deposit and reload offers with a low 8x wagering, the odds required for qualifying bets and the Parlay Boost.",
+      "entities": [
+        [
+          "Sports Betting Bonuses",
+          10
+        ],
+        [
+          "Qualifying Bets",
+          7
+        ],
+        [
+          "Wagering Requirement",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Qualifying Sports Bets",
+          "count toward",
+          "the wagering of a sports bonus",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].validity",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[1]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[2]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].reward"
+      ],
+      "notes": "One lead-in sentence that says that the sportsbook has its own bonuses, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and rows in this order: Sport First Deposit Bonus, Sport Crypto Welcome Bonus, Sport Weekly Reload Bonus, Sport Weekend Reload Bonus (values exactly as in the Brand Information). After the table two sentences: only settled qualifying sports bets count toward the wagering, single bets need odds of at least 2.00 and each accumulator selection at least 1.50, voided and cashed-out bets do not qualify; the offers are valid for 30 days. One closing sentence names the Parlay Boost: up to 100% extra winnings on qualifying accumulators. No sports tips, no odds of events. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k12"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Documents and Checks Before Payout",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Verification can be required before promotional winnings are paid; the documents, the 30-day submission window and the review time of up to 10 days.",
+      "entities": [
+        [
+          "Account Verification",
+          10
+        ],
+        [
+          "Promotional Winnings",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Account Verification",
+          "can precede",
+          "the payment of promotional winnings",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_account.verification.documents",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_account.verification.typical_review_time"
+      ],
+      "notes": "Say first that account verification may be required before promotional winnings are paid and that a withdrawal request before claiming a bonus or while it is active can void the promotional eligibility. Then the documents of the Brand Information as a short bulleted list (government-issued photo ID or passport; proof of residential address; proof of ownership of a payment method; source of funds or wealth documents when requested), then one sentence with the submission window (up to 30 days when requested) and the review time (up to 10 days after a complete document set is received). No other documents, no promise of speed. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Bonus Terms and Safer Play",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "Bonuses are for players of 18 or over who gamble where it is lawful; read the terms first, use the self-assessment questions and the support organisations of the casino.",
+      "entities": [
+        [
+          "Responsible Gambling",
+          10
+        ],
+        [
+          "Minimum Age",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Bonus Terms",
+          "should be read",
+          "before the player accepts an offer",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_general.minimum_age",
+        "brandinfo_responsible_gaming.responsible_gaming.policy",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment",
+        "brandinfo_responsible_gaming.responsible_gaming.support_organizations",
+        "brandinfo_welcome.welcome_bonus.important_terms[4]"
+      ],
+      "notes": "Say that the bonuses are for players aged 18 or over who gamble only where it is lawful, and that the terms of an offer (wagering, maximum bet, validity) should be read before accepting it. Cancelling the promotion forfeits bonus funds and unconverted promotional winnings (state it as a fact). Then one sentence on the self-assessment questions that help players identify possible gambling-related harm and one that names the support organisations (GamCare, Gamblers Anonymous, Gambling Therapy). No advice to chase losses, no promise. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Malaysia, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Claiming Bonuses on a Phone",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The bonuses can be reached on a phone through the responsive website; no separate app is given.",
+      "entities": [
+        [
+          "Mobile Access",
+          10
+        ],
+        [
+          "My Bonuses",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Responsive Website",
+          "gives access to",
+          "bonuses, deposits and the account on a phone",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.mobile_access",
+        "brandinfo_app.app_information.features"
+      ],
+      "notes": "Two or three sentences: the casino website is responsive and works in the browser of a smartphone or tablet, and bonuses are among the features of the mobile website next to the casino, the sportsbook, account access, deposits and withdrawals. Do not say or imply that a native app, an APK file, a store listing or push notifications of bonuses exist: none is given. One pointer to the mobile page of the site is allowed in one clause. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k14"
+      ]
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers: Complete FAQ",
+      "words": 155,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "8 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 8 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what is the minimum first deposit for the welcome bonus (€50); (2) whether a promo code is needed (the Brand Information lists none; the offers are activated in My Bonuses); (3) how many promotional bonuses can be active at once (one); (4) which payment methods are excluded from the welcome bonus (Neteller and Skrill); (5) what happens if a withdrawal is requested before claiming or while a bonus is active (the promotional eligibility can be voided); (6) whether verification can be required for bonus winnings (yes, before the promotional winnings are paid); (7) how the weekly cashback is claimed (opt in for a four-week cycle, then activate the credited cashback in My Bonuses); (8) what the Coin Shop gives (reward items and bonus credits up to €4,500). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_promotions.other_bonuses[9].crediting",
+        "brandinfo_promotions.gamification_features[4].rewards[0]"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_general.customer_support.channels"
+      ]
+    }
+  ]
+}

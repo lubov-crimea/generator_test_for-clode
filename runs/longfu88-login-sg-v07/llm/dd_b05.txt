@@ -1,0 +1,7 @@
+Longfu88 holds personal data on an account in three groups, and together they show how much a registered account reveals about its owner:
+
+- Identity details: identity documents, the name and the birth date.
+- Contact details: an e-mail address, a telephone number and a residential address.
+- Verification details: KYC documents used for customer identity checks, plus evidence that ownership of the payment method lies with the player.
+
+The data goes to providers of payment services, identity verification and technology. Regulators and law enforcement receive it too when required, which makes four kinds of recipient. Erasure, where legally permitted, heads the player's rights, which also cover withdrawal of consent, restriction, objection, access, rectification and portability where applicable. This summary is general information and not legal advice.

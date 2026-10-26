@@ -1,0 +1,52 @@
+{
+  "iteration": 1,
+  "passed": false,
+  "summary": {
+    "body_words": 3090,
+    "target_body_words": 3237,
+    "keywords_total": {
+      "Cazeus": 24,
+      "Cazues casino": 1
+    },
+    "keyword_targets": {
+      "Cazeus": 24,
+      "Cazues casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "Unsupported claims about how the registration works: step 3 says 'slik at riktig tilbud følger kontoen fra start' and the paragraph says that the details 'sammenlignes med dokumentene i den senere verifiseringen'. Neither is stated in the brand information of the block.",
+        "fix": "Step 3 of the list: keep only that the account type and the wanted welcome bonus are chosen, without the clause about the offer following the account. In the paragraph replace the sentence that the details are compared with the documents by a neutral practical sentence that correct personal details matter because verification is described further below. Keep 'Cazeus' exactly twice (step 1 and the login passage), the six numbered steps, the list of requested personal data, the choice of the welcome package and the password recovery, and stay in the 142-182 word range."
+      }
+    ],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b02",
+      "note": "No data for the languages of the website and of customer support: the Languages row says that they are not specified."
+    }
+  ]
+}

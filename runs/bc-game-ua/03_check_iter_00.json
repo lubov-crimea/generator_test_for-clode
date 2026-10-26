@@ -1,0 +1,44 @@
+{
+  "iteration": 0,
+  "passed": true,
+  "summary": {
+    "body_words": 1137,
+    "target_body_words": 1101,
+    "keywords_total": {
+      "BC Game": 8,
+      "BCGame": 2,
+      "BC Games": 1,
+      "BC Game казино": 1
+    },
+    "keyword_targets": {
+      "BC Game": 8,
+      "BCGame": 2,
+      "BC Games": 1,
+      "BC Game казино": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b02",
+      "note": "No data for site languages in the knowledge base; the fact table row with key languages shows the 24/7 live support channel instead."
+    }
+  ]
+}

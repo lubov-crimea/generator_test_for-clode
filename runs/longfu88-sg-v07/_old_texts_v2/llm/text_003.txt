@@ -1,0 +1,27 @@
+=== b03 ===
+Payment methods at the cashier fall into six groups, and one set of general limits covers all of them: a minimum of €10 and a maximum of €5,000 per transaction. The deposit limits can differ by country, currency and method.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local banks and wallets | PayNow, PayNow QR, DBS Bank, OCBC Bank, QRIS, DANA, GrabPay | SGD, IDR, MYR |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+For players in Singapore, PayNow, PayNow QR, DBS Bank and OCBC Bank are the SGD options. The casino charges no processing fee on deposits, but provider or blockchain network fees may apply. Neteller and Skrill deposits are excluded from the welcome bonus.
+
+The route takes six steps: log in to the Longfu88 account, open the cashier and select Deposit, choose a method with its currency or network, enter the amount and payment details, confirm the transaction as the provider instructs, and wait for the deposit to be credited within 1–2 minutes.
+
+=== b04 ===
+Withdrawals go out by Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT in the TRC20, ERC20 and BEP20 networks, Touch'n Go, DANA, MoMo, DBS Bank or Online Banking. The minimum is €20 and the maximum €5,000. A withdrawal request follows six steps:
+
+1. Log in to Longfu88 and open the cashier.
+2. Select Withdrawal and choose a supported destination or payment method.
+3. Enter the amount and the receiving bank, wallet or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Review the request and confirm submission.
+6. Wait for casino processing and any bank or network settlement before receiving funds.
+
+Casino processing takes up to 3 business days, and requests are generally processed within three working days. Card, crypto and wallet withdrawals take 1 to 3 business days, while a bank transfer may need 3 to 5 more business days for bank delivery. There is no standard casino withdrawal fee, though provider and blockchain fees may apply. A 10% commission (minimum €2.25) can apply where turnover is below the deposited amount, because a minimum 1x deposit turnover can apply before a withdrawal. Some card or bank transfer funded transactions may carry 15%.

@@ -1,0 +1,176 @@
+{
+ "rules": "For EVERY sentence write 12 alternative wordings (English). Each wording states exactly the same fact: keep every figure, amount, period, percentage and every name listed in keep_figures / keep_names exactly as written. Do not add a figure, a condition or a claim; do not drop one. The wordings must differ in construction (subject, order of the clauses, voice, sentence type), not by swapping single words: no run of 6 words in a row may be shared with the original or with another wording of the same sentence. About the same length as the original (0.6x to 1.6x). Neutral editorial third person, no em dashes, no semicolons, no second person.",
+ "slots": 12,
+ "items": [
+  {
+   "key": "c07632a585c2",
+   "text": "The Privacy Notice may be amended; the updated version is published on the website.",
+   "keep_figures": [],
+   "keep_names": [
+    "privacy notice"
+   ]
+  },
+  {
+   "key": "f215774618ba",
+   "text": "Identity and payment checks may be required for access to withdrawals or promotional proceeds.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "6bbc2cc1fbaa",
+   "text": "Submit requested documentation through approved account or support channels.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "5fa5cc0edff0",
+   "text": "Ensure documents are readable, current and match registration details.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "512624af88e9",
+   "text": "Respond to further document or video/telephone checks when requested.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "91f81bc183c6",
+   "text": "Wait for account verification before restricted transactions proceed.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "cb9a788f2749",
+   "text": "Payments may be held until identification, payment ownership and any required source-of-funds checks are complete.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "9bcb77f86185",
+   "text": "Players must be legally permitted to gamble in their place of residence.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "7783f3beaf70",
+   "text": "The account holder is responsible for safeguarding credentials.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "5ac6e110f149",
+   "text": "The operator may suspend activity for verification or suspected abuse.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "bacde00f6a46",
+   "text": "Deposit minimums and available methods depend on country and currency.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "c9437d0f696d",
+   "text": "Deposits must be funded from methods the player is authorized to use.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "54613ccf0249",
+   "text": "A minimum 1x deposit turnover can apply before a withdrawal.",
+   "keep_figures": [
+    "1x"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "d75e5efe1630",
+   "text": "Withdrawal requests are generally processed within three working days.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "dd9e411f662d",
+   "text": "Bank transfers may need another 3–5 business days for settlement.",
+   "keep_figures": [
+    "3",
+    "5"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "5b0c80c39516",
+   "text": "The operator may request KYC documents before processing payments.",
+   "keep_figures": [],
+   "keep_names": [
+    "kyc documents"
+   ]
+  },
+  {
+   "key": "02d21e8e5715",
+   "text": "Where qualifying turnover is below the deposited amount, a 10% commission may apply with minimum €2.25.",
+   "keep_figures": [
+    "10",
+    "2.25"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "5615577ce18c",
+   "text": "A 15% charge can apply to some card or bank transfer funded transactions under the casino rules.",
+   "keep_figures": [
+    "15"
+   ],
+   "keep_names": [
+    "bank transfer"
+   ]
+  },
+  {
+   "key": "b84196b16bea",
+   "text": "Only one bonus may be active at a time unless the offer permits otherwise.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "eb2008dcdc20",
+   "text": "Bonus terms and wagering restrictions apply before promotional winnings become withdrawable.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "92feeae29107",
+   "text": "Bonus misuse can lead to forfeiture.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "1e24c7d8c1aa",
+   "text": "Contact customer support to request review of disputes or account decisions.",
+   "keep_figures": [],
+   "keep_names": [
+    "customer support"
+   ]
+  },
+  {
+   "key": "bea5cb1b78fd",
+   "text": "Prolonged inactivity may trigger account review or closure under applicable terms.",
+   "keep_figures": [],
+   "keep_names": [
+    "account review"
+   ]
+  },
+  {
+   "key": "92f526460cc9",
+   "text": "The operator may modify promotional and contractual terms and publish updates to the site.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "3642b0fb5039",
+   "text": "Applicable law and legally relevant jurisdictional requirements govern the agreement.",
+   "keep_figures": [],
+   "keep_names": []
+  }
+ ]
+}

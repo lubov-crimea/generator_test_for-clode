@@ -1,0 +1,7 @@
+A password reset starts on the login screen and ends with a new password.
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+A player without access to the registered mailbox should contact support.

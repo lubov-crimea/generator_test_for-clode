@@ -1,0 +1,23 @@
+Nạp tiền bắt đầu từ việc chọn nhóm phương thức, và mọi nhóm dùng chung mức tối thiểu €10, tối đa €5.000 cho mỗi giao dịch:
+
+| Nhóm | Ví dụ | Tiền tệ |
+|---|---|---|
+| Ví và ngân hàng nội địa | MoMo, Zalo, ViettelPay, VietQR | VND |
+| Thẻ | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Chuyển khoản ngân hàng | Bank Transfer | IDR, MYR, VND |
+| Tiền mã hóa | Bitcoin, Ethereum, Litecoin, USDC, USDT (mạng TRC20, ERC20, BEP20) | BTC, ETH, LTC, USDC, USDT |
+| Ví điện tử | Neteller, Skrill | EUR |
+| Phương thức châu Âu | Sofort, Giropay | EUR |
+
+Khoản nạp được ghi có trong 1 đến 2 phút. Casino không thu phí xử lý khi nạp, nhưng nhà cung cấp thanh toán hoặc mạng blockchain có thể tính phí, và hạn mức có thể khác nhau theo quốc gia, tiền tệ và phương thức. Neteller và Skrill không được tính cho thưởng chào mừng. Quy trình nạp gồm sáu bước: đăng nhập, mở quầy thu ngân và chọn Nạp tiền, chọn phương thức và tiền tệ, nhập số tiền cùng thông tin thanh toán, xác nhận theo hướng dẫn của nhà cung cấp, rồi chờ tiền vào số dư chơi.
+
+Rút tiền hỗ trợ chuyển khoản ngân hàng, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT trên ba mạng, Touch'n Go, DANA, MoMo, DBS Bank và Online Banking, tối thiểu €20 và tối đa €5.000:
+
+1. Đăng nhập Longfu88 và mở quầy thu ngân.
+2. Chọn Rút tiền và phương thức nhận.
+3. Nhập số tiền và nơi nhận tiền.
+4. Xác minh danh tính nếu được yêu cầu.
+5. Xem lại và xác nhận yêu cầu.
+6. Chờ casino và ngân hàng hoặc mạng lưới xử lý.
+
+Lngfu88 withdrawal time với thẻ, tiền mã hóa và ví là 1 đến 3 ngày làm việc, còn chuyển khoản ngân hàng cần tới 3 ngày làm việc để casino xử lý, cộng thêm 3 đến 5 ngày để ngân hàng chuyển tiền. Yêu cầu thường được xử lý trong ba ngày làm việc, và kiểm tra danh tính có thể làm chậm hơn. Casino không thu phí rút tiền tiêu chuẩn, nhưng nhà cung cấp và blockchain có thể tính phí. Hoa hồng 10% (tối thiểu €2,25) có thể áp dụng khi doanh số cược thấp hơn tiền nạp, vì trước khi rút có thể cần vòng cược tối thiểu 1x tiền nạp. Một số giao dịch nạp bằng thẻ hoặc chuyển khoản có thể chịu 15%.

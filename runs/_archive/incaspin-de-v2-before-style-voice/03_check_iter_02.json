@@ -1,0 +1,59 @@
+{
+  "iteration": 2,
+  "passed": true,
+  "summary": {
+    "body_words": 2782,
+    "target_body_words": 3000,
+    "keywords_total": {
+      "Incaspin": 16,
+      "Incaspin casino": 20,
+      "Inca Spin": 1
+    },
+    "keyword_targets": {
+      "Incaspin": 16,
+      "Incaspin casino": 20,
+      "Inca Spin": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b06",
+      "note": "Data conflict in brand_info: 200 free spins on the first deposit vs. 50 free spins daily for five days (250). The ТЗ asks for both figures, so the text states both; the knowledge base or the copywriter notes should resolve it."
+    },
+    {
+      "block_id": "b09",
+      "note": "No data for the validity of the Sunday Reload (brand_info only has '14 days under the earlier bonus schedule')."
+    },
+    {
+      "block_id": "b10",
+      "note": "No data to fill the range of 106-134 words without repeating the category list: brand_info has only the category names and the game count. Consider lowering words_min of b10 in the brief."
+    }
+  ]
+}

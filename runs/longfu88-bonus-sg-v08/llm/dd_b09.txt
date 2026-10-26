@@ -1,0 +1,12 @@
+Bonus winnings become withdrawable when the wagering is finished, and a ceiling of 5x applied to the initial bonus amount limits the Casino Welcome Bonus payout. Two warnings go with this timing: requesting a withdrawal at any point before claiming, or in the active phase of the bonus, can cost the player the eligibility, and at Longfu88 a verification step can come first, ahead of the payment of promotional winnings.
+
+Six steps make up the withdrawal:
+
+1. Enter the cashier after logging in to the casino.
+2. Pick Withdrawal, then a destination or payment method among those supported.
+3. Name the amount, and provide the receiving blockchain address, wallet or bank.
+4. Complete identity checks and payment-method checks if prompted.
+5. Review the request, then submit it.
+6. Await processing by the casino and settlement by any bank or network, after which funds arrive.
+
+That order follows from the rules above: wagering is completed and any verification asked for is passed first, then the payout comes, since a request sent earlier puts the eligibility at risk.

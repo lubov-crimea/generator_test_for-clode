@@ -1,0 +1,8 @@
+The Vegas Hunter app is a native app for Android and iOS, so players can install it instead of playing in a browser. Installation on Android takes four steps:
+
+1. Visit the official download page.
+2. Scan the QR code or select Android download.
+3. Download the APK from the provided link.
+4. Approve the installation and open the app.
+
+The iOS app is installed from the app download page on an iPhone or iPad by scanning the iOS QR code, following the instructions and signing in. Minimum requirements are Android 8.0 or iOS 16.7, with 1 GB of RAM and 1 GB of storage. The app carries the casino games, deposits and withdrawals, the VIP Club, the Bonus Shop, biometric security, 2FA and TLS encryption. VegasHunter also works in a mobile browser, which gives access to the casino without any installation.

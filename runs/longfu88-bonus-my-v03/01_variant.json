@@ -1,0 +1,199 @@
+{
+  "id": "v03",
+  "name": "Checklist (small, lists)",
+  "tier": "small",
+  "angle": "A reader who works through a list before depositing.",
+  "skipped_clusters": [
+    {
+      "id": "k16",
+      "reason": "left out of the short text; the offer families are named in the sections that follow"
+    },
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Checklist-style short brand-subpage for the small size group: what to check before claiming the Longfu88 welcome bonus in Malaysia, the claiming steps, the reload and free spin offers in one table, the cashback, the rewards area and a few questions. Page voice: terse and scannable, a one-sentence lead-in per section, then a list or a table; sentences of about 12 words; no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Promotions Checklist: Bonuses Before You Claim",
+      "words": 45,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu bonus": 1,
+        "Longfu88 promo code": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promo code\" is used it stands in the sentence that signposts the topics and says that the Brand Information lists no such code."
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Before You Claim: Seven Checks",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Seven checks before claiming the Casino Welcome Bonus: new player, first qualifying deposit of €50, Neteller and Skrill excluded, one active bonus, activation before wagering, no withdrawal request, verification.",
+      "entities": [
+        [
+          "Bonus Checklist",
+          10
+        ],
+        [
+          "My Bonuses",
+          7
+        ],
+        [
+          "Eligibility",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "checks",
+          "eligibility, deposit and active bonus before claiming",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.eligibility",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]"
+      ],
+      "notes": "One lead-in sentence, then a bulleted list of seven short checks in this order: the player is a new registered player (one welcome offer per account); the first qualifying deposit is at least €50; the deposit is not made with Neteller or Skrill; no other promotional bonus is active; the bonus is activated in My Bonuses before any wager; no withdrawal request is made before claiming or while the bonus is active; verification may be required before promotional winnings are paid. Each item one clause of up to 14 words. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k02",
+        "k03"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Casino Welcome Bonus in Short",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 welcome bonus": 1
+      },
+      "extra": "Where the phrase \"Longfu88 welcome bonus\" is used it stands in the first sentence."
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Claim Steps",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b07",
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Reload and Free Spin Offers at a Glance",
+      "words": 125,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "Three reload offers with reward, minimum deposit and wagering, including the 50 Free Spins of the Weekly Reload.",
+      "notes": "This block covers two topics in ONE continuous section without sub-headings. One lead-in sentence that says that the reload and free spin offers reward repeat deposits, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and three rows in this order: Casino Weekly Reload, Casino Weekend Reload, Casino Double Fortune: One-Day Reload Special (values exactly as in the Brand Information). After the table two sentences: the weekly and weekend offers are valid for 7 days and the Double Fortune special for 24 hours; a reload cannot be combined with another active casino bonus. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].reward",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[5].name",
+        "brandinfo_promotions.other_bonuses[5].reward",
+        "brandinfo_promotions.other_bonuses[5].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[5].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].reward",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_promotions.other_bonuses[4].important_terms[2]"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Cashback in Brief",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence, and the Unlimited Casino Rebate (0.9%) and the Unlimited Live Casino Rebate (1.0%) in one sentence: rebates are credited daily and carry 1x wagering on the credited rebate (that figure is in the Brand Information, state it once). ",
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence. "
+        ],
+        [
+          "Do not give the VIP cashback levels (the VIP page of the site covers them). ",
+          ""
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Rewards Area at a Glance",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers: Checklist Questions",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "4 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 4 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) whether a promo code is needed (the Brand Information lists none; the offers are activated in My Bonuses); (2) what is the minimum first deposit for the welcome bonus (€50); (3) what happens if a withdrawal is requested before claiming or while a bonus is active (the promotional eligibility can be voided); (4) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]",
+        "brandinfo_promotions.other_bonuses[9].opt_in"
+      ]
+    }
+  ]
+}

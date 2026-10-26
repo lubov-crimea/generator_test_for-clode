@@ -1,0 +1,81 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3572,
+    "target_body_words": 3393,
+    "keywords_total": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The lead-in says the choice of method 'depends mostly on the currency', which is an opinion not supported by the block's Brand Information.",
+        "fix": "Replace the claim with a neutral statement, for example that the methods differ in the currencies they accept, keeping the 1-2 minutes, the EUR 10 minimum and the EUR 5,000 maximum."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [
+      {
+        "check": "consistency",
+        "problem": "The first sentence nearly repeats the age sentence of the introduction (b01): 'players must be at least 18 years old and may gamble only where it is lawful'.",
+        "fix": "Reword the opening so it does not repeat the b01 sentence or its start, while keeping the 18+ and lawful-gambling facts."
+      }
+    ],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": [],
+    "b26": []
+  },
+  "missing_data": []
+}

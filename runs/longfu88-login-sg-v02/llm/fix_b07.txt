@@ -1,0 +1,6 @@
+- **Which details does registration ask for?** The form asks for an e-mail address, a password, a legal name, a date of birth and a residential address.
+- **How does a player log in?** The login uses the registered e-mail and password, entered on the login screen of the website.
+- **Can a player hold more than one account?** No, only one personal account per player is allowed.
+- **When can the welcome bonus be claimed?** After registration, together with the first qualifying deposit of at least €50.
+- **Can a player log in from a phone?** Yes, Longfu88 opens in the browser of a smartphone or a tablet, and a shortcut can be added to the home screen.
+- **Which currencies can an account use?** The supported currencies are EUR, USD, MYR, THB, SGD and USDT.

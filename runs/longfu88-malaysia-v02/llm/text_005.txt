@@ -1,0 +1,12 @@
+Kaedah deposit dikumpulkan mengikut jenis dalam jadual di bawah, dan semuanya berkongsi had umum yang sama: minimum €10 dan maksimum €5,000 bagi setiap transaksi.
+
+| Jenis kaedah | Contoh | Mata wang |
+|---|---|---|
+| Bank dan dompet tempatan | DuitNow, Touch'n Go, GrabPay dan Online Banking | MYR |
+| Kad | Visa dan Mastercard | IDR, MYR, SGD, VND |
+| Pindahan bank | Bank Transfer | IDR, MYR, VND |
+| Mata wang kripto | Bitcoin, Ethereum, Litecoin, USDC dan USDT pada rangkaian TRC20, ERC20 atau BEP20 | BTC, ETH, LTC, USDC, USDT |
+| E-dompet | Neteller dan Skrill | EUR |
+| Kaedah Eropah | Sofort dan Giropay | EUR |
+
+Dana dikreditkan dalam masa 1-2 minit, dan kasino tidak mengenakan yuran pemprosesan, walaupun yuran penyedia pembayaran atau rangkaian blockchain mungkin dikenakan. Had boleh berbeza mengikut negara, mata wang dan kaedah, manakala deposit melalui Neteller dan Skrill dikecualikan daripada bonus alu-aluan. Langkahnya ringkas: log masuk ke akaun Longfu88, buka kasir dan pilih Deposit, pilih kaedah serta mata wang atau rangkaian yang disokong, masukkan jumlah dan maklumat pembayaran, sahkan transaksi mengikut arahan penyedia, kemudian tunggu dana masuk ke baki yang boleh dimainkan.

@@ -1,0 +1,352 @@
+{
+  "id": "v12",
+  "name": "Crypto-friendly guide (USDT and fiat side by side)",
+  "angle": "A player who deposits and withdraws in cryptocurrency and wants the crypto offers and the payout rules in one place.",
+  "intent_summary": "Brand-review page about the Longfu88 online casino for crypto-friendly players from Singapore: the fact sheet, deposit methods with the cryptocurrencies and networks, crypto and fiat withdrawals with fees, the crypto welcome bonus and its alternatives, crypto reloads and the other weekly offers, sports offers, VIP levels, verification before payouts, registration, games and providers, mobile access, licence and data safety, responsible gambling, support, an FAQ on crypto questions and a verdict. Page voice: technical and plain, sentences of about 16 words, paragraphs of two to four sentences, every crypto figure comes with its currency or network and its condition, fiat and crypto offers are always kept apart and never mixed in one sum; one call to action, at the crypto welcome bonus. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino for Crypto Players in Singapore: Review",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Casino and Crypto Facts",
+      "fact_rows": [
+        "licence",
+        "company",
+        "payment_methods",
+        "currencies",
+        {
+          "key": "other",
+          "label": "Crypto bonus",
+          "kb_refs": [
+            "brandinfo_promotions.other_bonuses[1].reward"
+          ]
+        },
+        "welcome_bonus",
+        "min_deposit",
+        "cashback",
+        "languages",
+        "support"
+      ],
+      "words": 92,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "A fact sheet of the casino: licence, operator, payment methods, currencies, Crypto bonus, welcome bonus, minimum deposit, cashback, languages, support."
+    },
+    {
+      "from": [
+        "b20"
+      ],
+      "level": 2,
+      "heading": "Deposit Methods: Crypto Networks and Local Options",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1
+      },
+      "extra": "Lead with the cryptocurrencies and the three USDT networks, then the local and card methods; keep per-method limits out, as the notes say."
+    },
+    {
+      "from": [
+        "b21"
+      ],
+      "level": 3,
+      "heading": "Crypto and Fiat Withdrawals: Timing and Fees",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Lngfu88 withdrawal time": 1
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Crypto Welcome Bonus and the Alternatives",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 bonus": 1,
+        "Longfu88 promo code": 1
+      },
+      "extra": "Present the Casino Crypto Welcome Bonus first (188% up to 2,888 USDT, minimum deposit 50 USDT, 40x deposit plus bonus, 10 days, the eligible cryptocurrencies) as the one call-to-action place of the page, then the Casino Welcome Bonus and the Live Casino Welcome Bonus in fiat; never add crypto and fiat figures together."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 3,
+      "heading": "Wagering and Caps of the Fiat Welcome Bonus",
+      "words": 80,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Crypto Reloads and Weekly Offers",
+      "words": 100,
+      "kw": {},
+      "extra": "Mention the Casino Weekly Crypto Reload and the Casino Weekend Crypto Reload before the fiat reloads in the table."
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 3,
+      "heading": "Cashback and Rebates",
+      "words": 65,
+      "kw": {},
+      "edit": [
+        [
+          "shown as a compact table of tier, percentage and maximum)",
+          "given in one sentence as tier, percentage and maximum)"
+        ]
+      ],
+      "formats": [
+        "paragraph"
+      ]
+    },
+    {
+      "from": [
+        "b18",
+        "b19"
+      ],
+      "level": 2,
+      "heading": "Sports Betting with Crypto Offers",
+      "words": 125,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu sports": 1
+      },
+      "summary": "Sports and bet types, live betting and the sports bonuses with the shared odds rule, including the crypto equivalents.",
+      "extra": "Name the Sport Crypto Welcome Bonus, the Sport Crypto Weekly Reload and the Sport Crypto Weekend Reload in the sports bonus part."
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "VIP Programme and Withdrawal Limits",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "Show a compact table Level | Points | Reward | Cashback | Withdrawal limit for levels 1, 5, 10, 15, 20 and 25 exactly as given in the Brand Information (level 1: 1 point, €9.8, 1%, €9,800; level 25: 5,500 points, €980, 10%, €147,000).",
+          "Give level 1 and level 25 in two sentences exactly as in the Brand Information (level 1: 1 point, €9.8, 1%, €9,800; level 25: 5,500 points, €980, 10%, €147,000), without a table."
+        ]
+      ],
+      "formats": [
+        "paragraph"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Verification Before Crypto and Card Payouts",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Registration and Login",
+      "words": 105,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu caino login": 1
+      },
+      "edit": [
+        [
+          " Do not mention the identity-document check here (next sub-section).",
+          " Do not mention the identity-document check here (it has its own section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b13",
+        "b14",
+        "b15",
+        "b16",
+        "b17"
+      ],
+      "level": 2,
+      "heading": "Games and Providers",
+      "words": 190,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 casino": 1,
+        "Longfu 88 casino": 1
+      },
+      "summary": "The nine game categories, three example slots with RTP, the live section with the exclusive baccarat, the other categories and the ten providers.",
+      "edit": [
+        [
+          " and lead into the sub-sections on slots, live casino and the other categories without retelling their facts.",
+          " and cover slots, live casino and the other categories in this same block."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Mobile Access",
+      "words": 75,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu88 app": 1
+      }
+    },
+    {
+      "from": [
+        "b03",
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Licence, Operator and Data Protection",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1,
+        "casino Longfu88": 1,
+        "Longfu 88 Official Site": 1
+      },
+      "summary": "Launch year, currencies and who may play, then the licence, the operator and how data and accounts are protected.",
+      "edit": [
+        [
+          " Do not repeat the licence or bonus details (later sections).",
+          ""
+        ],
+        [
+          " Do not repeat identity-check details (next section).",
+          " Do not repeat identity-check details (they have their own section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b23"
+      ],
+      "level": 2,
+      "heading": "Responsible Gambling",
+      "words": 75,
+      "kw": {},
+      "edit": [
+        [
+          "Give the organisations GamCare, Gamblers Anonymous and Gambling Therapy as a short bulleted list.",
+          "Name the organisations GamCare, Gamblers Anonymous and Gambling Therapy in one sentence."
+        ]
+      ],
+      "formats": [
+        "paragraph"
+      ]
+    },
+    {
+      "from": [
+        "b24"
+      ],
+      "level": 2,
+      "heading": "Support Channels",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b26"
+      ],
+      "level": 2,
+      "heading": "Crypto Questions",
+      "words": 152,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu 88": 1
+      },
+      "notes": "A bulleted list of exactly 5 items, each a bold question followed by a short answer of 20-30 words, in this order: (1) which cryptocurrencies can be used (for deposits Bitcoin, Ethereum, Litecoin, Ripple, USDC, Bitcoin Cash, Cardano and USDT on three networks); the answer contains the keyword \"Longfu88\" exactly once, written verbatim; (2) what the Casino Crypto Welcome Bonus is (188% up to 2,888 USDT, minimum deposit 50 USDT, 40x deposit plus bonus, 10 days; an alternative to the Casino Welcome Bonus, not an addition); (3) what the minimum deposit is (€10 in general, €50 for the Casino Welcome Bonus); (4) how long a withdrawal takes (card, crypto and wallet withdrawals 1 to 3 business days; bank transfer up to 3 business days of casino processing plus 3 to 5 business days of bank delivery; the wording must differ from the withdrawals section); (5) whether withdrawals carry fees (no standard casino fee; provider and blockchain fees may apply; a 10% commission with a minimum of €2.25 can apply where turnover is below the deposit, and 15% on some card or bank funded transactions); the question contains the keyword \"Longfu 88\" exactly once, written verbatim. The brand name \"Longfu88\" may stand in an answer, never in a question. These are the only questions on the page; the questions are the one place where question form is allowed.",
+      "refs_add": [
+        "brandinfo_general.payment_methods.deposit",
+        "brandinfo_promotions.other_bonuses[1]",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_withdrawal.withdrawal_methods[0].transaction_speed",
+        "brandinfo_withdrawal.withdrawal_methods[1].transaction_speed",
+        "brandinfo_privacy_policy.terms_conditions.conditional_fees"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure"
+      ],
+      "kw_lists_ok": true,
+      "formats": [
+        "list"
+      ],
+      "summary": "Short answers on cryptocurrencies, the crypto welcome bonus, minimum deposit, withdrawal time, withdrawal fees.",
+      "entities": [
+        [
+          "Frequently Asked Questions",
+          8
+        ],
+        [
+          "Cryptocurrencies",
+          6
+        ],
+        [
+          "The crypto welcome bonus",
+          6
+        ],
+        [
+          "Minimum deposit",
+          6
+        ],
+        [
+          "Withdrawal time",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Frequently Asked Questions",
+          "cover",
+          "cryptocurrencies, the crypto welcome bonus, minimum deposit, withdrawal time, withdrawal fees",
+          6
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b27"
+      ],
+      "level": 2,
+      "heading": "Verdict for Crypto Users",
+      "words": 70,
+      "kw": {
+        "Longfu88 casino": 1,
+        "Longfu": 1,
+        "Longfu88": 1
+      }
+    }
+  ]
+}

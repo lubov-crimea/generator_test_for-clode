@@ -1,0 +1,36 @@
+{
+ "website_id": 4972,
+ "domain": "longfu88casino-my.bet",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login on Mobile and Desktop: How to Sign In",
+  "description": "Longfu88 login on a phone or a computer: sign in with e-mail and password, add a home-screen shortcut on Android or iOS, reset the password, find support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Log in from any phone, tablet or computer",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Play Now",
+  "Register",
+  "Join Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

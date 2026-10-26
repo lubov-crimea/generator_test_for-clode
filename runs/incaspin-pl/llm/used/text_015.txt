@@ -1,0 +1,5 @@
+- **Czy do bonusu powitalnego potrzebny jest kod promocyjny?** Nie, kasyno przyznaje bonusy z pakietu powitalnego automatycznie. Wpisanie kodu przy bonusie z tego pakietu pozbawia gracza prawa do tego bonusu, więc kodu lepiej nie podawać.
+- **Jaka jest minimalna wpłata na pakiet powitalny?** Pierwsza wpłata wymaga 20 €, a oferta przewiduje progi wpłat 20 €, 50 € i 300 €.
+- **Jak długo trwa wypłata?** Do 72 godzin trwa kontrola po stronie kasyna, po niej następuje rozliczenie przez operatora płatności, który ma własny czas realizacji. Całość zależy więc od wybranej metody.
+- **Jak zalogować się na konto Inca Spin?** Wystarczy wpisać e-mail i hasło z rejestracji. Gdy hasło jest nieznane, na ekranie logowania działa opcja przypomnienia hasła, a instrukcję resetu kasyno wysyła e-mailem.
+- **Czy Incaspin Casino ma aplikację mobilną?** Incaspin działa jako Progressive Web App instalowana bezpośrednio z przeglądarki, bez sklepu z aplikacjami. Ikona trafia na ekran główny telefonu, a po instalacji serwis otwiera się jednym stuknięciem.

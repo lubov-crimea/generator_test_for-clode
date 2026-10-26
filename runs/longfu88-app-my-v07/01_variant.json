@@ -1,0 +1,158 @@
+{
+  "id": "v07",
+  "name": "Troubleshooting-led",
+  "tier": "medium",
+  "angle": "A player who already tried and cannot get the casino working on a phone.",
+  "intent_summary": "Troubleshooting-led brand-subpage about the Longfu88 mobile casino in Malaysia for a player whose phone setup did not work: the quick fixes first, then how to add the shortcut again on Android and iOS, sign-in trouble, device and browser checks, the switch between the shortcut and a browser tab, account safety, what should work on mobile and when to contact support. Page voice: practical and calm, cause then fix, sentences of about 16 words; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Mobile Casino Help: Set It Up and Fix Issues",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu app": 1
+      },
+      "edit": [
+        [
+          "(features, home-screen shortcut for Android and iOS, supported devices, account access, security, troubleshooting, support)",
+          "(quick fixes, adding the shortcut again on Android and iOS, sign-in trouble, device checks, safety, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Quick Fixes for Common Phone Problems",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "notes": "One lead-in sentence, then a TABLE with two columns, problem | fix, and four rows in this order: the shortcut does not appear | repeat the steps in Chrome on Android or in Safari on iOS; the page does not load | reload it and check the internet connection; the login fails | check the e-mail address and use Forgot Password on the login screen; the problem remains | contact support through live chat, 24/7, or by e-mail (do not print the e-mail address here). General wording only, no error codes and no browser-setting instructions presented as casino facts. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download Help: Add the Shortcut Again",
+      "words": 70,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Add the Shortcut Again in Chrome",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Add the Shortcut Again in Safari",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Sign-In Trouble on a Phone",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Device and Browser Checks",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Switching Between the Shortcut and a Browser Tab",
+      "words": 80,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Account Security Checks",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "What Should Work on Mobile",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "When to Contact Support",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Mobile Help FAQ",
+      "words": 105,
+      "kw": {
+        "Longfu88": 2
+      },
+      "summary": "6 short questions and answers on the mobile version of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) what a player can do from a phone (casino, sportsbook, account access, deposits, withdrawals, bonuses); (3) which phones work (Android, iOS and the mobile web of smartphones and tablets); (4) how a player logs in on a phone (with the registered e-mail and password, as on a computer); (5) whether the shortcut is required (no: the same website opens in a browser tab); (6) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "refs_add": [
+        "brandinfo_app.app_information.features"
+      ],
+      "refs_drop": [
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

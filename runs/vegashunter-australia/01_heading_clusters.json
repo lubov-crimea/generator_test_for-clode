@@ -1,0 +1,561 @@
+[
+  {
+    "id": "k01",
+    "topic": "Casino overview / introduction",
+    "canonical_title": "About the Casino",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 150,
+    "avg_position": 0.04,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Introduction"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Everything About the CrashPirate Casino Site"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Games overview",
+    "canonical_title": "Games and Pokies Overview",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 78,
+    "avg_position": 0.19,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Casino Game Categories at Vegas Hunter"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Games we cover"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Online Slots and Casino Games"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Game types: slots, table, jackpot, specialty games",
+    "canonical_title": "Game Categories",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 44,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Card Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Roulette"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Game Shows"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Casual Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Fishing Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Craps"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Lottery Games"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Bonuses, welcome offer and promotions",
+    "canonical_title": "Bonuses and Promotions",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 81,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Vegas Hunter Casino Bonuses & Promotions"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Welcome Bonus and Ongoing Promotions"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "What Is the CrashPirate Welcome Bonus?"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Game providers",
+    "canonical_title": "Game Providers",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 102,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Top Providers"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Game Providers"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Registration / getting started",
+    "canonical_title": "How to Register and Start Playing",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 130,
+    "avg_position": 0.51,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "How to Start Playing (Step-by-Step Guide)"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Registering an Account at CrashPirate"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Crash games",
+    "canonical_title": "Crash Games",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 136,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Crash Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Crash Games and How They Work"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How Do Crash Games Work?"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Payment methods and deposits",
+    "canonical_title": "Payment Methods",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 54,
+    "avg_position": 0.59,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Payment Methods at Vegas Hunter Australia"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Traditional Payment Methods"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Cryptocurrency Payments"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Payment Methods, Deposits and Withdrawals"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Mobile app",
+    "canonical_title": "Mobile App for Android and iOS",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 104,
+    "avg_position": 0.68,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile Casino App for Android & iOS"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "CrashPirate App and Mobile Play"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Does CrashPirate Have a Mobile App?"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 64,
+    "avg_position": 0.68,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Support"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Customer Support and Complaints"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How Do I Contact CrashPirate Customer Support?"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Why choose / pros and cons",
+    "canonical_title": "Why Players Choose the Casino",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 126,
+    "avg_position": 0.75,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Why Australian Players Choose Vegas Hunter"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Pros and Cons of CrashPirate Casino"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Responsible gambling and player protection",
+    "canonical_title": "Responsible Gambling",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 105,
+    "avg_position": 0.81,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Responsible Gambling"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Responsible Gambling and Player Protection"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "KYC verification",
+    "canonical_title": "KYC Verification",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 153,
+    "avg_position": 0.28,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "KYC Verification: Which Documents and How Long"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Licensing, safety and legitimacy",
+    "canonical_title": "Licensing and Safety",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 112,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Licensing, Safety and Is CrashPirate Legit?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Is CrashPirate Casino Legit and Safe to Use?"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Live dealer games",
+    "canonical_title": "Live Dealer Games",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 164,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Live Dealer Games"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Withdrawals timing and limits",
+    "canonical_title": "Withdrawals: Times and Limits",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 101,
+    "avg_position": 0.54,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Withdrawal Times, Limits and Processing"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How Long Do CrashPirate Withdrawals Take?"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Tournaments and prize drops",
+    "canonical_title": "Tournaments and Prize Drops",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 78,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Tournaments and Prize Drops"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "VIP and loyalty program",
+    "canonical_title": "VIP Club and Loyalty Rewards",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 148,
+    "avg_position": 0.64,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "VIP Club and Loyalty Rewards"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Payments additional information",
+    "canonical_title": "Additional Payment Information",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 44,
+    "avg_position": 0.79,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Additional Information"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Eligibility of players from a country",
+    "canonical_title": "Who Can Play",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 56,
+    "avg_position": 0.8,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Can UK Players Ppen an Account at CrashPirate?"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "Conclusion",
+    "canonical_title": "Conclusion",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 35,
+    "avg_position": 0.96,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Conclusion"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "FAQ",
+    "canonical_title": "FAQ",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 63,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "FAQ"
+      }
+    ]
+  }
+]

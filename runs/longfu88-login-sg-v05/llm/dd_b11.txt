@@ -1,0 +1,6 @@
+- **Which personal data is requested at sign-up?** A residential address, a legal name and a birth date, on top of the login pair, meaning the e-mail address paired with a password picked there.
+- **What does a player type to get in?** Only the credentials registered earlier, an e-mail address and its password, as the second step on this page explains.
+- **How is a lost password recovered?** A reset link is requested by giving the registered address, and the directions inside the message that comes back lead to a new password.
+- **Is a second account allowed?** No, Longfu88 limits every player to one personal account.
+- **When can the welcome bonus be taken?** After sign-up, at the first deposit that qualifies, with a floor of €50.
+- **What if the login still does not work?** Customer support steps in, with a chat window that never closes and an e-mail address as the second route.

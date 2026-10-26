@@ -1,0 +1,696 @@
+{
+ "website": 5413,
+ "slug": "index",
+ "seo": {
+  "title": "Longfu88 Bonus Review: 188% up to €2,088 + 18 Spins",
+  "description": "Longfu88 bonuses explained for Singapore players: welcome bonus terms, weekly reloads, cashback, the VIP programme, plus payments and games.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "casino, online casino, crypto casino, play, gambling, slots, live casino, sports betting, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Casino Review: Bonuses, Games and Payments for Singapore",
+   "label": "188% up to €2,088 + 18 Free Spins, welcome bonus on your first qualifying deposit",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Top Slots",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Mega Moolah",
+     "image": 99,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "StarBurst",
+     "image": 73,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 100,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Bonanza",
+     "image": 72,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Razor Shark",
+     "image": 83,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Dead",
+     "image": 109,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Buffalo King Megaways",
+     "image": 91,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sugar Rush",
+     "image": 87,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Wolf Gold",
+     "image": 106,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Gates Of Olympus 1000",
+     "image": 84,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "The Dog House",
+     "image": 92,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "3 Hot Chilli Peppers",
+     "image": 107,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Crash & Instant",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Aviamasters",
+     "image": 78,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviator",
+     "image": 89,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviatrix",
+     "image": 77,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ballonix",
+     "image": 81,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Balloon",
+     "image": 86,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Crash",
+     "image": 88,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Chicken Road",
+     "image": 97,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "F777 Fighters",
+     "image": 108,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "JetX",
+     "image": 70,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lucky Jet",
+     "image": 104,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Penalty Shoot Out",
+     "image": 90,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Piggy Tap",
+     "image": 82,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Live",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "American Roulette",
+     "image": 2628,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Balls",
+     "image": 2630,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Time",
+     "image": 2208,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ice Fishing",
+     "image": 102,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Infinite Blackjack",
+     "image": 2626,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 235,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "Longfu88 Promotions",
+   "items": [
+    {
+     "image": 4656,
+     "content": "<h3><strong>Sport First Deposit Bonus</strong></h3>\n100% up to €1,888",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4655,
+     "content": "<h3><strong>Casino Weekend Crypto Reload</strong></h3>\n75% up to 750 USDT + 100 Free Spins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "See Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4652,
+     "content": "<h3><strong>Casino Weekly Cashback</strong></h3>\nUp to 10% of weekly net casino losses",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Now",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4653,
+     "content": "<h3><strong>Bonus Crab</strong></h3>\nQualifying picks reveal bonus credits, free spins or coins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4654,
+     "content": "<h3><strong>Casino Crypto Welcome Bonus</strong></h3>\n188% up to 2,888 USDT",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4657,
+     "content": "<h3><strong>Live Casino Welcome Bonus</strong></h3>\n125% up to €888",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Longfu88 is an online casino that puts together casino titles, tables with live dealers, a sportsbook and a lottery in a single lobby. Slots and jackpots sit next to crash and instant games, fast games, P2P titles and fishing, so the range reaches well beyond reels alone. The platform went live in 2026, which makes it a recent arrival rather than a long-established name. Adult players can sign up only after turning 18, and this page is written for readers who live in Singapore. It opens with a fact table, then moves through promotions, payments, the game lobby, phone access and licensing, and closes with the tools for responsible play. That order lets a visitor compare the main points before registering.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Sign Up",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Casino Information</h2>\n<table>\n<tr>\n<td>Item</td>\n<td>Value</td>\n</tr>\n<tr>\n<td>Welcome bonus</td>\n<td>188% match, capped at €2,088, with 18 free spins</td>\n</tr>\n<tr>\n<td>Wagering</td>\n<td>25x applied to the deposit plus the bonus amount</td>\n</tr>\n<tr>\n<td>Minimum deposit</td>\n<td>€10 for the whole casino</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>Weekly return of up to 10% on net casino losses</td>\n</tr>\n<tr>\n<td>Licence</td>\n<td>Registered in Costa Rica, operator Lumina, registration number 000-039123-R-319326-001</td>\n</tr>\n<tr>\n<td>Operator</td>\n<td>Lumina</td>\n</tr>\n<tr>\n<td>Launched</td>\n<td>2026</td>\n</tr>\n<tr>\n<td>Payment methods</td>\n<td>PayNow, Mastercard, USDT (TRC20), Visa, Bitcoin, Bank Transfer and more</td>\n</tr>\n<tr>\n<td>Currencies</td>\n<td>USDT, MYR, THB, USD, EUR, SGD</td>\n</tr>\n<tr>\n<td>Support languages</td>\n<td>English, Vietnamese, Malay, Indonesian, Simplified Chinese, Thai</td>\n</tr>\n<tr>\n<td>Support</td>\n<td>support@longfu88.com, 24/7 live chat</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>The Casino Welcome Bonus</h2>\n<p>A first payment is the moment a new player picks an offer, and the Casino Welcome Bonus exists for it: it tops up the opening qualifying deposit by a percentage. The <a href=\"/bonuses\">Longfu88 bonus</a> takes the form of a 188% match worth up to €2,088, and 18 free spins come attached. Its qualifying deposit is €50, while the casino as a whole starts at €10. Each account can take one welcome offer, and only newly registered players are eligible. Two rival first-deposit packages exist, the Casino Crypto Welcome Bonus (188%, up to 2,888 USDT, qualifying with 50 USDT) and the Live Casino Welcome Bonus (125%, up to €888, qualifying with €30), but the three are mutually exclusive. At Longfu88 no code is involved. Register, deposit and claim the Casino Welcome Bonus in four steps:</p>\n<ul>\n<li>Register an account and complete the required personal details.</li>\n<li>Make a first deposit that meets the qualifying amount.</li>\n<li>Activate the Casino Welcome Bonus in My Bonuses before placing any bet.</li>\n<li>Finish the wagering before expiry by playing eligible casino games.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Wagering, Validity and Maximum Bet</h3>\n<p>The wagering requirement is computed as 25 times the deposit with the bonus on top, and the bonus stays valid for 10 days counted from activation. Other limits sit in one place:</p>\n<table>\n<tr>\n<td>Condition</td>\n<td>Value</td>\n</tr>\n<tr>\n<td>Maximum cashout</td>\n<td>5x the initial bonus amount</td>\n</tr>\n<tr>\n<td>Maximum bet</td>\n<td>€22.5 per spin</td>\n</tr>\n<tr>\n<td>Validity</td>\n<td>10 days from activation</td>\n</tr>\n<tr>\n<td>Free spins winnings wagering</td>\n<td>40x</td>\n</tr>\n<tr>\n<td>General wagering</td>\n<td>25x deposit plus bonus</td>\n</tr>\n</table>\n<p>Neteller and Skrill deposits are excluded from the offer, and only one promotional bonus can be active at a time. A withdrawal request sent before claiming, or while the bonus runs, may void eligibility, and cancelling the bonus forfeits the bonus funds along with winnings not yet converted. The operator may also ask for verification before paying out promotional winnings.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Reload Offers and Seasonal Campaigns</h2>\n<p>Returning players compare reload deals directly, so this grid sets seven of them side by side.</p>\n<table>\n<tr>\n<td>Offer</td>\n<td>Reward</td>\n<td>Min. deposit</td>\n<td>Wagering</td>\n<td>Validity</td>\n</tr>\n<tr>\n<td>Casino Weekly Crypto Reload</td>\n<td>60% up to 1,000 USDT</td>\n<td>20 USDT</td>\n<td>30x deposit + bonus</td>\n<td>7 days</td>\n</tr>\n<tr>\n<td>Casino Dragon Quest</td>\n<td>€10 bonus credit</td>\n<td>€20</td>\n<td>30x credit</td>\n<td>7 days</td>\n</tr>\n<tr>\n<td>Casino Weekend Reload</td>\n<td>Up to €3,360 + 50 Free Spins</td>\n<td>€50</td>\n<td>30x deposit + bonus, 40x Free Spins winnings</td>\n<td>7 days</td>\n</tr>\n<tr>\n<td>Casino Trick or Treat Pumpkin Bonanza</td>\n<td>Up to 100 Free Spins</td>\n<td>€20</td>\n<td>40x Free Spins winnings</td>\n<td>7 days</td>\n</tr>\n<tr>\n<td>Casino Weekly Reload</td>\n<td>50 Free Spins</td>\n<td>€30</td>\n<td>40x Free Spins winnings</td>\n<td>7 days</td>\n</tr>\n<tr>\n<td>Casino Double Fortune</td>\n<td>50% up to €500</td>\n<td>€30</td>\n<td>30x deposit + bonus</td>\n<td>24 hours</td>\n</tr>\n<tr>\n<td>Casino Weekend Crypto Reload</td>\n<td>75% up to 750 USDT + 100 Free Spins</td>\n<td>20 USDT</td>\n<td>30x deposit + bonus, 40x Free Spins winnings</td>\n<td>7 days</td>\n</tr>\n</table>\n<p>All offers are switched on in My Bonuses, can be claimed once per promotional period and cannot run alongside another casino promotion still in force. Stakes are limited to €5 per spin during bonus wagering.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Weekly Cashback and Daily Rebates</h3>\n<p>Casino Weekly Cashback returns as much as 10% of net casino losses across a week, with a ceiling of €6,988. Counting starts on Monday at 00:00 UTC and ends on Sunday at 23:59 UTC. After opt-in, the credit reaches My Bonuses each Monday with 10x wagering, and the rate follows VIP tier:</p>\n<table>\n<tr>\n<td>VIP tier</td>\n<td>Rate</td>\n<td>Weekly ceiling</td>\n</tr>\n<tr>\n<td>Diamond</td>\n<td>10%</td>\n<td>€6,988</td>\n</tr>\n<tr>\n<td>Platinum</td>\n<td>8%</td>\n<td>€3,988</td>\n</tr>\n<tr>\n<td>Gold</td>\n<td>6%</td>\n<td>€2,988</td>\n</tr>\n<tr>\n<td>Silver</td>\n<td>4%</td>\n<td>€2,388</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>2%</td>\n<td>€1,888</td>\n</tr>\n</table>\n<p>Live Casino Cashback gives 25% up to €850. Daily rebates arrive each day: live casino 1.0%, casino 0.9%, lottery 1.0%, P2P 0.8%, each with 1x wagering and counted on real-money bets only. Opt in to the weekly cashback before the week begins.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Bonus Crab, Wheel of Fortune and the Coin Shop</h3>\n<p>The Rewards area groups five features. Bonus Crab reveals a crab reward from claimed picks, lasts 7 days and carries 40x wagering on free spin winnings and 30x on bonus credit. The Wheel of Fortune is spun with an eligible spin or Coins, also lasts 7 days and needs 30x wagering. Challenges and Collections both sit under Rewards, and finishing a challenge leads to earnings of coins, free spins and bonus credits. Coins are spent at the Coin Shop to obtain rewards and bonus credits up to €4,500, at prices that differ by item. Rewards may carry wagering of their own.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Open an Account",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VIP Programme: Points, Levels and Limits</h2>\n<p>VIP points are earned from real-money play on eligible games, and they give access to a series of reward levels numbered up to 25. Five tiers sit above them: Bronze is the entry rung, Silver and Gold plus Platinum follow, and Diamond is the highest. Higher VIP levels lift the percentage of cashback together with how much can be withdrawn, and from level 4 onward a personal VIP manager and personalised offers join in. Six steps show the ladder:</p>\n<table>\n<tr>\n<td>VIP level</td>\n<td>Points needed</td>\n<td>Cashback share</td>\n<td>Cap on withdrawals</td>\n<td>Level reward</td>\n</tr>\n<tr>\n<td>25</td>\n<td>5,500</td>\n<td>10%</td>\n<td>€147,000</td>\n<td>€980</td>\n</tr>\n<tr>\n<td>20</td>\n<td>3,600</td>\n<td>8%</td>\n<td>€117,600</td>\n<td>€637</td>\n</tr>\n<tr>\n<td>15</td>\n<td>2,100</td>\n<td>6%</td>\n<td>€88,200</td>\n<td>€392</td>\n</tr>\n<tr>\n<td>10</td>\n<td>700</td>\n<td>4%</td>\n<td>€63,700</td>\n<td>€147</td>\n</tr>\n<tr>\n<td>5</td>\n<td>70</td>\n<td>2%</td>\n<td>€34,300</td>\n<td>€24.5</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>1%</td>\n<td>€9,800</td>\n<td>€9.8</td>\n</tr>\n</table>\n<p>Currency and level both shape the reward sums and withdrawal caps, and the programme rules may change, so current terms deserve a check before a player aims for a target level.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Sportsbook Offer: Markets and Bonuses</h2>\n<p>At Longfu88, the sportsbook spans nine disciplines, from virtual football and esports to cricket, badminton and basketball, with table tennis, tennis, football and volleyball filling out the list. Seven wager types cover most preferences, from Bet Builder and outrights to totals, handicap, single and live bets, plus the accumulator. An accumulator joins several selections into one wager, a handicap evens out a gap between the sides, and totals look at the combined score of an event. Live betting includes prices that move during the event and open in-play markets, so a bet can be placed while play continues. The Longfu sports area is organised around these options, and events and markets on offer may vary by jurisdiction.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Sport Bonuses, Cashback and Boosts</h3>\n<table>\n<tr>\n<td>Offer</td>\n<td>Reward</td>\n<td>Min. deposit</td>\n<td>Wagering</td>\n</tr>\n<tr>\n<td>Sport Weekend Reload Bonus</td>\n<td>50%, up to €3,750</td>\n<td>€50</td>\n<td>8x</td>\n</tr>\n<tr>\n<td>Sport First Deposit Bonus</td>\n<td>100%, up to €1,888</td>\n<td>€50</td>\n<td>8x</td>\n</tr>\n<tr>\n<td>Sport Weekly Reload Bonus</td>\n<td>50%, up to €2,500</td>\n<td>€50</td>\n<td>8x</td>\n</tr>\n</table>\n<p>The Sport First Deposit Bonus matches a deposit at 100% with a ceiling of €1,888 for 30 days, so claim it ahead of a first sports deposit. Sports Cashback returns 10% of net losses up to €2,500, Bet Builder Risk Free refunds half a stake up to €250, and Parlay Boost adds up to 100% from three legs. Crypto reloads reach 1,000 USDT. Single bets need odds of at least 2.00, accumulator legs 1.50.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Registration and Login</h2>\n<p>Signing up at Longfu88 takes five numbered stages and needs an e-mail, a password, the legal name, the date of birth and a residential address:</p>\n<ol>\n<li>Press Register on the front page of the site.</li>\n<li>Type in an e-mail and choose a password.</li>\n<li>Agree to the Terms and Conditions, then to the Privacy Policy, and state that the age requirement is met.</li>\n<li>Supply more personal details, among them the address of residence.</li>\n<li>Choose Create Account, then confirm the e-mail if the site asks for it.</li>\n</ol>\n<p>The <a href=\"/login\">Longfu88 login</a> works with the same e-mail and password: select Login, type the credentials from sign-up and clear the security check when it is shown. Forgot Password, found at sign-in, is the remedy for a lost password, since a link then arrives at the registered e-mail and its instructions set a fresh password. Each player may hold only one personal account, so a second registration is not allowed.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Verification Before the First Withdrawal</h3>\n<p>Verification is asked for before the money is released, and the usual trigger is a withdrawal request. Account reviews, unusual or high-value transactions and changes to account or payment details can start it too. These documents are accepted:</p>\n<ul>\n<li>Identity: a passport, national identity card or driving licence.</li>\n<li>Address: a utility bill or bank statement.</li>\n<li>Payment method: a document tying the player to the bank account, card or e-wallet in use.</li>\n<li>Source of funds: proof of income or bank statements, when requested.</li>\n</ul>\n<p>Files must reach the operator 30 days after the request at the latest, and review of a complete document set ends with a verdict in a maximum of 10 days. Payouts can wait for the checks. If they fail, transactions can be refused, accounts restricted or withdrawals withheld.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Deposit Methods, Limits and Speed</h2>\n<p>Deposits reach the balance after 1-2 minutes at most, whichever Longfu88 method type is used.</p>\n<table>\n<tr>\n<td>Method type</td>\n<td>Examples</td>\n<td>Currencies</td>\n</tr>\n<tr>\n<td>Cryptocurrencies</td>\n<td>Ethereum, Bitcoin, Litecoin, USDC, USDT (BEP20, TRC20, ERC20)</td>\n<td>USDT, USDC, BTC, ETH, LTC</td>\n</tr>\n<tr>\n<td>Cards</td>\n<td>Mastercard, Visa</td>\n<td>MYR, VND, IDR, SGD</td>\n</tr>\n<tr>\n<td>Bank transfer</td>\n<td>Bank Transfer, Online Banking</td>\n<td>IDR, MYR, VND</td>\n</tr>\n<tr>\n<td>E-wallets</td>\n<td>Skrill and Neteller</td>\n<td>EUR</td>\n</tr>\n<tr>\n<td>European methods</td>\n<td>Sofort, Giropay</td>\n<td>EUR</td>\n</tr>\n<tr>\n<td>Local banks and wallets</td>\n<td>Local banks, QR payments and regional e-wallets</td>\n<td>SGD, MYR, IDR, THB, VND</td>\n</tr>\n</table>\n<p>For Singapore, the options are PayNow, PayNow QR, OCBC Bank and DBS Bank, all in SGD. Each method shares a €10 minimum and a ceiling of €5,000 per transaction, though limits can differ by country, currency and method. Top-ups carry no processing fee from the casino, but third-party providers or blockchain networks may charge their own. Skrill or Neteller deposits are not accepted for the welcome bonus. A deposit takes six steps: sign in, open the cashier and select Deposit, select a method plus its currency or blockchain network, enter the sum together with the payment information, and confirm following the provider's directions.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Withdrawals: Steps, Timing and Fees</h3>\n<p>At Longfu88, a payout request is processed within at most 3 business days, and the route has six numbered stages:</p>\n<ol>\n<li>Reach the cashier section once signed in.</li>\n<li>Select Withdrawal and a supported destination.</li>\n<li>Type the amount and identify the recipient.</li>\n<li>Send the request once the details look right.</li>\n<li>Complete ID or payment-method checks if they are requested.</li>\n<li>Wait for casino, bank or network settlement.</li>\n</ol>\n<p>Options include Visa, Mastercard, USDT (three networks), Bitcoin, Ethereum, Litecoin, Online Banking, DBS Bank, Bank Transfer and local wallets, with limits from €20 to €5,000. Cards, wallets and crypto addresses take 1-3 business days, whereas Bank Transfer stretches the wait by 3-5 more business days until the funds are delivered. There is no standard casino withdrawal fee, though provider and blockchain charges may apply. A 10% commission with a €2.25 floor may be due when a deposit was only partly turned over, and 15% may hit selected card or bank-funded payments. Verification may hold up a payout.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Casino Lobby and Game Types</h2>\n<p>At Longfu 88 Casino, nine categories sit side by side in the lobby, which lets a visitor go straight to a preferred format. As an online casino, Longfu88 carries crash and instant games, fast games, P2P, fishing, lottery, live dealer and table games, and jackpots and slots. Slots and jackpots lead the list, live dealer rooms and table games suit players who like a structured round, and the remaining categories add quicker or less usual formats. The next sections look at slots, the live dealer area and the smaller categories one by one.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Slots with Their RTP</h3>\n<p>Slot fans compare games by their statistics, and three titles illustrate the range. Gates of Olympus, from Pragmatic Play, carries 96.50% RTP alongside a 5,000x ceiling, with high volatility. Pragmatic Play also supplies Sweet Bonanza, where RTP is 96.48%, volatility is high and the top multiplier reaches 21,175x. Hacksaw Gaming is the provider of Wanted Dead or a Wild, which combines 96.38% RTP and very high volatility with a 12,500x maximum. RTP states what portion of wagered money a slot is built to return over many thousands of spins, while volatility indicates whether wins come often and small or seldom and large. The trio is a sample of the lobby, not the full catalogue.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Live Dealer Section</h3>\n<p>Live dealer games make up one category of the lobby, aimed at players who prefer a human host to a random number generator and want to see a round played out in real time. Within that area sits the exclusive title Longfu88 Baccarat, which belongs to the live and table game group and follows the familiar baccarat gameplay. The live casino also relies on live studios including Evolution and SA Gaming, since both appear on the provider list. No particular live games or shows are attributed to either studio, so the exact choice of tables, limits and schedules should be confirmed inside the lobby itself.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Fishing, P2P, Fast Games and Lottery</h3>\n<p>Crash and instant games run as short rounds: a player either chooses when to cash out a rising multiplier or sees an immediate result. Fast games keep the same brisk pace, with simple rules and results within moments. A lottery is a draw format in which numbers are selected and the outcome follows the draw. Table games carry classic card and wheel formats, contested against the house. Fishing games work as an arcade-style shooter, where the targets are moving creatures on the screen. P2P games are contested against other players instead. Together they show how the online casino adds extra formats beyond slots.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Software Providers</h2>\n<p>Game providers deliver the slot, live and table content of the casino, and the roster behind Longfu 88 mixes several well-known studios. Betsoft, Evolution, Yggdrasil and Hacksaw Gaming are part of it, together with Skywind, Big Time Gaming and NetEnt. SA Gaming, Red Tiger and Pragmatic Play complete the group. Readers who follow one particular developer can look for its titles in the lobby, and the earlier slot examples already show where Hacksaw Gaming and Pragmatic Play fit in. Live tables, covered above, come from studios on the same roster.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "See the Offer",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Mobile Access on Android and iOS</h2>\n<p>Many visits begin on a handset, so the site is built as a responsive page, usable in smartphone and tablet browsers across Android, iOS and the mobile web. What players call the <a href=\"/app\">Longfu88 app</a> is the saved home-screen version of that site: a shortcut that opens the casino and the sportsbook directly on the phone. Bonuses, deposits, withdrawals and account access keep working there as they do on a desktop. On Android, the shortcut comes together in three short steps:</p>\n<ol>\n<li>Open Longfu88 in Chrome.</li>\n<li>Through the browser menu, select Add to Home screen.</li>\n<li>Approve the shortcut when prompted.</li>\n</ol>\n<p>The same result on iPhone and iPad takes three steps as well:</p>\n<ol>\n<li>Open Longfu88 in Safari.</li>\n<li>Tap Share, then pick Add to Home Screen.</li>\n<li>Confirm with Add.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Operator, Licence and Who May Play</h2>\n<p>Launched in 2026, the online casino keeps player accounts in six currencies: USDT, MYR, THB, USD, EUR and SGD. A visitor who wants to steer clear of lookalike pages can start from the address labelled Longfu 88 Official Site. Eligibility rests on a few conditions: the player is 18 or above, is lawfully allowed to gamble in the country of residence, registers with accurate information, keeps a maximum of one personal account and pays without any third-party payment method.</p>\n<p>For anyone checking credibility, the licence comes first. The licence behind casino Longfu88 lists the operator Lumina, the jurisdiction Costa Rica and registration number 000-039123-R-319326-001, so it belongs to the same operator that runs the platform. Lumina is the data controller as well, and the officer responsible for data protection answers at dpo@longfu88.com. Personal information, payments and player accounts are shielded through technical and organisational measures.</p>\n<p>Data can reach payment service providers, identity verification providers and technology providers, as well as regulators and law enforcement bodies when the law requires it. Players hold the rights of access, rectification, restriction and objection, along with withdrawal of consent, portability where applicable and erasure where legally permitted. Credentials stay in the hands of the account holder, who is responsible for protecting them, while suspicion of abuse or a need for verification entitles the operator to suspend activity.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Responsible Gambling and Self-Exclusion</h2>\n<p>Gambling here is meant for adults: anyone under 18 is excluded, and play is limited to places where it is lawful. A player who feels control slipping can use self-exclusion, which starts with an e-mail to the support staff. Restrictions on logging in and on gambling may apply for the agreed period, beginning inside 24 hours of the request being handled. Closing an account likewise goes through customer support and follows four steps: the player makes contact, verifies the account data together with the exclusion terms wanted, the casino limits or closes access once that is allowed, and independent help is sought where appropriate. Self-assessment questions make possible gambling-related harm easier to recognise. Outside support is available from organisations such as the ones below, and nothing on this page takes the place of independent assistance:</p>\n<ul>\n<li>GamCare</li>\n<li>Gamblers Anonymous</li>\n<li>Gambling Therapy</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Join Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Customer Support</h2>\n<p>A player with a stuck withdrawal or an unclear bonus condition wants to know who answers and when. Customer support offers two channels. Live chat is open at all hours, 24/7, and suits questions that need a reply during the session. Longer messages with details to describe can be written to the address support@longfu88.com. Staff talk to players in six languages: Indonesian, Simplified Chinese, Malay, Vietnamese, Thai and English. No other contact routes are listed, so both channels also handle payments, verification, self-exclusion and account closure.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pros and Cons</h2>\n<p>Each advantage should be read against its terms.</p>\n<table>\n<tr>\n<td>Pros</td>\n<td>Cons</td>\n</tr>\n<tr>\n<td>Weekly cashback up to 10%</td>\n<td>Verification may delay the first payout</td>\n</tr>\n<tr>\n<td>25 VIP levels and 24/7 live chat</td>\n<td>A €50 deposit starts the welcome bonus, with 25x turnover of the combined sum</td>\n</tr>\n<tr>\n<td>Minimum deposit from €10</td>\n<td>Bank payouts may need several business days</td>\n</tr>\n<tr>\n<td>Many payment methods, crypto included</td>\n<td>Withdrawals may carry a 10% or 15% charge when turnover rules apply</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Bottom Line on the Offer</h2>\n<p>Longfu88 Casino fits a player who wants live dealer tables, a sportsbook and casino titles on one account, with deposits made locally or in crypto. Prior to a first deposit at Longfu88, that player should look at the terms of bonuses and the payment limits: the €50 qualifying deposit with 25x wagering, verification, and the turnover rule on withdrawals. With Longfu, as with any casino, the terms matter more than headline numbers, so each offer deserves a full read. Play is for adults only, with 18 as the minimum age, and income should never be expected from gambling. Chasing losses is a mistake, while a fixed budget and regular breaks help keep play under control.</p>"
+  },
+  {
+   "__component": "blocks.reviews-2",
+   "title": "What Players Say",
+   "reviews": [
+    {
+     "username": "Marcus Lee",
+     "review": "Filtering by provider narrows the lobby down fast, and I spotted the studios I follow without endless scrolling.",
+     "date": "2026-10-22",
+     "avatar": 3856,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Zhi Hao",
+     "review": "Placing a football accumulator is straightforward, since the betting slip keeps each selection and its odds in plain columns.",
+     "date": "2026-10-19",
+     "avatar": 3855,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Nurul Huda",
+     "review": "The agent who helped me with my account was courteous and got straight to the point, which is exactly what I need.",
+     "date": "2026-10-19",
+     "avatar": 3854,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Arjun",
+     "review": "After logging in, the promotions hub shows what is waiting for me, so I never have to hunt through menus.",
+     "date": "2026-10-16",
+     "avatar": 3858,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Ethan Wong",
+     "review": "My card top-up cleared smoothly, and the cashier flagged the limits before I pressed the final button.",
+     "date": "2026-10-14",
+     "avatar": 3862,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Priya",
+     "review": "Switching from desktop to phone felt seamless, with the same lobby, wallet and login waiting for me.",
+     "date": "2026-10-13",
+     "avatar": 3860,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Questions About Bonuses and Payouts",
+   "faqs": [
+    {
+     "question": "How is the Casino Welcome Bonus claimed, and is a Longfu88 promo code needed?",
+     "answer": "A first deposit of €50 qualifies. After it arrives, the player activates the bonus under My Bonuses ahead of any wagering, and the procedure has no code stage."
+    },
+    {
+     "question": "What are the wagering terms attached to the welcome bonus?",
+     "answer": "Free spins winnings need 40x wagering, whereas the deposit and bonus combined need 25x. Validity runs 10 days from activation, and a single spin may not exceed €22.5."
+    },
+    {
+     "question": "How does the Casino Weekly Cashback work for a player?",
+     "answer": "Cashback can reach 10% of net casino losses over a week, up to €6,988. After an opt-in, every Monday brings a credit in My Bonuses, which the player then activates."
+    },
+    {
+     "question": "How do VIP levels open for a regular player?",
+     "answer": "Real-money play on eligible games earns VIP points. Collecting them opens 25 numbered levels in the Longfu88 VIP Program, and climbing raises cashback together with the amount that can be withdrawn."
+    },
+    {
+     "question": "Which Lngfu88 withdrawal time applies to each payout method?",
+     "answer": "Wallets, crypto addresses and cards clear in 1 to 3 working days, but bank transfers add up to 3 days of casino processing plus 3 to 5 business days at the bank."
+    },
+    {
+     "question": "Which fees apply when money is withdrawn?",
+     "answer": "Standard withdrawals cost nothing at the casino, though provider or blockchain fees may apply. Low turnover may trigger 10% (minimum €2.25), and 15% may be charged on some payments funded by card or bank."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "Access is for players 18+ only. Promotions carry conditions, so check them before opting in. Keep play within your limits.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Offer",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

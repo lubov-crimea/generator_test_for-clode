@@ -1,0 +1,15 @@
+=== b06 ===
+Pilih metode setoran dari enam kelompok berikut, yang semuanya memakai batas umum yang sama.
+
+| Jenis metode | Contoh | Mata uang |
+|---|---|---|
+| Bank dan dompet lokal | QRIS, DANA, OVO Wallet, Mandiri, BNI, BCA | IDR |
+| Kartu | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Transfer bank | Bank Transfer | IDR, MYR, VND |
+| Kripto | Bitcoin, Ethereum, Litecoin, USDC, dan USDT di jaringan TRC20, ERC20, serta BEP20 | BTC, ETH, LTC, USDT, USDC |
+| Dompet elektronik | Neteller, Skrill | EUR |
+| Metode Eropa | Sofort, Giropay | EUR |
+
+Setoran minimum €10 dan maksimum €5.000 per transaksi, dengan dana masuk dalam 1-2 menit. Kasino tidak memungut biaya pemrosesan, tetapi biaya penyedia pembayaran atau jaringan blockchain mungkin berlaku. Batas dapat berbeda menurut negara, mata uang, dan metode. Setoran Neteller dan Skrill tidak berlaku untuk bonus selamat datang.
+
+Alurnya enam langkah: masuk ke akun Longfu88, buka kasir dan pilih Setoran, lalu pilih metode beserta mata uang atau jaringan blockchain yang didukung. Isi jumlah dan data pembayaran, konfirmasi transaksi sesuai petunjuk penyedia, dan tunggu dana masuk ke saldo yang bisa dimainkan.

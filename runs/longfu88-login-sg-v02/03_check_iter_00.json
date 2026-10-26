@@ -1,0 +1,69 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 798,
+    "max_body_words": 1013,
+    "target_body_words": 790,
+    "keywords_total": {
+      "Longfu88": 8,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 8,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b03": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b04": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b05": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b06": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ],
+    "b07": [
+      {
+        "check": "format",
+        "problem": "section marker left in the text",
+        "fix": "Remove the section marker line (=== bNN ===) from the text of this block; output the body text only."
+      }
+    ]
+  },
+  "missing_data": []
+}

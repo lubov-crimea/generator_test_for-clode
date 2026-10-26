@@ -1,0 +1,258 @@
+{
+  "id": "v07",
+  "name": "Terms, verification and responsible use",
+  "tier": "medium",
+  "angle": "A cautious player who wants to know the rules before accepting an offer.",
+  "skipped_clusters": [
+    {
+      "id": "k06",
+      "reason": "free spins are covered inside the reload and seasonal sections"
+    },
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Terms-led brand-subpage about the Longfu88 bonuses in Malaysia for a cautious reader: the offer families, the welcome bonus and its claiming steps, the wagering and the rules that can cost a bonus, verification before bonus winnings, the reload and seasonal offers, the cashback and the responsible use of bonuses. Page voice: sober and exact, every claim tied to a stated term, sentences of about 18 words, no reassurance beyond the facts; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Bonus Terms to Check Before You Claim",
+      "words": 65,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1,
+        "Longfu88 promotions": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promotions\" is used it stands in the sentence that signposts the topics."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "The Offers and Their Rules at a Glance",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "The Welcome Offer",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Claiming Without Losing Eligibility",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 promo code": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promo code\" is used it stands in the closing sentence, which says that the Brand Information lists no promo code and that the activation happens in My Bonuses."
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Welcome Bonus Terms and Wagering",
+      "words": 110,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Verification Before Bonus Winnings",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Verification can be required before promotional winnings are paid; the documents, the 30-day submission window and the review time of up to 10 days.",
+      "entities": [
+        [
+          "Account Verification",
+          10
+        ],
+        [
+          "Promotional Winnings",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Account Verification",
+          "can precede",
+          "the payment of promotional winnings",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_account.verification.documents",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_account.verification.typical_review_time"
+      ],
+      "notes": "Say first that account verification may be required before promotional winnings are paid and that a withdrawal request before claiming a bonus or while it is active can void the promotional eligibility. Then the documents of the Brand Information as a short bulleted list (government-issued photo ID or passport; proof of residential address; proof of ownership of a payment method; source of funds or wealth documents when requested), then one sentence with the submission window (up to 30 days when requested) and the review time (up to 10 days after a complete document set is received). No other documents, no promise of speed. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Reload Offers and Their Conditions",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Seasonal and Limited-Time Campaigns",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "Two limited campaigns: the Trick or Treat Pumpkin Bonanza with up to 100 Free Spins and the Dragon Quest verification reward of a €10 bonus credit.",
+      "entities": [
+        [
+          "Seasonal Promotions",
+          10
+        ],
+        [
+          "Account Verification",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Casino Dragon Quest",
+          "rewards",
+          "players who complete the requested account verification",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].reward",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[8].name",
+        "brandinfo_promotions.other_bonuses[8].reward",
+        "brandinfo_promotions.other_bonuses[8].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[8].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[7].validity",
+        "brandinfo_promotions.other_bonuses[8].eligibility",
+        "brandinfo_promotions.other_bonuses[8].important_terms[2]"
+      ],
+      "notes": "Say first that campaigns come and go, so the list may change: the player checks the promotions page of the casino. Then the two campaigns of the Brand Information: the Casino Trick or Treat Pumpkin Bonanza (up to 100 Free Spins, minimum deposit €20, wagering 40x Free Spins winnings, valid 7 days) and the Casino Dragon Quest: Get Verified and Get Extra! (a €10 bonus credit for players who complete the requested account verification during the campaign, minimum deposit €20, wagering 30x the promotional credit, valid 7 days). Both carry the €5 per spin maximum stake while wagering bonus funds and cannot be combined with another active casino bonus. Do not claim that either campaign is running now. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k06"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Cashback Conditions",
+      "words": 95,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Using Bonuses Responsibly",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "Bonuses are for players of 18 or over who gamble where it is lawful; read the terms first, use the self-assessment questions and the support organisations of the casino.",
+      "entities": [
+        [
+          "Responsible Gambling",
+          10
+        ],
+        [
+          "Minimum Age",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Bonus Terms",
+          "should be read",
+          "before the player accepts an offer",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_general.minimum_age",
+        "brandinfo_responsible_gaming.responsible_gaming.policy",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment",
+        "brandinfo_responsible_gaming.responsible_gaming.support_organizations",
+        "brandinfo_welcome.welcome_bonus.important_terms[4]"
+      ],
+      "notes": "Say that the bonuses are for players aged 18 or over who gamble only where it is lawful, and that the terms of an offer (wagering, maximum bet, validity) should be read before accepting it. Cancelling the promotion forfeits bonus funds and unconverted promotional winnings (state it as a fact). Then one sentence on the self-assessment questions that help players identify possible gambling-related harm and one that names the support organisations (GamCare, Gamblers Anonymous, Gambling Therapy). No advice to chase losses, no promise. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Malaysia, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers and Terms: Frequently Asked Questions",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "6 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what happens if a withdrawal is requested before claiming or while a bonus is active (the promotional eligibility can be voided); (2) whether verification can be required for bonus winnings (yes, before the promotional winnings are paid); (3) which payment methods are excluded from the welcome bonus (Neteller and Skrill); (4) how many promotional bonuses can be active at once (one); (5) what the minimum age is (18); (6) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_general.minimum_age"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_promotions.other_bonuses[9].opt_in"
+      ]
+    }
+  ]
+}

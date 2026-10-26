@@ -1,0 +1,24 @@
+Every bet starts with a deposit, and one set of limits covers all methods: a minimum of €10 and a maximum of €5,000 per transaction.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore methods | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Local bank and wallet methods | QRIS, DANA, OVO Wallet, Touch'n Go, DuitNow, PromptPay QR, MoMo | IDR, MYR, THB, VND |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Deposits are credited within 1-2 minutes and carry no casino processing fee, while provider or blockchain network fees may apply. Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus. The route is short: open the cashier, select Deposit, choose a method with its currency or network, enter the details, authorise the payment and wait for the balance to update.
+
+Withdrawals go through bank transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT on three networks, Touch'n Go, DANA, MoMo, DBS Bank or Online Banking, from a minimum of €20 to a maximum of €5,000:
+
+1. Log in to Longfu88 and open the cashier.
+2. Select Withdrawal and choose a supported destination or payment method.
+3. Enter the amount and the receiving bank, wallet, or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Review the request and confirm submission.
+6. Wait for casino processing and any bank or network settlement before receiving funds.
+
+The Lngfu88 withdrawal time is 1 to 3 business days for card, crypto and wallet payouts, while a bank transfer takes up to 3 business days of casino processing plus 3 to 5 business days for bank delivery. No standard withdrawal fee applies, but provider and blockchain fees may. A minimum 1x deposit turnover can apply before a withdrawal: where turnover is below the deposited amount, a 10% commission (minimum €2.25) may be charged, and some card or bank transfer funded transactions can carry 15%. Identity checks can also delay a payout.

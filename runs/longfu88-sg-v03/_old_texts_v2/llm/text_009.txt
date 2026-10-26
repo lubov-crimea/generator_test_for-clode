@@ -1,0 +1,36 @@
+=== b14 ===
+Longfu88 keeps recurring offers running after the welcome bonus: weekly and weekend reloads, a one-day special, a seasonal promotion and a verification reward.
+
+| Offer | Reward | Min. deposit | Wagering | Validity |
+|---|---|---|---|---|
+| Casino Weekly Reload | 50 Free Spins | €30 | 40x Free Spins winnings | 7 days |
+| Casino Weekly Crypto Reload | 60% up to 1,000 USDT | 20 USDT | 30x deposit + bonus | 7 days |
+| Casino Weekend Reload | Up to €3,360 + 50 Free Spins | €50 | 30x deposit + bonus, 40x Free Spins winnings | 7 days |
+| Casino Weekend Crypto Reload | 75% up to 750 USDT + 100 Free Spins | 20 USDT | 30x deposit + bonus, 40x Free Spins winnings | 7 days |
+| Casino Double Fortune: One-Day Reload Special | 50% up to €500 | €30 | 30x deposit + bonus | 24 hours |
+| Casino Trick or Treat Pumpkin Bonanza | Up to 100 Free Spins | €20 | 40x Free Spins winnings | 7 days |
+| Casino Dragon Quest | €10 bonus credit | €20 | 30x promotional credit | 7 days |
+
+All seven are activated in My Bonuses, can be claimed once per promotional period and cannot be combined with another active casino bonus, and the maximum stake while wagering bonus funds is €5 per spin.
+
+=== b15 ===
+The Casino Weekly Cashback returns up to 10% of weekly net casino losses, capped at €6,988, for the period from Monday 00:00 UTC to Sunday 23:59 UTC. Players opt in for a four-week cycle, the cashback reaches My Bonuses on Monday with 10x wagering, and only real-money bets count. The rate depends on the VIP tier:
+
+| VIP tier | Cashback | Maximum |
+|---|---|---|
+| Bronze | 2% | €1,888 |
+| Silver | 4% | €2,388 |
+| Gold | 6% | €2,988 |
+| Platinum | 8% | €3,988 |
+| Diamond | 10% | €6,988 |
+
+The Live Casino Cashback gives 25% up to €850. Four Unlimited Rebates are credited daily with 1x wagering: casino 0.9%, live casino 1.0%, P2P 0.8% and lottery 1.0%.
+
+=== b16 ===
+The Rewards area adds game-like features, and each reward can carry its own wagering requirement.
+
+- **Bonus Crab:** claim picks to open a crab reward, valid 7 days, 30x on bonus credit and 40x on Free Spins winnings.
+- **Wheel of Fortune:** spend an eligible spin or Coins, valid 7 days, 30x wagering.
+- **Challenges:** qualifying tasks under Rewards unlock Coins, Free Spins and bonus credits.
+- **Collections:** collect campaign items under Rewards and redeem completed sets.
+- **Coin Shop:** Coins are exchanged for rewards and bonus credits up to €4,500, with prices varying by item and separate wagering possible.

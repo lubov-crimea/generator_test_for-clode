@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Android",
+    "competitors": 5,
+    "count": 18
+  },
+  {
+    "entity": "APK",
+    "competitors": 4,
+    "count": 7
+  },
+  {
+    "entity": "Malaysia",
+    "competitors": 4,
+    "count": 4
+  },
+  {
+    "entity": "Touch",
+    "competitors": 3,
+    "count": 8
+  },
+  {
+    "entity": "GrabPay",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "App Store",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "OS 13",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "FPX",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "Safari",
+    "competitors": 2,
+    "count": 12
+  },
+  {
+    "entity": "Wi-Fi",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Phone",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Face ID",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Boost",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Pad",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Allow",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Android 8",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Android 10",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Phone 8",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Settings",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "TLS",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Play Store",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Chrome",
+    "competitors": 1,
+    "count": 11
+  },
+  {
+    "entity": "Add",
+    "competitors": 1,
+    "count": 6
+  },
+  {
+    "entity": "OS 16",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "App",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Live Football Odds",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "IPA",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Mobile",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Casino",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Can I",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Long Fu88",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Android 12",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Phone 13",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Home Screen’",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Share",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "PG Soft",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Bonus Buy",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "DuitNow QR",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Low Quality’",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Malaysian",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Home Screen",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Apple",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Baccarat",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Great Icescape",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Crash",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Untuk Android",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sekurang-kurangnya 3GB",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sediakan 150MB",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Fail Android",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Boxing Betting",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Login Biometrik",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Notifikasi Betul",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Masa",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mod Gelap",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Pratonton Lobby Luar Talian",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Deposit Cepat Dalam Aplikasi",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Penarikan Terus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Dompet",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sambungan Internet",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Wilayah Disokong",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sembang Sokongan Dalam Aplikasi",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "E-mel Sokongan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Panduan Pemasangan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "FAQ",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Penandatanganan Kod Swasta",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Tiada Kedai Pihak Ketiga",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Enkripsi Data Pengguna",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Pengesahan Dua Lapisan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Pemulihan Akaun Jika Terlupa Kata Laluan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Perlindungan Permintaan Penarikan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Wallet",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Super Sic Bo",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Dog House Megaways",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Muat Turun APK",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Benarkan Pemasangan",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sumber Tidak Diketahui",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Android Sahaja",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Daftar",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Android 6",
+    "competitors": 1,
+    "count": 1
+  }
+]

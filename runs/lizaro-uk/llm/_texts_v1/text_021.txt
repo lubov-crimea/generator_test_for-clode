@@ -1,0 +1,8 @@
+Withdrawals at Lizaro use cryptocurrency methods, with limits of €10 - €5,000 for most of them. The lowest minimum is €10, Bitcoin starts at €60 and Ripple at €30. Every request goes through the cashier, and the chosen method sets the limits. Payouts through crypto methods are listed as fast, though no fixed processing time is given, and the operator may request verification before it processes a withdrawal.
+
+1. Open the Payments or Cashier section.
+2. Choose an available withdrawal method.
+3. Enter the withdrawal amount.
+4. Submit the withdrawal request.
+5. Complete verification if requested.
+6. Wait for processing according to the selected method and account status.

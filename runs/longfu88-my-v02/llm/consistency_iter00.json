@@ -1,0 +1,4 @@
+{"issues": [
+ {"block_id": "b13", "problem": "The lead-in says the choice of method 'depends mostly on the currency', which is an opinion not supported by the block's Brand Information.", "fix": "Replace the claim with a neutral statement, for example that the methods differ in the currencies they accept, keeping the 1-2 minutes, the EUR 10 minimum and the EUR 5,000 maximum."},
+ {"block_id": "b21", "problem": "The first sentence nearly repeats the age sentence of the introduction (b01): 'players must be at least 18 years old and may gamble only where it is lawful'.", "fix": "Reword the opening so it does not repeat the b01 sentence or its start, while keeping the 18+ and lawful-gambling facts."}
+], "missing_data": []}

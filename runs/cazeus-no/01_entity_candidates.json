@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Bitcoin",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "NetEnt",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Red Tiger",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "PAGCOR",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Revolut",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "NOK",
+    "competitors": 1,
+    "count": 30
+  },
+  {
+    "entity": "Norway",
+    "competitors": 1,
+    "count": 10
+  },
+  {
+    "entity": "Liernin Enterprises",
+    "competitors": 1,
+    "count": 6
+  },
+  {
+    "entity": "Liernin Enterprises Limited",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "Welcome",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Visa",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Within 1",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "VIP-programmet",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Les",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Rabidi",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Filippinene",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Liernin",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Join",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Evolution",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "VIP",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Payout",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Chat",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Casino",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "VIP-nivået",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MiFinity",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Rabidi N",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Curacao",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "User Reviews",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Updated 20",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Payment Methods",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "GambleAware",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Approx 3",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ygrdrassil",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Megaways",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Treasure Island",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gonzo’s Treasure Hunt",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Pragmatic Live",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "This 100",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Processing Time",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Rapidi N",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Philippine Amusement",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gaming Corporation",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "SSL",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Licensing",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Minimum",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Payment",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Table",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Number",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Software",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Approx 96",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Maximum",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Customer",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Top",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "NETELLER",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "PaysafeCard",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Skrill",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Credit Card",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Debit Card",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Review Author",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "VIP-program",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Liernin Enterprises LTD",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Play'n GO",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Red Tiger Gaming",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Begrenset VIP-program",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casinospesialisten",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Spill",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Logg",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Kom",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Aktøren",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Kun 1x",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Her",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Drops",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Wins",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "JA Stigende",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "JA Score",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Type",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Bordspill",
+    "competitors": 1,
+    "count": 1
+  }
+]

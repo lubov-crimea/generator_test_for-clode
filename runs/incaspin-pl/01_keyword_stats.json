@@ -1,0 +1,179 @@
+{
+  "competitors": [
+    {
+      "url": "https://incaspins.net.pl/",
+      "word_count": 2192,
+      "body_words": 2027,
+      "body": {
+        "Incaspin": 28,
+        "Inca Spin": 0,
+        "Incaspin casino": 9
+      },
+      "headings_by_level": {
+        "1": {
+          "Incaspin": 1,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "2": {
+          "Incaspin": 4,
+          "Inca Spin": 0,
+          "Incaspin casino": 2
+        },
+        "3": {
+          "Incaspin": 9,
+          "Inca Spin": 0,
+          "Incaspin casino": 3
+        },
+        "4": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "5": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "6": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        }
+      },
+      "headings_total": {
+        "Incaspin": 14,
+        "Inca Spin": 0,
+        "Incaspin casino": 5
+      },
+      "total": {
+        "Incaspin": 42,
+        "Inca Spin": 0,
+        "Incaspin casino": 14
+      }
+    },
+    {
+      "url": "https://incaspins.pl/",
+      "word_count": 3298,
+      "body_words": 3139,
+      "body": {
+        "Incaspin": 45,
+        "Inca Spin": 0,
+        "Incaspin casino": 13
+      },
+      "headings_by_level": {
+        "1": {
+          "Incaspin": 1,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "2": {
+          "Incaspin": 5,
+          "Inca Spin": 0,
+          "Incaspin casino": 1
+        },
+        "3": {
+          "Incaspin": 9,
+          "Inca Spin": 0,
+          "Incaspin casino": 3
+        },
+        "4": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "5": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "6": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        }
+      },
+      "headings_total": {
+        "Incaspin": 15,
+        "Inca Spin": 0,
+        "Incaspin casino": 4
+      },
+      "total": {
+        "Incaspin": 60,
+        "Inca Spin": 0,
+        "Incaspin casino": 17
+      }
+    },
+    {
+      "url": "https://incaspinz.com/",
+      "word_count": 2399,
+      "body_words": 2267,
+      "body": {
+        "Incaspin": 9,
+        "Inca Spin": 11,
+        "Incaspin casino": 6
+      },
+      "headings_by_level": {
+        "1": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 1
+        },
+        "2": {
+          "Incaspin": 1,
+          "Inca Spin": 1,
+          "Incaspin casino": 1
+        },
+        "3": {
+          "Incaspin": 1,
+          "Inca Spin": 4,
+          "Incaspin casino": 3
+        },
+        "4": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "5": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        },
+        "6": {
+          "Incaspin": 0,
+          "Inca Spin": 0,
+          "Incaspin casino": 0
+        }
+      },
+      "headings_total": {
+        "Incaspin": 2,
+        "Inca Spin": 5,
+        "Incaspin casino": 5
+      },
+      "total": {
+        "Incaspin": 11,
+        "Inca Spin": 16,
+        "Incaspin casino": 11
+      }
+    }
+  ],
+  "aggregate": {
+    "competitors_ok": 3,
+    "median_body_words": 2267,
+    "median_total": {
+      "Incaspin": 42,
+      "Inca Spin": 0,
+      "Incaspin casino": 14
+    },
+    "median_headings_total": {
+      "Incaspin": 14,
+      "Inca Spin": 0,
+      "Incaspin casino": 5
+    },
+    "median_h1": {
+      "Incaspin": 1,
+      "Inca Spin": 0,
+      "Incaspin casino": 0
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Longfu88 asks for documents in four cases only. The first is an account review, the second a withdrawal that is about to happen, the third transactions that stand out as unusual or as high value, and the fourth an edit to account or payment details. Registration and login are not held up by this step. Each purpose has its own accepted documents:
+
+| Check | What counts |
+|---|---|
+| Who the player is | Passport, national ID card, driving licence |
+| Where the player lives | Utility bill, bank statement |
+| Who owns the payment method | Proof that the player is the holder of the card, the bank account or the digital wallet |
+| Source of the funds | Proof of income, bank statements, other supporting financial documents |
+
+The final row matters only when that proof is requested. Review of a full set usually takes up to 10 days, and the set itself is due within a window of up to 30 days from the request. A player who sends all of it together leaves the review with nothing to wait on.

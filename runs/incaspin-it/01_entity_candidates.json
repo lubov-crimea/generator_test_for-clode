@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "VIP",
+    "competitors": 2,
+    "count": 13
+  },
+  {
+    "entity": "Neteller",
+    "competitors": 2,
+    "count": 9
+  },
+  {
+    "entity": "Skrill",
+    "competitors": 2,
+    "count": 8
+  },
+  {
+    "entity": "KYC",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Android",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Telefono Verde Nazionale",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "In Italia",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Registrati",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "UK Gambling Commission",
+    "competitors": 1,
+    "count": 7
+  },
+  {
+    "entity": "UKGC",
+    "competitors": 1,
+    "count": 7
+  },
+  {
+    "entity": "Diamond",
+    "competitors": 1,
+    "count": 6
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "USDT",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "SSL",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Silver",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Gold",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Platinum",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Bitcoin",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "NetEnt",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Play'n GO",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Evolution Gaming",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Red Tiger",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Big Time Gaming",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "PaySafeCard",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Microgaming",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Chilli Heat",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Megaways",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Visa",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Casino",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Programma VIP",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Bonus",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Mobile",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Yggdrasil",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "AML",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Bronze",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Registrati'",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "GBP",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "SERD",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Dipendenze",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Club VIP",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Snoop Dogg Dollars",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Fruit Million",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Panda",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Bass",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Elephants Gold",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Golden Joker 100",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gold Rush",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Big Catch Bonanza",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Chests",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Magic Mummy",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ricevi 250",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sweet Rush Bonanza",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Age Of The Dogs A1",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Fire Stampede 2",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Wrappin Gold",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Club Tropicana",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Legacy Of Dead",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Jokers Jewels Hold N Spin",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Book Of Dead Go Collect",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Oink Oink Oink Astrosnouts",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Dog House",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Big Bass Day At The Races",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Lions Megaways 2",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Big Bass Splash",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Big Bass Xmas Extreme",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Fire Joker 100",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Jokers Jewels Wild",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Lions Megaways",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Rolling In Treasures",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Inca",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gioco",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Azzardo",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "I Giochi",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Slot",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Giochi",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Tavolo",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Video Poker",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Jackpot",
+    "competitors": 1,
+    "count": 1
+  }
+]

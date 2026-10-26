@@ -1,0 +1,42 @@
+{
+  "website_id": 5407,
+  "locale": "it",
+  "slug": "index",
+  "seo": {
+    "title": "Incaspin Casino: bonus fino a 2.750 € + 275 giri gratis",
+    "description": "Incaspin Casino per i giocatori italiani: slot, casinò live, scommesse sportive, pacchetto di benvenuto fino a 2.750 € e 275 giri gratis, assistenza 24/7."
+  },
+  "keywords": {
+    "main": "Incaspin",
+    "additional": "casinò, casinò online, slot, casinò live, scommesse sportive, registrazione, accesso, KYC, app, pagamenti, bonus, bonus di benvenuto, cashback, Italia, IT"
+  },
+  "hero": {
+    "background": 3502,
+    "label": "Pacchetto di benvenuto fino a 2.750 € + 275 giri gratis per i nuovi giocatori"
+  },
+  "preview": {
+    "title": "Bonus di Incaspin Casino",
+    "items": [
+      {"image": 5092, "title": "Pacchetto di benvenuto casinò", "text": "Fino a 2.750 € + 275 giri gratis"},
+      {"image": 5091, "title": "Primo bonus sportivo", "text": "100% fino a 100 €"},
+      {"image": 5093, "title": "Cashback settimanale", "text": "Fino al 25% delle perdite nette settimanali"},
+      {"image": 5094, "title": "Bonus Highroller", "text": "50% fino a 500 € (deposito minimo 300 €)"},
+      {"image": 5096, "title": "Ricarica della domenica", "text": "25% fino a 100 €"},
+      {"image": 5095, "title": "Programma VIP Boomerang", "text": "Ranghi, punti BP e forzieri con premi"}
+    ]
+  },
+  "reviews": {
+    "title": "Recensioni dei giocatori",
+    "items": [
+      {"username": "Luca", "review": "La registrazione è stata semplice e i passaggi erano spiegati bene. Prima di prelevare sapevo già quali documenti potevano servire.", "date": "2026-10-16", "avatar": 3856, "rating": 5},
+      {"username": "Giulia", "review": "La lobby è ordinata, slot e giochi live si trovano subito. Mi piace che le categorie siano chiare.", "date": "2026-10-17", "avatar": 3859, "rating": 5},
+      {"username": "Marco", "review": "Gioco soprattutto da telefono e la versione mobile funziona bene. Anche la cassa si usa senza problemi su uno schermo piccolo.", "date": "2026-10-18", "avatar": 3858, "rating": 4},
+      {"username": "Sara", "review": "La chat di assistenza mi ha risposto in modo preciso e mi ha indicato il regolamento del bonus. Ho letto le condizioni prima di giocare.", "date": "2026-10-19", "avatar": 3854, "rating": 4},
+      {"username": "Davide", "review": "Buona scelta di metodi di pagamento, tutto descritto in un unico posto. Vale la pena controllare le regole delle promozioni prima di depositare.", "date": "2026-10-21", "avatar": 3855, "rating": 5}
+    ]
+  },
+  "promo": {
+    "title": "Pacchetto di benvenuto Incaspin Casino",
+    "description": "Fino a 2.750 € + 275 giri gratis"
+  }
+}

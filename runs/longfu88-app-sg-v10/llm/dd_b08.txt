@@ -1,0 +1,13 @@
+The mobile website includes a sportsbook, and its coverage spans nine sports:
+
+- Basketball
+- Esports
+- Cricket
+- Tennis
+- Table tennis
+- Football
+- Virtual football
+- Volleyball
+- Badminton
+
+Single and accumulator bets sit alongside handicap, totals, outrights, live and Bet Builder wagers. Live betting adds odds that update live and markets open in-play, so a bet can still be placed once an event has started. Availability of events and markets can differ by jurisdiction.

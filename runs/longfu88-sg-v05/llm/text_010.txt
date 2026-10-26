@@ -1,0 +1,18 @@
+Sign-up collects a residential address, a legal name, a birth date, an email and a password. Only one personal account is permitted for each person, and the process runs in five numbered steps:
+
+1. Select Register after opening Longfu88.
+2. Choose a password and type in an email.
+3. Tick the age declaration, the Privacy Policy and the Terms and Conditions.
+4. Supply the rest of the personal data, including the residential address.
+5. Press Create Account and, if an email confirmation is requested, finish it.
+
+The Longfu88 login takes the registered email and password, and a security check may follow. On the login screen, Forgot Password triggers a reset link by email, and following it leads to a fresh password.
+
+Verification is separate. It can be asked for before any withdrawal, but edits to account or payment details and unusual or high-value transactions can prompt it too. Four kinds of papers are requested:
+
+- Identity: a driving licence, passport or national identity card.
+- Address: a bank statement or utility bill.
+- Payment method: bank, card or digital wallet ownership evidence.
+- Source of funds: proof of income or other financial documents.
+
+Submission stays open for up to 30 days after the request, and a full set normally gets an answer within 10 days. Withdrawals can wait while checks run, and failing them may mean refused transactions or account restrictions.

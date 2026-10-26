@@ -1,0 +1,7 @@
+- **Serve un codice promo per il bonus di benvenuto di Incaspin?** No. Il pacchetto di benvenuto si attiva da solo con i depositi previsti, mentre un codice digitato per quei bonus fa perdere il diritto a riceverli.
+- **Qual è l'età minima per giocare?** L'età minima è di 18 anni. La conferma di avere almeno 18 anni fa parte della registrazione ed è una condizione per aprire il conto.
+- **Quanto tempo richiede un prelievo su Incaspin e qual è l'importo minimo?** Dopo la richiesta passano fino a 72 ore di lavorazione interna, più i tempi del metodo di pagamento. La soglia minima oscilla tra 50 e 120 €, in base al paese o al metodo, e il prelievo presuppone che i depositi siano stati giocati almeno tre volte.
+- **Esiste un'app per il mobile?** Sì, come Progressive Web App da installare dal browser, senza passare da uno store di app.
+- **Si possono avere più account su Incaspin?** No. Ogni persona può aprire un solo conto, e lo stesso limite riguarda famiglia, indirizzo IP e dispositivo: in caso di duplicati il conto può essere sospeso o chiuso e le vincite annullate.
+- **In quali valute si può giocare?** Sono previsti sei codici di valuta: EUR, BRL, CAD e AUD tra le valute tradizionali, BTC ed ETH tra le criptovalute.
+- **Come si recupera una password dimenticata?** Dalla schermata di accesso si seleziona Password dimenticata, poi si segue la procedura di reimpostazione che arriva via e-mail.

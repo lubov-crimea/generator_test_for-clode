@@ -1,0 +1,48 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 888,
+    "max_body_words": 1175,
+    "target_body_words": 890,
+    "keywords_total": {
+      "Longfu88": 12,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 12,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence repeats the 'nothing has to be installed' statement already made in b04 and b08, so the idea is stated three times on the page.",
+        "fix": "Replace the 'nothing separate has to be installed' clause with a different closing idea (all six areas are reached from the same website on a phone or tablet), keep the pointer to other pages for games, payments and bonus terms, keep the word count within range."
+      }
+    ],
+    "b11": [],
+    "b12": []
+  },
+  "missing_data": []
+}

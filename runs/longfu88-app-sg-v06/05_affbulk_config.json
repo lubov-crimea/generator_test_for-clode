@@ -1,0 +1,43 @@
+{
+ "website_id": 5413,
+ "domain": "longfu88-play.sg",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Safety: Account Protection on a Phone",
+  "description": "Longfu88 mobile casino safety for Singapore players: account protection, data the site collects, safe sign-in, identity checks, responsible play and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Use the casino on a phone with the account protected",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Play Now"
+ },
+ "cta_texts": [
+  "Play Now",
+  "Join Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "bonuses",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "login page",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

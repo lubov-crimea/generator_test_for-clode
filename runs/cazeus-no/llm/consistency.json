@@ -1,0 +1,32 @@
+{
+ "issues": [
+  {
+   "block_id": "b02",
+   "problem": "Naming inconsistency: the Cashback row calls the promotion 'Daglig cashback', while b05, b09 and b16 use the proper name 'Daily Cashback'.",
+   "fix": "In the Cashback row replace 'Daglig cashback' with the proper name 'Daily Cashback' (keep 3–15 %, the cap of 400 euro and VIP levels 2 to 5). Keep the table as it is otherwise: header row, exactly 10 data rows in the same order, two columns, short values, the e-mail support@cazeus.com printed once (the only 'Cazeus' of the block)."
+  },
+  {
+   "block_id": "b03",
+   "problem": "Source-attributing wording: 'Opplysningene om selskapet sier hvem som er ansvarlig for nettstedet, men ikke noe om lisensstatus' presents the facts as coming from an information source instead of stating them directly.",
+   "fix": "Rewrite the last sentence of the first paragraph so that the company name is the subject, for example that the company name shows who is responsible for the website but says nothing about the licence status, which gets its own section further down. Do not use 'opplysningene' or 'sier' with an information source as subject. Keep 'Cazeus' exactly twice and 'Cazues casino' exactly once, keep the operator chain and the six currencies, and stay in the 158-202 word range."
+  },
+  {
+   "block_id": "b07",
+   "problem": "Unsupported evaluative epithet: 'Spilleautomatene er den mest sentrale kategorien' is a claim that nothing in the brief supports.",
+   "fix": "Replace the sentence 'Spilleautomatene er den mest sentrale kategorien.' with a neutral statement, for example that slots are the first game type of the lobby list, and keep the rest of the paragraph (Megaways, bonus buy, table games, jackpots, instant games). Keep 'Cazeus' exactly once and the word count in the 141-179 range."
+  },
+  {
+   "block_id": "b08",
+   "problem": "Source-attributing wording: 'Når et spill er oppgitt med flere RTP-verdier' attributes the fact to a source (an equivalent of 'angegeben').",
+   "fix": "Rewrite the sentence so that the game is the subject, for example 'Har et spill flere RTP-verdier, finnes det i flere versjoner, så verdien er verdt å sjekke i spillinformasjonen.' Do not use 'oppgitt' or 'angitt' for brand facts anywhere in the block. Keep the table, the provider sentence and the brand name at zero or one occurrence."
+  },
+  {
+   "block_id": "b20",
+   "problem": "Repetition: the last sentence 'Spilling er forbeholdt voksne over 18 år.' repeats the adult-only statement of b01 and b22.",
+   "fix": "Remove the sentence 'Spilling er forbeholdt voksne over 18 år.' and, to stay at 154 words or more, add one practical sentence in the paragraph about external help, using only general statements (for example that signs such as hiding the time or money spent or trying to win back losses at once are a reason to talk to one of the organisations). Keep 'Cazeus' exactly once (the e-mail support@cazeus.com), the three organisations and all other facts."
+  }
+ ],
+ "missing_data": [
+  {"block_id": "b02", "note": "No data for the languages of the website and of customer support: the Languages row says that they are not specified."}
+ ]
+}

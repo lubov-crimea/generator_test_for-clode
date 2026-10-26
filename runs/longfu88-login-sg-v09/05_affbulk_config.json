@@ -1,0 +1,33 @@
+{
+ "website_id": 4960,
+ "domain": "longfu-88.sg",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Responsible Account Guide: Pause and Login",
+  "description": "Longfu88 account guide for Singapore players who want control: pause or self-exclusion, login, password reset, verification, payout checks and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Stay in control of your account",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Join Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Offer"
+ }
+}

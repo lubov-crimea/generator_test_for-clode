@@ -1,0 +1,26 @@
+Local Singapore banking leads the deposit table:
+
+| Family | Methods | Currency |
+|---|---|---|
+| Singapore banks | DBS Bank, OCBC Bank, PayNow QR, PayNow | SGD |
+| Regional wallets and banking | Online Banking, DuitNow, Touch'n Go, MoMo | MYR, VND |
+| Cards | Mastercard, Visa | SGD, MYR, VND, IDR |
+| Bank transfer | Bank Transfer | VND, MYR, IDR |
+| Euro methods | Giropay, Sofort | EUR |
+| Wallets | Skrill, Neteller | EUR |
+| Crypto | USDT (TRC20, ERC20, BEP20), Bitcoin, Ethereum, Litecoin, USDC | USDT, BTC, ETH, LTC, USDC |
+
+Per transaction the floor is €10 and the ceiling €5,000, and funds reach the balance in 1-2 minutes. No processing fee comes from the casino itself, but a provider or network might add one. Ranges vary by country, currency and method, while Skrill and Neteller deposits sit outside the welcome bonus. Depositing starts with a sign-in to Longfu88 and a press on Deposit in the cashier. Next come the method, the network or currency, the sum with payment details and a final approval.
+
+Payouts cover Bank Transfer, Visa, Mastercard, Touch'n Go, MoMo, DANA, Online Banking, DBS Bank plus crypto such as USDT on three networks, Ethereum, Bitcoin and Litecoin, within a €20 to €5,000 range. Six steps lead to the money:
+
+1. Sign-in, then the cashier.
+2. The Withdrawal button.
+3. A destination from the supported list.
+4. The sum plus the wallet, bank or blockchain address that receives it.
+5. A last review, then submission.
+6. Casino processing time.
+
+The Lngfu88 withdrawal time stays at three business days or less. Cards, crypto addresses and wallets are paid within one to three business days, whereas a bank transfer has two stages, with the casino taking as long as 3 business days and the bank adding 3-5 more. An ID check may hold a payout back, as the verification section explains.
+
+Withdrawals carry no standard casino fee, though blockchain or provider charges can appear. If wagering stays below the deposit, a 10% commission applies with a €2.25 minimum, so 1x deposit turnover may be needed before cash-out. Certain deposits made by card or bank transfer face a 15% rate.

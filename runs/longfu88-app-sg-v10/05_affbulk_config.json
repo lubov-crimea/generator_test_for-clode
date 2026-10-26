@@ -1,0 +1,39 @@
+{
+ "website_id": 4963,
+ "domain": "longfu88sg.net",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Rules and Payments for Singapore",
+  "description": "Longfu88 on mobile for Singapore players: who can play, currencies and languages, sports betting rules, game categories, payment methods and cash-outs."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Rules, currencies and payments for mobile players",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Join Now"
+ },
+ "cta_texts": [
+  "Join Now",
+  "Register"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "Login",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

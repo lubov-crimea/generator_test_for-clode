@@ -1,0 +1,183 @@
+{
+ "rules": "For EVERY sentence write 12 alternative wordings (English). Each wording states exactly the same fact: keep every figure, amount, period, percentage and every name listed in keep_figures / keep_names exactly as written. Do not add a figure, a condition or a claim; do not drop one. The wordings must differ in construction (subject, order of the clauses, voice, sentence type), not by swapping single words: no run of 6 words in a row may be shared with the original or with another wording of the same sentence. About the same length as the original (0.6x to 1.6x). Neutral editorial third person, no em dashes, no semicolons, no second person.",
+ "slots": 12,
+ "items": [
+  {
+   "key": "2d6943687629",
+   "text": "Credited to My Bonuses on Monday; activation required.",
+   "keep_figures": [],
+   "keep_names": [
+    "my bonuses",
+    "monday"
+   ]
+  },
+  {
+   "key": "d85d0d9c2f25",
+   "text": "Only real-money casino bets and winnings count; bonus funds excluded.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "b2d804e36265",
+   "text": "Weekly cashback expires if it is not activated within its claim window.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "95c0feec75eb",
+   "text": "Credited to My Bonuses on Monday; opt-in and activation required.",
+   "keep_figures": [],
+   "keep_names": [
+    "my bonuses",
+    "monday"
+   ]
+  },
+  {
+   "key": "628ea258c795",
+   "text": "Based on real-money stakes less winnings in eligible Live Casino games.",
+   "keep_figures": [],
+   "keep_names": [
+    "live casino"
+   ]
+  },
+  {
+   "key": "a5d8440927fa",
+   "text": "Bonus balances are excluded from cashback calculations.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "bf6c806a8c5a",
+   "text": "Qualifying settled real-money wagering on the relevant game category.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "7245103df5b9",
+   "text": "Rebate credited daily to the rewards balance.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "64f7137a0051",
+   "text": "Registered players with qualifying settled wagers.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "ef1f453c1306",
+   "text": "Claim qualifying picks to open a crab reward and reveal a casino prize.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "d30ecd91ad69",
+   "text": "Rewards area; qualifying activity may grant free picks.",
+   "keep_figures": [],
+   "keep_names": [
+    "rewards area"
+   ]
+  },
+  {
+   "key": "7bf1710b68fd",
+   "text": "Spend an eligible spin or Coins to rotate a prize wheel.",
+   "keep_figures": [],
+   "keep_names": [
+    "coins"
+   ]
+  },
+  {
+   "key": "a51ade7e993b",
+   "text": "Complete qualifying gambling tasks to unlock listed rewards.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "fca7364433e1",
+   "text": "Collect campaign items by completing qualifying activity; redeem completed sets.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "8ead63827650",
+   "text": "Exchange earned Coins for rewards in the Shop.",
+   "keep_figures": [],
+   "keep_names": [
+    "coins"
+   ]
+  },
+  {
+   "key": "b6557e6c5d46",
+   "text": "Coin prices and prize availability vary by item.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "110bdcd39026",
+   "text": "Rewards may carry separate wagering requirements.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "824aae37828f",
+   "text": "Earn VIP points through eligible real-money gameplay; points unlock numbered reward levels.",
+   "keep_figures": [],
+   "keep_names": [
+    "vip"
+   ]
+  },
+  {
+   "key": "5588a82650ae",
+   "text": "Different reward and withdrawal limits may apply to VIP levels and currencies.",
+   "keep_figures": [],
+   "keep_names": [
+    "vip"
+   ]
+  },
+  {
+   "key": "d2e6e0623068",
+   "text": "Level-based benefits and promotion eligibility may change under program rules.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "fb2fe6a4e5d6",
+   "text": "Open Longfu88 and select Register.",
+   "keep_figures": [
+    "longfu88"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "666d3e732a36",
+   "text": "Enter email and create a password.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "695ded326b61",
+   "text": "Confirm age and acceptance of Terms and Conditions and Privacy Policy.",
+   "keep_figures": [],
+   "keep_names": [
+    "terms and conditions",
+    "privacy policy"
+   ]
+  },
+  {
+   "key": "b854d4eba693",
+   "text": "Complete the additional personal details and residential address.",
+   "keep_figures": [],
+   "keep_names": [
+    "residential address"
+   ]
+  },
+  {
+   "key": "bc89bb41cac9",
+   "text": "Select Create Account and complete any requested email confirmation.",
+   "keep_figures": [],
+   "keep_names": [
+    "create account"
+   ]
+  }
+ ]
+}

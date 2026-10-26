@@ -1,0 +1,11 @@
+Each offer sets its own minimum, and only the crypto one is counted in USDT, the rest in euros.
+
+| Offer | Minimum |
+|---|---|
+| Casino Weekend Reload | at least €50 |
+| Live Casino Welcome Bonus | at least €30 |
+| Casino Crypto Welcome Bonus | at least 50 USDT |
+| Casino Welcome Bonus | at least €50 |
+| Casino Weekly Reload | at least €30 |
+
+The casino's general minimum deposit does not fix an offer's minimum, so at Longfu88 the offer's own line in the table is the one to read. Deposits via Neteller or Skrill are barred from the Casino Welcome Bonus.

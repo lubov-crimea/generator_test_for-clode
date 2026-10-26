@@ -1,0 +1,22 @@
+=== b03 ===
+Deposit methods fall into several types, with crypto listed first and the local and card options after it.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC, Bitcoin Cash, Ripple, Cardano | BTC, ETH, LTC, USDT, USDC, BCH, XRP, ADA |
+| Cards | Visa, Mastercard | IDR, SGD, MYR, VND |
+| Singapore banking and QR | DBS Bank, OCBC Bank, PayNow, PayNow QR | SGD |
+| E-wallets | Skrill, Neteller | EUR |
+| European methods | Giropay, Sofort | EUR |
+
+Any single transaction must stay between €10 and €5,000, and the money appears on the balance within 1-2 minutes. The casino charges nothing for processing, though the payment provider or the blockchain network may add its own costs. Three things move the limits: where the player is, which currency is used and which method is chosen. Money sent through Neteller or Skrill does not trigger the welcome bonus. A player logs in to Longfu88, opens the cashier and presses Deposit, then picks a supported method with its currency or network, enters payment information and the amount, and confirms the transaction as the provider instructs.
+
+=== b04 ===
+Longfu88 pays out to Mastercard, Visa, bank transfer, Online Banking, DBS Bank, MoMo, DANA, Touch'n Go, Litecoin, Ethereum, Bitcoin and USDT on three networks. A request must be between €20 and €5,000. The Lngfu88 withdrawal time is at most three business days for casino handling, and card, crypto and e-wallet payouts take 1-3 business days. A bank transfer adds a second stage, as the player's bank may need another 3-5 business days. The standard casino fee is zero, but providers and blockchains can still add costs. A 10% charge (minimum €2.25) may apply if the wagered amount is lower than the deposit, and a 15% charge may apply to certain transactions funded via card or bank transfer.
+
+1. Log in and go to the cashier.
+2. Select Withdrawal and pick a supported method.
+3. Enter the amount and a blockchain address, bank account or wallet.
+4. Complete any identity check that appears.
+5. Review the details and confirm.
+6. Money lands after casino handling ends and the banks or networks settle.

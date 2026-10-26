@@ -1,0 +1,10 @@
+Longfu88 is built as a responsive website, so the layout adjusts itself to a smartphone or tablet browser. From the phone, the casino and the sportsbook are available alongside the account, bonuses, deposits and withdrawals. Specifically, a player can:
+
+- Open the casino and play
+- Bet in the sportsbook
+- Log in to the player account
+- Top up the balance with a deposit
+- Ask for a payout via a withdrawal
+- Look through the bonuses on offer
+
+All of this runs inside the browser, with no extra software. Every offer carries its own conditions, which are read on the bonuses page before anything is claimed.

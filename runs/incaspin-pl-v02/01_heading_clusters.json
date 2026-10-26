@@ -1,0 +1,524 @@
+[
+  {
+    "id": "k01",
+    "topic": "Licence, legality and safety",
+    "canonical_title": "Licencja i bezpieczeństwo",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 109,
+    "avg_position": 0.18,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Jak sprawdzić licencję i wiarygodność serwisu Incaspin Casino"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Przejrzyste warunki licencji w serwisie Incaspin Casino dla graczy"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Sygnały zaufania i ostrzeżenia przy ocenie marki Incaspin Legit"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Legalność, licencja i polski dostęp w serwisie Incaspin"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jak potwierdzić licencję i status legalny Incaspin Legit"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Najważniejsze informacje o polskiej wersji Incaspin Pl dla graczy"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Licence, Safety, and Responsible Gaming"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Is IncaSpin Casino a licensed and legitimate platform?"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Game library overview",
+    "canonical_title": "Oferta gier",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 90,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Oferta gier i dostawców w kasynie Incaspin Kasyno"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Sloty, stoły i live dealer w Kasyno Incaspin"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Oferta gier, dostawcy i sekcje kasynowe w Incaspin Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jakie automaty oferuje nowoczesne kasyno Incaspin Casino dla graczy"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Our Game Library"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Slots and Instant Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Table Games and More"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Limits and currencies",
+    "canonical_title": "Limity i waluty",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 77,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Limity transakcji oraz waluta eur w Incaspin Opinie"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jakie limity i waluty opisują Kasyno Incaspin Opinie"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Supported Currencies"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Withdrawal Limits"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Payments: deposits and withdrawals",
+    "canonical_title": "Wpłaty i wypłaty",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 77,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Płatności, wypłaty i waluty w nowoczesnym kasynie Incaspin"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Metody wpłat i wypłat opisane w Incaspin Review"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Wpłaty, wypłaty i waluty w praktyce Kasyno Incaspin"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jak wyglądają wpłaty i wypłaty w Kasyno Incaspin"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Banking at Inca Spin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit Methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Withdrawal Methods and Timelines"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "What is the minimum deposit at Inca Spin?"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Software providers",
+    "canonical_title": "Dostawcy gier",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 102,
+    "avg_position": 0.51,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Dostawcy oprogramowania widoczni w sekcjach Kasyno Incaspin dla graczy"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Którzy dostawcy gier budują ofertę Incaspin Kasyno najmocniej"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Our Software Providers"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "What game providers power the IncaSpin Casino library?"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Bonuses and promotions overview",
+    "canonical_title": "Bonusy i promocje",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 125,
+    "avg_position": 0.54,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Bonusy, promocje i warunki obrotu w Incaspin Pl"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bonusy, promocje i warunki gry opisane w Incaspin Review"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jak działają promocje opisane w Incaspin Review obecnie"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Is there a no deposit bonus available at Inca Spin?"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Mobile play and interface",
+    "canonical_title": "Gra na telefonie",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 129,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Mobilna obsługa, bezpieczeństwo i wsparcie w Kasyno Incaspin Opinie"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Aplikacja, przeglądarka i szybkość ładowania w Kasyno Incaspin Opinie"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobilna wygoda, interfejs i opinie graczy o Incaspin"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Co pokazują użytkownicy w sekcji mobilnej Incaspin Opinie"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jak ocenić wygodę korzystania z Incaspin Casino Opinie"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "IncaSpin on Mobile"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Does IncaSpin Casino have a mobile app?"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Conclusion and final verdict",
+    "canonical_title": "Podsumowanie i ocena",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 120,
+    "avg_position": 0.86,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Końcowa ocena, doświadczenia graczy i rekomendacja Incaspin Casino Review"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Podsumowanie opinii użytkowników o marce Incaspin Casino Review"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kiedy warto wybrać serwis z perspektywy Incaspin dla gracza"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Końcowa ocena, reputacja i wnioski z Incaspin Recenzja"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Jak podsumować zalety serwisu Incaspin przed decyzją końcową"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Które elementy tworzą końcową ocenę portalu Incaspin Recenzja"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Why Choose IncaSpin Casino"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "FAQ",
+    "canonical_title": "Najczęściej zadawane pytania",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 223,
+    "avg_position": 0.9,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Najczęściej zadawane pytania"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Najczęściej zadawane pytania"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Wagering rules and bonus terms",
+    "canonical_title": "Warunki obrotu bonusem",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 88,
+    "avg_position": 0.47,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Reguły obrotu bonusu oraz limity w serwisie Incaspin Pl"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Na co zwracać uwagę przy Incaspin Casino Review"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Welcome bonus",
+    "canonical_title": "Bonus powitalny",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 150,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Powitalna oferta opisana w każdej rzetelnej Incaspin Recenzja"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Our Welcome Package and Bonuses"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "What is the welcome bonus at Inca Spin?"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Customer support",
+    "canonical_title": "Obsługa klienta",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 77,
+    "avg_position": 0.7,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kanały kontaktu i reakcja działu wsparcia w Incaspin Casino Opinie"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Our Customer Support Team"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Registration and login",
+    "canonical_title": "Rejestracja i logowanie",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 100,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "How to Join Us"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How do I log in to my Inca Spin account?"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Loyalty programme",
+    "canonical_title": "Program lojalnościowy",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 153,
+    "avg_position": 0.54,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Loyalty Programme and Gamification"
+      }
+    ]
+  }
+]

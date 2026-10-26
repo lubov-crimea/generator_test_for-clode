@@ -1,0 +1,133 @@
+{
+  "id": "v04",
+  "name": "Newcomer walkthrough (register first, nested)",
+  "tier": "medium",
+  "angle": "A new player who has no account yet and wants one guided path.",
+  "intent_summary": "Step-by-step brand-subpage for a newcomer to Longfu88 in Malaysia: the account is created (with the welcome offer named as the reason to register), then the player logs in, learns what to do when the password or the login fails, passes the verification and keeps the account safe. Page voice: a patient guide, \"first, then\" logic, one short explanation of verification the first time it appears, sentences of about 17 words, one plain invitation to register. Steps are H2s, their details H3s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login: A Guide for New Players",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, support)",
+          "(registration, login, password reset, verification, security, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Step 1: Create Your Account",
+      "words": 115,
+      "kw": {
+        "Longfu88 register": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "One plain invitation to register is allowed here."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 3,
+      "heading": "What a New Account Can Claim",
+      "words": 65,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Step 2: Log In",
+      "words": 70,
+      "kw": {
+        "Longfu login": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "If You Forget the Password",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "When the Login Does Not Work",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Step 3: Verify the Account",
+      "words": 110,
+      "kw": {},
+      "extra": "Explain in one clause what verification is the first time the word appears."
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Keeping the Account Safe",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Help With Your Account",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Beginner Questions",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 casino login": 1
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) whether a player may hold more than one account (no: one personal account per player); (5) when the welcome bonus can be claimed (after registration, on the first qualifying deposit of at least €50); (6) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_account.registration.required_details",
+        "brandinfo_account.registration.eligibility[1]",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

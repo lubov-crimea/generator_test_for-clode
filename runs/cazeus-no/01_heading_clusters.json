@@ -1,0 +1,517 @@
+[
+  {
+    "id": "k02",
+    "topic": "Games overview and game library",
+    "canonical_title": "Spillutvalg",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 247,
+    "avg_position": 0.21,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Casino games"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Spillutvalg på Cazeus"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Welcome bonus and promotions",
+    "canonical_title": "Bonuser og kampanjer",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 281,
+    "avg_position": 0.23,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bonuses and promotions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Velkomstbonus: opptil 5000 kroner + 200 freespins!"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Spesielle kampanjer og casino tilbud"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Live casino",
+    "canonical_title": "Live casino",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 98,
+    "avg_position": 0.31,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live dealer games"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Live casino"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Deposits and withdrawals",
+    "canonical_title": "Innskudd og uttak",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 190,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Deposits and withdrawals"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Innskudd og uttak på Cazeus Casino Norge"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "About the casino / overview and history",
+    "canonical_title": "Om Cazeus casino",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 111,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "About Cazeus casino Norway"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Cazeus casino overview"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Om Cazeus"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Historien bak Cazeus"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Mobile play and app",
+    "canonical_title": "Mobil casino og app",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 94,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile and app experience"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Mobil casino og app"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Customer support",
+    "canonical_title": "Kundesupport",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 116,
+    "avg_position": 0.66,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Customer support"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Kontakte kundesupport"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Responsible gambling",
+    "canonical_title": "Ansvarlig spilling",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 86,
+    "avg_position": 0.77,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Responsible gambling tools"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Ansvarlig spilling"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "Verdict / rating / conclusion",
+    "canonical_title": "Vår vurdering",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 133,
+    "avg_position": 0.86,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Our verdict on Cazeus casino for Norway players"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Begrunnelse for scoren vi har gitt Cazeus"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Totalvurdering – 84%"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Skribentens kommentar"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "User reviews and experience",
+    "canonical_title": "Brukeranmeldelser og erfaringer",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 88,
+    "avg_position": 0.88,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "User Reviews"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Brukererfaring"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Bonus code",
+    "canonical_title": "Bonuskode",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 150,
+    "avg_position": 0.1,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Bonuskode"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Free spins",
+    "canonical_title": "Freespins",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 149,
+    "avg_position": 0.15,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Freespins"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Slots",
+    "canonical_title": "Spilleautomater",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.17,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slots"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Table games",
+    "canonical_title": "Bordspill",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 43,
+    "avg_position": 0.22,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Table games"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "VIP and loyalty programme",
+    "canonical_title": "Lojalitets- og VIP-program",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 152,
+    "avg_position": 0.25,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Lojalitetsordning/VIP-program"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Free play / demo games",
+    "canonical_title": "Gratisspill",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Free games"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Sportsbook",
+    "canonical_title": "Sportsbook",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 41,
+    "avg_position": 0.39,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sportsbook"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Comparison with other casinos",
+    "canonical_title": "Sammenligning med andre casinoer",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 164,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Sammenligning"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Deposit methods",
+    "canonical_title": "Innskuddsmetoder",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposit methods"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Withdrawal methods",
+    "canonical_title": "Uttaksmetoder",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 42,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Withdrawal methods"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Licence and security",
+    "canonical_title": "Lisens og sikkerhet",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 90,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Licenses and security"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "FAQ",
+    "canonical_title": "Ofte stilte spørsmål",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 84,
+    "avg_position": 0.95,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Ofte stilte spørsmål"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "More casino reviews",
+    "canonical_title": "Flere casinoomtaler",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 55,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Flere casinoomtaler"
+      }
+    ]
+  }
+]

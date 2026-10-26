@@ -1,0 +1,6 @@
+- **Which details does registration ask for?** The form requires an e-mail address, a password, a legal name, a date of birth and a residential address.
+- **How does a player log in?** Login works with the registered e-mail and password, as the second step of this page explains.
+- **What happens after a forgotten password?** The player requests a reset link with the registered e-mail and then sets a new password from the instructions that arrive.
+- **May a player hold more than one account?** No, Longfu88 allows one personal account per player.
+- **When can the welcome bonus be claimed?** Claiming starts after registration, with the first qualifying deposit of at least €50.
+- **Where should a player turn when the login still fails?** Customer support is the next stop, through live chat around the clock or by e-mail.

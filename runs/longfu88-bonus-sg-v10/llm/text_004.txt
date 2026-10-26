@@ -1,0 +1,7 @@
+This comparison sets the reward, the minimum deposit and the validity of the three welcome offers in one table, with the crypto offer counted in USDT instead of euros. The main welcome offer at Longfu88 is the Casino Welcome Bonus, a first-deposit casino bonus of 188% up to €2,088 plus 18 Free Spins. It rewards the first qualifying deposit of a new registered player with a match bonus and free spins, and only one welcome offer is available per account. The Casino Welcome Bonus and the Casino Crypto Welcome Bonus are alternative first-deposit offers, and Longfu88 places the Live Casino Welcome Bonus next to them for comparison.
+
+| Offer | Reward | Minimum deposit | Validity |
+|---|---|---|---|
+| Casino Welcome Bonus | 188% up to €2,088 + 18 Free Spins | €50 | 10 days from activation |
+| Live Casino Welcome Bonus | 125% up to €888 | €30 | 7 days |
+| Casino Crypto Welcome Bonus | 188% up to 2,888 USDT | 50 USDT | 10 days |

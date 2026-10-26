@@ -1,0 +1,1 @@
+{"issues": [{"block_id": "b12", "problem": "The opening sentence repeats the opening of b11 ('The cashier is part of the mobile website, ...').", "fix": "Open b12 with a different sentence, for example one on the withdrawal request itself, keeping the six steps, the processing times and the KYC sentence unchanged."}], "missing_data": []}

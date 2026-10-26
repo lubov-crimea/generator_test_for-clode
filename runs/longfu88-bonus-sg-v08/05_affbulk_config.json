@@ -1,0 +1,74 @@
+{
+ "website_id": 4965,
+ "domain": "longfu88casino-sg.net",
+ "locale": "en",
+ "slug": "bonuses",
+ "seo": {
+  "title": "Longfu88 Bonus Rules: Wagering, Validity, Cashout",
+  "description": "Longfu88 bonus rules for Singapore players: wagering, validity periods, minimum deposits, verification, cashing out and a checklist before you claim."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "bonuses, promotions, offers, promo code, welcome bonus, free spins, reload bonus, cashback, wagering requirements, My Bonuses, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Read the bonus rules before you claim",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "See Offer"
+ ],
+ "preview": {
+  "title": "Offers and Their Rules",
+  "items": [
+   {
+    "image": 4653,
+    "title": "Bonus Crab",
+    "text": "Qualifying picks reveal bonus credits, free spins or coins",
+    "button": "See Offer"
+   },
+   {
+    "image": 4654,
+    "title": "Casino Crypto Welcome Bonus",
+    "text": "188% up to 2,888 USDT",
+    "button": "Claim Now"
+   },
+   {
+    "image": 4652,
+    "title": "Casino Weekly Cashback",
+    "text": "Up to 10% of weekly net casino losses",
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4655,
+    "title": "Casino Weekend Crypto Reload",
+    "text": "75% up to 750 USDT + 100 Free Spins",
+    "button": "Join Now"
+   },
+   {
+    "image": 4657,
+    "title": "Live Casino Welcome Bonus",
+    "text": "125% up to €888",
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4656,
+    "title": "Sport First Deposit Bonus",
+    "text": "100% up to €1,888",
+    "button": "Get Offer"
+   }
+  ]
+ },
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "See Offer"
+ }
+}

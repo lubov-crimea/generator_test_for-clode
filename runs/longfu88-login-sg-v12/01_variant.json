@@ -1,0 +1,347 @@
+{
+  "id": "v12",
+  "name": "Account lifecycle (large)",
+  "tier": "large",
+  "angle": "A reader who follows the life of an account from opening to closing.",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the welcome offer is one clause of the registration block; its terms belong to the bonus page of the site"
+    }
+  ],
+  "intent_summary": "Complete brand-subpage for the large size group, organised as the life of a Longfu88 account for players from Singapore: opening, proving who the player is, logging in and recovering access, using the account on a phone, what the terms say about inactivity, complaints and changes, the VIP levels, taking a break or closing the account, and support. Page voice: narrative and orderly, \"at this stage\" openings, sentences of about 19 words, one short summary sentence at the end of each section, no calls to action. H2 stages with H3 details. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login and the Life of Your Account",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(opening, verification, login, mobile access, the rules of the terms, the VIP levels, taking a break, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Stage 1: Longfu88 Register and Open the Account",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "Name the welcome offer in one clause (the Casino Welcome Bonus, 188% up to €2,088 plus 18 free spins, minimum first deposit €50) and say that its terms are on the bonus page.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Stage 2: Proving Who You Are",
+      "words": 170,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "Add the procedure as a numbered list of four steps (without the brand name), the stages at which checks happen and the consequences of failing the checks.",
+      "refs_add": [
+        "brandinfo_account.verification.procedure",
+        "brandinfo_privacy_policy.kyc_aml.verification_requirements.verification_stages",
+        "brandinfo_privacy_policy.kyc_aml.failure_consequences"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Stage 3: Logging In",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Recovering a Forgotten Password",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "When Access Fails",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Protecting the Credentials and the Account",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Stage 4: The First Payout",
+      "words": 140,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "Do NOT list payment methods, limits, fees, commissions, turnover rules or bank settlement times: they belong to the payments page of the site.",
+          "Do NOT list payment methods, limits, fees, commissions or turnover rules: they belong to the payments page of the site."
+        ]
+      ],
+      "extra": "Add the other withdrawal rule of the terms: bank transfers may need another 3-5 business days for settlement, and the operator may ask for KYC documents before processing payments.",
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[2]",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[3]"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Using the Account on a Phone",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Stage 5: Inactivity, Complaints and Changes of the Terms",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "Three rules of the terms that touch an account: inactivity, complaints about account decisions and changes of the terms.",
+      "entities": [
+        [
+          "Account Terms",
+          9
+        ],
+        [
+          "Inactivity",
+          7
+        ],
+        [
+          "Complaints",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "contacts",
+          "customer support to request a review of a dispute or an account decision",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.terms_conditions.inactivity",
+        "brandinfo_privacy_policy.terms_conditions.complaints",
+        "brandinfo_privacy_policy.terms_conditions.changes"
+      ],
+      "notes": "Three facts, exactly as in the Brand Information: prolonged inactivity may trigger an account review or closure under the applicable terms; a dispute or an account decision is reviewed when the player contacts customer support; the operator may modify promotional and contractual terms and publishes updates on the site. No time limits, no named regulator or ombudsman, no dispute deadlines and no promise of an outcome. Calm and factual.",
+      "covers_clusters": [
+        "k17"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Stage 6: Moving Up the VIP Levels",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "What a logged-in player gets from the VIP programme: five tiers, points from real-money play, the extra benefits and the terms.",
+      "entities": [
+        [
+          "VIP Programme",
+          10
+        ],
+        [
+          "VIP Points",
+          7
+        ],
+        [
+          "Tiers",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "earns",
+          "VIP points through eligible real-money gameplay, which unlock reward levels",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.tiers",
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_loyalty.loyalty_vip_program.additional_benefits",
+        "brandinfo_loyalty.loyalty_vip_program.important_terms"
+      ],
+      "notes": "Five tiers: Bronze, Silver, Gold, Platinum and Diamond. Points are earned through eligible real-money gameplay and unlock numbered reward levels. Additional benefits: personalised offers, VIP cashback, higher withdrawal limits and a personal VIP manager for eligible high tiers. Terms: reward and withdrawal limits may differ by VIP level and currency, and level-based benefits and eligibility may change under the programme rules. Do not give level numbers, point thresholds, rewards or limits (they are on the VIP page) and do not use the official name of the programme (it contains the brand name).",
+      "covers_clusters": [
+        "k09"
+      ]
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Stage 7: Pausing or Closing the Account",
+      "words": 150,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "Add the four steps of the procedure as a numbered list, in the order of the Brand Information, without the e-mail address, and the self-assessment questions.",
+      "refs_add": [
+        "brandinfo_responsible_gaming.responsible_gaming.procedure",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment"
+      ]
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Support at Every Stage",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Account Lifecycle FAQ",
+      "words": 125,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "8 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 8 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) which identity document is accepted (passport, national identity card or driving licence); (5) how fast a withdrawal request is processed (generally within three working days; do not promise a payout time); (6) what prolonged inactivity can lead to (an account review or closure under the terms); (7) how to close the account (through customer support); (8) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_account.registration.required_details",
+        "brandinfo_privacy_policy.kyc_aml.required_documents.identity",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]",
+        "brandinfo_privacy_policy.terms_conditions.inactivity",
+        "brandinfo_responsible_gaming.responsible_gaming.account_closure"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

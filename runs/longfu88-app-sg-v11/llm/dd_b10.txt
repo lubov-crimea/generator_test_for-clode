@@ -1,0 +1,9 @@
+At Longfu88 the only way to register is by e-mail, and five details go into the form:
+
+- Date of birth
+- Password
+- Legal name
+- E-mail
+- Residential address
+
+Signing in from a phone matches signing in on a desktop: after Login is selected, the password is entered alongside the e-mail that the account was opened with, and any security check is completed. A forgotten password is dealt with through Forgot Password on that screen, and a separate login page describes recovery in more detail.

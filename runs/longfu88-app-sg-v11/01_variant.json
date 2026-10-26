@@ -1,0 +1,387 @@
+{
+  "id": "v11",
+  "name": "Play, bet and get rewarded (large)",
+  "tier": "large",
+  "angle": "A player who wants to know what there is to play and claim on the phone.",
+  "intent_summary": "Large brand-subpage about the Longfu88 mobile casino in Singapore for a player who wants to know what there is to do on a phone: the home-screen shortcut for Android and iOS, the devices, the shortcut versus the browser tab, the game categories, the sportsbook, the welcome offer, account access, identity checks, account protection, responsible gaming, VIP tiers, a withdrawal request and support; no feature overview, no fix list and no FAQ. Page voice: lively but factual, the activity first and its condition second, sentences of about 16 words, a plain invitation to start; no promises. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Mobile Casino on Your Phone: Play, Bet and Claim",
+      "words": 70,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu app": 1
+      },
+      "notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence: the casino is used on a smartphone or tablet through its responsive website, on Android and iOS. The phrase \"Longfu app\" stands once, in a sentence that says that players who look for the Longfu app will find the mobile version of the website with a home-screen shortcut (not a store app). State once that the casino is for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (the shortcut for Android and iOS, devices, games, sports, the welcome offer, account access, checks, safety, responsible gaming, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Neutral tone, no promises."
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Which Phones and Browsers You Can Use",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download: Skip the File, Add the Shortcut",
+      "words": 70,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Shortcut in Three Steps",
+      "words": 50,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Shortcut in Three Steps",
+      "words": 50,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Browser Tab or Home Screen Icon",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Slots, Live Dealer and More on a Phone",
+      "words": 65,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which game categories and providers the casino section of the mobile website offers.",
+      "entities": [
+        [
+          "Casino Games",
+          10
+        ],
+        [
+          "Game Providers",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "chooses",
+          "among slots, live dealer games, table games, jackpots and other categories in the casino",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_games.providers"
+      ],
+      "notes": "One lead-in sentence that says that the casino section of the mobile website offers these game categories, then a bulleted list of the categories exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games). One closing sentence names four or five providers from the list of the Brand Information (for example Evolution, Pragmatic Play, NetEnt, Hacksaw Gaming). No game names, RTP values, volatility, maximum multipliers or claims that a particular game works on a phone. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k08"
+      ]
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Betting on Sports from a Phone",
+      "words": 70,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which sports and bet types the sportsbook offers and that live betting has live odds and in-play markets.",
+      "entities": [
+        [
+          "Sportsbook",
+          10
+        ],
+        [
+          "Live Betting",
+          8
+        ]
+      ],
+      "connections": [
+        [
+          "Live Betting",
+          "offers",
+          "live odds and in-play markets",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.live_betting",
+        "brandinfo_sportsbook.sportsbook.bet_types",
+        "brandinfo_sportsbook.sportsbook.important_terms"
+      ],
+      "notes": "The sportsbook is one of the features of the mobile website. One lead-in sentence, then a bulleted list of the sports as given (football, basketball, tennis, badminton, cricket, table tennis, volleyball, esports, virtual football), then one sentence with the bet types (single, accumulator, live, handicap, totals, outrights, Bet Builder) and one with live betting: live odds and in-play markets. Say that event availability and markets can vary by jurisdiction. No odds, bonuses, limits or promises of winnings. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k05"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Claiming the Welcome Offer on Mobile",
+      "words": 70,
+      "kw": {},
+      "summary": "What a new account can claim: the Casino Welcome Bonus, its size, the minimum first deposit and the wagering.",
+      "entities": [
+        [
+          "Casino Welcome Bonus",
+          10
+        ],
+        [
+          "First Deposit",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Casino Welcome Bonus",
+          "requires",
+          "a first qualifying deposit of €50 and activation in My Bonuses",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.wagering_requirement"
+      ],
+      "notes": "Strictly the Brand Information: the Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins; the minimum first deposit is €50; wagering is 25x the deposit plus bonus amount; the bonus is activated in My Bonuses before placing any wager. Use the €50 minimum of the bonus; do NOT mention the general minimum deposit of €10. No terms that are not listed and no promises of winnings. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k14"
+      ]
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Account Access: Register and Sign In on a Phone",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Verification Before You Cash Out",
+      "words": 75,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "When verification can be requested and which documents are needed.",
+      "entities": [
+        [
+          "Account Verification",
+          10
+        ],
+        [
+          "Identity Documents",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Account Verification",
+          "may be requested",
+          "before a withdrawal or after unusual activity",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_account.verification.triggers",
+        "brandinfo_account.verification.documents",
+        "brandinfo_account.verification.document_submission_window"
+      ],
+      "notes": "One lead-in sentence that says when verification can be requested (account review, before a withdrawal, unusual or high-value transactions, changes to account or payment details), then a bulleted list of the four document types of the Brand Information (government-issued photo ID or passport, proof of residential address, proof of ownership of a payment method, source of funds or wealth documents when requested), then one sentence: documents are submitted within up to 30 days when requested. Use only the facts of the Brand Information of this block, character for character; add no other fact, no promise of winnings and no comparison with other casinos. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Sending a Cash-Out Request from the Phone",
+      "words": 80,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The six steps of a withdrawal request from the cashier and how long processing takes.",
+      "entities": [
+        [
+          "Withdrawal",
+          10
+        ],
+        [
+          "Cashier",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "submits",
+          "a withdrawal request in the cashier and waits for casino processing",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_guide",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]"
+      ],
+      "notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a NUMBERED list with the six steps of the withdrawal guide in the order of the Brand Information (write \"the casino\" or \"the cashier\" where a step names the brand). After the list one sentence: requests are generally processed within three working days. Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. No fees, no limits, no speed promises beyond those sentences. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k10"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Staying Secure While You Play on Mobile",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Playing Responsibly on a Phone",
+      "words": 80,
+      "kw": {},
+      "summary": "Responsible gaming on the mobile website: the age rule, self-assessment, account closure, self-exclusion and independent support organisations.",
+      "entities": [
+        [
+          "Responsible Gaming",
+          10
+        ],
+        [
+          "Self-Assessment",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Self-Assessment",
+          "helps",
+          "players identify possible gambling-related harm",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_responsible_gaming.responsible_gaming.policy",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment",
+        "brandinfo_responsible_gaming.responsible_gaming.support_organizations",
+        "brandinfo_responsible_gaming.responsible_gaming.account_closure",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.effect"
+      ],
+      "notes": "State the policy as given: players must be at least 18 years old and gamble only where lawful. Then the self-assessment questions that help players identify possible gambling-related harm, the closure of the account on request through customer support and that self-exclusion may restrict account access and gambling for the agreed period, and name the independent support organisations (GamCare, Gamblers Anonymous, Gambling Therapy). Do not print any contact address and do not quote the processing time. Use only the facts of the Brand Information of this block, character for character; add no other fact, no promise of winnings and no comparison with other casinos. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "VIP Tiers and Rewards on Mobile",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The VIP programme: five tiers, VIP points from real-money play that unlock reward levels, and the additional benefits.",
+      "entities": [
+        [
+          "VIP Program",
+          10
+        ],
+        [
+          "VIP Points",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "VIP Points",
+          "unlock",
+          "numbered reward levels",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.name",
+        "brandinfo_loyalty.loyalty_vip_program.tiers",
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_loyalty.loyalty_vip_program.additional_benefits"
+      ],
+      "notes": "Name the programme as given in the Brand Information (it carries the brand name, which is the one occurrence of the keyword of this block), the five tiers (Bronze, Silver, Gold, Platinum, Diamond), that VIP points are earned through eligible real-money gameplay and unlock numbered reward levels, and the four additional benefits (personalised offers, VIP cashback, higher withdrawal limits, a personal VIP manager for eligible high tiers). No level rewards, no cashback percentages, no limits. Use only the facts of the Brand Information of this block, character for character; add no other fact, no promise of winnings and no comparison with other casinos. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 App Support Around the Clock",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      }
+    }
+  ],
+  "skipped_clusters": [
+    {
+      "id": "k06",
+      "reason": "no FAQ in this text: the questions are answered in the sections themselves"
+    },
+    {
+      "id": "k09",
+      "reason": "the payment methods belong to the payments page of the site; the app page names deposits and withdrawals as features of the mobile website"
+    }
+  ]
+}

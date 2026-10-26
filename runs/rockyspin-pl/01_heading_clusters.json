@@ -1,0 +1,620 @@
+[
+  {
+    "id": "k01",
+    "topic": "Casino overview / at a glance",
+    "canonical_title": "Rockyspin Casino w skrócie",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 108,
+    "avg_position": 0.09,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Rockyspin Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Rocky Spin Casino w pigułce"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Informacje o Rocky Spin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Obraz kasyna RockySpin"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Welcome package and bonuses",
+    "canonical_title": "Bonusy i pakiet powitalny",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 93,
+    "avg_position": 0.29,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Pakiet Powitalny Rockyspin Casino"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Bonusy i promocje w Rockyspin"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Podział pakietu powitalnego"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bonusy Rocky Spin Casino — sprawdzamy warunki"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Rocky Spin bonusy"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Welcome Bonus"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Player reviews",
+    "canonical_title": "Opinie graczy",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 125,
+    "avg_position": 0.78,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Opinie graczy"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Opinie graczy o Rocky Spin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Rocky Spin Casino opinie"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Promo code",
+    "canonical_title": "Kod promocyjny",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 74,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Rocky Spin Promo code"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Rocky Spin Casino promo code"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Szczegóły promocji:"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Login",
+    "canonical_title": "Logowanie do kasyna",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 64,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Logowanie do Rocky Spin Casino krok po kroku"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Problemy z logowaniem — co zrobić"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Casino login"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Cashback",
+    "canonical_title": "Cashback",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 98,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Cashback w Rocky Spin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Cashback"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Deposits and payment methods",
+    "canonical_title": "Metody płatności i wpłaty",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 148,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Metody płatności w Rockyspin"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Opcje depozytów i wypłat"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Wpłaty w Rocky Spin Casino: metody i księgowanie"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Sports betting and sports welcome bonus",
+    "canonical_title": "Zakłady sportowe",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 86,
+    "avg_position": 0.68,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Bonus powitalny na zakłady sportowe"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Zakłady sportowe w RockySpin"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Tournaments and ongoing promotions",
+    "canonical_title": "Turnieje i stałe promocje",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 109,
+    "avg_position": 0.69,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Stałe promocje i turnieje"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Turnieje i konkursy w Rockyspin"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Turnieje z nagrodami"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Withdrawals, limits and process",
+    "canonical_title": "Wypłaty: limity i czas",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 168,
+    "avg_position": 0.7,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Limity wypłat i proces wypłaty"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Wypłaty w Rocky Spin Casino: metody, czas, KYC"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "VIP and loyalty program",
+    "canonical_title": "Program VIP i lojalnościowy",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 107,
+    "avg_position": 0.82,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Programy VIP i lojalnościowe Rockyspin"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Korzyści na poziomie Gold i Platinum"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Jak ranga wpływa na limity kasy"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Program Lojalnościowy w RockySpin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Jak zdobyć kolejne rangi w programie lojalnościowym RockySpin"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Demo slots",
+    "canonical_title": "Darmowe automaty demo",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.14,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Darmowe automaty demo w Rockyspin"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Games overview and slots",
+    "canonical_title": "Gry i automaty",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 207,
+    "avg_position": 0.21,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Gry w Rockyspin Casino"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Automaty i gry specjalne"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Live casino",
+    "canonical_title": "Kasyno na żywo",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 207,
+    "avg_position": 0.29,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kasyno na żywo w Rockyspin"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Biggest recent wins",
+    "canonical_title": "Największe wygrane",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Najnowsze duże wygrane w Rockyspin"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Registration",
+    "canonical_title": "Rejestracja krok po kroku",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Rejestracja w Rocky Spin Casino w 6 krokach"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Newbie spins / lottery",
+    "canonical_title": "Newbie Spins",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 47,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Newbie Spins"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Loteria Newbie Spins"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "Coin shop / rewards store",
+    "canonical_title": "Sklep z nagrodami",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 40,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Sklep w RockySpin – Wymień monety na nagrody"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Dostępne kategorie nagród:"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Jak zdobywać monety?"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Payment and data security",
+    "canonical_title": "Bezpieczeństwo płatności i danych",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 70,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Bezpieczeństwo płatności i danych"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "KYC verification",
+    "canonical_title": "Weryfikacja KYC",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 62,
+    "avg_position": 0.8,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Weryfikacja KYC przed pierwszą wypłatą"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "Pros and cons",
+    "canonical_title": "Plusy i minusy",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 83,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Plusy i minusy Rocky Spin Casino"
+      }
+    ]
+  },
+  {
+    "id": "k24",
+    "topic": "UI feedback widget (noise, not content)",
+    "canonical_title": "(widget)",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 12,
+    "avg_position": 0.98,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Widzisz coś, co powinniśmy poprawić?"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Dzięki — mamy to!"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "Responsible gambling",
+    "canonical_title": "Odpowiedzialna gra",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 95,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Odpowiedzialna gra"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "Closing call to action",
+    "canonical_title": "Dołącz i graj",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 18,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Dołącz do RockySpin i graj po swojemu"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "issues": [
+    {
+      "block_id": "b03",
+      "problem": "In 'The Live Casino Welcome Bonus (...) and the Casino Crypto Welcome Bonus (...) are alternative first-deposit offers. Its wagering requirement is 25 times ...' the pronoun 'Its' refers to the alternative offers, so the 25x wagering requirement of the Casino Welcome Bonus is attached to the wrong subject.",
+      "fix": "Replace 'Its wagering requirement is 25 times the deposit plus the bonus amount, with the other limits below.' with 'A wagering requirement of 25 times the deposit plus the bonus amount applies, with the other limits below.' To stay within the size cap shorten 'while the general minimum deposit of the casino is €10' to 'while the casino-wide minimum deposit is €10'. Keep all tracked keywords in the same quantity."
+    },
+    {
+      "block_id": "b04",
+      "problem": "The first sentence 'Seven reload and seasonal offers add Weekly, Weekend and Crypto Reload versions.' reads awkwardly: offers do not 'add versions', and the sentence does not place the offers on the page.",
+      "fix": "Rewrite the sentence as 'Seven reload and seasonal offers, including Weekly, Weekend and Crypto Reloads, sit beside the welcome bonus.' Keep the table and the rest of the block unchanged and stay at or under 210 words; if needed shorten 'and only real-money bets count' neutrally without losing the fact."
+    },
+    {
+      "block_id": "b06",
+      "problem": "'Slots and live dealer games form the core of the lobby' is an evaluative claim about the lobby structure that the Brand Information does not support.",
+      "fix": "Replace the sentence 'Slots and live dealer games form the core of the lobby, while the remaining categories add table play, arcade-style rounds and quick results.' with a neutral one, for example 'Slots, live dealer games and table games cover the classic casino formats, while the other categories add arcade-style rounds and quick results.' Keep the three tracked keywords 'Longfu88 Casino', 'Longfu88 Baccarat' and 'Longfu 88 Casino' exactly once each."
+    },
+    {
+      "block_id": "b11",
+      "problem": "The sentence 'Data protection covers sharing and rights.' is filler: it carries no fact and only announces the next sentences.",
+      "fix": "Delete it and begin the next sentence with the entity instead: 'Under its data protection terms, personal data may be shared with payment service providers, ...'. Keep 'Longfu88', 'casino Longfu88' and 'Longfu 88 Official Site' exactly once each."
+    }
+  ],
+  "missing_data": []
+}

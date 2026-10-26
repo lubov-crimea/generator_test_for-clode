@@ -1,0 +1,406 @@
+{
+  "id": "v11",
+  "name": "Full account handbook (large)",
+  "tier": "large",
+  "angle": "A reader who wants the whole account topic on one page.",
+  "intent_summary": "Complete brand-subpage for the large size group of the competitors, built like the longest login page of the query: a handbook of the Longfu88 account for players from Singapore with entry (registration and the welcome offer), access (login, lost password, failed logins), compliance (verification documents and the checks before the first payout), protection (credentials and the data the casino holds), settings and communication, currencies and the one-account rule, taking a break or closing the account, what opens after the login, mobile access, the VIP levels, support and a FAQ. Page voice: reference-like, each H2 opens with what the section is for, sentences of about 18 words, a consequence after each condition; one plain invitation to register. Every section is written only from the facts of its Brand Information; where a section has few facts it stays short. H2 sections with H3 details. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Account Handbook for Singapore Players",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(entry, access, compliance, protection, settings, taking a break, mobile access, the VIP levels, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Entry: Opening an Account",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "One plain invitation to register is allowed here."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 3,
+      "heading": "The Welcome Offer in Brief",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Access: The Login Route",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Recovering a Lost Password",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Diagnosing Failed Logins",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Protection: Credentials and Safeguards",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "The Data the Casino Holds and Shares",
+      "words": 105,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which data the casino holds about an account holder, with whom it may be shared and which rights the player has.",
+      "entities": [
+        [
+          "Personal Data",
+          10
+        ],
+        [
+          "Data Sharing",
+          7
+        ],
+        [
+          "Data Subject Rights",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Casino",
+          "shares",
+          "personal data with payment, identity-verification and technology providers and with regulators when required",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.data_collected.identity_data",
+        "brandinfo_privacy_policy.privacy_policy.data_collected.contact_data",
+        "brandinfo_privacy_policy.privacy_policy.data_collected.verification_data",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights"
+      ],
+      "notes": "Three short groups of facts, exactly as in the Brand Information: the identity data (name, date of birth, identity documents), contact data (e-mail, telephone, residential address) and verification data (KYC documents, payment method ownership evidence) that the casino holds; the parties it may share data with (payment service providers, identity verification providers, technology providers, regulators and law enforcement when required); the rights of the player (access, rectification, erasure where legally permitted, restriction, objection, portability where applicable, withdrawal of consent). Do not print the e-mail addresses of the data protection contact (they contain the brand name), do not claim a certificate, an audit or encryption, and do not say how long data is kept. Neutral, no legal advice.",
+      "covers_clusters": [
+        "k05"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Compliance: Verification Documents",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "After the table give the procedure in one sentence (upload legible, current documents that match the account profile; telephone or face verification if requested; wait for approval before a withdrawal).",
+      "refs_add": [
+        "brandinfo_account.verification.procedure"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 3,
+      "heading": "Checks Before the First Payout",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Settings: Communication Preferences and Cookies",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Currencies and the One-Account Rule",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Pausing, Self-Exclusion and Closing the Account",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Add the self-assessment questions that help to recognise possible harm.",
+      "refs_add": [
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "What Opens After the Login",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "What a player reaches after logging in: the casino games, the sportsbook, the cashier and the bonuses.",
+      "entities": [
+        [
+          "Casino",
+          9
+        ],
+        [
+          "Sportsbook",
+          8
+        ]
+      ],
+      "connections": [
+        [
+          "Player Account",
+          "gives access to",
+          "the casino, the sportsbook, deposits, withdrawals and bonuses",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_app.app_information.features"
+      ],
+      "notes": "One lead-in sentence that names what the account gives access to (casino, sportsbook, account access, deposits, withdrawals, bonuses), then a bulleted list of the game categories exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games). No game names, providers or RTP values. Keep it short: this is a pointer to the rest of the site.",
+      "covers_clusters": [
+        "k07"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Mobile and Tablet Access",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "VIP Levels and Rewards",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "What a logged-in player gets from the VIP programme: five tiers, points from real-money play, the extra benefits and the terms.",
+      "entities": [
+        [
+          "VIP Programme",
+          10
+        ],
+        [
+          "VIP Points",
+          7
+        ],
+        [
+          "Tiers",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "earns",
+          "VIP points through eligible real-money gameplay, which unlock reward levels",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.tiers",
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_loyalty.loyalty_vip_program.additional_benefits",
+        "brandinfo_loyalty.loyalty_vip_program.important_terms"
+      ],
+      "notes": "Five tiers: Bronze, Silver, Gold, Platinum and Diamond. Points are earned through eligible real-money gameplay and unlock numbered reward levels. Additional benefits: personalised offers, VIP cashback, higher withdrawal limits and a personal VIP manager for eligible high tiers. Terms: reward and withdrawal limits may differ by VIP level and currency, and level-based benefits and eligibility may change under the programme rules. Do not give level numbers, point thresholds, rewards or limits (they are on the VIP page) and do not use the official name of the programme (it contains the brand name).",
+      "covers_clusters": [
+        "k09"
+      ]
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Assistance and Contact Channels",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Handbook FAQ",
+      "words": 120,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "8 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 8 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how to log in (with the registered e-mail and password, as the page explains); (2) what to do after a forgotten password (request a reset link with the registered e-mail); (3) which login method the casino uses (e-mail and password); (4) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (5) which identity document is accepted (passport, national identity card or driving licence); (6) how long verification takes (a complete document set is normally reviewed within up to 10 days); (7) whether a player may hold more than one account (no: one personal account per player); (8) whether there is a VIP programme (yes, with five tiers: Bronze, Silver, Gold, Platinum and Diamond). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_account.registration.required_details",
+        "brandinfo_privacy_policy.kyc_aml.required_documents.identity",
+        "brandinfo_account.registration.eligibility[1]",
+        "brandinfo_loyalty.loyalty_vip_program.tiers"
+      ],
+      "refs_drop": [
+        "brandinfo_general.minimum_age",
+        "brandinfo_general.customer_support.channels"
+      ]
+    }
+  ]
+}

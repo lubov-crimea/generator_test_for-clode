@@ -1,0 +1,566 @@
+[
+  {
+    "id": "k01",
+    "topic": "How to register an account",
+    "canonical_title": "How to Register",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 125,
+    "avg_position": 0.21,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Belum Ada Akaun?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Step-by-Step Registration Process"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "How to Register at Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Create Your Account ‚Äî Claim 188% Welcome Bonus"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Apa yang Anda Perlukan untuk Bermula"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Sediakan Akaun Anda dalam Tiga Langkah"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Forgot password and account recovery",
+    "canonical_title": "Forgot Your Password",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 56,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Terlupa Kata Laluan?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "What should I do if I forgot my password?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Account Recovery and Password Reset"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Lupa Kata Sandi"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Frequently asked questions about login and account",
+    "canonical_title": "Login and Account FAQ",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Soalan Log Masuk Lazim"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "FAQ – Frequently Asked Questions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Pertanyaan Pengguna Baru tentang Pendaftaran"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Soalan Lazim tentang Login dan Akaun"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Deposit and payment methods",
+    "canonical_title": "Deposits and Payment Methods",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 24,
+    "avg_position": 0.26,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit and Withdrawal Limits"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Cara Membayar untuk Pendaftaran dan Deposit Pertama Anda"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Deposit dengan Pilihan Pembayaran Anda"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Touch 'n Go"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "GrabPay"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Boost"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "FPX"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "How to log in",
+    "canonical_title": "How to Log In",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 54,
+    "avg_position": 0.32,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Log Masuk Ahli yang Selamat"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "How to Register and Log In to Your Longfu88 Account"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "How do I log in to my Longfu88 account?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Longfu88 Login Process ‚Äî Quick Access to Your Account"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Customer support for account questions",
+    "canonical_title": "Customer Support",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 38,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "4. Contact Customer Support"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Customer Support – We’re Here to Help!"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Sokongan untuk Pertanyaan Akaun Anda"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Sembang Langsung"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "E-mel Sokongan"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Pusat Bantuan"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Sokongan Ketika Anda Memerlukannya"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Hubungi Pasukan Kami"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Account verification (KYC)",
+    "canonical_title": "Account Verification",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 72,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "How do I verify my account?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Account Verification Requirements"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Verify Your Account ‚Äî Unlock Full Access"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Pengesahan Akaun"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Account security and data protection",
+    "canonical_title": "Account Security and Privacy",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.71,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Account Security Features at Longfu88"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Bagaimana Kami Melindungi Maklumat Pendaftaran Anda"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Enkripsi SSL 256-bit"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Privasi Data"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Pengesahan Pembayaran"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Perlindungan Akaun"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Pemantauan Aktiviti"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Privasi dan Perlindungan Akaun"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Two-factor and identity checks at login",
+    "canonical_title": "Two-Factor Authentication",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.73,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Pengesahan Identiti Dua Lapisan"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Pengesahan Identiti"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Pengesahan Dua Faktor"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Games available after login",
+    "canonical_title": "Games After Login",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.73,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Pengalaman Longfu Menanti"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Your Account Opens Thousands of Games"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Mobile and multi-device access",
+    "canonical_title": "Mobile Access and Devices",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 76,
+    "avg_position": 0.97,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Can I log in from multiple devices?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Mobile Account Access"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Troubleshooting login problems",
+    "canonical_title": "Login Problems and Fixes",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 34,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Troubleshooting Login Issues – Get Back to Gaming Fast"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "1. Double-Check Your Login Information"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "2. Clear Your Browser Cache and Cookies"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "3. Try a Different Device or Browser"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Welcome bonus after registration",
+    "canonical_title": "Welcome Bonus",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 43,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Longfu88 Casino Bonuses – Start Your Journey with Exciting Offers"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Welcome Bonus Overview"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Account settings and communication preferences",
+    "canonical_title": "Account Settings",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 60,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Managing Your Longfu88 Account Settings"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Communication Preferences"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Multi-currency and multi-account policy",
+    "canonical_title": "Currencies and One Account Rule",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 122,
+    "avg_position": 0.73,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Multi-Currency and Multi-Account Policies"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Account closure and self-exclusion",
+    "canonical_title": "Account Closure and Self-Exclusion",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 106,
+    "avg_position": 0.8,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Account Closure and Self-Exclusion"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "VIP benefits",
+    "canonical_title": "VIP Account Benefits",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 180,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "VIP Account Benefits and Tier Progression"
+      }
+    ]
+  }
+]

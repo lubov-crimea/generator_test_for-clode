@@ -1,0 +1,395 @@
+{
+  "id": "v12",
+  "name": "Reference sheet (large, tables)",
+  "tier": "large",
+  "angle": "A reader who wants a compact reference with tables and short sections.",
+  "intent_summary": "Large brand-subpage written as a reference sheet about the Longfu88 mobile casino in Singapore: the shortcut for Android and iOS, the features in a table, the shortcut versus the browser tab, registration, withdrawals, protection, technical data, the sportsbook, game categories, deposit methods, currencies and languages, fixes, support and a FAQ; no device section and no login section (the registration section carries both). Page voice: compact reference style, a one-line purpose per section, sentences of about 14 words, nouns over verbs; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 App Reference: Mobile Casino Facts for Singapore",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu app": 1,
+        "Longfu88 mobile casino": 1
+      },
+      "notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence: the casino is used on a smartphone or tablet through its responsive website, on Android and iOS. The phrase \"Longfu88 mobile casino\" stands once, in a sentence that says what the Longfu88 mobile casino is (the responsive website in the phone browser). The phrase \"Longfu app\" stands once, in a sentence that says that players who look for the Longfu app will find the mobile version of the website with a home-screen shortcut (not a store app). State once that the casino is for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (the shortcut, features, shortcut or browser tab, registration, withdrawals, protection, data, sports, currencies, fixes, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Neutral tone, no promises."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Mobile Features Reference",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "notes": "One lead-in sentence that says the website adapts to smartphone and tablet browsers (responsive), then a TABLE with two columns, feature | what the player can do, and six rows in the order of the Brand Information (casino, sportsbook, account access, deposits, withdrawals, bonuses), each cell a short phrase of 3-6 words. No game names, providers, RTP values, payment method names or bonus amounts here (other sections cover them). Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download Reference: Shortcut, Not a File",
+      "words": 65,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Reference",
+      "words": 50,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Reference",
+      "words": 50,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Home Screen Icon Versus Browser Tab",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Account Opening and Login Reference",
+      "words": 85,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The five steps of the registration form with the details it asks for.",
+      "entities": [
+        [
+          "Registration",
+          10
+        ],
+        [
+          "Required Details",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "registers",
+          "with an e-mail address and a password on the registration form",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration.steps",
+        "brandinfo_account.registration.required_details",
+        "brandinfo_account.registration.eligibility"
+      ],
+      "notes": "One lead-in sentence, then a NUMBERED list with the five steps of the Brand Information in order (write \"the website\" where a step names the brand), then one sentence with the required details (e-mail, password, legal name, date of birth, residential address) and one with the eligibility rules: 18 or over, legally permitted to gamble where the player lives, one personal account per player. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Cash-Out Reference for Mobile Players",
+      "words": 80,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The six steps of a withdrawal request from the cashier and how long processing takes.",
+      "entities": [
+        [
+          "Withdrawal",
+          10
+        ],
+        [
+          "Cashier",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "submits",
+          "a withdrawal request in the cashier and waits for casino processing",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_guide",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[2]",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[3]"
+      ],
+      "notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a NUMBERED list with the six steps of the withdrawal guide in the order of the Brand Information (write \"the casino\" or \"the cashier\" where a step names the brand). After the list two sentences: requests are generally processed within three working days; bank transfers may need another 3-5 business days; the operator may request KYC documents before processing. Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. No fees, no limits, no speed promises beyond those sentences. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k10"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Account Security Reference",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Technical Data Reference",
+      "words": 65,
+      "kw": {},
+      "summary": "Which technical data the website collects from a phone and what the cookies are for.",
+      "entities": [
+        [
+          "Technical Data",
+          10
+        ],
+        [
+          "Cookies",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Mobile Website",
+          "collects",
+          "technical data such as the IP address, device data, browser information and cookies",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.data_collected.technical_data",
+        "brandinfo_privacy_policy.privacy_policy.cookies",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing"
+      ],
+      "notes": "The technical data collected by the website: IP address, device data, browser information and cookies; the cookies are necessary, preference, analytics and marketing cookies that support website functions and measurement; the data may be shared with payment service providers, identity verification providers, technology providers and, when required, regulators and law enforcement. Do not print the contact addresses of the privacy policy. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Sportsbook Reference",
+      "words": 60,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which sports the sportsbook offers and that live betting has live odds and in-play markets.",
+      "entities": [
+        [
+          "Sportsbook",
+          10
+        ],
+        [
+          "Live Betting",
+          8
+        ]
+      ],
+      "connections": [
+        [
+          "Live Betting",
+          "offers",
+          "live odds and in-play markets",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.live_betting"
+      ],
+      "notes": "The sportsbook is one of the features of the mobile website. One lead-in sentence, then a bulleted list of the sports as given (football, basketball, tennis, badminton, cricket, table tennis, volleyball, esports, virtual football). and one with live betting: live odds and in-play markets. No odds, bonuses, limits or promises of winnings. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k05"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Game Category Reference",
+      "words": 50,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which game categories the casino section of the mobile website offers.",
+      "entities": [
+        [
+          "Casino Games",
+          10
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "chooses",
+          "among slots, live dealer games, table games, jackpots and other categories in the casino",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types"
+      ],
+      "notes": "One lead-in sentence that says that the casino section of the mobile website offers these game categories, then a bulleted list of the categories exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games). No game names, RTP values, volatility, maximum multipliers or claims that a particular game works on a phone. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k08"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Deposit Method Reference",
+      "words": 80,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "3 payment methods in Singapore dollars with their deposit speed.",
+      "entities": [
+        [
+          "Payment Methods",
+          10
+        ],
+        [
+          "Deposits",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "pays",
+          "with PayNow, PayNow QR, DBS Bank in Singapore dollars",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.deposit_methods[20].method",
+        "brandinfo_deposit.deposit_methods[20].currencies",
+        "brandinfo_deposit.deposit_methods[20].transaction_speed",
+        "brandinfo_deposit.deposit_methods[21].method",
+        "brandinfo_deposit.deposit_methods[21].currencies",
+        "brandinfo_deposit.deposit_methods[21].transaction_speed",
+        "brandinfo_deposit.deposit_methods[7].method",
+        "brandinfo_deposit.deposit_methods[7].currencies",
+        "brandinfo_deposit.deposit_methods[7].transaction_speed"
+      ],
+      "notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a TABLE with three columns, method | currency | deposit speed, and 3 rows in this order: PayNow, PayNow QR, DBS Bank (currency SGD and the speed exactly as in the Brand Information). Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. Name no other payment methods and no fees. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k09"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Currency and Language Reference",
+      "words": 50,
+      "kw": {},
+      "summary": "The currencies of the casino and the languages of the support team.",
+      "entities": [
+        [
+          "Currencies",
+          10
+        ],
+        [
+          "Support Languages",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Casino",
+          "accepts",
+          "EUR, USD, MYR, THB, SGD and USDT",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_general.currencies",
+        "brandinfo_general.customer_support.languages"
+      ],
+      "notes": "Name the six currencies exactly as given (EUR, USD, MYR, THB, SGD, USDT) in one sentence and the six support languages (English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese) in another. Do not convert amounts and do not say which currency a player should choose. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": []
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Problem and Fix Reference",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Support Reference",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Reference FAQ",
+      "words": 90,
+      "kw": {
+        "Longfu88": 2
+      },
+      "summary": "6 short questions and answers on the mobile version of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) which phones work (Android, iOS and the mobile web of smartphones and tablets); (3) whether the shortcut is required (no: the same website opens in a browser tab); (4) how a player opens an account on a phone (by e-mail, with the registration form of the website); (5) which languages support speaks (English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese); (6) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "refs_add": [
+        "brandinfo_account.registration.methods",
+        "brandinfo_general.customer_support.languages"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.method",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ],
+  "skipped_clusters": []
+}

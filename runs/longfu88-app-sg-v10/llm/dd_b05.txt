@@ -1,0 +1,10 @@
+Longfu88 adapts its layout to phone and tablet browsers, so a single page structure covers every part of the casino. Six areas are reachable from one account, as the table shows.
+
+| Area | Use on a phone |
+|---|---|
+| Casino | Playing casino games on the phone |
+| Sportsbook | Placing sports bets, including live bets |
+| Account access | Registering and logging in |
+| Deposits | Funding the account via the cashier |
+| Withdrawals | Requesting a payout through the cashier |
+| Bonuses | Viewing and activating current offers |

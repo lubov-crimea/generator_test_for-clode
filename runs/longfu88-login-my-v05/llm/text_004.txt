@@ -1,0 +1,7 @@
+A forgotten password is replaced through a reset link tied to the registered e-mail, so the player needs access to that mailbox.
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+A player who no longer has access to that mailbox should contact support, whose details appear further down the page.

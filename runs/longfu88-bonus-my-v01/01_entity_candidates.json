@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "MYR",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "VIP",
+    "competitors": 2,
+    "count": 9
+  },
+  {
+    "entity": "Free Spins",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "USDT",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Monday",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "RTP",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "IDR",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Welcome Bonus",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Contents",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Gaming",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "NetEnt",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "THB",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "VND",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Offers",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Live Casino",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Sports Betting",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Fishing Games",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Gold",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Skrill",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Neteller",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "USA",
+    "competitors": 1,
+    "count": 53
+  },
+  {
+    "entity": "Malaysian",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Extra Spins Welcome Bonus",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "MYR 2",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "MYR 30",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Coin Shop",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Existing Customers",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Ripple",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "USD Coin",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Georgia",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Payment Methods",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Sunday",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MYR 6",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Free Spin",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MYR 22",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Slots 100",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MYR 200",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Promotions",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MYR 50",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MYR 300",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MYR 10",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "USDT Crypto Welcome Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Extra Spins Weekend Reload Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Extra Spins Weekend Crypto Reload Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Extra Spins Weekly Reload Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "USDT Weekly Crypto Reload Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Live Cashback Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Weekly Cashback Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Bonus Archive",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Expired Promotions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "MYR Welcome Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Key Features",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Glance",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Frequently Asked Questions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Full List",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casinos Bonus Codes",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Bonus Codes 2026",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Welcome Bonus Codes",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Reload Bonus Codes",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cashback Bonus Codes",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Details",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mondero Enterprises Ltd",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Costa Rican",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Claim",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Set Login",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "KYC",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Promotions’",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Echelonpay DuitNow QR",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Echelonpay Viet QR",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "GrabPay",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "MasterCard",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Visa",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Bragg Gaming",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "SA Gaming",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Evoplay",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Swintt",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "BGaming",
+    "competitors": 1,
+    "count": 1
+  }
+]

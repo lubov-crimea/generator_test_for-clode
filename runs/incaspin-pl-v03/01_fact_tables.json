@@ -1,0 +1,61 @@
+{
+  "tables": [
+    {
+      "competitor": 2,
+      "url": "https://incaspinz.com/",
+      "heading": "Welcome to IncaSpin Casino",
+      "rows": [
+        [
+          "Parameter",
+          "Details"
+        ],
+        [
+          "Casino Name",
+          "IncaSpin"
+        ],
+        [
+          "Established",
+          "2025"
+        ],
+        [
+          "License",
+          "Tobique Gaming Commission, Licence No. 0000058"
+        ],
+        [
+          "Games",
+          "6,000+ titles including 4,000+ slots"
+        ],
+        [
+          "Welcome Bonus",
+          "Up to EUR 2,750 + 275 Free Spins over three deposits"
+        ]
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "casino name",
+      "competitors": 1
+    },
+    {
+      "label": "established",
+      "competitors": 1
+    },
+    {
+      "label": "games",
+      "competitors": 1
+    },
+    {
+      "label": "license",
+      "competitors": 1
+    },
+    {
+      "label": "parameter",
+      "competitors": 1
+    },
+    {
+      "label": "welcome bonus",
+      "competitors": 1
+    }
+  ]
+}

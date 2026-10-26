@@ -1,0 +1,13 @@
+The sportsbook is one of the features of the mobile website, and nine sports are available:
+
+- Football
+- Basketball
+- Tennis
+- Badminton
+- Cricket
+- Table tennis
+- Volleyball
+- Esports
+- Virtual football
+
+Live betting is part of the sportsbook and offers live odds and in-play markets, that is, markets that stay open while a match is being played.

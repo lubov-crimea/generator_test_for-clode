@@ -1,0 +1,349 @@
+{
+  "id": "v06",
+  "name": "Sports first (bettor's page)",
+  "angle": "A reader who bets on sports first and plays casino games second.",
+  "intent_summary": "Brand-review page about the Longfu88 sportsbook and online casino for players from Singapore, written for a bettor: the fact table, sports betting with markets, bet types and live betting, the sports bonuses, betting on mobile, registration and verification, payments, then the casino side with the welcome bonus, reloads and cashback, VIP levels, games and providers, licence and safety, responsible betting, support, pros and cons, an FAQ on sports and payouts and a verdict. Page voice: plain betting vocabulary, the reader is addressed as \"you\", sentences of about 17 words, every section starts with the market or the bet the reader makes and ends with the condition that decides the payout; paragraphs of two to four sentences; calls to action at the sports first deposit bonus and at the casino welcome bonus. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Sports and Casino Review for Singapore Players",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "extra": "Open with the sportsbook, then the casino areas."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Sports and Casino Facts",
+      "fact_rows": [
+        "licence",
+        "company",
+        "welcome_bonus",
+        "cashback",
+        "currencies",
+        "languages",
+        "payment_methods",
+        {
+          "key": "other",
+          "label": "Sports",
+          "kb_refs": [
+            "brandinfo_sportsbook.sportsbook.sports_available"
+          ]
+        },
+        {
+          "key": "other",
+          "label": "Sports bonus",
+          "kb_refs": [
+            "brandinfo_sportsbook.sportsbook.sports_bonuses[0].reward"
+          ]
+        },
+        "min_deposit",
+        "support"
+      ],
+      "words": 100,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "A fact sheet of the casino: licence, operator, welcome bonus, cashback, currencies, languages, payment methods, Sports, Sports bonus, minimum deposit, support."
+    },
+    {
+      "from": [
+        "b18"
+      ],
+      "level": 2,
+      "heading": "Sports Betting at the Casino",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b19"
+      ],
+      "level": 3,
+      "heading": "Sports Bonuses and Boosts",
+      "words": 70,
+      "kw": {},
+      "edit": [
+        [
+          "Give a compact table Offer | Reward | Min. deposit | Wagering for the Sport First Deposit Bonus",
+          "Give a bulleted list with one bullet per offer (the name in bold, then reward, minimum deposit and wagering) for the Sport First Deposit Bonus"
+        ]
+      ],
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Betting on Mobile",
+      "words": 75,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu88 app": 1
+      }
+    },
+    {
+      "from": [
+        "b05",
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Registration, Login and Verification",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu caino login": 1
+      },
+      "summary": "Registration in five numbered steps, login and password recovery, then when documents are requested, which ones and how long the review takes.",
+      "edit": [
+        [
+          " Do not mention the identity-document check here (next sub-section).",
+          ""
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b20",
+        "b21"
+      ],
+      "level": 2,
+      "heading": "Deposits and Withdrawals",
+      "words": 195,
+      "kw": {
+        "Longfu88": 1,
+        "Lngfu88 withdrawal time": 1
+      },
+      "summary": "Deposit methods by type with limits and speed in a table, the deposit route, then withdrawal methods, steps, timing and fees."
+    },
+    {
+      "from": [
+        "b07",
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Casino Welcome Bonus and Its Terms",
+      "words": 150,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 bonus": 1,
+        "Longfu88 promo code": 1
+      },
+      "summary": "The Casino Welcome Bonus with its figures, claiming steps and alternatives, then the wagering, validity and bet limits in a table.",
+      "edit": [
+        [
+          "Do not explain wagering, maximum bet or validity here (next sub-section).",
+          "Wagering, maximum bet and validity belong to the terms part of this block."
+        ]
+      ],
+      "extra": "Keep it clearly separate from the sports bonuses."
+    },
+    {
+      "from": [
+        "b09",
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Reloads and Cashback",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "The seven reload and seasonal offers in a table, then the weekly cashback with VIP rates, the live casino cashback and the rebates."
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "VIP Programme",
+      "words": 80,
+      "kw": {},
+      "edit": [
+        [
+          "Show a compact table Level | Points | Reward | Cashback | Withdrawal limit for levels 1, 5, 10, 15, 20 and 25 exactly as given in the Brand Information (level 1: 1 point, €9.8, 1%, €9,800; level 25: 5,500 points, €980, 10%, €147,000).",
+          "Give level 1 and level 25 in two sentences exactly as in the Brand Information (level 1: 1 point, €9.8, 1%, €9,800; level 25: 5,500 points, €980, 10%, €147,000), without a table."
+        ]
+      ],
+      "formats": [
+        "paragraph"
+      ]
+    },
+    {
+      "from": [
+        "b13",
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Casino Games and Slots",
+      "words": 120,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu 88 casino": 1
+      },
+      "summary": "The nine game categories and three example slots with RTP, volatility and maximum multiplier.",
+      "edit": [
+        [
+          " and lead into the sub-sections on slots, live casino and the other categories without retelling their facts.",
+          " and lead into the slots part of this block; live casino and the other categories follow in the next section."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b15",
+        "b16",
+        "b17"
+      ],
+      "level": 2,
+      "heading": "Live Casino, Other Games and Providers",
+      "words": 170,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu 88": 1
+      },
+      "summary": "The live dealer section with the exclusive baccarat, the other game types and the ten providers."
+    },
+    {
+      "from": [
+        "b03",
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Licence and Security",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1,
+        "casino Longfu88": 1,
+        "Longfu 88 Official Site": 1
+      },
+      "summary": "Launch year, currencies and who may play, then the licence, the operator and how data and accounts are protected.",
+      "edit": [
+        [
+          " Do not repeat the licence or bonus details (later sections).",
+          ""
+        ],
+        [
+          " Do not repeat identity-check details (next section).",
+          " Do not repeat identity-check details (they have their own section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b23"
+      ],
+      "level": 2,
+      "heading": "Responsible Betting and Gambling",
+      "words": 80,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b24"
+      ],
+      "level": 2,
+      "heading": "Support",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b25"
+      ],
+      "level": 2,
+      "heading": "Pros and Cons",
+      "words": 60,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b26"
+      ],
+      "level": 2,
+      "heading": "Questions About Sports and Payouts",
+      "words": 152,
+      "kw": {
+        "Longfu sports": 1,
+        "Longfu88": 1
+      },
+      "notes": "A bulleted list of exactly 5 items, each a bold question followed by a short answer of 20-30 words, in this order: (1) which sports can be bet on (football, basketball, tennis, badminton, cricket, table tennis, volleyball, esports and virtual football); the question contains the keyword \"Longfu sports\" exactly once, written verbatim; (2) what the first sports deposit bonus is (Sport First Deposit Bonus, 100% up to €1,888, minimum deposit €50, 8x wagering, 30 days); (3) what the minimum deposit is (€10 in general, €50 for the Casino Welcome Bonus); the answer contains the keyword \"Longfu88\" exactly once, written verbatim; (4) how long a withdrawal takes (card, crypto and wallet withdrawals 1 to 3 business days; bank transfer up to 3 business days of casino processing plus 3 to 5 business days of bank delivery; the wording must differ from the withdrawals section); (5) which languages support speaks (English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese). The brand name \"Longfu88\" may stand in an answer, never in a question. These are the only questions on the page; the questions are the one place where question form is allowed.",
+      "refs_add": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0]",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_withdrawal.withdrawal_methods[0].transaction_speed",
+        "brandinfo_withdrawal.withdrawal_methods[1].transaction_speed",
+        "brandinfo_general.customer_support.languages"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure"
+      ],
+      "kw_lists_ok": true,
+      "formats": [
+        "list"
+      ],
+      "summary": "Short answers on sports covered, the sports bonus, minimum deposit, withdrawal time, support languages.",
+      "entities": [
+        [
+          "Frequently Asked Questions",
+          8
+        ],
+        [
+          "Sports covered",
+          6
+        ],
+        [
+          "The sports bonus",
+          6
+        ],
+        [
+          "Minimum deposit",
+          6
+        ],
+        [
+          "Withdrawal time",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Frequently Asked Questions",
+          "cover",
+          "sports covered, the sports bonus, minimum deposit, withdrawal time, support languages",
+          6
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b27"
+      ],
+      "level": 2,
+      "heading": "Verdict for Sports Fans",
+      "words": 70,
+      "kw": {
+        "Longfu88 casino": 1,
+        "Longfu": 1,
+        "Longfu88": 1
+      }
+    }
+  ]
+}

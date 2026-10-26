@@ -1,0 +1,40 @@
+{
+  "website_id": 5405,
+  "locale": "en",
+  "slug": "index",
+  "seo": {
+    "title": "VegasHunter Casino NZ: Up to NZ$20,000 + 350 Free Spins",
+    "description": "VegasHunter casino for New Zealand players: pokies, live dealer tables, a welcome package up to NZ$20,000 + 350 Free Spins and 24/7 live chat support."
+  },
+  "keywords": {
+    "main": "Vegas Hunter",
+    "additional": "casino, online casino, crypto casino, play, gambling, slots, pokies, register, login, KYC, app, payments, bonuses, welcome bonus, New Zealand, NZ, Kiwi"
+  },
+  "hero": {
+    "background": 1913,
+    "label": "Welcome package up to NZ$20,000 + 350 Free Spins for new players"
+  },
+  "preview": {
+    "title": "Vegas Hunter Bonuses",
+    "items": [
+      {"image": 1916, "title": "Welcome Package", "text": "Up to NZ$20,000 + 350 Free Spins"},
+      {"image": 1917, "title": "First Deposit", "text": "100% up to NZ$10,000 + 200 Free Spins"},
+      {"image": 1915, "title": "Second Deposit", "text": "100% up to NZ$4,000"},
+      {"image": 1914, "title": "Third Deposit", "text": "75% up to NZ$6,000 + 150 Free Spins"}
+    ]
+  },
+  "reviews": {
+    "title": "Real Player Reviews",
+    "items": [
+      {"username": "Hana", "review": "Registration took a few minutes and the verification steps were easy to follow. I knew what documents to prepare before cashing out.", "date": "2026-10-16", "avatar": 3857, "rating": 5},
+      {"username": "Wiremu", "review": "Plenty of pokies to pick from, and the live tables and instant games are easy to find without scrolling forever.", "date": "2026-10-17", "avatar": 3862, "rating": 5},
+      {"username": "Sophie", "review": "I mostly play on my phone. The mobile version loads quickly and the cashier is simple to use on a small screen.", "date": "2026-10-18", "avatar": 3860, "rating": 4},
+      {"username": "Callum", "review": "Support answered my question about the welcome package in chat and pointed me to the exact terms. Clear and polite.", "date": "2026-10-19", "avatar": 3853, "rating": 5},
+      {"username": "Aroha", "review": "Good choice of payment options, so I did not have to settle for one method. I read the bonus terms before depositing, which is worth doing.", "date": "2026-10-21", "avatar": 3861, "rating": 4}
+    ]
+  },
+  "promo": {
+    "title": "VegasHunter Welcome Package",
+    "description": "Up to NZ$20,000 + 350 Free Spins"
+  }
+}

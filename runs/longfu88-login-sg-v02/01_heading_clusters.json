@@ -1,0 +1,394 @@
+[
+  {
+    "id": "k01",
+    "topic": "Registration and login",
+    "canonical_title": "Registration and Login",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 104,
+    "avg_position": 0.34,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "How to Register and Log In to Your Longfu88 Account"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Step-by-Step Registration Process"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Troubleshooting Login Issues – Get Back to Gaming Fast"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "1. Double-Check Your Login Information"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "How do I log in to my Longfu88 account?"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Can I log in from multiple devices?"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "How to Register at Longfu88"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Longfu88 Login Process ‚Äî Quick Access to Your Account"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Bonuses and welcome offers",
+    "canonical_title": "Bonuses and Welcome Offers",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 35,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Longfu88 Casino Bonuses – Start Your Journey with Exciting Offers"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Welcome Bonus Overview"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Create Your Account ‚Äî Claim 188% Welcome Bonus"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Licence, security and fair play",
+    "canonical_title": "Safety and Fair Play",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 76,
+    "avg_position": 0.53,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "How do I verify my account?"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Account Security Features at Longfu88"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Account Verification Requirements"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Verify Your Account ‚Äî Unlock Full Access"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Other: Account Recovery and Password Reset",
+    "canonical_title": "Account Recovery and Password Reset",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 125,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Account Recovery and Password Reset"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Other: 2. Clear Your Browser Cache and Cookies",
+    "canonical_title": "2. Clear Your Browser Cache and Cookies",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 39,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "2. Clear Your Browser Cache and Cookies"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Other: 3. Try a Different Device or Browser",
+    "canonical_title": "3. Try a Different Device or Browser",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 40,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "3. Try a Different Device or Browser"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Other: Managing Your Longfu88 Account Settings",
+    "canonical_title": "Managing Your Longfu88 Account Settings",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 57,
+    "avg_position": 0.53,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Managing Your Longfu88 Account Settings"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 62,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "4. Contact Customer Support"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Customer Support – We’re Here to Help!"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Deposit methods and payments",
+    "canonical_title": "Payment Methods",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 110,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposit and Withdrawal Limits"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Other: Communication Preferences",
+    "canonical_title": "Communication Preferences",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 62,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Communication Preferences"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "FAQ",
+    "canonical_title": "Frequently Asked Questions",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.73,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "FAQ – Frequently Asked Questions"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Other: Multi-Currency and Multi-Account Policies",
+    "canonical_title": "Multi-Currency and Multi-Account Policies",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 122,
+    "avg_position": 0.73,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Multi-Currency and Multi-Account Policies"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Other: Account Closure and Self-Exclusion",
+    "canonical_title": "Account Closure and Self-Exclusion",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 106,
+    "avg_position": 0.8,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Account Closure and Self-Exclusion"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Games overview",
+    "canonical_title": "Games Overview",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Your Account Opens Thousands of Games"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Other: What should I do if I forgot my password?",
+    "canonical_title": "What should I do if I forgot my password?",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 48,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "What should I do if I forgot my password?"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Mobile access and app",
+    "canonical_title": "Mobile Access",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 115,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile Account Access"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "VIP programme and loyalty",
+    "canonical_title": "VIP Programme",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 180,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "VIP Account Benefits and Tier Progression"
+      }
+    ]
+  }
+]

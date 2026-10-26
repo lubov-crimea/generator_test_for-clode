@@ -1,0 +1,130 @@
+{
+ "website": 4973,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login: Secure Access and Account Checks",
+  "description": "Longfu88 login and account security for Malaysian players: signing in safely, what protects the account, why documents are requested and who to contact.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Casino Login: Secure Access to Your Account",
+   "label": "Sign in safely with your registered e-mail and password",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> gives each player an account that is opened with the e-mail address and the password chosen at registration, and the same two details open the login screen later. The casino accepts players aged 18 or over, and this page is written for players from Malaysia. It covers the sign-in steps, password reset, blocked access, account protection, verification documents, registration and support.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Signing In Safely</h2>\n<p>A Longfu login needs two details only, the registered e-mail address and the password, and it runs in three steps:</p>\n<ol>\n<li>Select Login on the website.</li>\n<li>Enter the registered e-mail and password on the login screen.</li>\n<li>Complete any security check and access the account.</li>\n</ol>\n<p>The security check comes before access, so the account opens only once any such check is passed, and the e-mail and password remain the only login details.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Replacing a Lost Password</h3>\n<p>A player who forgot the password can set a new one through the e-mail address used at registration, in three steps:</p>\n<ol>\n<li>Choose Forgot Password on the login screen.</li>\n<li>Request a reset link using the registered e-mail.</li>\n<li>Follow the e-mailed instructions to set a new password.</li>\n</ol>\n<p>A player who no longer reaches that mailbox should contact support.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Spotting Why Access Is Blocked</h3>\n<p>Failed logins often come from a typing detail: the e-mail address must match the registered one, and caps lock and the keyboard layout need checking. A lost password calls for the reset. The operator may suspend activity for verification or suspected abuse, and an account review can delay access until verification is complete. In that case support answers through live chat 24/7 and by e-mail.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>What Protects the Account</h2>\n<p>The account holder is responsible for safeguarding the login credentials, so the e-mail address and the password remain the player's own concern. On the operator's side, technical and organisational safeguards protect accounts, payments and personal information, and activity may be suspended for verification or suspected abuse. Personal data may be shared with payment service providers, identity verification providers, technology providers, and with regulators and law enforcement when required. Players also hold rights over this data: access, rectification, erasure where legally permitted, restriction, objection, portability where applicable and withdrawal of consent.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Why the Casino Asks for Documents</h2>\n<p>Account verification is requested on four triggers: during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. It is not a step of the sign-in itself. The table lists the documents that count for each purpose.</p>\n<table>\n<tr>\n<td>Document type</td>\n<td>Accepted documents</td>\n</tr>\n<tr>\n<td>Identity</td>\n<td>Passport, national identity card or driving licence</td>\n</tr>\n<tr>\n<td>Address</td>\n<td>Utility bill or bank statement</td>\n</tr>\n<tr>\n<td>Payment method</td>\n<td>Bank or card ownership evidence, or digital wallet ownership evidence</td>\n</tr>\n<tr>\n<td>Source of funds (only when requested)</td>\n<td>Proof of income, bank statements or other supporting financial documents</td>\n</tr>\n</table>\n<p>Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Registration Details and Eligibility</h2>\n<p>The Longfu88 register process uses e-mail registration, the only method given, and takes five steps in a fixed order:</p>\n<ol>\n<li>Open the website and select Register.</li>\n<li>Enter e-mail and create a password.</li>\n<li>Confirm age and acceptance of Terms and Conditions and Privacy Policy.</li>\n<li>Complete the additional personal details and residential address.</li>\n<li>Select Create Account and complete any requested e-mail confirmation.</li>\n</ol>\n<p>Registration requires e-mail, password, legal name, date of birth and residential address. Eligibility means age 18+ and legal gambling age in the relevant jurisdiction, and each player may hold only one personal account, so a second profile for the same player is not allowed.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>The Welcome Offer in Brief</h2>\n<p>A new account can claim the Casino Welcome Bonus, a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins. The minimum first deposit is €50, and wagering is 25x the deposit plus bonus amount. Claiming takes four steps: register and complete the personal details, make the first qualifying deposit, activate the bonus in My Bonuses before any wager, then play eligible games and complete the wagering.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Who to Contact</h2>\n<p>Customer support answers account, login and verification questions through 24/7 live chat and by e-mail at support@longfu88.com. A failed login, a reset e-mail that does not arrive and a document upload problem all belong there. Support is available in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Account Safety Questions",
+   "faqs": [
+    {
+     "question": "How does a player log in?",
+     "answer": "The Longfu88 casino login takes the registered e-mail and password, followed by any security check."
+    },
+    {
+     "question": "How long does verification take?",
+     "answer": "A complete set of documents is normally reviewed within up to 10 days."
+    },
+    {
+     "question": "Which identity document is accepted?",
+     "answer": "A passport, a national identity card or a driving licence."
+    },
+    {
+     "question": "May a player hold more than one account?",
+     "answer": "No, each player may hold one personal account only."
+    },
+    {
+     "question": "Where should a player turn if the login still fails?",
+     "answer": "The Longfu88 support team takes messages in the live chat, open around the clock, and by e-mail."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

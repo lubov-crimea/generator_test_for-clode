@@ -1,0 +1,33 @@
+{
+ "website_id": 4964,
+ "domain": "longfu88casino-sg.com",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login Problems: Why Sign-In Fails and Fixes",
+  "description": "Longfu88 login problems explained for Singapore players: the normal sign-in route, password reset, common causes of failure, account checks and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Cannot sign in? Check the usual causes first",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Join Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Offer"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "website_id": 4975,
+ "domain": "longfu88-my.games",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login: Step-by-Step Guide for New Players",
+  "description": "Longfu88 login guide for new players in Malaysia: create the account, log in, reset a forgotten password, pass verification and keep the account safe."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Create the account, then log in: three steps",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Join Now",
+  "Log In",
+  "Claim Bonus",
+  "Play Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

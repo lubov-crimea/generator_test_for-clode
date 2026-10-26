@@ -1,0 +1,193 @@
+# Longfu88 Casino Mobile Review for Singapore: Quick Start
+
+Longfu88 is an online casino launched in 2026. It combines casino games, live dealer games, sports betting and lottery in one account.
+
+The game categories are slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, and crash and instant games. A sportsbook sits beside them as a separate area for sports betting.
+
+This page is written for players from Singapore. It covers the facts, licence, bonuses, games, payments, mobile play and responsible gambling, each in its own short section. Only adults aged 18 and over may play.
+
+## Quick Facts
+
+| Parameter | Details |
+|---|---|
+| Licence | Jurisdiction Costa Rica, operator Lumina, registration number 000-039123-R-319326-001 |
+| Welcome bonus | 188% up to €2,088 + 18 Free Spins on the first deposit |
+| Minimum deposit | €10 |
+| Payment methods | Visa, Mastercard, Bank Transfer, Bitcoin, USDT, PayNow |
+| Currencies | EUR, USD, MYR, THB, SGD, USDT |
+| Support languages | English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese |
+| Cashback | Up to 10% of weekly net casino losses |
+| Mobile access | Android, iOS, Mobile web |
+| Support | E-mail support@longfu88.com and 24/7 live chat |
+
+## Open the Casino on Your Phone
+
+Open the casino in the browser of a smartphone or tablet. It is a responsive website that works on Android, iOS and mobile web. The Longfu88 app is simply the home-screen version of that site: a shortcut that gives quick access to the casino and the sportsbook, with no store download or APK file involved. Account access, deposits, withdrawals and bonuses sit on the same screens. Add the shortcut in three steps, then check that the icon opens the site.
+
+| Step | Android (Chrome) | iOS (Safari) |
+|---|---|---|
+| 1 | Open Longfu88 in Chrome. | Open Longfu88 in Safari. |
+| 2 | Open the browser menu and choose Add to Home screen. | Tap Share and choose Add to Home Screen. |
+| 3 | Confirm the shortcut. | Confirm Add. |
+
+## Sign Up and Log In
+
+Register with an email address and a few personal details: email, password, legal name, date of birth and residential address. Each player may hold only one personal account, so one registration is all that is needed.
+
+1. Open Longfu88 and select Register.
+2. Enter email and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested email confirmation.
+
+To log in, select Login on the website, enter the registered email and password, and complete any security check. If the password is lost, choose Forgot Password on the login screen, request a reset link by email and follow the emailed instructions.
+
+Keep the documents ready before a withdrawal. KYC verification may be required before a withdrawal, after unusual or high-value transactions, and after changes to account or payment details. The accepted documents are:
+
+- Identity: passport, national identity card or driving licence.
+- Proof of address: utility bill or bank statement.
+- Payment method: bank, card or digital wallet ownership evidence.
+- Source of funds, when requested: proof of income, bank statements or other supporting financial documents.
+
+Send the documents within 30 days of the request. A complete document set is normally reviewed within 10 days. Withdrawals may be held until the checks are done, and failed checks can mean refused transactions or account restrictions.
+
+## Your First Bonus
+
+The Longfu88 bonus for newcomers is the Casino Welcome Bonus, a first deposit casino bonus of 188% up to €2,088 plus 18 Free Spins. It is for new registered players on their first qualifying deposit, with one welcome offer per account at Longfu88. The qualifying minimum deposit of this offer is €50, not the general €10 of the casino.
+
+Claim it in four steps:
+
+- Register an account and complete the required personal details.
+- Make the first qualifying deposit.
+- Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.
+- Play eligible casino games and complete the wagering before expiry.
+
+The claiming route is the My Bonuses activation after the deposit, and no promo code step is part of it. Make the qualifying deposit and claim the offer. Two other first-deposit routes are the Live Casino Welcome Bonus (125% up to €888, minimum deposit €30) and the Casino Crypto Welcome Bonus (188% up to 2,888 USDT, minimum deposit 50 USDT). The Casino Welcome Bonus and the Crypto Welcome Bonus are alternative first-deposit offers.
+
+Read the terms before playing, because they decide how the bonus is cleared.
+
+| Condition | Value |
+|---|---|
+| Wagering | 25x the deposit plus bonus amount |
+| Free Spins wagering | 40x Free Spins winnings |
+| Validity | 10 days from activation |
+| Maximum bet | €22.5 per spin |
+| Maximum cashout | 5x the initial bonus amount |
+
+Neteller and Skrill deposits are excluded, and only one promotional bonus may be active at a time. A withdrawal request before claiming or while the bonus is active can void eligibility. Cancelling forfeits bonus funds and unconverted winnings, and verification may be required before bonus winnings are paid.
+
+## Adding Funds: Payment Methods
+
+Choose a deposit method in the cashier, and use the table to see them grouped by type, with the Singapore options first.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore banks and wallets | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Other local bank and wallet methods | QRIS, DANA, GrabPay, DuitNow, PromptPay QR, MoMo | IDR, MYR, THB, VND |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Every method takes deposits from €10 to €5,000 per transaction and credits them within 1-2 minutes. The casino charges no processing fee, but provider or blockchain network fees may apply. Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus.
+
+To deposit, log in to the Longfu88 account, open the cashier and select Deposit. Choose a method with its currency or network, enter the amount and payment details, and confirm using the provider instructions. Then wait for the funds to reach the playable balance.
+
+## Taking Money Out
+
+Withdrawals go to Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), Touch'n Go, DANA, MoMo, DBS Bank or Online Banking. The minimum is €20 and the maximum €5,000. Follow six steps:
+
+1. Log in to Longfu88 and open the cashier.
+2. Select Withdrawal and choose a supported destination or payment method.
+3. Enter the amount and the receiving bank, wallet, or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Review the request and confirm submission.
+6. Wait for casino processing and any bank or network settlement before receiving funds.
+
+Lngfu88 withdrawal time depends on the method: cards, crypto and wallets take 1 to 3 business days, while Bank Transfer takes up to 3 business days of casino processing and 3 to 5 more for bank delivery. There is no standard casino withdrawal fee, but provider and blockchain fees may apply. A 10% commission (minimum €2.25) can apply where turnover is below the deposit, and 15% on some card or bank transfer funded transactions. Before any withdrawal, a minimum 1x deposit turnover can apply.
+
+## What to Play
+
+Open the lobby of Longfu88 Casino and pick a category. The online casino offers slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, and crash and instant games, nine categories in all.
+
+Start with slots. Gates of Olympus from Pragmatic Play has an RTP of 96.50%, high volatility and a maximum multiplier of 5,000x. Sweet Bonanza, also from Pragmatic Play, shows an RTP of 96.48%, high volatility and 21,175x. Wanted Dead or a Wild from Hacksaw Gaming comes with an RTP of 96.38%, very high volatility and 12,500x. RTP is the share of stakes a slot returns to players over a long run, not a promise for one session, while volatility describes how uneven the payouts are.
+
+Live dealer games form their own category of the lobby. The live casino includes the exclusive Longfu88 Baccarat, a live and table game with baccarat gameplay, and Evolution and SA Gaming are on the provider list.
+
+Beyond live play, each remaining category differs by what the player does. Table games are classic card and wheel formats played against the house. Fishing games are arcade-style shooters aimed at targets on the screen. P2P games are played against other players. Fast games and crash and instant games deliver results in quick rounds, and lottery means choosing numbers for a draw.
+
+Pick a category in the Longfu 88 lobby and check the RTP before choosing a slot. Longfu 88 Casino lists these game providers, which supply the slots, live and table games: Evolution, Red Tiger, NetEnt, Big Time Gaming, Pragmatic Play, Yggdrasil, SA Gaming, Skywind, Betsoft and Hacksaw Gaming.
+
+## Sports Bets
+
+Switch to the sportsbook of Longfu88 when the match matters more than the reels. It covers football, basketball, tennis, badminton, cricket, table tennis, volleyball, esports and virtual football.
+
+The Longfu sports section offers seven bet types: single, accumulator, live, handicap, totals, outrights and Bet Builder. An accumulator joins several selections into one bet, while a Bet Builder combines markets from a single event. Live betting adds live odds and in-play markets, so prices move while the event is running.
+
+Event availability and market selection can vary by jurisdiction, so check the list of events before placing a bet.
+
+## Promotions and Rewards
+
+Activate reloads in My Bonuses and check the terms.
+
+| Offer | Reward | Min. deposit | Wagering | Validity |
+|---|---|---|---|---|
+| Casino Weekly Reload | 50 Free Spins | €30 | 40x Free Spins winnings | 7 days |
+| Casino Weekly Crypto Reload | 60% up to 1,000 USDT | 20 USDT | 30x deposit + bonus | 7 days |
+| Casino Weekend Reload | Up to €3,360 + 50 Free Spins | €50 | 30x deposit + bonus, 40x Free Spins winnings | 7 days |
+| Casino Weekend Crypto Reload | 75% up to 750 USDT + 100 Free Spins | 20 USDT | 30x deposit + bonus, 40x Free Spins winnings | 7 days |
+| Casino Double Fortune | 50% up to €500 | €30 | 30x deposit + bonus | 24 hours |
+| Casino Trick or Treat Pumpkin Bonanza | Up to 100 Free Spins | €20 | 40x Free Spins winnings | 7 days |
+| Casino Dragon Quest | €10 bonus credit | €20 | 30x promotional credit | 7 days |
+
+Each offer allows one claim per promotional period, excludes other active casino bonuses and caps the stake at €5 per spin.
+
+Opt in to the Casino Weekly Cashback at Longfu88: it returns up to 10% of weekly net casino losses, capped at €6,988, with 10x wagering. Bronze pays 2%, Silver 4%, Gold 6%, Platinum 8% and Diamond 10%. The Live Casino Cashback gives 25% up to €850, and four daily rebates (casino 0.9%, live casino 1.0%, P2P 0.8%, lottery 1.0%) carry 1x wagering.
+
+Bonus Crab (7 days, 30x on bonus credit, 40x on Free Spins winnings), Wheel of Fortune (7 days, 30x) and Challenges add rewards with their own wagering.
+
+## VIP Programme
+
+Earn VIP points through eligible real-money play. The points unlock numbered reward levels, 25 in all, grouped into the tiers Bronze, Silver, Gold, Platinum and Diamond.
+
+Level 1 asks for 1 point and carries a €9.8 reward, 1% cashback and a €9,800 withdrawal limit. At level 25 the requirement is 5,500 points, with a €980 reward, 10% cashback and a €147,000 withdrawal limit.
+
+Higher levels add personalised offers, cashback and higher withdrawal limits, plus a personal VIP manager from level 4. Reward and withdrawal limits may differ by VIP level and currency, and the programme rules can change.
+
+## Licence and Safety
+
+Check the basics first. Longfu88 launched in 2026, and accounts can be held in EUR, USD, MYR, THB, SGD or USDT. Use only the Longfu 88 Official Site address and avoid look-alike pages.
+
+Players must be at least 18 and legally permitted to gamble in their place of residence. Each player may hold one personal account, and third-party payment methods are not allowed.
+
+Read the licence line next. The casino Longfu88 operates under a Costa Rica licence held by the operator Lumina, registration number 000-039123-R-319326-001. Lumina also acts as the data controller, and the e-mail of the data protection officer is given in the privacy policy.
+
+Data may be shared with payment service providers, identity verification providers, technology providers, and regulators and law enforcement when required. Players have rights of access, rectification, erasure where legally permitted, restriction, objection, portability and withdrawal of consent. The operator protects accounts, payments and personal data with technical and organisational safeguards, while the account holder is responsible for safeguarding credentials.
+
+## Play Responsibly
+
+Players must be at least 18 and gamble only where it is lawful. Request self-exclusion by e-mail to customer support at support@longfu88.com: account access and gambling may be restricted for the agreed period, within 24 hours after the request is processed.
+
+Account closure is also requested through customer support. The procedure has four steps: contact support, confirm the account details and preferred exclusion terms, allow the casino to restrict or close access, and seek independent support where appropriate.
+
+Self-assessment questions help players spot possible gambling-related harm. Help is available from GamCare, Gamblers Anonymous and Gambling Therapy, and this page cannot replace independent help.
+
+## Help and Support
+
+Reach customer support through live chat or e-mail. Live chat is available 24/7, so it is the first choice for a question that cannot wait. E-mail messages go to support@longfu88.com.
+
+Customer support speaks English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese, so write in the language that is easiest. Keep the account details at hand when asking about verification, a deposit or a withdrawal.
+
+## Short FAQ
+
+- **Is there an app for playing on a phone?** There is no store download: the casino is a responsive website that can be added to the home screen on Android and iOS as a shortcut for quick access.
+- **How can a forgotten password be reset after a failed Longfu88 login?** Tap Forgot Password on the login screen, enter the registered e-mail to receive a reset link, then follow the emailed instructions to set a new password and log in again.
+- **Is a Longfu88 promo code needed to claim the welcome bonus?** Activate the Casino Welcome Bonus in My Bonuses after the first qualifying deposit of €50, before placing any wagers. The claiming procedure has no promo code step.
+- **How long does a withdrawal take once it is requested?** Longfu88 handles card, crypto and wallet withdrawals in 1 to 3 business days. Bank transfer needs up to 3 business days of processing plus 3 to 5 for bank delivery.
+
+## Summary
+
+Longfu88 Casino suits a player who wants casino games, live dealer games and sports betting in one account, funded with local and crypto methods. Before depositing at Longfu88, check the €50 qualifying deposit, the 25x wagering, the withdrawal turnover rule and the identity verification that may come before a payout.
+
+Longfu is for adults aged 18 and over. Gambling is not a source of income, so set a budget in advance, take regular breaks and never chase losses.

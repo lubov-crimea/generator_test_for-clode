@@ -1,0 +1,258 @@
+{
+ "website_id": 38,
+ "domain": "longfu-88.casino",
+ "page_id": 124,
+ "slug": "sg",
+ "locale": "en",
+ "seo": {
+  "title": "Longfu88 Casino Singapore: Bonuses, Games, Payments",
+  "description": "Longfu88 reviewed for players in Singapore: quick facts, the 188% welcome bonus with 18 free spins, VIP ladder, reloads, sports betting and payment options.",
+  "customCanonical": "https://longfu-88.casino/sg",
+  "customPageLang": "en"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-88.casino/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-88.casino/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-88.casino/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-88.casino/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-88.casino/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, online casino, crypto casino, play, gambling, slots, live casino, sports betting, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+ },
+ "hero": {
+  "label": "Welcome offer: 188% up to €2,088 + 18 Free Spins on the first qualifying deposit",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Sign Up"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "3 Hot Chilli Peppers",
+    107
+   ],
+   [
+    "Book of Ra",
+    85
+   ],
+   [
+    "Eye of Horus",
+    96
+   ],
+   [
+    "Gates Of Olympus 1000",
+    84
+   ],
+   [
+    "Joker Stoker",
+    227
+   ],
+   [
+    "Le Fisherman",
+    228
+   ],
+   [
+    "Legacy of Dead",
+    71
+   ],
+   [
+    "Maya Gold",
+    103
+   ],
+   [
+    "StarBurst",
+    73
+   ],
+   [
+    "Sweet Bonanza",
+    100
+   ],
+   [
+    "Wild Clusters",
+    229
+   ],
+   [
+    "Zeus vs Hades",
+    80
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviator",
+    89
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Ballonix",
+    81
+   ],
+   [
+    "Balloon",
+    86
+   ],
+   [
+    "Chicken Road",
+    97
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Penalty Shoot Out",
+    90
+   ],
+   [
+    "Plinko",
+    74
+   ],
+   [
+    "SpaceMan",
+    75
+   ],
+   [
+    "Squid Game",
+    101
+   ],
+   [
+    "Tower Rush",
+    232
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Longfu88 Bonuses",
+  "items": [
+   {
+    "image": 4657,
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4656,
+    "button": "Get Offer"
+   },
+   {
+    "image": 4655,
+    "button": "See Offer"
+   },
+   {
+    "image": 4652,
+    "button": "Claim Now"
+   },
+   {
+    "image": 4653,
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4654,
+    "button": "Claim Bonus"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Real Player Reviews",
+  "items": [
+   {
+    "username": "Priya",
+    "review": "I mostly play slots, and the lobby keeps them neatly sorted so I can jump back to my favourites. Nothing flashy, just a site that works as described.",
+    "date": "2026-10-22",
+    "avatar": 3854,
+    "rating": 5
+   },
+   {
+    "username": "Divya",
+    "review": "Support was friendly and to the point, which is what I want when I have a question about my account. It does what I need without too much clutter.",
+    "date": "2026-10-21",
+    "avatar": 3859,
+    "rating": 5
+   },
+   {
+    "username": "Sarah Goh",
+    "review": "The sign-up form is clear about what it needs, so I did not have to guess any field. I appreciate that everything is where I expect it.",
+    "date": "2026-10-18",
+    "avatar": 3861,
+    "rating": 5
+   },
+   {
+    "username": "Kumar",
+    "review": "Cashback and reload offers are listed together, which makes it simple to compare them. I would recommend a look to anyone curious about it.",
+    "date": "2026-10-18",
+    "avatar": 3856,
+    "rating": 5
+   },
+   {
+    "username": "Jason Teo",
+    "review": "The mobile version is responsive, and the cashier and the game lobby both work well on a small screen. No complaints from my side so far.",
+    "date": "2026-10-16",
+    "avatar": 3862,
+    "rating": 4
+   }
+  ]
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "disclaimer": "18+ only. Bonus terms apply. Please gamble responsibly.",
+  "button": "Claim Bonus"
+ },
+ "cta_texts": [
+  "Register",
+  "See the Offer",
+  "Play Now",
+  "Sign Up",
+  "Check the Bonus"
+ ]
+}

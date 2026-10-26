@@ -1,0 +1,436 @@
+{
+ "issues": [],
+ "blocks": [
+  {
+   "level": 1,
+   "heading": "Longfu88 Casino Login for Malaysian Players",
+   "source": "h1",
+   "covers_clusters": [],
+   "kb_refs": [
+    "brandinfo_account.login.method",
+    "brandinfo_general.minimum_age"
+   ],
+   "words_min": 66,
+   "words_max": 84,
+   "keywords": {
+    "Longfu88": 1
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "entities": [
+    {
+     "name": "Player Account",
+     "priority": 10
+    },
+    {
+     "name": "Login",
+     "priority": 9
+    },
+    {
+     "name": "Minimum Age",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Player",
+     "relation": "logs in to",
+     "object": "the Player Account with e-mail and password",
+     "priority": 8
+    }
+   ],
+   "summary": "What the page covers: how a registered player signs in to the casino account, how a lost password is reset, how the account is opened and checked, and where help is found.",
+   "copywriter_notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence, followed by the fact that the account is opened with the e-mail address and the password chosen at registration. State once that the casino is for players aged 18 or over, and that the page is written for players from Malaysia. Signpost the topics of the page in one sentence (login, password reset, registration, verification, security, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Malaysia, and do not discuss the licence on this page. Use \"Longfu88\" exactly once and no other tracked keyword in the body. No payment or game details. Neutral tone, no promises."
+  },
+  {
+   "level": 2,
+   "heading": "Longfu88 Register: Create an Account in Five Steps",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k01"
+   ],
+   "kb_refs": [
+    "brandinfo_account.registration"
+   ],
+   "words_min": 106,
+   "words_max": 134,
+   "keywords": {},
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "entities": [
+    {
+     "name": "Registration",
+     "priority": 10
+    },
+    {
+     "name": "Required Details",
+     "priority": 7
+    },
+    {
+     "name": "One Account Rule",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Registration",
+     "relation": "requires",
+     "object": "e-mail, password, legal name, date of birth and residential address",
+     "priority": 8
+    },
+    {
+     "subject": "Player",
+     "relation": "may hold",
+     "object": "only one personal account",
+     "priority": 7
+    }
+   ],
+   "summary": "Registration by e-mail in five numbered steps, the details the form asks for and the eligibility rules (18+, one account per player).",
+   "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the five registration steps in the order of the Brand Information, then one short sentence with the required details (e-mail, password, legal name, date of birth, residential address) and the eligibility rules (18+ and of legal gambling age in the relevant jurisdiction, one personal account per player). Registration by e-mail is the only method given. Keep the brand name out of the list items. Do not describe bonuses or deposits here."
+  },
+  {
+   "level": 2,
+   "heading": "How to Log In to Your Account",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k02"
+   ],
+   "kb_refs": [
+    "brandinfo_account.login.method",
+    "brandinfo_account.login.steps"
+   ],
+   "words_min": 70,
+   "words_max": 90,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu login": 1
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "entities": [
+    {
+     "name": "Login",
+     "priority": 10
+    },
+    {
+     "name": "Registered E-mail",
+     "priority": 8
+    },
+    {
+     "name": "Security Check",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Player",
+     "relation": "enters",
+     "object": "the registered e-mail and password on the login screen",
+     "priority": 8
+    },
+    {
+     "subject": "Security Check",
+     "relation": "precedes",
+     "object": "access to the account",
+     "priority": 6
+    }
+   ],
+   "summary": "The three login steps in order: open Login on the website, enter the registered e-mail and password, pass any security check.",
+   "copywriter_notes": "One lead-in sentence that carries a fact, then a NUMBERED list with the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account). The method is e-mail and password: say so. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL or encryption, a username or a player ID: the login is e-mail and password only and no other protection is given. Use \"Longfu login\" exactly once, in the lead-in sentence, written verbatim as the phrase \"Longfu login\" (for example \"Every Longfu login starts with the registered e-mail address and the password\"). Use \"Longfu88\" exactly once, in the lead-in or in the closing line, and no other tracked keyword; keep tracked keywords out of the list items. Do not explain password reset here (next sub-section)."
+  },
+  {
+   "level": 3,
+   "heading": "Forgot Your Password",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k03"
+   ],
+   "kb_refs": [
+    "brandinfo_account.login.password_recovery"
+   ],
+   "words_min": 53,
+   "words_max": 67,
+   "keywords": {},
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "entities": [
+    {
+     "name": "Password Reset",
+     "priority": 10
+    },
+    {
+     "name": "Reset Link",
+     "priority": 8
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Player",
+     "relation": "requests",
+     "object": "a reset link to the registered e-mail",
+     "priority": 8
+    }
+   ],
+   "summary": "How a player who forgot the password sets a new one: Forgot Password on the login screen, reset link by e-mail, new password.",
+   "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the three recovery steps in the order of the Brand Information (Forgot Password on the login screen; request a reset link with the registered e-mail; follow the e-mailed instructions to set a new password). A player who no longer has access to the registered mailbox should contact support (pointer only; the contact details are in the support section). Do not state how long the link is valid or how fast it arrives: no such fact is given."
+  },
+  {
+   "level": 3,
+   "heading": "Login Problems and Fixes",
+   "source": "unique",
+   "covers_clusters": [
+    "k04"
+   ],
+   "kb_refs": [
+    "brandinfo_account.login.password_recovery[1]",
+    "brandinfo_general.customer_support.channels",
+    "brandinfo_privacy_policy.terms_conditions.account_terms"
+   ],
+   "words_min": 57,
+   "words_max": 73,
+   "keywords": {},
+   "formats": [
+    "paragraph"
+   ],
+   "entities": [
+    {
+     "name": "Login Error",
+     "priority": 10
+    },
+    {
+     "name": "Account Review",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Account Review",
+     "relation": "may delay",
+     "object": "access until verification is complete",
+     "priority": 6
+    }
+   ],
+   "summary": "The usual reasons for a failed login and what to check, ending with the support channels and the fact that the operator may restrict an account for verification.",
+   "copywriter_notes": "General industry guidance is allowed here and must stay general: check that the e-mail address is typed as registered, that the keyboard layout and caps lock are right, and use the password reset if the password is lost. The casino may suspend activity for verification or suspected abuse (account terms in the Brand Information); in that case contact support, which is available through live chat 24/7 and by e-mail (do not print the e-mail address here). Do not give browser or cache instructions as casino facts and do not mention error codes, lockout counts or lockout times: none are given."
+  },
+  {
+   "level": 2,
+   "heading": "Account Verification",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k05"
+   ],
+   "kb_refs": [
+    "brandinfo_account.verification.triggers",
+    "brandinfo_account.verification.document_submission_window",
+    "brandinfo_account.verification.typical_review_time",
+    "brandinfo_privacy_policy.kyc_aml.required_documents"
+   ],
+   "words_min": 97,
+   "words_max": 123,
+   "keywords": {},
+   "formats": [
+    "paragraph",
+    "table"
+   ],
+   "entities": [
+    {
+     "name": "Account Verification",
+     "priority": 10
+    },
+    {
+     "name": "Identity Document",
+     "priority": 7
+    },
+    {
+     "name": "Review Time",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Account Verification",
+     "relation": "is requested",
+     "object": "before a withdrawal, during an account review and for unusual or high-value transactions",
+     "priority": 8
+    }
+   ],
+   "summary": "When the casino asks for verification, which documents count (identity, address, payment method, source of funds) and how long the process takes.",
+   "copywriter_notes": "Lead with the triggers (account review, before a withdrawal, unusual or high-value transactions, changes to account or payment details). Then a TABLE with two columns, document type | accepted documents, one row each for identity (passport, national identity card, driving licence), address (utility bill, bank statement), payment method (bank or card ownership evidence, digital wallet ownership evidence) and source of funds (proof of income, bank statements, other supporting financial documents); the source-of-funds row applies only when requested. Then one sentence with the two periods exactly as given: documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days. Do not say that verification is needed at registration or for login: it is requested on the triggers above."
+  },
+  {
+   "level": 2,
+   "heading": "Account Security and Privacy",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k06"
+   ],
+   "kb_refs": [
+    "brandinfo_privacy_policy.privacy_policy.security",
+    "brandinfo_privacy_policy.terms_conditions.account_terms"
+   ],
+   "words_min": 66,
+   "words_max": 84,
+   "keywords": {},
+   "formats": [
+    "paragraph"
+   ],
+   "entities": [
+    {
+     "name": "Account Security",
+     "priority": 10
+    },
+    {
+     "name": "Login Credentials",
+     "priority": 8
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Account Holder",
+     "relation": "safeguards",
+     "object": "the login credentials",
+     "priority": 8
+    }
+   ],
+   "summary": "Who is responsible for the credentials and what the operator does to protect accounts and data.",
+   "copywriter_notes": "Lead with the player's own part: the account holder is responsible for safeguarding the login credentials. Then the operator's part exactly at the level of detail of the Brand Information: technical and organisational safeguards protect accounts, payments and personal information, and the operator may suspend activity for verification or suspected abuse. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL or encryption, a username or a player ID: the login is e-mail and password only and no other protection is given. Do not claim an audit or a certificate. Do not print the contact addresses of the privacy policy (they contain the brand name)."
+  },
+  {
+   "level": 2,
+   "heading": "Welcome Bonus After Registration",
+   "source": "unique",
+   "covers_clusters": [
+    "k10"
+   ],
+   "kb_refs": [
+    "brandinfo_welcome.welcome_bonus.name",
+    "brandinfo_welcome.welcome_bonus.bonus_percentage",
+    "brandinfo_welcome.welcome_bonus.maximum_bonus",
+    "brandinfo_welcome.welcome_bonus.free_spins",
+    "brandinfo_welcome.welcome_bonus.minimum_deposit",
+    "brandinfo_welcome.welcome_bonus.wagering_requirement",
+    "brandinfo_welcome.welcome_bonus.claiming_procedure"
+   ],
+   "words_min": 66,
+   "words_max": 84,
+   "keywords": {},
+   "formats": [
+    "paragraph"
+   ],
+   "entities": [
+    {
+     "name": "Casino Welcome Bonus",
+     "priority": 10
+    },
+    {
+     "name": "First Deposit",
+     "priority": 8
+    },
+    {
+     "name": "Wagering Requirement",
+     "priority": 7
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Casino Welcome Bonus",
+     "relation": "requires",
+     "object": "a first qualifying deposit of €50 and activation in My Bonuses",
+     "priority": 8
+    }
+   ],
+   "summary": "What a new account can claim: the Casino Welcome Bonus, its size, the minimum first deposit, the wagering and the four claiming steps.",
+   "copywriter_notes": "This page is about the account, so keep the bonus short and strictly to the Brand Information: the Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins; the minimum first deposit is €50; wagering is 25x the deposit plus bonus amount. Claiming: register and complete the personal details, make the first qualifying deposit, activate the bonus in My Bonuses before placing any wager, play eligible games and complete the wagering. Use the €50 minimum of the bonus; do NOT mention the general minimum deposit of €10 on this page. Do not add terms that are not listed (validity, limits, exclusions are described elsewhere). Do not promise winnings."
+  },
+  {
+   "level": 2,
+   "heading": "Customer Support for Account Questions",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k08"
+   ],
+   "kb_refs": [
+    "brandinfo_general.customer_support"
+   ],
+   "words_min": 48,
+   "words_max": 62,
+   "keywords": {
+    "Longfu88": 1
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "entities": [
+    {
+     "name": "Customer Support",
+     "priority": 10
+    },
+    {
+     "name": "Live Chat",
+     "priority": 8
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Customer Support",
+     "relation": "answers",
+     "object": "account, login and verification questions through live chat and e-mail",
+     "priority": 8
+    }
+   ],
+   "summary": "How to reach support with a login or account problem: live chat around the clock, e-mail and the languages of the support team.",
+   "copywriter_notes": "Support channels: 24/7 live chat and e-mail. Print the e-mail address exactly as given in the Brand Information; it contains the tracked keyword \"Longfu88\", which is the one occurrence this block allows (so do not write the brand name anywhere else in the block). Support languages: English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese. Say which kinds of account questions go here (login failure, a reset e-mail that does not arrive, document upload) without response-time promises."
+  },
+  {
+   "level": 2,
+   "heading": "Login and Account FAQ",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k09"
+   ],
+   "kb_refs": [
+    "brandinfo_account.login.method",
+    "brandinfo_account.login.password_recovery[1]",
+    "brandinfo_account.verification.typical_review_time",
+    "brandinfo_general.minimum_age",
+    "brandinfo_general.customer_support.channels"
+   ],
+   "words_min": 84,
+   "words_max": 106,
+   "keywords": {
+    "Longfu88": 1
+   },
+   "formats": [
+    "list"
+   ],
+   "entities": [
+    {
+     "name": "Frequently Asked Questions",
+     "priority": 10
+    },
+    {
+     "name": "Login",
+     "priority": 7
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Player",
+     "relation": "finds",
+     "object": "short answers to the most frequent login and account questions",
+     "priority": 6
+    }
+   ],
+   "summary": "Six short questions and answers on login, password reset, verification time, age limit and support.",
+   "copywriter_notes": "A bulleted list of six items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: how to log in (e-mail and password), what to do after a forgotten password (Forgot Password and the e-mailed reset link), which login method the casino uses (e-mail and password), how long verification takes (a complete document set is normally reviewed within up to 10 days), what the minimum age is (18), where to turn when login still fails (customer support, live chat 24/7; do not print the e-mail). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data. Use \"Longfu88\" exactly once and no other tracked keyword."
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "website": 5414,
+ "slug": "bonuses",
+ "seo": {
+  "title": "Longfu88 Cashback and Sports Bonuses: Odds, VIP Rates",
+  "description": "Longfu88 sports bonuses and cashback for Singapore players: the odds rule, VIP cashback rates, daily rebates and responsible use of the offers.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "bonuses, promotions, offers, promo code, welcome bonus, free spins, reload bonus, cashback, wagering requirements, My Bonuses, casino, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Promotions: Casino Cashback and Sports Bonuses in Brief",
+   "label": "Cashback, rebates and sports bonuses explained",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "Cashback and Sports Offers",
+   "items": [
+    {
+     "image": 4652,
+     "content": "<h3><strong>Casino Weekly Cashback</strong></h3>\nUp to 10% of weekly net casino losses",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Now",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4654,
+     "content": "<h3><strong>Casino Crypto Welcome Bonus</strong></h3>\n188% up to 2,888 USDT",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4653,
+     "content": "<h3><strong>Bonus Crab</strong></h3>\nQualifying picks reveal bonus credits, free spins or coins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Join Now",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4656,
+     "content": "<h3><strong>Sport First Deposit Bonus</strong></h3>\n100% up to €1,888",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4657,
+     "content": "<h3><strong>Live Casino Welcome Bonus</strong></h3>\n125% up to €888",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Get Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4655,
+     "content": "<h3><strong>Casino Weekend Crypto Reload</strong></h3>\n75% up to 750 USDT + 100 Free Spins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "See Offer",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> opens its promotions with the Casino Welcome Bonus: up to €2,088 at 188% plus 18 Free Spins, rolled over 25 times on deposit plus bonus with Free Spins winnings at 40 times. A short Longfu bonus guide follows: families, sports offers, cashback and rebates. The page is for Singapore readers aged 18 and over.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Bonus Types in One Paragraph</h2>\n<p>Starters: the Casino Welcome Bonus, a live variant (Live Casino Welcome Bonus) and a crypto variant (Casino Crypto Welcome Bonus). Top-ups: Casino Weekly Reload with Casino Weekend Reload. Returns are the Casino Weekly Cashback, the Unlimited Casino Rebate and the Live Casino Cashback. Sports bonuses and a rewards area sit beside these. Each Longfu88 offer has separate terms and gets switched on in My Bonuses.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Welcome Offer Basics</h2>\n<p>Aimed at newly registered players, the Longfu88 welcome bonus is the Casino Welcome Bonus. Its 188% match tops out at €2,088 and brings 18 Free Spins along, and the first qualifying deposit that earns it begins at €50. A single welcome offer is allowed per account at Longfu88.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Sports Bonuses and the Odds Rule</h2>\n<p>Longfu88 gives its sportsbook a separate set of bonuses, three of which carry the same low wagering multiple.</p>\n<table>\n<tr>\n<td>Sportsbook offer</td>\n<td>Match</td>\n<td>Minimum</td>\n<td>Rollover</td>\n</tr>\n<tr>\n<td>Sport First Deposit Bonus</td>\n<td>€1,888 cap, 100% match</td>\n<td>€50 deposit</td>\n<td>8x applied to deposit + bonus</td>\n</tr>\n<tr>\n<td>Sport Weekly Reload Bonus</td>\n<td>€2,500 cap, 50% match</td>\n<td>€50 deposit</td>\n<td>8x applied to deposit + bonus</td>\n</tr>\n<tr>\n<td>Sport Weekend Reload Bonus</td>\n<td>€3,750 cap, 50% match</td>\n<td>€50 deposit</td>\n<td>8x applied to deposit + bonus</td>\n</tr>\n</table>\n<p>Bets must be settled and qualifying to count toward wagering. A single bet needs 2.00 or more, and odds per accumulator selection must be 1.50 or more. Neither voided bets nor cashed-out bets qualify. Validity is 30 days for all three. Parlay Boost is separate: qualifying accumulators earn as much as 100% extra winnings.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Cashback and VIP Rates</h2>\n<p>Longfu88 runs two cashback offers. The Casino Weekly Cashback returns a share of each week's net casino losses, at most 10%. Its maximum is €6,988, and the smallest payout is €4.5. Weeks run Monday 00:00 to Sunday 23:59 UTC. A four-week cycle starts with an opt-in. Withdrawal needs 10x wagering on the cashback, counted on real-money casino bets only. Bonus funds do not count. The second offer is the Live Casino Cashback with 25%, to a ceiling of €850. It needs an opt-in, then activation in My Bonuses. Wagering on its credited cashback is 10x. Rate and ceiling follow VIP level:</p>\n<table>\n<tr>\n<td>Measure</td>\n<td>VIP Bronze</td>\n<td>VIP Silver</td>\n<td>VIP Gold</td>\n<td>VIP Platinum</td>\n<td>VIP Diamond</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>2%</td>\n<td>4%</td>\n<td>6%</td>\n<td>8%</td>\n<td>10%</td>\n</tr>\n<tr>\n<td>Maximum</td>\n<td>€1,888</td>\n<td>€2,388</td>\n<td>€2,988</td>\n<td>€3,988</td>\n<td>€6,988</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Daily Rebates</h2>\n<p>Rebates are not cashback, because they follow wagering rather than net losses. In the Unlimited Casino Rebate the rate is 0.9%, and in the Unlimited Live Casino Rebate it is 1.0%. Both apply to qualifying real-money bets, once settled, in their game category. Longfu88 pays the rebate into the rewards balance each day. Its credited amount needs 1x wagering.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Using Offers Responsibly</h2>\n<p>Offer eligibility at Longfu88 starts at age 18, and gambling is meant only for places where it is lawful. Validity, maximum bet and wagering terms deserve a read before an offer is accepted. Gamblers Anonymous, GamCare and Gambling Therapy are the support organisations the casino names.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Longfu88 Offers: Sports and Cashback Questions",
+   "faqs": [
+    {
+     "question": "Does a Longfu88 promo code exist?",
+     "answer": "None is listed, and activation of offers happens in My Bonuses."
+    },
+    {
+     "question": "What odds qualify a sports bet?",
+     "answer": "A single bet needs odds of at least 2.00, while every accumulator selection needs at least 1.50."
+    },
+    {
+     "question": "What is the weekly cashback worth?",
+     "answer": "A cap of €6,988 applies to the refund of up to 10% of net losses on casino play during the week."
+    },
+    {
+     "question": "Who answers bonus questions at Longfu88?",
+     "answer": "Players can write by e-mail or use the 24/7 live chat."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "See Offer",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

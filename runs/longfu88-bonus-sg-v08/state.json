@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-25T15:39:09",
+    "blocks": 17,
+    "variant": "v08"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-25T15:55:43",
+    "iteration": 0,
+    "regenerated": 17
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-25T15:56:33",
+    "iteration": 1,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-25T17:55:11",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-bonus-sg-v08.txt"
+  }
+}

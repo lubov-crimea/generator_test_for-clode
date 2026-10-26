@@ -1,0 +1,7 @@
+E-mail is the sole registration route at Longfu88, and the rest of the form asks for a password, legal name, birth date and residential address. A phone login mirrors the desktop one: e-mail plus password, in three steps that begin at the Login page.
+
+- Tap Login on the site.
+- Type the account e-mail and its password.
+- Land inside the account.
+
+A lost password is handled by the Forgot Password option found on the login screen.

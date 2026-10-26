@@ -1,0 +1,9 @@
+Registration is by email and takes five steps, with an email, a password, a legal name, a date of birth and a residential address required along the way.
+
+1. Open Longfu88 and select Register.
+2. Enter email and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested email confirmation.
+
+Longfu88 login works with the registered email and password: select Login on the website, enter both and complete any security check. A forgotten password is reset from the login screen by choosing Forgot Password, requesting a reset link by email and following the emailed instructions. Each player may hold only one personal account, so a second personal account is not possible.

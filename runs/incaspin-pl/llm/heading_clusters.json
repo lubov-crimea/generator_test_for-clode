@@ -1,0 +1,16 @@
+{"clusters":[
+{"topic":"Licence, legality and safety","canonical_title":"Licencja i bezpieczeństwo","member_ids":["c0h1","c0h2","c0h3","c1h1","c1h2","c1h3","c2h2","c2h19"]},
+{"topic":"Game library overview","canonical_title":"Oferta gier","member_ids":["c0h4","c0h5","c1h4","c1h5","c2h8","c2h9","c2h10","c2h11"]},
+{"topic":"Software providers","canonical_title":"Dostawcy gier","member_ids":["c0h6","c1h6","c2h12","c2h25"]},
+{"topic":"Bonuses and promotions overview","canonical_title":"Bonusy i promocje","member_ids":["c0h7","c1h7","c1h8","c2h26"]},
+{"topic":"Welcome bonus","canonical_title":"Bonus powitalny","member_ids":["c0h8","c2h13","c2h20"]},
+{"topic":"Wagering rules and bonus terms","canonical_title":"Warunki obrotu bonusem","member_ids":["c0h9","c1h9"]},
+{"topic":"Loyalty programme","canonical_title":"Program lojalnościowy","member_ids":["c2h14"]},
+{"topic":"Payments: deposits and withdrawals","canonical_title":"Wpłaty i wypłaty","member_ids":["c0h10","c0h11","c1h10","c1h11","c2h3","c2h4","c2h5","c2h23","c2h24"]},
+{"topic":"Limits and currencies","canonical_title":"Limity i waluty","member_ids":["c0h12","c1h12","c2h6","c2h7"]},
+{"topic":"Mobile play and interface","canonical_title":"Gra na telefonie","member_ids":["c0h13","c0h14","c1h13","c1h14","c1h15","c2h15","c2h22"]},
+{"topic":"Customer support","canonical_title":"Obsługa klienta","member_ids":["c0h15","c2h16"]},
+{"topic":"Registration and login","canonical_title":"Rejestracja i logowanie","member_ids":["c2h1","c2h21"]},
+{"topic":"Conclusion and final verdict","canonical_title":"Podsumowanie i ocena","member_ids":["c0h16","c0h17","c0h18","c1h16","c1h17","c1h18","c2h17"]},
+{"topic":"FAQ","canonical_title":"Najczęściej zadawane pytania","member_ids":["c0h19","c1h19","c2h18"]}
+]}

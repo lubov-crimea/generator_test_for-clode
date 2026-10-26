@@ -1,0 +1,155 @@
+{
+  "tables": [
+    {
+      "competitor": 2,
+      "url": "https://incaspincasino-it.net/",
+      "heading": "Operatore",
+      "rows": [
+        [
+          "Gestito da",
+          "Società operatrice non pubblicamente identificata con certezza; operante sotto licenza UK Gambling Commission"
+        ],
+        [
+          "Licenza",
+          "UK Gambling Commission (UKGC)"
+        ],
+        [
+          "Fondato nel",
+          "2020"
+        ],
+        [
+          "Indirizzo",
+          "Indirizzo della società operante sotto licenza UKGC"
+        ]
+      ]
+    },
+    {
+      "competitor": 2,
+      "url": "https://incaspincasino-it.net/",
+      "heading": "Assistenza",
+      "rows": [
+        [
+          "Come contattarci",
+          "Live Chat Email"
+        ],
+        [
+          "Orari",
+          "24/7"
+        ],
+        [
+          "E-mail",
+          "[email protected]"
+        ]
+      ]
+    },
+    {
+      "competitor": 2,
+      "url": "https://incaspincasino-it.net/",
+      "heading": "Assistenza",
+      "rows": [
+        [
+          "Giochi",
+          "500"
+        ],
+        [
+          "Studi di gioco",
+          "Microgaming, NetEnt, Play'n GO, Pragmatic Play, Evolution Gaming, Red Tiger, Big Time Gaming, Yggdrasil"
+        ],
+        [
+          "Deposito min.",
+          "Deposito minimo tipicamente £10"
+        ],
+        [
+          "Prelievo min.",
+          "Prelievo minimo tipicamente £10"
+        ],
+        [
+          "Tempi di pagamento",
+          "Portafogli elettronici in 24-48 ore, carte e bonifici in 1-3 giorni lavorativi"
+        ],
+        [
+          "Metodi di pagamento",
+          "Carte di credito/debito, Skrill, Neteller, PaySafeCard, Bonifico bancario"
+        ],
+        [
+          "Valute",
+          "GBP"
+        ],
+        [
+          "Lingue",
+          "en, de, fr, it, es, pt, fi, no, pl, cs, hu, nl"
+        ],
+        [
+          "Programma VIP",
+          "5: Bronze → Diamond"
+        ]
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "come contattarci",
+      "competitors": 1
+    },
+    {
+      "label": "deposito min.",
+      "competitors": 1
+    },
+    {
+      "label": "e-mail",
+      "competitors": 1
+    },
+    {
+      "label": "fondato nel",
+      "competitors": 1
+    },
+    {
+      "label": "gestito da",
+      "competitors": 1
+    },
+    {
+      "label": "giochi",
+      "competitors": 1
+    },
+    {
+      "label": "indirizzo",
+      "competitors": 1
+    },
+    {
+      "label": "licenza",
+      "competitors": 1
+    },
+    {
+      "label": "lingue",
+      "competitors": 1
+    },
+    {
+      "label": "metodi di pagamento",
+      "competitors": 1
+    },
+    {
+      "label": "orari",
+      "competitors": 1
+    },
+    {
+      "label": "prelievo min.",
+      "competitors": 1
+    },
+    {
+      "label": "programma vip",
+      "competitors": 1
+    },
+    {
+      "label": "studi di gioco",
+      "competitors": 1
+    },
+    {
+      "label": "tempi di pagamento",
+      "competitors": 1
+    },
+    {
+      "label": "valute",
+      "competitors": 1
+    }
+  ]
+}

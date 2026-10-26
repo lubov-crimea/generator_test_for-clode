@@ -1,0 +1,40 @@
+{
+  "competitors": [
+    631,
+    683,
+    2544,
+    2634
+  ],
+  "base": "medium",
+  "tiers": {
+    "small": {
+      "competitors": [
+        631,
+        683
+      ],
+      "mean": 657,
+      "multiplier": 1.2,
+      "target": 657,
+      "limit": 788
+    },
+    "medium": {
+      "competitors": [
+        2544
+      ],
+      "mean": 2544,
+      "multiplier": 1.2,
+      "target": 2544,
+      "limit": 3053
+    },
+    "large": {
+      "competitors": [
+        2634
+      ],
+      "mean": 2634,
+      "multiplier": 1.0,
+      "target": 2634,
+      "limit": 2634,
+      "outlier": true
+    }
+  }
+}

@@ -1,0 +1,11 @@
+A logged-in player account gives access to the casino, the sportsbook, deposits, withdrawals and bonuses, so one login covers every part of the product described on the rest of the site. The casino side is organised into these game categories:
+
+- Slots
+- Live dealer games
+- Table games
+- Jackpots
+- Fishing
+- P2P games
+- Fast games
+- Lottery
+- Crash & instant games

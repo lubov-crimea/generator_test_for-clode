@@ -1,0 +1,8 @@
+Longfu88 does not ask for documents at every login, only on specific occasions: during an account review, ahead of a withdrawal, for transactions seen as unusual or high-value, and after an alteration of the account data or the payment data. The evidence that counts varies with the check:
+
+- A national ID card, a passport or a driving licence proves identity.
+- Where the player lives is evidenced by a bank statement, or by a utility bill if that suits better.
+- Ownership of the payment method is shown by bank or card evidence, or by wallet evidence in the case of digital wallets.
+- Source-of-funds checks accept income proof, bank statements or similar supporting financial documents, though only when requested.
+
+Documents must arrive within 30 days of being requested, and holding them back until the final day brings no advantage. Going through a full set of papers takes up to 10 days as a rule. Until that ends, an account being checked may remain on hold, which can delay access.

@@ -1,0 +1,8 @@
+Account verification is a routine identity check. It may be requested during a review of the account, when a withdrawal is pending, after transactions that look unusual or large, and whenever the account details or the payment details are changed. Documents that can be requested:
+
+- A government-issued photo ID or a passport
+- A document linking the payment method to the player
+- Proof of residence for the registered address
+- Source-of-funds or source-of-wealth paperwork, when asked
+
+Anything requested is to be submitted within up to 30 days.

@@ -1,0 +1,648 @@
+[
+  {
+    "id": "k01",
+    "topic": "Casino overview / why choose",
+    "canonical_title": "Casino Overview and Key Features",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      4
+    ],
+    "avg_section_words": 61,
+    "avg_position": 0.17,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "VegasHunter Online: Discover the Best Gaming Experience"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Vegashunter Review"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Why More Kiwi Bettors Are Choosing VegasHunter Today"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Licensed & Regulated"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Crypto Banking"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Mobile Pokies"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "1,000+ Games"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Free spins",
+    "canonical_title": "Free Spins Offers",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 46,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "How to Claim 20 Free Spins Special"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Free Spins"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Free Spins on Selected Slot Games"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Safety, licence, legitimacy",
+    "canonical_title": "Licensing, Safety and Trust",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 91,
+    "avg_position": 0.32,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Comprehensive VegasHunter Casino Review: Legitimacy and Trust"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Is VegasHunter Legit? Safety Standards for Australian Players"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Licensing, Security, and Trust Features Explained"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Registration and login",
+    "canonical_title": "Registration and Login Guide",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 87,
+    "avg_position": 0.32,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Sign In on Vegas Hunter Casino Website"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Secure VegasHunter Casino Registration"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Online Casino Login: Step-by-Step Instructions"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter 7 Login Australia: Mirror Sites and Access Tips"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "How to Register and Verify Your VegasHunter Account"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Welcome bonus and bonus overview",
+    "canonical_title": "Welcome Bonus and Promotions",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 36,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Exclusive Offers: VegasHunter No Deposit Bonus 2026"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Casino Australia Real Money Bonus Codes"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Discover VegasHunter Welcome Bonuses and Promotional Rewards"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Match Bonus"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Min. Deposit"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "The VegasHunter bonus New Zealand offer includes a 100% match bonus of up to NZ$3,000 and up to 150 free spins."
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Mobile app and mobile play",
+    "canonical_title": "Mobile Play and App Access",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 51,
+    "avg_position": 0.47,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile Vegas Hunter Casino on Your Device"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Download the Official VegasHunter App for Android and iPhone"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Vegas Hunter App Login: Play Your Favorite Games Anywhere"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Optimizing the VegasHunter Casino App Login Experience"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Mobile Play Features and App Access at VegasHunter"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Android APK Access"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Mobile Browser Play"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Full Feature Access"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Games overview and pokies",
+    "canonical_title": "Games and Pokies Library",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 52,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "VegasHunter Pokies: Top Games for Aussie Players"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Popular Slots on VegasHunter Site"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Online Real Money Gaming Library"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Top Real Money Games and Pokies Available at VegasHunter"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Pokies & Slots"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Player reviews",
+    "canonical_title": "What Players Say",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 124,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Reviews: What Real Users Say in 2026"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "What Our Clients Say"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Payments, deposits and banking methods",
+    "canonical_title": "Banking Methods and Deposits",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.7,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Banking Guide: VegasHunter Withdrawal and Deposits"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Payments"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Banking Methods, Limits, and Payout Speed"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Visa & Mastercard"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "MiFinity"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "NeoSurf"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "FAQ",
+    "canonical_title": "Frequently Asked Questions",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 21,
+    "avg_position": 0.91,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "VegasHunter FAQ: All Your Questions Answered"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "What is VegasHunter and how do I start playing?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Is VegasHunter casino legit for real money gambling in Australia?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Where can I find the latest Vegas Hunter casino reviews?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "How to withdraw money from VegasHunter to an Australian bank?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Can I get 20 free spins at VegasHunterCasino without a deposit?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Is there a VegasHunter casino login Australia app for mobile users?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Frequently Asked Questions (FAQs)"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Bonus terms and wagering",
+    "canonical_title": "Bonus Terms and Wagering Requirements",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 64,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Wagering"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Bonus Rules and Wagering Requirements"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Reload bonuses and cashback",
+    "canonical_title": "Reload Bonuses and Cashback",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 62,
+    "avg_position": 0.29,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Reload Bonuses and Cashback Deals"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Table games",
+    "canonical_title": "Table Games",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 14,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Table Games"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Live dealer games",
+    "canonical_title": "Live Dealer Games",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 17,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live Dealer Games"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Crash and instant win games",
+    "canonical_title": "Crash and Instant Win Games",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 14,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Crash & Instant Win"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Loyalty and reward tiers",
+    "canonical_title": "Loyalty and Rewards",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 82,
+    "avg_position": 0.47,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Casino 13: Exploring Loyalty and Reward Tiers"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Cryptocurrency banking",
+    "canonical_title": "Crypto Banking",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      4
+    ],
+    "avg_section_words": 33,
+    "avg_position": 0.54,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Crypto Banking Benefits for New Zealand Players"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Bitcoin (BTC)"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Ethereum (ETH)"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "USDT"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Litecoin & Dogecoin"
+      },
+      {
+        "competitor": 2,
+        "level": 4,
+        "text": "Cryptocurrency"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Game providers and RTP",
+    "canonical_title": "Game Providers and RTP",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 69,
+    "avg_position": 0.62,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VegasHunter Casino Official Site: Game Providers and RTP"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Withdrawals, limits and fees",
+    "canonical_title": "Withdrawals, Limits and Fees",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 72,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "How to Withdraw Money from VegasHunter Quickly and Safely"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Understanding VegasHunter AU Transaction Limits and Fees"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 48,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Customer Support Options and Help Services"
+      }
+    ]
+  }
+]

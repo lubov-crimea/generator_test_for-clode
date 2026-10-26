@@ -1,0 +1,20 @@
+=== b04 ===
+A Longfu login works with the details given at registration: the method is e-mail and password, and nothing else is asked for in the steps below. At Longfu88 the player goes through three steps, and the last one can include a security check before the account opens.
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password.
+3. Complete any security check and access the account.
+
+The e-mail must be the registered one, and the security check, where it appears, comes before access to the account is granted. A player who does not remember the password can use the reset described next, and one whose login fails will find the usual checks after that.
+
+=== b05 ===
+A forgotten password is handled with a reset link that is sent to the registered e-mail address, and the process starts on the login screen itself.
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the emailed instructions to set a new password.
+
+A player who no longer has access to the registered mailbox should contact customer support, whose channels are listed in the help section of this page.
+
+=== b06 ===
+A failed login is often a matter of small typing details, so the first checks are simple. The e-mail address has to be entered exactly as registered, the caps lock and the keyboard layout should be right, and a lost password calls for the reset described above. If these checks change nothing, the cause may lie with the account itself. Longfu88 may suspend activity for verification or suspected abuse, and an account under review can be delayed in access until verification is complete. In that case the player should contact support through live chat, which is available 24/7, or by e-mail.

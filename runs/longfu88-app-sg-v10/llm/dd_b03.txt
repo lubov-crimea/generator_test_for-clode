@@ -1,0 +1,7 @@
+Chrome on an Android phone creates the shortcut in three stages:
+
+1. Visit the casino website in Chrome.
+2. Pick the Add to Home screen item from the Chrome menu.
+3. Accept the prompt to add it.
+
+An icon for the site then appears next to the phone's other icons.

@@ -1,0 +1,366 @@
+{
+  "id": "v03",
+  "name": "Reader's questions (pros and cons first, big FAQ)",
+  "angle": "A reader who wants a balanced overview first and the detailed answers to common questions last.",
+  "intent_summary": "Brand-review page about the Longfu88 online casino for players from Singapore, built as a balanced guide: the fact table, a pros and cons table straight after it, what the casino is, licence and privacy, registration and verification, the welcome bonus, reloads and cashback, VIP levels, games and providers, sports betting, deposits and withdrawals, mobile use, responsible gambling, support, a detailed FAQ of six answers and a closing note. Page voice: explanatory and neutral, every section opens with the question a reader would ask (never written as a question) and answers it in the first two sentences, sentences of about 16 words, paragraphs of two to three sentences; a figure is always followed by what it means in practice; one call to action at the welcome bonus. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Review for Singapore: Questions Answered",
+      "words": 71,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Core Facts",
+      "fact_rows": [
+        "company",
+        "licence",
+        "founded",
+        "currencies",
+        "languages",
+        "payment_methods",
+        "welcome_bonus",
+        "min_deposit",
+        "cashback",
+        {
+          "key": "other",
+          "label": "VIP tiers",
+          "kb_refs": [
+            "brandinfo_loyalty.loyalty_vip_program.tiers"
+          ]
+        },
+        {
+          "key": "other",
+          "label": "Minimum age",
+          "kb_refs": [
+            "brandinfo_general.minimum_age"
+          ]
+        },
+        "support"
+      ],
+      "words": 108,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "A fact sheet of the casino: operator, licence, launch year, currencies, languages, payment methods, welcome bonus, minimum deposit, cashback, VIP tiers, Minimum age, support."
+    },
+    {
+      "from": [
+        "b25"
+      ],
+      "level": 2,
+      "heading": "Pros and Cons Summary",
+      "words": 57,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "What the Casino Is",
+      "words": 62,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu 88 Official Site": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Licence and Privacy",
+      "words": 104,
+      "kw": {
+        "Longfu88": 1,
+        "casino Longfu88": 1
+      },
+      "edit": [
+        [
+          " Do not repeat identity-check details (next section).",
+          " Do not repeat identity-check details (they have their own section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Registration and Login Steps",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu caino login": 1
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 3,
+      "heading": "Verification Rules",
+      "words": 71,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Welcome Offer",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 bonus": 1
+      },
+      "extra": "The one call-to-action place of the page: one plain invitation to claim the bonus is allowed."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 3,
+      "heading": "Wagering Terms",
+      "words": 71,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "VIP Programme",
+      "words": 76,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Reload and Special Campaigns",
+      "words": 86,
+      "kw": {},
+      "edit": [
+        [
+          "then a Markdown table Offer | Reward | Min. deposit | Wagering | Validity for the seven offers as given:",
+          "then a bulleted list with one bullet per offer (the name in bold, then reward, minimum deposit, wagering and validity) for the seven offers as given:"
+        ]
+      ],
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 3,
+      "heading": "Cashback and Rebate Details",
+      "words": 57,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Casino Games",
+      "words": 62,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 casino": 1
+      }
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 3,
+      "heading": "Slot Examples",
+      "words": 66,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 3,
+      "heading": "Live Dealers",
+      "words": 66,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu 88 casino": 1
+      }
+    },
+    {
+      "from": [
+        "b17"
+      ],
+      "level": 2,
+      "heading": "Game Studios",
+      "words": 52,
+      "kw": {
+        "Longfu 88": 1
+      }
+    },
+    {
+      "from": [
+        "b20"
+      ],
+      "level": 2,
+      "heading": "Deposit Methods",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b21"
+      ],
+      "level": 3,
+      "heading": "Withdrawal Rules",
+      "words": 86,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b18",
+        "b19"
+      ],
+      "level": 2,
+      "heading": "Sportsbook",
+      "words": 109,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu sports": 1
+      },
+      "summary": "Sports and bet types, live betting and the sports bonuses with the shared odds rule."
+    },
+    {
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Mobile Use",
+      "words": 71,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b24"
+      ],
+      "level": 2,
+      "heading": "Support Contacts",
+      "words": 52,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b23"
+      ],
+      "level": 2,
+      "heading": "Safer Gambling",
+      "words": 71,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b26"
+      ],
+      "level": 2,
+      "heading": "Detailed FAQ",
+      "words": 180,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 app": 1,
+        "Lngfu88 withdrawal time": 1,
+        "Longfu88 promo code": 1
+      },
+      "notes": "A bulleted list of exactly 6 items, each a bold question followed by a short answer of 20-30 words, in this order: (1) what the minimum deposit is (€10 in general, €50 for the Casino Welcome Bonus); (2) how long identity verification takes (up to 10 days after a complete document set; up to 30 days to send the documents when requested); the answer contains the keyword \"Longfu88\" exactly once, written verbatim; (3) whether a player may have more than one account (no: one personal account per player, and the account must be registered with accurate information); (4) whether there is an app (no download is described: the casino is a responsive website that can be added to the home screen on Android and iOS); the question contains the keyword \"Longfu88 app\" exactly once, written verbatim; (5) how long a withdrawal takes (card, crypto and wallet withdrawals 1 to 3 business days; bank transfer up to 3 business days of casino processing plus 3 to 5 business days of bank delivery; the wording must differ from the withdrawals section); the question contains the keyword \"Lngfu88 withdrawal time\" exactly once, written verbatim; (6) how to claim the Casino Welcome Bonus (activate it in My Bonuses after the first qualifying deposit of €50; the claiming procedure has no promo code step); the question contains the keyword \"Longfu88 promo code\" exactly once, written verbatim. The brand name \"Longfu88\" may stand in an answer, never in a question. These are the only questions on the page; the questions are the one place where question form is allowed.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_account.registration.eligibility",
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_app.app_information.mobile_access",
+        "brandinfo_withdrawal.withdrawal_methods[0].transaction_speed",
+        "brandinfo_withdrawal.withdrawal_methods[1].transaction_speed"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.password_recovery"
+      ],
+      "kw_lists_ok": true,
+      "formats": [
+        "list"
+      ],
+      "summary": "Short answers on minimum deposit, verification time, one account, the app question, withdrawal time, claiming the bonus.",
+      "entities": [
+        [
+          "Frequently Asked Questions",
+          8
+        ],
+        [
+          "Minimum deposit",
+          6
+        ],
+        [
+          "Verification time",
+          6
+        ],
+        [
+          "One account",
+          6
+        ],
+        [
+          "The app question",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Frequently Asked Questions",
+          "cover",
+          "minimum deposit, verification time, one account, the app question, withdrawal time, claiming the bonus",
+          6
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b27"
+      ],
+      "level": 2,
+      "heading": "Closing Thoughts",
+      "words": 62,
+      "kw": {
+        "Longfu88 casino": 1,
+        "Longfu": 1,
+        "Longfu88": 1
+      }
+    }
+  ]
+}

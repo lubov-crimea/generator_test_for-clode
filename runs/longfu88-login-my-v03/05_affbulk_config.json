@@ -1,0 +1,36 @@
+{
+ "website_id": 4976,
+ "domain": "longfu88-play.net",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Login Checklist: Register, Verify, Sign In",
+  "description": "Longfu88 login checklist for Malaysian players: what to prepare, the documents to keep ready, the login steps and what to do if the password is lost."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Registration, documents and login in one checklist",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Log In",
+  "Play Now",
+  "Join Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

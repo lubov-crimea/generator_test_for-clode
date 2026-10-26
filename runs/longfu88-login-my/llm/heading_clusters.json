@@ -1,0 +1,21 @@
+{
+  "clusters": [
+    {"topic": "How to register an account", "canonical_title": "How to Register", "member_ids": ["c0h4", "c1h2", "c2h1", "c2h2", "c3h1", "c4h1"]},
+    {"topic": "How to log in", "canonical_title": "How to Log In", "member_ids": ["c0h1", "c1h1", "c1h12", "c2h3"]},
+    {"topic": "Forgot password and account recovery", "canonical_title": "Forgot Your Password", "member_ids": ["c0h2", "c1h13", "c2h4", "c4h8"]},
+    {"topic": "Troubleshooting login problems", "canonical_title": "Login Problems and Fixes", "member_ids": ["c1h3", "c1h4", "c1h5", "c1h6"]},
+    {"topic": "Account verification (KYC)", "canonical_title": "Account Verification", "member_ids": ["c1h14", "c2h6", "c2h7", "c4h9"]},
+    {"topic": "Account security and data protection", "canonical_title": "Account Security and Privacy", "member_ids": ["c2h5", "c3h7", "c3h8", "c3h10", "c3h11", "c3h12", "c3h13", "c4h11", "c4h12", "c4h14", "c4h16", "c4h17"]},
+    {"topic": "Two-factor and identity checks at login", "canonical_title": "Two-Factor Authentication", "member_ids": ["c3h9", "c4h13", "c4h15"]},
+    {"topic": "Customer support for account questions", "canonical_title": "Customer Support", "member_ids": ["c1h7", "c1h10", "c3h3", "c3h4", "c3h5", "c3h6", "c4h7", "c4h10"]},
+    {"topic": "Frequently asked questions about login and account", "canonical_title": "Login and Account FAQ", "member_ids": ["c0h5", "c1h11", "c3h14", "c4h18"]},
+    {"topic": "Welcome bonus after registration", "canonical_title": "Welcome Bonus", "member_ids": ["c1h8", "c1h9"]},
+    {"topic": "Deposit and payment methods", "canonical_title": "Deposits and Payment Methods", "member_ids": ["c2h9", "c3h2", "c4h2", "c4h3", "c4h4", "c4h5", "c4h6"]},
+    {"topic": "Account settings and communication preferences", "canonical_title": "Account Settings", "member_ids": ["c2h8", "c2h10"]},
+    {"topic": "Multi-currency and multi-account policy", "canonical_title": "Currencies and One Account Rule", "member_ids": ["c2h11"]},
+    {"topic": "Account closure and self-exclusion", "canonical_title": "Account Closure and Self-Exclusion", "member_ids": ["c2h12"]},
+    {"topic": "Mobile and multi-device access", "canonical_title": "Mobile Access and Devices", "member_ids": ["c1h15", "c2h14"]},
+    {"topic": "Games available after login", "canonical_title": "Games After Login", "member_ids": ["c0h3", "c2h13"]},
+    {"topic": "VIP benefits", "canonical_title": "VIP Account Benefits", "member_ids": ["c2h15"]}
+  ]
+}

@@ -1,0 +1,10 @@
+Longfu88 gives each offer its own validity window, which starts when the offer is activated.
+
+| Validity | Offers |
+|---|---|
+| 24 hours | Double Fortune (a one-day special) |
+| 7 days | Casino Weekly Reload and Casino Weekend Reload, along with Live Casino Welcome Bonus |
+| 10 days | Casino Crypto Welcome Bonus plus Casino Welcome Bonus, the latter counting from activation |
+| 30 days | Sport First Deposit Bonus |
+
+Validity thus spans 24 hours (Double Fortune special) to 30 days (sports deposit bonus), and the wagering must be cleared before the relevant period ends.

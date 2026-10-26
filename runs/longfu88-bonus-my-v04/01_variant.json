@@ -1,0 +1,203 @@
+{
+  "id": "v04",
+  "name": "Newcomer path with deposit table",
+  "tier": "medium",
+  "angle": "A new player who has not claimed a bonus before and wants one guided path.",
+  "skipped_clusters": [
+    {
+      "id": "k16",
+      "reason": "left out of the short text; the offer families are named in the sections that follow"
+    },
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Step-by-step brand-subpage for a newcomer to the Longfu88 bonuses in Malaysia: how the welcome offer works, how to claim it, the terms before depositing, the minimum deposit of every offer in one table, the promo code question, the reload, free spin and cashback offers and the rewards area. Page voice: a patient guide, \"first, then\" logic, sentences of about 17 words, one plain consequence after each term; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Welcome Bonus and Promotions for New Players",
+      "words": 65,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1,
+        "Longfu88 promotions": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promotions\" is used it stands in the sentence that signposts the topics."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "How the Welcome Offer Works",
+      "words": 90,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Claim It in Four Steps",
+      "words": 80,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Terms to Read Before You Deposit",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Minimum Deposit of Every Offer",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The minimum deposit that each listed offer asks for, offer by offer.",
+      "entities": [
+        [
+          "Minimum Deposit",
+          10
+        ],
+        [
+          "Bonus Offers",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Minimum Deposit",
+          "differs by",
+          "offer and by currency of the deposit",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[2].name",
+        "brandinfo_promotions.other_bonuses[2].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[4].name",
+        "brandinfo_promotions.other_bonuses[4].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[5].name",
+        "brandinfo_promotions.other_bonuses[5].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[6].name",
+        "brandinfo_promotions.other_bonuses[6].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[8].name",
+        "brandinfo_promotions.other_bonuses[8].minimum_deposit"
+      ],
+      "notes": "One lead-in sentence that says that the minimum deposit depends on the offer, then a TABLE with two columns, offer | minimum deposit, and one row per offer in this order: Casino Welcome Bonus, Live Casino Welcome Bonus, Casino Crypto Welcome Bonus, Casino Weekly Reload, Casino Weekly Crypto Reload, Casino Weekend Reload, Casino Weekend Crypto Reload, Casino Double Fortune: One-Day Reload Special, Casino Trick or Treat Pumpkin Bonanza, Casino Dragon Quest: Get Verified and Get Extra! (names and values exactly as in the Brand Information; crypto offers in USDT). One closing sentence: the general minimum deposit of the casino is not the minimum of an offer, so the player checks the offer first. Do NOT state the general minimum deposit amount. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Promo Code: Is One Listed Today?",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "The phrase \"Longfu88 promo code\" stands once in the first sentence, which says that the Brand Information of the casino lists no Longfu88 promo code for its offers.",
+          "The first sentence says that the Brand Information of the casino lists no promo code for its offers."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Reload Offers for Your Next Deposits",
+      "words": 120,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Free Spin Offers",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Cashback and Rebates",
+      "words": 105,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Rewards Area for Active Players",
+      "words": 70,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers for Newcomers: FAQ",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "6 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what is the minimum first deposit for the welcome bonus (€50); (2) how many promotional bonuses can be active at once (one); (3) whether a promo code is needed (the Brand Information lists none; the offers are activated in My Bonuses); (4) how long the welcome bonus is valid (10 days from activation); (5) how the weekly cashback is claimed (opt in for a four-week cycle, then activate the credited cashback in My Bonuses); (6) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+        "brandinfo_promotions.other_bonuses[9].crediting"
+      ],
+      "refs_drop": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+=== b03 ===
+Longfu88 menerima deposit melalui kaedah tempatan, kad, pindahan bank, mata wang kripto dan e-dompet, dan setiap kumpulan disenaraikan dalam jadual di bawah.
+
+| Jenis kaedah | Contoh | Mata wang |
+|---|---|---|
+| Bank dan dompet tempatan | DuitNow, Touch'n Go, GrabPay dan Online Banking | MYR |
+| Kad | kad Visa dan Mastercard | IDR, MYR, SGD, VND |
+| Pindahan bank | pindahan bank biasa | IDR, MYR, VND |
+| Mata wang kripto | Bitcoin, Ethereum, Litecoin, USDT pada rangkaian TRC20, ERC20 dan BEP20, serta USDC | BTC, ETH, LTC, USDT, USDC |
+| E-dompet | Neteller dan Skrill | EUR |
+| Kaedah Eropah | Sofort dan Giropay | EUR |
+
+Bagi pemain dari Malaysia, pilihan tempatan dalam MYR ialah DuitNow, Touch'n Go, GrabPay dan Online Banking. Semua kaedah berkongsi had am yang sama: minimum €10 dan maksimum €5,000 bagi setiap transaksi. Deposit dikreditkan dalam masa 1–2 minit, dan kasino tidak mengenakan yuran pemprosesan, walaupun penyedia pembayaran atau rangkaian blockchain boleh mengenakan yuran sendiri. Had boleh berbeza mengikut negara, mata wang dan kaedah, dan deposit Neteller serta Skrill dikecualikan daripada bonus alu-aluan.
+
+Prosesnya ada enam langkah: log masuk, buka juruwang dan pilih Deposit, pilih kaedah serta mata wang atau rangkaian, masukkan jumlah dan butiran bayaran, sahkan transaksi mengikut arahan penyedia, kemudian tunggu dana masuk ke baki permainan.
+
+=== b04 ===
+Longfu88 menyediakan pengeluaran melalui pindahan bank, kad Visa dan Mastercard, kripto (Bitcoin, Ethereum, Litecoin, USDT pada rangkaian TRC20, ERC20 dan BEP20), dompet Touch'n Go, DANA dan MoMo, serta DBS Bank dan Online Banking, dengan minimum €20 dan maksimum €5,000.
+
+Permintaan pengeluaran diproses dalam masa sehingga 3 hari bekerja. Bayaran kad, kripto dan dompet tiba dalam 1 hingga 3 hari bekerja, manakala pindahan bank memerlukan 3 hingga 5 hari lagi untuk penghantaran bank. Semakan identiti boleh melambatkan bayaran.
+
+Tiada yuran pengeluaran standard, tetapi yuran penyedia dan blockchain mungkin terpakai. Komisen 10% (minimum €2.25) boleh dikenakan jika pusingan berada di bawah jumlah deposit, kerana pusingan deposit minimum 1x mungkin diperlukan sebelum pengeluaran, dan 15% bagi sebahagian transaksi berdana kad atau pindahan bank. Laluan pengeluaran ada enam langkah:
+
+1. Log masuk dan buka juruwang.
+2. Pilih Pengeluaran dan kaedah atau destinasi yang disokong.
+3. Masukkan jumlah serta bank, dompet atau alamat blockchain penerima.
+4. Lengkapkan pengesahan identiti jika diminta.
+5. Semak permintaan dan sahkan penghantaran.
+6. Tunggu pemprosesan kasino serta penyelesaian bank atau rangkaian.

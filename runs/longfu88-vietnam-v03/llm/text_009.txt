@@ -1,0 +1,13 @@
+Casino chạy dưới dạng website responsive trên trình duyệt điện thoại và máy tính bảng, gồm các nền tảng Android, iOS và web di động. Longfu88 app là bản lối tắt trên màn hình chính, cho truy cập nhanh vào casino, sportsbook, tài khoản, nạp, rút và thưởng.
+
+Trên Android, lối tắt được thêm qua Chrome:
+
+1. Mở Longfu88 trong Chrome.
+2. Mở menu trình duyệt, chọn Thêm vào màn hình chính.
+3. Xác nhận lối tắt.
+
+Trên iOS, người chơi dùng Safari:
+
+1. Mở Longfu88 trong Safari.
+2. Nhấn Chia sẻ, chọn Thêm vào Màn hình chính.
+3. Xác nhận Thêm.

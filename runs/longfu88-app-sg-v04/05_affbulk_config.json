@@ -1,0 +1,43 @@
+{
+ "website_id": 5415,
+ "domain": "longfu88-sg.sg",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Casino Guide for Beginners in Singapore",
+  "description": "Beginner guide to the Longfu88 mobile casino in Singapore: what the site offers, Android and iOS shortcut steps, sign-in, account safety, fixes and help."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Four steps from first visit to first login on a phone",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Join Now"
+ },
+ "cta_texts": [
+  "Join Now",
+  "Play Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "bonuses page",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "Login",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Join Now"
+ }
+}

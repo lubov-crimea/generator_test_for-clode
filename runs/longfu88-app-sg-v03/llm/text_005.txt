@@ -1,0 +1,8 @@
+Four checks cover the common phone problems at Longfu88, and support helps with the problems that these checks do not solve.
+
+| Problem | Fix |
+|---|---|
+| The shortcut does not appear | Repeat the steps in Chrome on Android or in Safari on iOS |
+| The page does not load | Reload the page and check the internet connection |
+| The login fails | Check the e-mail address and use Forgot Password on the login screen |
+| The problem remains | Contact support through live chat, 24/7, or by e-mail, and describe the step that failed |

@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "RNG",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "Android",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Monday",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "VIP",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Table Games",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Instant Games",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Win",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Megaways",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Slot Games",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Promotions",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Evolution",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "UKGC",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Phone",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "European",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "European Roulette",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Sweet Bonanza",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Crazy Time",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "SSL",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Canadian",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "Interac",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "UK Players",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Typical RTP",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "KYC",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Help Centre",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Apple Pay",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Play’n GO",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Red Tiger",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Canadians",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Utorg-powered",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Bet Builder",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Register",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Casino",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Live Dealer Casino",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "VIP Rewards",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Gambling Commission",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "UK Gambling Commission",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "GAMSTOP",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Chrome",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Safari",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Add",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Better",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Deuces Wild",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "RTPs",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Can I",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Canada",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "MiFinity",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Costa Rica",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Cash Out",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Tier 1",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Bet",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Official Casino",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Betting Site",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Popular Casino Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "New Slots",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Play",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Key Information",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "New Account",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Regulation",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Legality",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Your Smartphone",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Tablet",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Why Players",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Classic Table Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Progressive Jackpot Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Video Poker",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Virtual Sports",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Top Game Providers Available",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Welcome Offer",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Reload Promotions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Free Spins Offers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cashback Promotions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Withdrawals Available",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Responsible Gambling",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Player Protection",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Frequently Asked Questions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Bonuses Cashback",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Reload",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Slots",
+    "competitors": 1,
+    "count": 1
+  }
+]

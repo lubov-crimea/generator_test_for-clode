@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Register",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Log In",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Complete Registration",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Bitcoin",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "VIP",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "MYR 2",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "MYR 50",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "MYR",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "USD",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "THB",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "CNY",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "REGISTER",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "SMS",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Diamond",
+    "competitors": 1,
+    "count": 2
+  },
+  {
+    "entity": "Easy Access",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Your Favorite Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Step-by-Step Registration Process",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Troubleshooting Login Issues",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Get Back",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Gaming Fast",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Double-Check Your Login Information",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Clear Your Browser Cache",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Cookies",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Different Device",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Browser",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Contact Customer Support",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Start Your Journey",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Exciting Offers",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Welcome Bonus Overview",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Customer Support",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "We’re Here",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Help",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Frequently Asked Questions",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Can I",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Singapore",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Button",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Choose Your Preferred Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sports Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Promo Code",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "No Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Enter Personal Details",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Identity Verification",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Google Chrome",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mozilla Firefox",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Casino Welcome Package",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Sports Betting Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Crypto Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Contacting Us",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Live Chat",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Available",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Email Support",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Send",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Forgot Password",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Äî Create Your Account",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Minutes",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Create Your Account",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Äî Claim 188",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Welcome Bonus",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Äî Quick Access",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Your Account",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Account Recovery",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Password Reset",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Account Security Features",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Account Verification Requirements",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Verify Your Account",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Äî Unlock Full Access",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Withdrawal Limits",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Communication Preferences",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Multi-Account Policies",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Account Closure",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Self-Exclusion",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Your Account Opens Thousands",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Games",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Mobile Account Access",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "VIP Account Benefits",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Tier Progression",
+    "competitors": 1,
+    "count": 1
+  },
+  {
+    "entity": "Registration Form",
+    "competitors": 1,
+    "count": 1
+  }
+]

@@ -1,0 +1,1 @@
+Phones and tablets are served through three supported platforms, namely the mobile web, iOS and Android. Longfu88 relies on one responsive layout, which adapts itself to the size of smartphone and tablet screens. The Android shortcut is made in Chrome, the iOS shortcut in Safari, and an installation file is not needed on any of them.

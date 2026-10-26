@@ -1,0 +1,12 @@
+Account verification is requested before a withdrawal, during an account review and for unusual or high-value transactions. In those cases Longfu88 may ask for the documents listed below.
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card, driving licence |
+| Address | Utility bill, bank statement |
+| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |
+| Source of funds (only when requested) | Proof of income, bank statements, other supporting financial documents |
+
+Identity and address documents show who holds the account and where the player lives, while payment method evidence links a bank card or a digital wallet to the account holder. A complete document set is normally reviewed within up to 10 days after it is received.
+
+Login credentials are the registered e-mail address and the password. Keeping both private is the part of account security that depends on the player, because whoever holds both details can reach the account through the login screen of the website. Responsibility for safeguarding the login credentials rests with the account holder, while technical and organisational safeguards protect accounts, payments and personal information.

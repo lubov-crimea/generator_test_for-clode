@@ -1,0 +1,5 @@
+One method is available at Longfu88, and it is credential-based: whatever e-mail and password were attached to the account at registration. The Longfu login therefore falls into three steps. Nothing changes for a player who has just registered, since the same two entries apply. Should a security check appear, it stands in front of the account, so the last step is only finished once the check has been passed. The three steps:
+
+1. Choose the website's Login option.
+2. Enter the account's e-mail alongside its password.
+3. Get through the security check, if there is one, and open the account.

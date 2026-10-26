@@ -1,0 +1,36 @@
+{
+ "website_id": 4973,
+ "domain": "longfu88casino-my.net",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 on Android and iOS: Safe Mobile Access",
+  "description": "Longfu88 mobile casino safety for Malaysian players: how the account is protected on a phone, safe sign-in, the home-screen shortcut and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Use the casino on a phone with the account protected",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Play Now",
+  "Register",
+  "Join Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

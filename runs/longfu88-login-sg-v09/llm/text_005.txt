@@ -1,0 +1,10 @@
+Documents are requested only when a specific reason arises, and Longfu88 names four: an account review, a withdrawal that is about to be made, unusual or high-value transactions, and changes to account or payment details. Registration and login do not depend on this step. When a request comes, the accepted documents depend on what is being confirmed:
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card, driving licence |
+| Address | Utility bill, bank statement |
+| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |
+| Source of funds | Proof of income, bank statements, other supporting financial documents |
+
+The source-of-funds row applies only when that proof is requested. Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days, so a player who sends everything at once leaves the review with nothing to wait for.

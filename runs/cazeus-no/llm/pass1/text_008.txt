@@ -1,0 +1,25 @@
+=== b13 ===
+Kassen håndterer både innskudd og uttak. Et innskudd kan være fra 10 euro og opptil 10 000 euro, men hver betalingsmetode har egne grenser, som vises i tabellen nedenfor, og velkomstpakken krever et høyere minimum, slik bonusavsnittet viser. Hvilke metoder som er tilgjengelige, avhenger av land, kontovaluta og betalingsleverandør, og metoden må tilhøre kontoinnehaveren. Kravet betyr i praksis at kort og e-lommebøker må stå i spillerens eget navn, ikke i navnet til en venn eller et familiemedlem. De neste delene gjennomgår innskuddsmetodene og uttakene hver for seg.
+
+=== b14 ===
+Et innskudd gjøres i kassen: spilleren logger inn, åpner Kasse eller Betalinger, velger Innskudd og en metode, skriver inn beløp og betalingsopplysninger og bekrefter transaksjonen hos betalingsleverandøren. For kort og e-lommebøker tar casinoet ikke innskuddsgebyr, men gebyrer fra kortutstederen, leverandøren eller blokkjeden kan komme i tillegg.
+
+| Metode | Minimum | Maksimum | Hastighet |
+|---|---|---|---|
+| Visa | 20 euro | 4 000 euro | Umiddelbart |
+| Mastercard | 20 euro | 4 000 euro | Umiddelbart |
+| Paysafecard | 15 euro | 1 400 euro | Umiddelbart |
+| Neteller | 20 euro | 7 800 euro | Umiddelbart |
+| MiFinity | 15 euro | 3 750 euro | Umiddelbart |
+| Bitcoin | 45 euro | 10 000 euro | Etter nettverksbekreftelse |
+| Ethereum | 20 euro | 8 000 euro | Etter nettverksbekreftelse |
+| Tether USDT (ERC20) | 20 euro | 8 000 euro | Etter nettverksbekreftelse |
+
+Beløpsgrensene varierer altså mellom metodene. Blant kryptovalutaene kan Dogecoin, Litecoin, Tron, USD Coin, BNB, Solana og Cardano også brukes, og Cash2Code finnes ved siden av Paysafecard som forhåndsbetalt kupong, avhengig av land.
+
+=== b15 ===
+Et uttak starter med en forespørsel i kassen. Forespørselen går til casinoets økonomiavdeling, som behandler den innen 3 virkedager når kravene og kontrollene er oppfylt. Utbetalingen hos betalingsleverandøren eller i blokkjeden kan ta ekstra tid. Cazeus godtar uttak fra 10 euro, og det høyeste beløpet er 10 000 euro per transaksjon, med forbehold om grenser for metoden og kontoen.
+
+Den høye grensen er bare et tak per transaksjon. I tillegg gjelder daglige og månedlige uttaksgrenser for VIP-nivåene, og de er lavere på de laveste nivåene, som beskrevet i avsnittet om VIP Club. Ingen bør derfor regne med å kunne ta ut 10 000 euro på én gang.
+
+Der det er mulig, utbetales uttaket med samme metode som innskuddet. Før uttak gjelder dessuten et innskuddsomløp på 1 gang, det vil si at innskutte penger må være satset minst én gang. Casinoet kan også be om verifisering før utbetalingen, som beskrevet i avsnittet om kontoverifisering, og et uttak kan bli forsinket hvis dokumentene mangler. Det kan derfor være lurt å sende inn dokumentene før det første uttaket.

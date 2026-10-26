@@ -1,0 +1,70 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2344,
+    "max_body_words": 3053,
+    "target_body_words": 2400,
+    "keywords_total": {
+      "Longfu88": 21,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 21,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'The Casino Welcome Bonus and the Casino Crypto Welcome Bonus are alternative first-deposit offers, one counted in euro and the other in USDT' nearly repeats the sentence of b03 ('alternative first-deposit offers').",
+        "fix": "Keep the fact (alternative first-deposit offers, once) but use different wording and structure than b03, e.g. a player who starts with the crypto package takes it instead of the euro Casino Welcome Bonus. Do not change keyword counts, figures or the table."
+      }
+    ],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The clause 'so the 8x multiple, far below the 25x to 40x of the casino welcome offers, is worked off within that window' draws an inference (that wagering is completed within the 30 days) that the Brand Information does not state.",
+        "fix": "Remove the inference clause: state the 30 days validity and the one claim per stated promotional period as plain facts. The comparison with 25x to 40x may stay as a separate short remark, without saying the wagering is worked off in 30 days. Keep the word count in range."
+      }
+    ],
+    "b14": [],
+    "b15": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence 'The activation step is therefore the one that matters' is filler and an unsupported conclusion.",
+        "fix": "Replace it with a fact-based remark from the block facts (e.g. that activation comes before any wager) without new claims; keep Longfu88 x1 and Longfu88 promo code x1 and the word range 66-84."
+      }
+    ],
+    "b16": [
+      {
+        "check": "consistency",
+        "problem": "Answer 3 ends with 'so another method is needed to claim it', an inference not stated by the Brand Information.",
+        "fix": "Cut that clause; state only that Neteller and Skrill deposits are excluded from the Casino Welcome Bonus (other words than the table in b09). Keep the 7 items, bold questions, Longfu88 x1 and the word range 189-241."
+      }
+    ]
+  },
+  "missing_data": []
+}

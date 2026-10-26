@@ -1,0 +1,7 @@
+A forgotten password is recovered by e-mail alone: the player requests a link, then picks a fresh password, all in three steps.
+
+1. On the sign-in screen, select Forgot Password.
+2. Ask for a reset link to be sent to the e-mail address held on the account.
+3. Open the message and follow its instructions to create a new password.
+
+Should the registered mailbox be out of reach, customer support is the next contact, and its channels are listed at the foot of the page.

@@ -1,0 +1,25 @@
+=== b18 ===
+Phương thức nạp tiền tại Longfu88 chia thành sáu nhóm, trong đó MoMo, Zalo, ViettelPay và VietQR dùng VND.
+
+| Loại phương thức | Ví dụ | Tiền tệ |
+|---|---|---|
+| Ví và mã QR cho Việt Nam | MoMo, Zalo, ViettelPay, VietQR | VND |
+| Ngân hàng và ví khu vực | QRIS, DANA, DuitNow, PayNow | IDR, MYR, SGD |
+| Thẻ | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Chuyển khoản ngân hàng | Bank Transfer | IDR, MYR, VND |
+| Tiền mã hóa | Bitcoin, Ethereum, Litecoin, USDC, USDT trên ba mạng TRC20, ERC20, BEP20 | BTC, ETH, LTC, USDT, USDC |
+| Ví quốc tế và châu Âu | Neteller, Skrill, Sofort, Giropay | EUR |
+
+Mọi phương thức có mức nạp tối thiểu €10, tối đa €5.000 mỗi giao dịch và được cộng trong 1-2 phút, còn sòng bạc không thu phí xử lý, dù nhà cung cấp hoặc mạng blockchain có thể tính phí. Hạn mức có thể khác nhau theo quốc gia, tiền tệ và phương thức. Khoản nạp bằng Neteller và Skrill không được tính cho thưởng chào mừng. Quy trình gồm sáu bước: đăng nhập, mở quầy thu ngân và chọn Nạp tiền, chọn phương thức, nhập số tiền và thông tin, xác nhận theo hướng dẫn của nhà cung cấp, rồi chờ tiền vào số dư chơi.
+
+=== b19 ===
+Rút tiền tại Longfu88 được thực hiện qua chuyển khoản ngân hàng, thẻ Visa và Mastercard, MoMo, DANA, Touch'n Go, tiền mã hóa (Bitcoin, Ethereum, Litecoin, USDT trên ba mạng) cùng DBS Bank và Online Banking, với mức tối thiểu €20 và tối đa €5.000.
+
+1. Đăng nhập và mở quầy thu ngân.
+2. Chọn Rút tiền và phương thức nhận tiền.
+3. Nhập số tiền và thông tin nhận tiền.
+4. Hoàn tất xác minh nếu được yêu cầu.
+5. Xác nhận yêu cầu.
+6. Chờ xử lý và tất toán trước khi nhận tiền.
+
+Lngfu88 withdrawal time thường là tối đa 3 ngày làm việc: thẻ, tiền mã hóa và ví cần 1 đến 3 ngày, còn chuyển khoản ngân hàng cần thêm 3 đến 5 ngày để tất toán. Sòng bạc không thu phí rút tiền tiêu chuẩn, nhưng phí của nhà cung cấp và blockchain có thể phát sinh. Hoa hồng 10% (tối thiểu €2,25) có thể áp dụng khi doanh số cược thấp hơn khoản đã nạp, còn một số giao dịch nạp bằng thẻ hoặc chuyển khoản có thể chịu 15%.

@@ -1,0 +1,17 @@
+﻿{
+  "issues": [],
+  "missing_data": [
+    {
+      "block_id": "b06",
+      "note": "Data conflict in brand_info: 200 free spins on the first deposit vs. 50 free spins daily for five days (250). The ТЗ asks for both figures, so the text states both; the knowledge base or the copywriter notes should resolve it."
+    },
+    {
+      "block_id": "b09",
+      "note": "No data for the validity of the Sunday Reload (brand_info only has '14 days under the earlier bonus schedule')."
+    },
+    {
+      "block_id": "b10",
+      "note": "No data to fill the range of 106-134 words without repeating the category list: brand_info has only the category names and the game count. Consider lowering words_min of b10 in the brief."
+    }
+  ]
+}

@@ -1,0 +1,801 @@
+{
+ "geo": "SG",
+ "language": "en",
+ "keywords": [
+  "Longfu88",
+  "Longfu88 login",
+  "Longfu login",
+  "Longfu88 register",
+  "Longfu88 casino login"
+ ],
+ "targets": {
+  "target_body_words": 790,
+  "competitor_body_words": 844,
+  "max_body_words": 1013,
+  "tier": "small",
+  "tiers": {
+   "competitors": [
+    844,
+    1754
+   ],
+   "base": "medium",
+   "tiers": {
+    "small": {
+     "competitors": [
+      844
+     ],
+     "mean": 844,
+     "multiplier": 1.2,
+     "target": 844,
+     "limit": 1013
+    },
+    "medium": {
+     "competitors": [
+      844,
+      1754
+     ],
+     "mean": 1299,
+     "multiplier": 1.2,
+     "target": 1299,
+     "limit": 1559,
+     "synthetic": true
+    },
+    "large": {
+     "competitors": [
+      1754
+     ],
+     "mean": 1754,
+     "multiplier": 1.0,
+     "target": 1754,
+     "limit": 1754,
+     "outlier": true
+    }
+   }
+  },
+  "keyword_targets": {
+   "Longfu88": 8,
+   "Longfu88 login": 1,
+   "Longfu login": 1,
+   "Longfu88 register": 1,
+   "Longfu88 casino login": 1
+  },
+  "base_body_words": 790
+ },
+ "brand": "Longfu88",
+ "knowledge_base": {
+  "id": 576,
+  "title": "longfu88-new"
+ },
+ "intent_summary": "Short brand-subpage for the small size group: a newcomer to Longfu88 in Singapore opens the account, sees what the welcome offer asks for, logs in, uses the site on a phone and knows the currency and one-account rules. Page voice: a patient guide in plain \"first, then\" order, sentences of about 15 words, one plain invitation to register. The welcome offer is covered in more detail than in the other short texts. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+ "blocks": [
+  {
+   "id": "b01",
+   "level": 1,
+   "heading": "Longfu88 Account Guide: Open, Log In and Start Playing",
+   "source": "h1",
+   "covers_clusters": [],
+   "kb_refs": [
+    "brandinfo_account.login.method",
+    "brandinfo_general.minimum_age"
+   ],
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "entities": [
+    {
+     "name": "Player Account",
+     "priority": 10
+    },
+    {
+     "name": "Login",
+     "priority": 9
+    },
+    {
+     "name": "Minimum Age",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "the Player Account with e-mail and password",
+     "priority": 8,
+     "relation": "logs in to",
+     "subject": "Player"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "What the page covers: how a registered player signs in to the casino account, how a lost password is reset, how the account is opened and checked, and where help is found.",
+   "copywriter_notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence, followed by the fact that the account is opened with the e-mail address and the password chosen at registration. State once that the casino is for players aged 18 or over, and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (registration, the welcome offer, login, mobile access, currencies) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. No payment or game details. Neutral tone, no promises. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+   "formats": [
+    "paragraph"
+   ],
+   "variant_origin": [
+    "b01"
+   ],
+   "words": 90,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_account.login.method",
+     "value": "Email and password"
+    },
+    {
+     "path": "brandinfo_general.minimum_age",
+     "value": 18
+    }
+   ],
+   "coverage_words": {
+    "facts": 7,
+    "connections": 15,
+    "need": 22
+   },
+   "words_base": [
+    79,
+    101
+   ]
+  },
+  {
+   "id": "b02",
+   "level": 2,
+   "heading": "Open the Account First",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k01"
+   ],
+   "kb_refs": [
+    "brandinfo_account.registration"
+   ],
+   "words_min": 123,
+   "words_max": 157,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 1,
+    "Longfu88 casino login": 0
+   },
+   "entities": [
+    {
+     "name": "Registration",
+     "priority": 10
+    },
+    {
+     "name": "Required Details",
+     "priority": 7
+    },
+    {
+     "name": "One Account Rule",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "e-mail, password, legal name, date of birth and residential address",
+     "priority": 8,
+     "relation": "requires",
+     "subject": "Registration"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "Registration by e-mail in five numbered steps, the details the form asks for and the eligibility rules (18+, one account per player).",
+   "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the five registration steps in the order of the Brand Information, then one short sentence with the required details (e-mail, password, legal name, date of birth, residential address) and the eligibility rules (18+ and of legal gambling age in the relevant jurisdiction, one personal account per player). Registration by e-mail is the only method given. Write \"the site\" or \"the casino\" in the list items instead of the brand name. Do not describe bonuses or deposits here. Variant direction: One plain invitation to register is allowed here. Use \"Longfu88\" exactly once and \"Longfu88 register\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "variant_origin": [
+    "b02"
+   ],
+   "words": 140,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 0,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_account.registration",
+     "value": {
+      "methods": [
+       "Email registration"
+      ],
+      "required_details": [
+       "Email",
+       "Password",
+       "Legal name",
+       "Date of birth",
+       "Residential address"
+      ],
+      "steps": [
+       "Open Longfu88 and select Register.",
+       "Enter email and create a password.",
+       "Confirm age and acceptance of Terms and Conditions and Privacy Policy.",
+       "Complete the additional personal details and residential address.",
+       "Select Create Account and complete any requested email confirmation."
+      ],
+      "eligibility": [
+       "18+ and of legal gambling age in the relevant jurisdiction.",
+       "Only one personal account per player."
+      ]
+     }
+    }
+   ],
+   "coverage_words": {
+    "facts": 40,
+    "connections": 15,
+    "need": 55
+   },
+   "words_base": [
+    123,
+    157
+   ]
+  },
+  {
+   "id": "b03",
+   "level": 2,
+   "heading": "A Welcome Offer for New Accounts",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k03"
+   ],
+   "kb_refs": [
+    "brandinfo_welcome.welcome_bonus.name",
+    "brandinfo_welcome.welcome_bonus.bonus_percentage",
+    "brandinfo_welcome.welcome_bonus.maximum_bonus",
+    "brandinfo_welcome.welcome_bonus.free_spins",
+    "brandinfo_welcome.welcome_bonus.minimum_deposit",
+    "brandinfo_welcome.welcome_bonus.wagering_requirement",
+    "brandinfo_welcome.welcome_bonus.claiming_procedure",
+    "brandinfo_welcome.welcome_bonus.validity",
+    "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+    "brandinfo_welcome.welcome_bonus.maximum_bet"
+   ],
+   "words_min": 119,
+   "words_max": 151,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "entities": [
+    {
+     "name": "Casino Welcome Bonus",
+     "priority": 10
+    },
+    {
+     "name": "First Deposit",
+     "priority": 8
+    },
+    {
+     "name": "Wagering Requirement",
+     "priority": 7
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "a first qualifying deposit of €50 and activation in My Bonuses",
+     "priority": 8,
+     "relation": "requires",
+     "subject": "Casino Welcome Bonus"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "What a new account can claim: the Casino Welcome Bonus, its size, the minimum first deposit, the wagering and the four claiming steps.",
+   "copywriter_notes": "This page is about the account, so keep the bonus short and strictly to the Brand Information: the Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins; the minimum first deposit is €50; wagering is 25x the deposit plus bonus amount. Claiming: register and complete the personal details, make the first qualifying deposit, activate the bonus in My Bonuses before placing any wager, play eligible games and complete the wagering. Use the €50 minimum of the bonus; do NOT mention the general minimum deposit of €10 on this page. Do not add terms that are not listed. Do not promise winnings. Variant direction: Add the validity of the offer, its wagering on the free spins and the maximum bet while the bonus is active: facts of the Brand Information only. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+   "formats": [
+    "paragraph"
+   ],
+   "variant_origin": [
+    "b08"
+   ],
+   "words": 135,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 0,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_welcome.welcome_bonus.name",
+     "value": "Casino Welcome Bonus"
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.bonus_percentage",
+     "value": 188
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.maximum_bonus",
+     "value": "€2,088"
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.free_spins",
+     "value": 18
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+     "value": "€50"
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.wagering_requirement",
+     "value": "25x the deposit plus bonus amount"
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.claiming_procedure",
+     "value": [
+      "Register an account and complete the required personal details.",
+      "Make the first qualifying deposit.",
+      "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.",
+      "Play eligible casino games and complete the wagering before expiry."
+     ]
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.validity",
+     "value": "10 days from activation"
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+     "value": "40x Free Spins winnings"
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.maximum_bet",
+     "value": "€22.5 per spin"
+    }
+   ],
+   "coverage_words": {
+    "facts": 67,
+    "connections": 15,
+    "need": 82
+   },
+   "words_base": [
+    119,
+    151
+   ],
+   "internal_links": [
+    {
+     "slug": "bonuses",
+     "href": "/bonuses",
+     "label": "Bonuses",
+     "required": false
+    }
+   ]
+  },
+  {
+   "id": "b04",
+   "level": 2,
+   "heading": "Longfu88 Login on the Website",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k01"
+   ],
+   "kb_refs": [
+    "brandinfo_account.login.method",
+    "brandinfo_account.login.steps"
+   ],
+   "words_min": 92,
+   "words_max": 118,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 1,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 1
+   },
+   "entities": [
+    {
+     "name": "Login",
+     "priority": 10
+    },
+    {
+     "name": "Registered E-mail",
+     "priority": 8
+    },
+    {
+     "name": "Security Check",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "the registered e-mail and password on the login screen",
+     "priority": 8,
+     "relation": "enters",
+     "subject": "Player"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "The three login steps in order: open Login on the website, enter the registered e-mail and password, pass any security check.",
+   "copywriter_notes": "One lead-in sentence that carries a fact, then a NUMBERED list with the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account). The method is e-mail and password: say so. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL or encryption, a username or a player ID: the login is e-mail and password only and no other protection is given. Keep tracked keywords out of the list items. Do not explain password reset here. Use \"Longfu88\" exactly once, \"Longfu login\" exactly once and \"Longfu88 casino login\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "variant_origin": [
+    "b03"
+   ],
+   "words": 105,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 0,
+    "Longfu88 login": 1,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_account.login.method",
+     "value": "Email and password"
+    },
+    {
+     "path": "brandinfo_account.login.steps",
+     "value": [
+      "Select Login on the website.",
+      "Enter registered email and password.",
+      "Complete any security check and access the account."
+     ]
+    }
+   ],
+   "coverage_words": {
+    "facts": 22,
+    "connections": 15,
+    "need": 37
+   },
+   "words_base": [
+    92,
+    118
+   ]
+  },
+  {
+   "id": "b05",
+   "level": 2,
+   "heading": "Mobile Access in the Browser",
+   "source": "unique",
+   "covers_clusters": [
+    "k08"
+   ],
+   "kb_refs": [
+    "brandinfo_app.app_information.mobile_access",
+    "brandinfo_app.app_information.platforms",
+    "brandinfo_app.app_information.android_installation",
+    "brandinfo_app.app_information.ios_installation"
+   ],
+   "words_min": 97,
+   "words_max": 123,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "entities": [
+    {
+     "name": "Mobile Web",
+     "priority": 10
+    },
+    {
+     "name": "Home Screen Shortcut",
+     "priority": 8
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "a shortcut of the website to the home screen",
+     "priority": 8,
+     "relation": "adds",
+     "subject": "Player"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "Logging in from a phone or a tablet in the browser and adding a home-screen shortcut on Android (Chrome) and iOS (Safari).",
+   "copywriter_notes": "The casino is a responsive website that works in the browser of a smartphone or a tablet; the Brand Information has no download from an app store: do not call it a downloadable app and do not mention APK files, app stores or app versions. The login on a phone is the same as on a computer. A short paragraph, then a bulleted list with two items: Android (open the site in Chrome, open the browser menu and choose Add to Home screen, confirm the shortcut) and iOS (open the site in Safari, tap Share and choose Add to Home Screen, confirm Add). Write \"the site\" in the list items instead of the brand name. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "variant_origin": [
+    "b10"
+   ],
+   "words": 110,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 0,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_app.app_information.mobile_access",
+     "value": "Responsive Longfu88 website usable on smartphone and tablet browsers."
+    },
+    {
+     "path": "brandinfo_app.app_information.platforms",
+     "value": [
+      "Android",
+      "iOS",
+      "Mobile web"
+     ]
+    },
+    {
+     "path": "brandinfo_app.app_information.android_installation",
+     "value": [
+      "Open Longfu88 in Chrome.",
+      "Open browser menu and choose Add to Home screen.",
+      "Confirm the shortcut."
+     ]
+    },
+    {
+     "path": "brandinfo_app.app_information.ios_installation",
+     "value": [
+      "Open Longfu88 in Safari.",
+      "Tap Share and choose Add to Home Screen.",
+      "Confirm Add."
+     ]
+    }
+   ],
+   "coverage_words": {
+    "facts": 45,
+    "connections": 15,
+    "need": 60
+   },
+   "words_base": [
+    97,
+    123
+   ],
+   "internal_links": [
+    {
+     "slug": "app",
+     "href": "/app",
+     "label": "App",
+     "required": false
+    }
+   ]
+  },
+  {
+   "id": "b06",
+   "level": 2,
+   "heading": "Supported Currencies and One Account per Player",
+   "source": "unique",
+   "covers_clusters": [
+    "k16"
+   ],
+   "kb_refs": [
+    "brandinfo_general.currencies",
+    "brandinfo_privacy_policy.terms_conditions.eligibility.player_requirements"
+   ],
+   "words_min": 70,
+   "words_max": 90,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "entities": [
+    {
+     "name": "Account Currencies",
+     "priority": 8
+    },
+    {
+     "name": "One Personal Account",
+     "priority": 8
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "one personal account in one of the supported currencies",
+     "priority": 8,
+     "relation": "uses",
+     "subject": "Player"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "Which currencies an account can use and the rules for the account itself: accurate details, one personal account, no third-party payment methods.",
+   "copywriter_notes": "State the currencies exactly as listed (EUR, USD, MYR, THB, SGD and USDT) and do not convert amounts or mention exchange rates, conversion or a choice of currency at registration: none is given. The player requirements: register with accurate information, use only one personal account, do not use third-party payment methods. Calm tone, no legal advice. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "variant_origin": [
+    "b11"
+   ],
+   "words": 80,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 0,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_general.currencies",
+     "value": [
+      "EUR",
+      "USD",
+      "MYR",
+      "THB",
+      "SGD",
+      "USDT"
+     ]
+    },
+    {
+     "path": "brandinfo_privacy_policy.terms_conditions.eligibility.player_requirements",
+     "value": [
+      "Register with accurate information",
+      "Use only one personal account",
+      "Do not use third-party payment methods"
+     ]
+    }
+   ],
+   "coverage_words": {
+    "facts": 21,
+    "connections": 15,
+    "need": 36
+   },
+   "words_base": [
+    70,
+    90
+   ]
+  },
+  {
+   "id": "b07",
+   "level": 2,
+   "heading": "Beginner FAQ",
+   "source": "mandatory",
+   "covers_clusters": [
+    "k04"
+   ],
+   "kb_refs": [
+    "brandinfo_account.login.method",
+    "brandinfo_account.registration.required_details",
+    "brandinfo_account.registration.eligibility[1]",
+    "brandinfo_welcome.welcome_bonus.minimum_deposit",
+    "brandinfo_app.app_information.platforms",
+    "brandinfo_general.currencies"
+   ],
+   "words_min": 114,
+   "words_max": 146,
+   "keywords": {
+    "Longfu88": 1,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "entities": [
+    {
+     "name": "Frequently Asked Questions",
+     "priority": 10
+    },
+    {
+     "name": "Login",
+     "priority": 7
+    }
+   ],
+   "entity_connections": [
+    {
+     "object": "short answers to the most frequent login and account questions",
+     "priority": 6,
+     "relation": "finds",
+     "subject": "Player"
+    }
+   ],
+   "listed_entities": [],
+   "summary": "6 short questions and answers on the login and the account.",
+   "copywriter_notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (2) how to log in (with the registered e-mail and password, as the page explains); (3) whether a player may hold more than one account (no: one personal account per player); (4) when the welcome bonus can be claimed (after registration, on the first qualifying deposit of at least €50); (5) whether a player can log in from a phone (yes, in the browser of a smartphone or tablet; a home-screen shortcut is possible); (6) which currencies an account can use (EUR, USD, MYR, THB, SGD and USDT). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "formats": [
+    "list"
+   ],
+   "variant_origin": [
+    "b15"
+   ],
+   "words": 130,
+   "fact_table": [],
+   "heading_keywords": {
+    "Longfu88": 0,
+    "Longfu88 login": 0,
+    "Longfu login": 0,
+    "Longfu88 register": 0,
+    "Longfu88 casino login": 0
+   },
+   "brand_info": [
+    {
+     "path": "brandinfo_account.login.method",
+     "value": "Email and password"
+    },
+    {
+     "path": "brandinfo_account.registration.required_details",
+     "value": [
+      "Email",
+      "Password",
+      "Legal name",
+      "Date of birth",
+      "Residential address"
+     ]
+    },
+    {
+     "path": "brandinfo_account.registration.eligibility[1]",
+     "value": "Only one personal account per player."
+    },
+    {
+     "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+     "value": "€50"
+    },
+    {
+     "path": "brandinfo_app.app_information.platforms",
+     "value": [
+      "Android",
+      "iOS",
+      "Mobile web"
+     ]
+    },
+    {
+     "path": "brandinfo_general.currencies",
+     "value": [
+      "EUR",
+      "USD",
+      "MYR",
+      "THB",
+      "SGD",
+      "USDT"
+     ]
+    }
+   ],
+   "coverage_words": {
+    "facts": 31,
+    "connections": 15,
+    "need": 46
+   },
+   "words_base": [
+    114,
+    146
+   ]
+  }
+ ],
+ "review_issues": [],
+ "coverage_budget": [],
+ "page_type": "brand-subpage",
+ "skipped_clusters": [
+  {
+   "id": "k05",
+   "reason": "the short text keeps the account entry (registration, login, the welcome offer) and leaves the verification and security block to the longer texts of the site"
+  }
+ ],
+ "variant": {
+  "id": "v02",
+  "name": "Register first, offer-led (small)",
+  "base_run": "longfu88-login-sg",
+  "angle": "A newcomer who needs the account, the welcome offer and the phone access.",
+  "tier": "small"
+ },
+ "site_pages": [
+  "bonuses",
+  "app"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "website_id": 5414,
+ "domain": "longfu88sg.sg",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Help: Quick Fixes and Phone Setup",
+  "description": "Longfu88 mobile help: fix common phone problems, add the shortcut again on Android or iOS, sign-in trouble, games, SGD deposit methods and support contacts."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Phone not working? Start with the quick fixes",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "bonuses page",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "Login",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Offer"
+ }
+}

@@ -1,0 +1,101 @@
+{
+  "tables": [
+    {
+      "competitor": 3,
+      "url": "https://longfu88-play.my/bonuses/",
+      "heading": "Complete Longfu88 Casino Overview",
+      "rows": [
+        [
+          "Detail",
+          "Information"
+        ],
+        [
+          "Established",
+          "2020"
+        ],
+        [
+          "Licence",
+          "Curacao eGaming"
+        ],
+        [
+          "Welcome Offer",
+          "188% up to $2,088 + 18 Free Spins"
+        ],
+        [
+          "Min Deposit",
+          "$20"
+        ],
+        [
+          "Withdrawal Speed",
+          "24-72 hours (e-wallets faster)"
+        ],
+        [
+          "Top Games",
+          "Slots, Live Casino, Sports Betting, Fishing Games"
+        ],
+        [
+          "Mobile Platform",
+          "Responsive mobile site + dedicated app"
+        ],
+        [
+          "Support",
+          "24/7 Live Chat, Email, Telegram"
+        ],
+        [
+          "Payment Methods",
+          "Crypto, E-wallets, Bank Transfer, Cards"
+        ],
+        [
+          "Currencies",
+          "USD, EUR, MYR, THB, VND, IDR, Crypto"
+        ]
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "currencies",
+      "competitors": 1
+    },
+    {
+      "label": "detail",
+      "competitors": 1
+    },
+    {
+      "label": "established",
+      "competitors": 1
+    },
+    {
+      "label": "licence",
+      "competitors": 1
+    },
+    {
+      "label": "min deposit",
+      "competitors": 1
+    },
+    {
+      "label": "mobile platform",
+      "competitors": 1
+    },
+    {
+      "label": "payment methods",
+      "competitors": 1
+    },
+    {
+      "label": "support",
+      "competitors": 1
+    },
+    {
+      "label": "top games",
+      "competitors": 1
+    },
+    {
+      "label": "welcome offer",
+      "competitors": 1
+    },
+    {
+      "label": "withdrawal speed",
+      "competitors": 1
+    }
+  ]
+}

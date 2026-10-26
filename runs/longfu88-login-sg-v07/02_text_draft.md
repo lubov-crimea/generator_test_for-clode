@@ -1,0 +1,93 @@
+# Longfu88 Casino Login: Secure Access to Your Account
+
+Longfu88 opens a player account with the e-mail address and the password that the player chose at registration. The casino is meant for players aged 18 or over, and this page is written for readers from Singapore.
+
+A registered player logs in to the account with that same e-mail and password, so the Longfu88 login rests on these two details alone. The sections below follow the account step by step: the password reset, the protection of the account, the data the casino holds, the documents it may request, the registration rules, the account settings and support.
+
+## Signing In Safely
+
+Longfu88 accepts one login method: the e-mail address and password registered with the account. No other sign-in method is listed for players. The Longfu login therefore takes three steps, and the player enters the registered e-mail and password on the login screen exactly as they were chosen at registration. Where a security check appears, it precedes access to the account, so the final step is finished only once that check has been passed in full. The steps run in this order:
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password.
+3. Complete any security check and access the account.
+
+### Replacing a Lost Password
+
+A player who forgets the password on Longfu88 can replace it through a reset link requested with the registered e-mail. If that mailbox is no longer accessible, the player should contact support instead, whose details appear in the support section further down. The recovery runs in three steps:
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+## What Protects the Account
+
+Responsibility for the login credentials starts with the person who holds the account. The account holder safeguards the e-mail address and the password, because these two details are the only way into the account and anyone who has them can sign in. That duty stays with the player and does not pass to the casino.
+
+The operator adds its own layer. Technical and organisational safeguards protect accounts, payments and personal information on Longfu88. The operator may also suspend activity for verification or suspected abuse, which means an account can be paused while a check is carried out. No further protection is listed for the login itself, so careful handling of the credentials remains the player's main contribution to account security.
+
+## What Data the Casino Holds
+
+Longfu88 holds personal data about each account holder in three groups, and the split shows how much a registered account reveals about its owner:
+
+- Identity data: name, date of birth and identity documents.
+- Contact data: e-mail, telephone and residential address.
+- Verification data: KYC documents, which serve customer identity checks, and evidence of payment method ownership.
+
+The casino shares personal data with payment service providers, identity verification providers and technology providers, and with regulators and law enforcement when required. Sharing is therefore limited to those four kinds of recipient, and no other group of recipients is named. The player keeps rights over the data: access, rectification, erasure where legally permitted, restriction, objection, portability where applicable and withdrawal of consent. This summary is general information and not legal advice.
+
+## Why the Casino Asks for Documents
+
+Account verification at Longfu88 is requested on four triggers: an account review, a withdrawal, unusual or high-value transactions and changes to account or payment details. Checks take place at several stages of the account's life: registration reviews, deposits, withdrawals and ongoing account monitoring. The table lists which documents count for each type of proof, starting with the identity document.
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card, driving licence |
+| Address | Utility bill, bank statement |
+| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |
+| Source of funds (only when requested) | Proof of income, bank statements, other supporting financial documents |
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days, so the review time counts from the moment nothing is missing.
+
+## Registration Rules Behind Every Account
+
+The Longfu88 register steps are the same for every new account, because registration by e-mail is the only method given. Five steps lead from the first click to a created account:
+
+1. Open the site and select Register.
+2. Enter an e-mail address and create a password.
+3. Confirm age and acceptance of the Terms and Conditions and the Privacy Policy.
+4. Complete the additional personal details and the residential address.
+5. Select Create Account and complete any requested e-mail confirmation.
+
+Registration requires an e-mail address, a password, a legal name, a date of birth and a residential address. Eligibility rests on two rules: the player is 18+ and of legal gambling age in the relevant jurisdiction, and Longfu88 allows only one personal account per player.
+
+## Accurate Details and Account Currencies
+
+An account at Longfu88 can use six currencies: EUR, USD, MYR, THB, SGD and USDT. Each player holds one personal account in one of these supported currencies, and amounts on this page appear only in the units in which they are stated.
+
+Three requirements apply to every player. Registration must be completed with accurate information, which matters because verification later asks for documents. Only one personal account may be used. Payment methods that belong to third parties must not be used.
+
+## Cookies and Marketing Settings
+
+Two settings stay in the player's hands. Direct-marketing preferences can be managed, and promotional communications from Longfu88 can be unsubscribed from, so a player decides how much marketing material reaches the registered e-mail.
+
+Cookies are the second part of the settings picture, and the site uses four kinds. Necessary, preference, analytics and marketing cookies support website functions and measurement, which separates the cookies that keep the site running from those that serve statistics and promotion.
+
+## The Welcome Offer in Brief
+
+New accounts at Longfu88 can claim the Casino Welcome Bonus, a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins. The bonus requires a first qualifying deposit of €50 and activation in My Bonuses before any wager is placed. Wagering is 25x the deposit plus bonus amount.
+
+The claim runs in four stages: the player registers and completes the personal details, makes the first deposit, activates the bonus, then plays eligible casino games and completes the wagering. Validity, limits and exclusions belong to the full bonus terms, which are described elsewhere on the site.
+
+## Who to Contact
+
+Customer support answers account, login and verification questions through two channels: live chat, which runs 24/7, and e-mail at support@longfu88.com. A failed login, a reset e-mail that does not arrive and the upload of verification documents all belong here. The support team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese, so a player can write in a familiar language. No response times are stated for either channel.
+
+## Account Safety Questions
+
+- **How does a player log in to Longfu88?** The player selects Login on the website and enters the registered e-mail and password, which are the only login details described.
+- **How long does verification take?** A complete document set is normally reviewed within up to 10 days after it is received.
+- **Which identity document is accepted?** A passport, a national identity card or a driving licence is accepted as proof of identity.
+- **May a player hold more than one account?** No, the casino allows only one personal account per player.
+- **Which cookies does the site use?** Necessary, preference, analytics and marketing cookies support the functions of the website and its measurement.
+- **Where can a player turn when the login still fails?** Customer support helps through live chat, which is open 24/7, or through e-mail.

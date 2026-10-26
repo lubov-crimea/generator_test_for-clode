@@ -1,0 +1,43 @@
+{
+ "website_id": 4967,
+ "domain": "longfu88casino.live",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 on Android: Add the Casino Shortcut in Chrome",
+  "description": "How Longfu88 works on Android and iOS: Chrome and Safari home screen steps, shortcut or browser tab, account safety, data collected and support contacts."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Android first: Chrome steps, iOS steps right below",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Play Now"
+ },
+ "cta_texts": [
+  "Play Now",
+  "Log In"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "bonuses",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "login page",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Get Offer"
+ }
+}

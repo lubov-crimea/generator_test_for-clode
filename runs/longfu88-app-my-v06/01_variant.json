@@ -1,0 +1,155 @@
+{
+  "id": "v06",
+  "name": "Security-conscious",
+  "tier": "medium",
+  "angle": "A cautious player who wants to know what protects the account before using a phone.",
+  "intent_summary": "Security-conscious brand-subpage about the Longfu88 mobile casino in Malaysia for a cautious reader: how the account is protected on a phone, how to sign in safely, why the casino needs no installation file and how the shortcut is added on Android and iOS, the choice between the shortcut and a browser tab, devices, fixes, what the mobile site gives access to and support. Page voice: sober and exact, every claim tied to a stated fact, sentences of about 18 words with a few shorter ones, no reassurance beyond the facts; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 on Android and iOS: Safe Mobile Casino Access",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu app": 1,
+        "Longfu88 mobile casino": 1
+      },
+      "edit": [
+        [
+          "(features, home-screen shortcut for Android and iOS, supported devices, account access, security, troubleshooting, support)",
+          "(account protection, safe sign-in, the shortcut instead of a file, devices, fixes, features, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "How the Account Stays Protected on a Phone",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Signing In Safely from a Phone",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download: A Shortcut Instead of a File",
+      "words": 70,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Shortcut",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Shortcut",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Shortcut Versus Browser Tab",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Devices and Browsers",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Problems and Quick Fixes",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "What the Mobile Site Gives Access To",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Reaching Support",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Mobile Safety FAQ",
+      "words": 105,
+      "kw": {
+        "Longfu88": 2
+      },
+      "summary": "6 short questions and answers on the mobile version of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) how a player logs in on a phone (with the registered e-mail and password, as on a computer); (3) what the minimum age is (18, and the player must be legally permitted to gamble where they live); (4) how the iOS shortcut is added (open the casino website in Safari, tap Share, choose Add to Home Screen, confirm Add); (5) how the Android shortcut is added (open the casino website in Chrome, choose Add to Home screen in the browser menu, confirm the shortcut); (6) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "refs_add": [
+        "brandinfo_app.app_information.ios_installation",
+        "brandinfo_app.app_information.android_installation"
+      ],
+      "refs_drop": [
+        "brandinfo_app.app_information.platforms"
+      ]
+    }
+  ]
+}

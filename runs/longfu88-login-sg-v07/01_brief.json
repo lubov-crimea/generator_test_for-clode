@@ -1,0 +1,1242 @@
+{
+  "geo": "SG",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu88 login",
+    "Longfu login",
+    "Longfu88 register",
+    "Longfu88 casino login"
+  ],
+  "targets": {
+    "target_body_words": 1250,
+    "competitor_body_words": 1299,
+    "max_body_words": 1559,
+    "tier": "medium",
+    "tiers": {
+      "competitors": [
+        844,
+        1754
+      ],
+      "base": "medium",
+      "tiers": {
+        "small": {
+          "competitors": [
+            844
+          ],
+          "mean": 844,
+          "multiplier": 1.2,
+          "target": 844,
+          "limit": 1013
+        },
+        "medium": {
+          "competitors": [
+            844,
+            1754
+          ],
+          "mean": 1299,
+          "multiplier": 1.2,
+          "target": 1299,
+          "limit": 1559,
+          "synthetic": true
+        },
+        "large": {
+          "competitors": [
+            1754
+          ],
+          "mean": 1754,
+          "multiplier": 1.0,
+          "target": 1754,
+          "limit": 1754,
+          "outlier": true
+        }
+      }
+    },
+    "keyword_targets": {
+      "Longfu88": 12,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "base_body_words": 1250
+  },
+  "brand": "Longfu88",
+  "knowledge_base": {
+    "id": 576,
+    "title": "longfu88-new"
+  },
+  "intent_summary": "Security-conscious brand-subpage about the Longfu88 login in Singapore for a cautious reader: how to sign in safely, what protects the account, which data the casino holds and shares, why it asks for documents, the registration rules, the currency and one-account rules, the cookie and marketing settings, the welcome offer in brief and support. Page voice: sober and exact, every claim tied to a stated fact, sentences of about 18 words with a few shorter ones, no reassurance beyond the facts; no calls to action. H2 sections with one H3. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino Login: Secure Access to Your Account",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.login.method",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 92,
+      "words_max": 118,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Player Account",
+          "priority": 10
+        },
+        {
+          "name": "Login",
+          "priority": 9
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the Player Account with e-mail and password",
+          "priority": 8,
+          "relation": "logs in to",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What the page covers: how a registered player signs in to the casino account, how a lost password is reset, how the account is opened and checked, and where help is found.",
+      "copywriter_notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence, followed by the fact that the account is opened with the e-mail address and the password chosen at registration. State once that the casino is for players aged 18 or over, and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (login, password reset, account protection, the data the casino holds, verification documents, registration, settings, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. No payment or game details. Neutral tone, no promises. Use \"Longfu88\" exactly once and \"Longfu88 login\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b01"
+      ],
+      "words": 105,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.method",
+          "value": "Email and password"
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_words": {
+        "facts": 7,
+        "connections": 15,
+        "need": 22
+      },
+      "words_base": [
+        92,
+        118
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Signing In Safely",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_account.login.method",
+        "brandinfo_account.login.steps"
+      ],
+      "words_min": 97,
+      "words_max": 123,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Login",
+          "priority": 10
+        },
+        {
+          "name": "Registered E-mail",
+          "priority": 8
+        },
+        {
+          "name": "Security Check",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the registered e-mail and password on the login screen",
+          "priority": 8,
+          "relation": "enters",
+          "subject": "Player"
+        },
+        {
+          "object": "access to the account",
+          "priority": 6,
+          "relation": "precedes",
+          "subject": "Security Check"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The three login steps in order: open Login on the website, enter the registered e-mail and password, pass any security check.",
+      "copywriter_notes": "One lead-in sentence that carries a fact, then a NUMBERED list with the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account). The method is e-mail and password: say so. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL or encryption, a username or a player ID: the login is e-mail and password only and no other protection is given. Keep tracked keywords out of the list items. Do not explain password reset here (next sub-section). Use \"Longfu88\" exactly once and \"Longfu login\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b03"
+      ],
+      "words": 110,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.method",
+          "value": "Email and password"
+        },
+        {
+          "path": "brandinfo_account.login.steps",
+          "value": [
+            "Select Login on the website.",
+            "Enter registered email and password.",
+            "Complete any security check and access the account."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 22,
+        "connections": 30,
+        "need": 52
+      },
+      "words_base": [
+        97,
+        123
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 3,
+      "heading": "Replacing a Lost Password",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01",
+        "k13"
+      ],
+      "kb_refs": [
+        "brandinfo_account.login.password_recovery"
+      ],
+      "words_min": 66,
+      "words_max": 84,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Password Reset",
+          "priority": 10
+        },
+        {
+          "name": "Reset Link",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a reset link to the registered e-mail",
+          "priority": 8,
+          "relation": "requests",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How a player who forgot the password sets a new one: Forgot Password on the login screen, reset link by e-mail, new password.",
+      "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the three recovery steps in the order of the Brand Information (Forgot Password on the login screen; request a reset link with the registered e-mail; follow the e-mailed instructions to set a new password). A player who no longer has access to the registered mailbox should contact support (pointer only; the contact details are in the support section). Do not state how long the link is valid or how fast it arrives: no such fact is given. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b04"
+      ],
+      "words": 75,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.password_recovery",
+          "value": [
+            "Choose Forgot Password on the login screen.",
+            "Request a reset link using the registered email.",
+            "Follow the emailed instructions to set a new password."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 24,
+        "connections": 15,
+        "need": 39
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 2,
+      "heading": "What Protects the Account",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.security",
+        "brandinfo_privacy_policy.terms_conditions.account_terms"
+      ],
+      "words_min": 97,
+      "words_max": 123,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Account Security",
+          "priority": 10
+        },
+        {
+          "name": "Login Credentials",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the login credentials",
+          "priority": 8,
+          "relation": "safeguards",
+          "subject": "Account Holder"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Who is responsible for the credentials and what the operator does to protect accounts and data.",
+      "copywriter_notes": "Lead with the player's own part: the account holder is responsible for safeguarding the login credentials. Then the operator's part exactly at the level of detail of the Brand Information: technical and organisational safeguards protect accounts, payments and personal information, and the operator may suspend activity for verification or suspected abuse. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL or encryption, a username or a player ID: the login is e-mail and password only and no other protection is given. Do not claim an audit or a certificate. Do not print the contact addresses of the privacy policy (they contain the brand name). Variant direction: State the duty of the account holder first and the operator's safeguards second. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b07"
+      ],
+      "words": 110,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.security",
+          "value": "Technical and organizational safeguards protect accounts, payments and personal information."
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.account_terms",
+          "value": [
+            "The account holder is responsible for safeguarding credentials.",
+            "The operator may suspend activity for verification or suspected abuse."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 34,
+        "connections": 15,
+        "need": 49
+      },
+      "words_base": [
+        97,
+        123
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 2,
+      "heading": "What Data the Casino Holds",
+      "source": "unique",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.data_collected.identity_data",
+        "brandinfo_privacy_policy.privacy_policy.data_collected.contact_data",
+        "brandinfo_privacy_policy.privacy_policy.data_collected.verification_data",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights"
+      ],
+      "words_min": 119,
+      "words_max": 151,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Personal Data",
+          "priority": 10
+        },
+        {
+          "name": "Data Sharing",
+          "priority": 7
+        },
+        {
+          "name": "Data Subject Rights",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Casino",
+          "relation": "shares",
+          "object": "personal data with payment, identity-verification and technology providers and with regulators when required",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which data the casino holds about an account holder, with whom it may be shared and which rights the player has.",
+      "copywriter_notes": "Three short groups of facts, exactly as in the Brand Information: the identity data (name, date of birth, identity documents), contact data (e-mail, telephone, residential address) and verification data (KYC documents, payment method ownership evidence) that the casino holds; the parties it may share data with (payment service providers, identity verification providers, technology providers, regulators and law enforcement when required); the rights of the player (access, rectification, erasure where legally permitted, restriction, objection, portability where applicable, withdrawal of consent). Do not print the e-mail addresses of the data protection contact (they contain the brand name), do not claim a certificate, an audit or encryption, and do not say how long data is kept. Neutral, no legal advice. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 135,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_collected.identity_data",
+          "value": [
+            "Name",
+            "Date of birth",
+            "Identity documents"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_collected.contact_data",
+          "value": [
+            "Email",
+            "Telephone",
+            "Residential address"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_collected.verification_data",
+          "value": [
+            "KYC documents",
+            "Payment method ownership evidence"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_sharing",
+          "value": [
+            "Payment service providers",
+            "Identity verification providers",
+            "Technology providers",
+            "Regulators and law enforcement when required"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_subject_rights",
+          "value": [
+            "Access",
+            "Rectification",
+            "Erasure where legally permitted",
+            "Restriction",
+            "Objection",
+            "Portability where applicable",
+            "Withdrawal of consent"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 44,
+        "connections": 15,
+        "need": 59
+      },
+      "words_base": [
+        119,
+        151
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 2,
+      "heading": "Why the Casino Asks for Documents",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_account.verification.triggers",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_privacy_policy.kyc_aml.required_documents",
+        "brandinfo_privacy_policy.kyc_aml.verification_requirements.verification_stages"
+      ],
+      "words_min": 132,
+      "words_max": 168,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Account Verification",
+          "priority": 10
+        },
+        {
+          "name": "Identity Document",
+          "priority": 7
+        },
+        {
+          "name": "Review Time",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "before a withdrawal, during an account review and for unusual or high-value transactions",
+          "priority": 8,
+          "relation": "is requested",
+          "subject": "Account Verification"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "When the casino asks for verification, which documents count (identity, address, payment method, source of funds) and how long the process takes.",
+      "copywriter_notes": "Lead with the triggers (account review, before a withdrawal, unusual or high-value transactions, changes to account or payment details). Then a TABLE with two columns, document type | accepted documents, one row each for identity (passport, national identity card, driving licence), address (utility bill, bank statement), payment method (bank or card ownership evidence, digital wallet ownership evidence) and source of funds (proof of income, bank statements, other supporting financial documents); the source-of-funds row applies only when requested. Then one sentence with the two periods exactly as given: documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days. Do not say that verification is needed at registration or for login: it is requested on the triggers above. Variant direction: Add the stages at which checks happen (registration reviews, deposits, withdrawals, ongoing account monitoring). Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b06"
+      ],
+      "words": 150,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.verification.triggers",
+          "value": [
+            "Account review",
+            "Before withdrawal",
+            "Unusual or high-value transactions",
+            "Changes to account or payment details"
+          ]
+        },
+        {
+          "path": "brandinfo_account.verification.document_submission_window",
+          "value": "Up to 30 days when requested"
+        },
+        {
+          "path": "brandinfo_account.verification.typical_review_time",
+          "value": "Up to 10 days after a complete document set is received"
+        },
+        {
+          "path": "brandinfo_privacy_policy.kyc_aml.required_documents",
+          "value": {
+            "identity": [
+              "Passport",
+              "National identity card",
+              "Driving licence"
+            ],
+            "address": [
+              "Utility bill",
+              "Bank statement"
+            ],
+            "payment_method": [
+              "Bank or card ownership evidence",
+              "Digital wallet ownership evidence"
+            ],
+            "source_of_funds": [
+              "Proof of income",
+              "Bank statements",
+              "Other supporting financial documents"
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.kyc_aml.verification_requirements.verification_stages",
+          "value": [
+            "Registration reviews",
+            "Deposits",
+            "Withdrawals",
+            "Ongoing account monitoring"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 69,
+        "connections": 15,
+        "need": 84
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Registration Rules Behind Every Account",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration"
+      ],
+      "words_min": 114,
+      "words_max": 146,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Registration",
+          "priority": 10
+        },
+        {
+          "name": "Required Details",
+          "priority": 7
+        },
+        {
+          "name": "One Account Rule",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "e-mail, password, legal name, date of birth and residential address",
+          "priority": 8,
+          "relation": "requires",
+          "subject": "Registration"
+        },
+        {
+          "object": "only one personal account",
+          "priority": 7,
+          "relation": "may hold",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Registration by e-mail in five numbered steps, the details the form asks for and the eligibility rules (18+, one account per player).",
+      "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the five registration steps in the order of the Brand Information, then one short sentence with the required details (e-mail, password, legal name, date of birth, residential address) and the eligibility rules (18+ and of legal gambling age in the relevant jurisdiction, one personal account per player). Registration by e-mail is the only method given. Write \"the site\" or \"the casino\" in the list items instead of the brand name. Do not describe bonuses or deposits here. Use \"Longfu88\" exactly once and \"Longfu88 register\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b02"
+      ],
+      "words": 130,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.registration",
+          "value": {
+            "methods": [
+              "Email registration"
+            ],
+            "required_details": [
+              "Email",
+              "Password",
+              "Legal name",
+              "Date of birth",
+              "Residential address"
+            ],
+            "steps": [
+              "Open Longfu88 and select Register.",
+              "Enter email and create a password.",
+              "Confirm age and acceptance of Terms and Conditions and Privacy Policy.",
+              "Complete the additional personal details and residential address.",
+              "Select Create Account and complete any requested email confirmation."
+            ],
+            "eligibility": [
+              "18+ and of legal gambling age in the relevant jurisdiction.",
+              "Only one personal account per player."
+            ]
+          }
+        }
+      ],
+      "coverage_words": {
+        "facts": 40,
+        "connections": 30,
+        "need": 70
+      },
+      "words_base": [
+        114,
+        146
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 2,
+      "heading": "Accurate Details and Account Currencies",
+      "source": "unique",
+      "covers_clusters": [
+        "k16"
+      ],
+      "kb_refs": [
+        "brandinfo_general.currencies",
+        "brandinfo_privacy_policy.terms_conditions.eligibility.player_requirements"
+      ],
+      "words_min": 75,
+      "words_max": 95,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Account Currencies",
+          "priority": 8
+        },
+        {
+          "name": "One Personal Account",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "one personal account in one of the supported currencies",
+          "priority": 8,
+          "relation": "uses",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which currencies an account can use and the rules for the account itself: accurate details, one personal account, no third-party payment methods.",
+      "copywriter_notes": "State the currencies exactly as listed (EUR, USD, MYR, THB, SGD and USDT) and do not convert amounts or mention exchange rates, conversion or a choice of currency at registration: none is given. The player requirements: register with accurate information, use only one personal account, do not use third-party payment methods. Calm tone, no legal advice. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b11"
+      ],
+      "words": 85,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "MYR",
+            "THB",
+            "SGD",
+            "USDT"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.eligibility.player_requirements",
+          "value": [
+            "Register with accurate information",
+            "Use only one personal account",
+            "Do not use third-party payment methods"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 25,
+        "connections": 15,
+        "need": 40
+      },
+      "words_base": [
+        75,
+        95
+      ]
+    },
+    {
+      "id": "b09",
+      "level": 2,
+      "heading": "Cookies and Marketing Settings",
+      "source": "unique",
+      "covers_clusters": [
+        "k14"
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.marketing",
+        "brandinfo_privacy_policy.privacy_policy.cookies"
+      ],
+      "words_min": 66,
+      "words_max": 84,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Communication Preferences",
+          "priority": 10
+        },
+        {
+          "name": "Cookies",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "direct-marketing preferences and can unsubscribe from promotional communications",
+          "priority": 8,
+          "relation": "manages",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which settings the player controls: promotional communication and the cookies of the site.",
+      "copywriter_notes": "Two facts only, exactly as in the Brand Information: the player may manage direct-marketing preferences and unsubscribe from promotional communications; necessary, preference, analytics and marketing cookies support website functions and measurement. Do not invent account settings, screens, limits (deposit, loss, session) or profile fields and do not say where in the account to find these settings. Neutral tone. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b13"
+      ],
+      "words": 75,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.marketing",
+          "value": "Players may manage direct-marketing preferences and unsubscribe from promotional communications."
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.cookies",
+          "value": "Necessary, preference, analytics and marketing cookies support website functions and measurement."
+        }
+      ],
+      "coverage_words": {
+        "facts": 25,
+        "connections": 15,
+        "need": 40
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    },
+    {
+      "id": "b10",
+      "level": 2,
+      "heading": "The Welcome Offer in Brief",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k03"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure"
+      ],
+      "words_min": 79,
+      "words_max": 101,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Casino Welcome Bonus",
+          "priority": 10
+        },
+        {
+          "name": "First Deposit",
+          "priority": 8
+        },
+        {
+          "name": "Wagering Requirement",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a first qualifying deposit of €50 and activation in My Bonuses",
+          "priority": 8,
+          "relation": "requires",
+          "subject": "Casino Welcome Bonus"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What a new account can claim: the Casino Welcome Bonus, its size, the minimum first deposit, the wagering and the four claiming steps.",
+      "copywriter_notes": "This page is about the account, so keep the bonus short and strictly to the Brand Information: the Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins; the minimum first deposit is €50; wagering is 25x the deposit plus bonus amount. Claiming: register and complete the personal details, make the first qualifying deposit, activate the bonus in My Bonuses before placing any wager, play eligible games and complete the wagering. Use the €50 minimum of the bonus; do NOT mention the general minimum deposit of €10 on this page. Do not add terms that are not listed (validity, limits, exclusions are described elsewhere). Do not promise winnings. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b08"
+      ],
+      "words": 90,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.bonus_percentage",
+          "value": 188
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bonus",
+          "value": "€2,088"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.wagering_requirement",
+          "value": "25x the deposit plus bonus amount"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming_procedure",
+          "value": [
+            "Register an account and complete the required personal details.",
+            "Make the first qualifying deposit.",
+            "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.",
+            "Play eligible casino games and complete the wagering before expiry."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 53,
+        "connections": 15,
+        "need": 68
+      },
+      "words_base": [
+        79,
+        101
+      ],
+      "internal_links": [
+        {
+          "slug": "bonuses",
+          "href": "/bonuses",
+          "label": "Bonuses",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "b11",
+      "level": 2,
+      "heading": "Who to Contact",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support"
+      ],
+      "words_min": 57,
+      "words_max": 73,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Customer Support",
+          "priority": 10
+        },
+        {
+          "name": "Live Chat",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "account, login and verification questions through live chat and e-mail",
+          "priority": 8,
+          "relation": "answers",
+          "subject": "Customer Support"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How to reach support with a login or account problem: live chat around the clock, e-mail and the languages of the support team.",
+      "copywriter_notes": "Support channels: 24/7 live chat and e-mail. Print the e-mail address exactly as given in the Brand Information. Support languages: English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese. Say which kinds of account questions go here (login failure, a reset e-mail that does not arrive, document upload) without response-time promises. Use \"Longfu88\" exactly once, and no other tracked keyword. The e-mail address contains the tracked keyword \"Longfu88\"; it is part of the exact count of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b14"
+      ],
+      "words": 65,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support",
+          "value": {
+            "channels": [
+              "24/7 live chat",
+              "Email"
+            ],
+            "email": "support@longfu88.com",
+            "languages": [
+              "English",
+              "Malay",
+              "Simplified Chinese",
+              "Thai",
+              "Indonesian",
+              "Vietnamese"
+            ]
+          }
+        }
+      ],
+      "coverage_words": {
+        "facts": 16,
+        "connections": 15,
+        "need": 31
+      },
+      "words_base": [
+        57,
+        73
+      ]
+    },
+    {
+      "id": "b12",
+      "level": 2,
+      "heading": "Account Safety Questions",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k04"
+      ],
+      "kb_refs": [
+        "brandinfo_account.login.method",
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.customer_support.channels",
+        "brandinfo_privacy_policy.kyc_aml.required_documents.identity",
+        "brandinfo_account.registration.eligibility[1]",
+        "brandinfo_privacy_policy.privacy_policy.cookies"
+      ],
+      "words_min": 106,
+      "words_max": 134,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Frequently Asked Questions",
+          "priority": 10
+        },
+        {
+          "name": "Login",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "short answers to the most frequent login and account questions",
+          "priority": 6,
+          "relation": "finds",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "6 short questions and answers on the login and the account.",
+      "copywriter_notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how to log in (with the registered e-mail and password, as the page explains); (2) how long verification takes (a complete document set is normally reviewed within up to 10 days); (3) which identity document is accepted (passport, national identity card or driving licence); (4) whether a player may hold more than one account (no: one personal account per player); (5) which cookies the site uses (necessary, preference, analytics and marketing cookies); (6) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "list"
+      ],
+      "variant_origin": [
+        "b15"
+      ],
+      "words": 120,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.method",
+          "value": "Email and password"
+        },
+        {
+          "path": "brandinfo_account.verification.typical_review_time",
+          "value": "Up to 10 days after a complete document set is received"
+        },
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.kyc_aml.required_documents.identity",
+          "value": [
+            "Passport",
+            "National identity card",
+            "Driving licence"
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.eligibility[1]",
+          "value": "Only one personal account per player."
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.cookies",
+          "value": "Necessary, preference, analytics and marketing cookies support website functions and measurement."
+        }
+      ],
+      "coverage_words": {
+        "facts": 41,
+        "connections": 15,
+        "need": 56
+      },
+      "words_base": [
+        106,
+        134
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [],
+  "page_type": "brand-subpage",
+  "skipped_clusters": [],
+  "variant": {
+    "id": "v07",
+    "name": "Security-conscious",
+    "base_run": "longfu88-login-sg",
+    "angle": "A cautious player who wants to know what protects the account before logging in.",
+    "tier": "medium"
+  },
+  "site_pages": [
+    "bonuses",
+    "app"
+  ]
+}

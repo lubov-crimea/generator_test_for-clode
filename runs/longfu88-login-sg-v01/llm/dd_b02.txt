@@ -1,0 +1,9 @@
+﻿Longfu88 login works through one route only, which pairs the address given at registration with the matching password. Reaching the account takes three actions each time:
+
+1. Press Login on the website.
+2. Supply the e-mail and password tied to the account.
+3. Pass whatever security check is shown, and the account opens.
+
+A forgotten password does not call for a new registration. The sign-in screen offers Forgot Password, which leads to a reset link requested for the address on file. A message follows with instructions for choosing a new password. Because the request is tied to the registration address, the mailbox behind it has to be reachable. Once the new password is saved, a Longfu login proceeds exactly as in the list above. Where the mailbox itself can no longer be opened, the player should get in touch with Longfu88 support, whose details appear in the Get Help section.
+
+

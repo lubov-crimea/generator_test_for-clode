@@ -1,0 +1,5 @@
+iPhone and iPad owners use the Share button of Safari, so the sequence departs slightly from the Android one:
+
+1. Point Safari at the casino website and let the page load.
+2. Hit Share, then take Add to Home Screen from the list.
+3. Last comes Add, and the new icon shows on the home screen.

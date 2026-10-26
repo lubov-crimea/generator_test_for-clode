@@ -1,0 +1,16 @@
+=== b04 ===
+Longfu88 works in the browser of a smartphone or tablet, and a home-screen shortcut is added once, not on every visit. Nobody needs an installation file or a Longfu88 apk, because the website opens in the mobile browser and sits on the home screen as a shortcut. The setup is short, three steps per system, and it is done once per device. Two sub-sections follow, with the steps for Android (Chrome) and for iOS (Safari).
+
+=== b05 ===
+On an Android phone, Chrome adds a shortcut of the casino website to the home screen in three short steps. Once confirmed, the shortcut appears among the apps of the phone and opens the same website.
+
+1. Open the casino website in Chrome.
+2. Choose Add to Home screen in the browser menu.
+3. Confirm the shortcut.
+
+=== b06 ===
+On an iPhone or iPad, Safari does the same job through the Share menu: it places a shortcut of the casino website on the home screen. The icon then opens the same site as the browser tab.
+
+1. Open the casino website in Safari.
+2. Tap Share and choose Add to Home Screen.
+3. Confirm Add.

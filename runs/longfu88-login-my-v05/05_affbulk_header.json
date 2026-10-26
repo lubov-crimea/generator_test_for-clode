@@ -1,0 +1,50 @@
+{
+ "header": {
+  "navLinks": [
+   {
+    "text": "Promotions",
+    "link": "{{rezerv_casino}}",
+    "linkStatus": "affiliate"
+   },
+   {
+    "text": "Casino",
+    "link": "{{rezerv_casino}}",
+    "linkStatus": "affiliate"
+   },
+   {
+    "text": "Live Casino",
+    "link": "{{rezerv_casino}}",
+    "linkStatus": "affiliate"
+   },
+   {
+    "text": "Sports",
+    "link": "{{rezerv_casino}}",
+    "linkStatus": "affiliate"
+   },
+   {
+    "text": "Live Betting",
+    "link": "{{rezerv_casino}}",
+    "linkStatus": "affiliate"
+   },
+   {
+    "text": "Longfu88 Login",
+    "link": "/login",
+    "linkStatus": "internal"
+   }
+  ],
+  "buttons": [
+   {
+    "variant": "main",
+    "link": "{{rezerv_casino}}",
+    "text": "Register",
+    "linkStatus": "affiliate"
+   },
+   {
+    "variant": "secondary",
+    "link": "{{rezerv_casino}}",
+    "text": "Login",
+    "linkStatus": "affiliate"
+   }
+  ]
+ }
+}

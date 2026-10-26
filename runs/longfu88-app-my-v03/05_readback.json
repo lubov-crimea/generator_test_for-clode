@@ -1,0 +1,976 @@
+{
+  "id": 16886,
+  "slug": "app",
+  "customHeadHTML": null,
+  "createdAt": "2026-10-23T18:26:54.414Z",
+  "updatedAt": "2026-10-23T18:26:54.414Z",
+  "generationData": null,
+  "tableOfContent": false,
+  "seo": {
+    "id": 36529,
+    "title": "Longfu App Checklist: Phone Setup for Malaysia",
+    "description": "Longfu app checklist for Malaysian players: check the device, add the shortcut on iOS or Android, log in, fix common problems and find support.",
+    "customCanonical": null,
+    "customPageLang": null,
+    "index": true,
+    "customOgUrl": null
+  },
+  "content": [
+    {
+      "__component": "blocks.hero",
+      "id": 21794,
+      "title": "Longfu App Checklist: Phone Setup for Malaysian Players",
+      "label": "Phone setup in one checklist",
+      "mainLabel": "",
+      "background": {
+        "id": 140,
+        "name": "longfu88-hero.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2646,
+        "height": 704,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/thumbnail_longfu88_hero_903ac13b59/thumbnail_longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6645a52164948ea51815fe3e1ea378b2e5138bafe119b28aac1efa56d3aa9a031b4117c4091fee1b4f3b438aa3bf72b385627dbc7efae2ab5f2054a0fe7c679970d24eb67920dfed7d3e87e8e4cc8b8ee03d33744e4bffb40a9cc771a08b954d700273b8b48fd99f2f72524acc00e6de6386414ac04fd41ec8545f855fc4866b562742436f84e79697b801d4872ca6dc07f78c22d6e8bbf2b1b6f6080f3ba088dbc416878bc9dabc41cd426b59b5a14fd6eb4afdedebb3a30edbff82f5884cdacf817ec6b5455b17cb5384e531c4644a99274dba65fe1e40cdc3a05ceb843c47034ae26c5e5e57a2bf871992449ae400288a16170be2fa7c8d61d8c0cdf3081a",
+            "hash": "thumbnail_longfu88_hero_903ac13b59",
+            "mime": "image/webp",
+            "name": "thumbnail_longfu88-hero.webp",
+            "path": null,
+            "size": 3.59,
+            "width": 245,
+            "height": 65,
+            "sizeInBytes": 3588,
+            "isUrlSigned": true
+          }
+        },
+        "hash": "longfu88_hero_903ac13b59",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 119.14,
+        "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/longfu88_hero_903ac13b59/longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=345e80d7e041f96f9316e0d3a1f70cb46dc6ba4754dc2dda39d4e09ab5da0a349d945f7003e55f7b8155efdf8fd9e76338334385137d612db4caa2c760010b73d3eec4ebd5515c852c998b6a8987278087ad66c262bfc0deaf00bc85a9bcf8ef338e49eb3308f98aca2423c89581d6a0974e16e2dd159863714ca217fa1cf933db485a79c05b1ce24b971329287122990da10d94ddb53d2dc1ca4b99f8ea9f2feaf59c6cb8f9374ea265528f09ea3a7ac7c332f7ff0dfb0e954f55c02e93a31b346e18693d4d8ba8a458a17b9313ea070e8b4673732a105446a8a0c04bcec727187d09d052140a0c0e1546d485f57b9d2b1760cde5c3dc6eb9f082b6a06bad0d",
+        "previewUrl": null,
+        "provider": "google-cloud-storage",
+        "provider_metadata": null,
+        "folderPath": "/11",
+        "createdAt": "2026-02-04T17:20:10.940Z",
+        "updatedAt": "2026-02-04T17:20:10.940Z",
+        "isUrlSigned": true
+      },
+      "backgroundMobile": null,
+      "rating": null,
+      "buttons": [
+        {
+          "id": 718423,
+          "variant": "main",
+          "link": "{{rezerv_casino}}",
+          "text": "Play Now",
+          "linkStatus": "affiliate"
+        }
+      ]
+    },
+    {
+      "__component": "blocks.article",
+      "id": 366995,
+      "article": "<p><a href=\"/\">Longfu88</a> works on a smartphone or tablet through its responsive website, on Android and iOS. The browser opens the Longfu88 mobile casino, and a home-screen shortcut can be added. Players must be 18 or over, and the page is written for players from Malaysia. Below: device check, shortcut steps, features, login, fixes, safety and contacts.</p>"
+    },
+    {
+      "__component": "blocks.call-to-action",
+      "id": 18233,
+      "buttons": [
+        {
+          "id": 718424,
+          "variant": "main",
+          "link": "{{rezerv_casino}}",
+          "text": "Play Now",
+          "linkStatus": "affiliate"
+        }
+      ]
+    },
+    {
+      "__component": "blocks.article",
+      "id": 366996,
+      "article": "<h2>Before You Start: Device Checklist</h2>\n<p>The supported platforms include three options, and Longfu88 needs no installation file because the layout adapts to smartphone and tablet screens.</p>\n<ul>\n<li>Android: the casino website opens in Chrome for the shortcut route.</li>\n<li>iOS: the casino website opens in Safari for the shortcut route.</li>\n<li>Mobile web: the website opens in any smartphone or tablet browser.</li>\n</ul>"
+    },
+    {
+      "__component": "blocks.article",
+      "id": 366997,
+      "article": "<h2>Longfu88 iOS and Android Shortcut Checklist</h2>\n<p>The casino works in the browser of a smartphone or tablet. A player adds a shortcut of the casino website to the home screen once. One tap on its icon then opens the site. The shortcut only saves the way in, so the account and the games stay on the website itself.</p>\n<p>Nobody needs a Longfu88 apk. The casino opens in the mobile browser and sits on the home screen as a shortcut. No Longfu88 download or store listing is involved, so the steps below are the whole setup.</p>\n<p>The iOS route runs through Safari, on both an iPhone and an iPad:</p>\n<ol>\n<li>Open the site in Safari.</li>\n<li>Tap Share and choose Add to Home Screen.</li>\n<li>Confirm Add.</li>\n</ol>\n<p>The Longfu88 Android route runs through Chrome and has three steps as well:</p>\n<ol>\n<li>Open the site in Chrome.</li>\n<li>Open the browser menu and choose Add to Home screen.</li>\n<li>Confirm the shortcut.</li>\n</ol>"
+    },
+    {
+      "__component": "blocks.article",
+      "id": 366998,
+      "article": "<h2>Mobile Features Checklist</h2>\n<p>The Longfu88 website is responsive, so its layout adapts to smartphone and tablet browsers and gives access to six areas:</p>\n<ul>\n<li>Play casino games on the phone</li>\n<li>Place bets in the sportsbook</li>\n<li>Access the account</li>\n<li>Make deposits into the account</li>\n<li>Request withdrawals from the account</li>\n<li>Claim bonuses in the account</li>\n</ul>\n<p>The sportsbook sits beside the casino on the same responsive website. Each area opens in the browser or from the home-screen shortcut, on a phone and on a tablet alike.</p>"
+    },
+    {
+      "__component": "blocks.article",
+      "id": 366999,
+      "article": "<h2>Login Checklist</h2>\n<p>Registration is by e-mail only, and the form asks for e-mail, password, legal name, date of birth and residential address. On a phone, login works as on a computer, in three steps for the Longfu88 player account:</p>\n<ul>\n<li>Select Login on the website.</li>\n<li>Enter the registered e-mail and password.</li>\n<li>Complete any security check and access the account.</li>\n</ul>\n<p>A forgotten password goes through Forgot Password on the login screen.</p>"
+    },
+    {
+      "__component": "blocks.call-to-action",
+      "id": 18234,
+      "buttons": [
+        {
+          "id": 718425,
+          "variant": "main",
+          "link": "{{rezerv_casino}}",
+          "text": "Log In",
+          "linkStatus": "affiliate"
+        }
+      ]
+    },
+    {
+      "__component": "blocks.article",
+      "id": 367000,
+      "article": "<h2>Troubleshooting Checklist</h2>\n<p>Four common phone problems with Longfu88 have a plain fix, and customer support covers whatever the checks leave open:</p>\n<ul>\n<li>Shortcut missing: repeat the steps in Chrome on Android or in Safari on iOS, then look for the icon on the home screen.</li>\n<li>Page not loading: reload it and check the internet connection.</li>\n<li>Login failing: check the e-mail address, then request a reset link with Forgot Password on the login screen.</li>\n<li>Problem remaining: contact support through live chat, available 24/7, or by e-mail.</li>\n</ul>"
+    },
+    {
+      "__component": "blocks.article",
+      "id": 367001,
+      "article": "<h2>Safety Checklist</h2>\n<p>The account holder is responsible for safeguarding the Longfu88 login credentials on every device, a phone or tablet included. Handing an unlocked device to others should be avoided. The operator applies technical and organisational safeguards to accounts, payments and personal information. It may also suspend activity for verification or suspected abuse.</p>"
+    },
+    {
+      "__component": "blocks.article",
+      "id": 367002,
+      "article": "<h2>Support Contacts</h2>\n<p>Customer support answers mobile and account questions through 24/7 live chat and by e-mail at support@longfu88.com. Shortcut, page loading, login and document questions all go here. The team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.</p>"
+    },
+    {
+      "__component": "blocks.faq",
+      "id": 20764,
+      "title": "Checklist Questions",
+      "faqs": [
+        {
+          "id": 93251,
+          "question": "Which phones work?",
+          "answer": "Android and iOS devices work, as does the mobile web of any smartphone or tablet."
+        },
+        {
+          "id": 93252,
+          "question": "How is the iOS shortcut added?",
+          "answer": "Open the casino website in Safari, tap Share, choose Add to Home Screen and confirm Add."
+        },
+        {
+          "id": 93253,
+          "question": "How is the Android shortcut added?",
+          "answer": "Open the casino website in Chrome, pick Add to Home screen in the browser menu and confirm the shortcut."
+        },
+        {
+          "id": 93254,
+          "question": "Does a tablet work too?",
+          "answer": "Yes, Longfu88 is usable in smartphone and tablet browsers."
+        },
+        {
+          "id": 93255,
+          "question": "Where to turn when something fails?",
+          "answer": "Customer support answers through 24/7 live chat or by e-mail."
+        }
+      ]
+    },
+    {
+      "__component": "blocks.promo",
+      "id": 16140,
+      "title": "Casino Welcome Bonus",
+      "timer": null,
+      "description": "188% up to €2,088 + 18 Free Spins",
+      "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+      "buttons": [
+        {
+          "id": 718426,
+          "variant": "main",
+          "link": "{{rezerv_casino}}",
+          "text": "Claim Bonus",
+          "linkStatus": "affiliate"
+        }
+      ],
+      "image": {
+        "id": 140,
+        "name": "longfu88-hero.webp",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2646,
+        "height": 704,
+        "formats": {
+          "thumbnail": {
+            "ext": ".webp",
+            "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/thumbnail_longfu88_hero_903ac13b59/thumbnail_longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6645a52164948ea51815fe3e1ea378b2e5138bafe119b28aac1efa56d3aa9a031b4117c4091fee1b4f3b438aa3bf72b385627dbc7efae2ab5f2054a0fe7c679970d24eb67920dfed7d3e87e8e4cc8b8ee03d33744e4bffb40a9cc771a08b954d700273b8b48fd99f2f72524acc00e6de6386414ac04fd41ec8545f855fc4866b562742436f84e79697b801d4872ca6dc07f78c22d6e8bbf2b1b6f6080f3ba088dbc416878bc9dabc41cd426b59b5a14fd6eb4afdedebb3a30edbff82f5884cdacf817ec6b5455b17cb5384e531c4644a99274dba65fe1e40cdc3a05ceb843c47034ae26c5e5e57a2bf871992449ae400288a16170be2fa7c8d61d8c0cdf3081a",
+            "hash": "thumbnail_longfu88_hero_903ac13b59",
+            "mime": "image/webp",
+            "name": "thumbnail_longfu88-hero.webp",
+            "path": null,
+            "size": 3.59,
+            "width": 245,
+            "height": 65,
+            "sizeInBytes": 3588,
+            "isUrlSigned": true
+          }
+        },
+        "hash": "longfu88_hero_903ac13b59",
+        "ext": ".webp",
+        "mime": "image/webp",
+        "size": 119.14,
+        "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/longfu88_hero_903ac13b59/longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=345e80d7e041f96f9316e0d3a1f70cb46dc6ba4754dc2dda39d4e09ab5da0a349d945f7003e55f7b8155efdf8fd9e76338334385137d612db4caa2c760010b73d3eec4ebd5515c852c998b6a8987278087ad66c262bfc0deaf00bc85a9bcf8ef338e49eb3308f98aca2423c89581d6a0974e16e2dd159863714ca217fa1cf933db485a79c05b1ce24b971329287122990da10d94ddb53d2dc1ca4b99f8ea9f2feaf59c6cb8f9374ea265528f09ea3a7ac7c332f7ff0dfb0e954f55c02e93a31b346e18693d4d8ba8a458a17b9313ea070e8b4673732a105446a8a0c04bcec727187d09d052140a0c0e1546d485f57b9d2b1760cde5c3dc6eb9f082b6a06bad0d",
+        "previewUrl": null,
+        "provider": "google-cloud-storage",
+        "provider_metadata": null,
+        "folderPath": "/11",
+        "createdAt": "2026-02-04T17:20:10.940Z",
+        "updatedAt": "2026-02-04T17:20:10.940Z",
+        "isUrlSigned": true
+      }
+    }
+  ],
+  "website": {
+    "id": 4976,
+    "domain": "longfu88-play.net",
+    "index": true,
+    "brandName": "Longfu88",
+    "redirectFromNonExistingPages": false,
+    "analyticsType": "umami",
+    "redirectToWWW": false,
+    "language": "en",
+    "createdAt": "2026-09-28T14:12:08.228Z",
+    "updatedAt": "2026-10-23T18:10:57.395Z",
+    "langConfig": null,
+    "customHeadHTML": null,
+    "customBodyStartHTML": null,
+    "customBodyEndHTML": null,
+    "redirects": null,
+    "schemaMarkupEnabled": true,
+    "altDeploymentSettings": null,
+    "contentLanguage": "English",
+    "targetCountry": "Malaysia",
+    "websiteTemplateColors": {
+      "mainColor": "#6d6d6d",
+      "accentColor": "#d8002b"
+    },
+    "globalCanonical": null,
+    "nofollowExternalLinks": null,
+    "globalOgUrl": null,
+    "allowExternalLinks": null,
+    "mirrorEnabled": null,
+    "canonicalSeo": null,
+    "ogUrlSeo": null,
+    "schemaUrlSeo": null,
+    "sitemapUrlSeo": null,
+    "breadcrumbsEnabled": null,
+    "build": {
+      "id": 4982,
+      "name": "longfu88-play.net",
+      "enabled": true,
+      "template": "Template LeadsCount",
+      "trigger": "manual",
+      "status": {
+        "stage": "Deploy",
+        "state": "success",
+        "message": "Website deployed",
+        "startedAt": "2026-10-23T18:09:10.311Z",
+        "errorDetails": null,
+        "warningMessage": null
+      },
+      "createdAt": "2026-09-28T14:12:10.801Z",
+      "updatedAt": "2026-10-23T18:10:57.632Z",
+      "lastSuccessfulDeployAt": "2026-10-23T18:09:10.311Z",
+      "domainStatus": {
+        "state": "active",
+        "domain": "longfu88-play.net",
+        "message": null,
+        "checkedAt": "2026-10-23T18:09:09.318Z",
+        "dnsInstruction": null
+      },
+      "domainMonitor": {
+        "active": false
+      },
+      "website": {
+        "id": 4976,
+        "domain": "longfu88-play.net",
+        "index": true,
+        "brandName": "Longfu88",
+        "redirectFromNonExistingPages": false,
+        "analyticsType": "umami",
+        "redirectToWWW": false,
+        "language": "en",
+        "createdAt": "2026-09-28T14:12:08.228Z",
+        "updatedAt": "2026-10-23T18:10:57.395Z",
+        "langConfig": null,
+        "customHeadHTML": null,
+        "customBodyStartHTML": null,
+        "customBodyEndHTML": null,
+        "redirects": null,
+        "schemaMarkupEnabled": true,
+        "altDeploymentSettings": null,
+        "contentLanguage": "English",
+        "targetCountry": "Malaysia",
+        "websiteTemplateColors": {
+          "mainColor": "#6d6d6d",
+          "accentColor": "#d8002b"
+        },
+        "globalCanonical": null,
+        "nofollowExternalLinks": null,
+        "globalOgUrl": null,
+        "allowExternalLinks": null,
+        "mirrorEnabled": null,
+        "canonicalSeo": null,
+        "ogUrlSeo": null,
+        "schemaUrlSeo": null,
+        "sitemapUrlSeo": null,
+        "breadcrumbsEnabled": null,
+        "build": {
+          "id": 4982,
+          "name": "longfu88-play.net",
+          "enabled": true,
+          "template": "Template LeadsCount",
+          "trigger": "manual",
+          "status": {
+            "stage": "Deploy",
+            "state": "success",
+            "message": "Website deployed",
+            "startedAt": "2026-10-23T18:09:10.311Z",
+            "errorDetails": null,
+            "warningMessage": null
+          },
+          "createdAt": "2026-09-28T14:12:10.801Z",
+          "updatedAt": "2026-10-23T18:10:57.632Z",
+          "lastSuccessfulDeployAt": "2026-10-23T18:09:10.311Z",
+          "domainStatus": {
+            "state": "active",
+            "domain": "longfu88-play.net",
+            "message": null,
+            "checkedAt": "2026-10-23T18:09:09.318Z",
+            "dnsInstruction": null
+          },
+          "domainMonitor": {
+            "active": false
+          }
+        },
+        "tags": [],
+        "favicon": {
+          "id": 141,
+          "name": "favicon.svg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 128,
+          "height": 128,
+          "formats": null,
+          "hash": "favicon_772b973d78",
+          "ext": ".svg",
+          "mime": "image/svg+xml",
+          "size": 316.88,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/favicon_772b973d78/favicon_772b973d78.svg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=5df118a06ba893d50c5e950ce13d56e0733f0a86a41918424e195bab600b13f9b5d15f9d0346a29e44274ae411dd7f9e38868ee9002ca578f1bfa7a7388b0994a7133b3281a346ee4ae57f662e33a07813c2cfdfde8f1ca4a97fad3f9cce5ee2848874c60fada24ca33d133d9356e49436d85ff4f82a1090d23f0cd09380dbb07de9a4f878ac95cf5e16e06c8b3274fa7ad04c4bcd990103f07f11362e4b952daa225359d32b2257fec409f6a0b0305b47b76c15bbfcaf5dd53769d7db8998c1f05cee653ea01aa384b9fc2a31204d45e67d3105507daeee903693a2e51e1480ef173369e412f0768c3ebe1900b6936efbaf0a8cf05ab93d90ae1cf98588f8c7",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/11",
+          "createdAt": "2026-02-04T17:20:11.005Z",
+          "updatedAt": "2026-02-04T17:20:11.005Z",
+          "isUrlSigned": true
+        },
+        "logo": {
+          "id": 139,
+          "name": "logo.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 198,
+          "height": 120,
+          "formats": null,
+          "hash": "logo_ace3013528",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 7.4,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/logo_ace3013528/logo_ace3013528.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=11fa75695055ef40401b34133f74499a1c3a954675bbb0b6bf876532af91fae97bc77f49f46c4a89b58102531e78ed02fe70855a8d8a81a1dd8b10e316c37bdd2a5ec0e32660259da09dffe66a6cfe5aa5e5858ea1d50b0268822919e54afacf9b8a406fa707deb0587b87103a83bdbf3bd0f39916cbc54fc88981ee1f46626d0c13f0501c3916d7c9ea9b79f094b453cc6cfe7aee768d781672ca3b10d889b5d5b87ec6721af7fcc7116d3acef385c263375d132de2b8b1c1a6488df9bb3d93e5878f1cafece16399f42f25758c49e584c954f7d09ca3582fac3eb4fd1d3eaa387c60306023f72a350e31a82770dfb8867f5b803f649984a958e68426ff5380",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/11",
+          "createdAt": "2026-02-04T17:20:10.440Z",
+          "updatedAt": "2026-02-04T17:20:10.440Z",
+          "isUrlSigned": true
+        },
+        "header": {
+          "id": 7675
+        },
+        "footer": {
+          "id": 6134,
+          "text": "Copyright {{year}} © {{brandName}}"
+        },
+        "template": {
+          "id": 16,
+          "name": "Template LeadsCount"
+        },
+        "cdnProfile": {
+          "id": 5377,
+          "provider": "Cloudflare",
+          "email": null,
+          "createdAt": "2026-09-28T21:09:06.089Z",
+          "updatedAt": "2026-10-23T18:09:09.294Z",
+          "region": "de",
+          "label": null,
+          "lastVerifiedAt": "2026-10-23T18:09:09.294Z",
+          "lastAuthError": null,
+          "lastAuthErrorAt": null
+        },
+        "serverProfile": null,
+        "appliedPreset": null,
+        "registrarProfile": null,
+        "aside": [],
+        "socialButtons": [],
+        "socialMeta": null,
+        "affiliate_link": {
+          "id": 224,
+          "alias": "longfu88_brand",
+          "linkVariables": {
+            "rezerv_casino": "https://dotnettips.info/QYmJfKJC"
+          },
+          "createdAt": "2025-12-17T13:06:25.711Z",
+          "updatedAt": "2026-10-12T15:17:44.082Z"
+        },
+        "defaultHeroImage": {
+          "id": 140,
+          "name": "longfu88-hero.webp",
+          "alternativeText": null,
+          "caption": null,
+          "width": 2646,
+          "height": 704,
+          "formats": {
+            "thumbnail": {
+              "ext": ".webp",
+              "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/thumbnail_longfu88_hero_903ac13b59/thumbnail_longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6645a52164948ea51815fe3e1ea378b2e5138bafe119b28aac1efa56d3aa9a031b4117c4091fee1b4f3b438aa3bf72b385627dbc7efae2ab5f2054a0fe7c679970d24eb67920dfed7d3e87e8e4cc8b8ee03d33744e4bffb40a9cc771a08b954d700273b8b48fd99f2f72524acc00e6de6386414ac04fd41ec8545f855fc4866b562742436f84e79697b801d4872ca6dc07f78c22d6e8bbf2b1b6f6080f3ba088dbc416878bc9dabc41cd426b59b5a14fd6eb4afdedebb3a30edbff82f5884cdacf817ec6b5455b17cb5384e531c4644a99274dba65fe1e40cdc3a05ceb843c47034ae26c5e5e57a2bf871992449ae400288a16170be2fa7c8d61d8c0cdf3081a",
+              "hash": "thumbnail_longfu88_hero_903ac13b59",
+              "mime": "image/webp",
+              "name": "thumbnail_longfu88-hero.webp",
+              "path": null,
+              "size": 3.59,
+              "width": 245,
+              "height": 65,
+              "sizeInBytes": 3588,
+              "isUrlSigned": true
+            }
+          },
+          "hash": "longfu88_hero_903ac13b59",
+          "ext": ".webp",
+          "mime": "image/webp",
+          "size": 119.14,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/longfu88_hero_903ac13b59/longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=345e80d7e041f96f9316e0d3a1f70cb46dc6ba4754dc2dda39d4e09ab5da0a349d945f7003e55f7b8155efdf8fd9e76338334385137d612db4caa2c760010b73d3eec4ebd5515c852c998b6a8987278087ad66c262bfc0deaf00bc85a9bcf8ef338e49eb3308f98aca2423c89581d6a0974e16e2dd159863714ca217fa1cf933db485a79c05b1ce24b971329287122990da10d94ddb53d2dc1ca4b99f8ea9f2feaf59c6cb8f9374ea265528f09ea3a7ac7c332f7ff0dfb0e954f55c02e93a31b346e18693d4d8ba8a458a17b9313ea070e8b4673732a105446a8a0c04bcec727187d09d052140a0c0e1546d485f57b9d2b1760cde5c3dc6eb9f082b6a06bad0d",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/11",
+          "createdAt": "2026-02-04T17:20:10.940Z",
+          "updatedAt": "2026-02-04T17:20:10.940Z",
+          "isUrlSigned": true
+        },
+        "fonts": {
+          "id": 5120,
+          "fontFamily": "Roboto",
+          "isLocal": false
+        },
+        "localBusiness": null,
+        "customFiles": [],
+        "primaryWebsite": null,
+        "mirrors": []
+      }
+    },
+    "tags": [],
+    "favicon": {
+      "id": 141,
+      "name": "favicon.svg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 128,
+      "height": 128,
+      "formats": null,
+      "hash": "favicon_772b973d78",
+      "ext": ".svg",
+      "mime": "image/svg+xml",
+      "size": 316.88,
+      "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/favicon_772b973d78/favicon_772b973d78.svg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=5df118a06ba893d50c5e950ce13d56e0733f0a86a41918424e195bab600b13f9b5d15f9d0346a29e44274ae411dd7f9e38868ee9002ca578f1bfa7a7388b0994a7133b3281a346ee4ae57f662e33a07813c2cfdfde8f1ca4a97fad3f9cce5ee2848874c60fada24ca33d133d9356e49436d85ff4f82a1090d23f0cd09380dbb07de9a4f878ac95cf5e16e06c8b3274fa7ad04c4bcd990103f07f11362e4b952daa225359d32b2257fec409f6a0b0305b47b76c15bbfcaf5dd53769d7db8998c1f05cee653ea01aa384b9fc2a31204d45e67d3105507daeee903693a2e51e1480ef173369e412f0768c3ebe1900b6936efbaf0a8cf05ab93d90ae1cf98588f8c7",
+      "previewUrl": null,
+      "provider": "google-cloud-storage",
+      "provider_metadata": null,
+      "folderPath": "/11",
+      "createdAt": "2026-02-04T17:20:11.005Z",
+      "updatedAt": "2026-02-04T17:20:11.005Z",
+      "isUrlSigned": true
+    },
+    "logo": {
+      "id": 139,
+      "name": "logo.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 198,
+      "height": 120,
+      "formats": null,
+      "hash": "logo_ace3013528",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 7.4,
+      "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/logo_ace3013528/logo_ace3013528.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=11fa75695055ef40401b34133f74499a1c3a954675bbb0b6bf876532af91fae97bc77f49f46c4a89b58102531e78ed02fe70855a8d8a81a1dd8b10e316c37bdd2a5ec0e32660259da09dffe66a6cfe5aa5e5858ea1d50b0268822919e54afacf9b8a406fa707deb0587b87103a83bdbf3bd0f39916cbc54fc88981ee1f46626d0c13f0501c3916d7c9ea9b79f094b453cc6cfe7aee768d781672ca3b10d889b5d5b87ec6721af7fcc7116d3acef385c263375d132de2b8b1c1a6488df9bb3d93e5878f1cafece16399f42f25758c49e584c954f7d09ca3582fac3eb4fd1d3eaa387c60306023f72a350e31a82770dfb8867f5b803f649984a958e68426ff5380",
+      "previewUrl": null,
+      "provider": "google-cloud-storage",
+      "provider_metadata": null,
+      "folderPath": "/11",
+      "createdAt": "2026-02-04T17:20:10.440Z",
+      "updatedAt": "2026-02-04T17:20:10.440Z",
+      "isUrlSigned": true
+    },
+    "header": {
+      "id": 7675,
+      "navLinks": [
+        {
+          "id": 25518,
+          "link": "{{rezerv_casino}}",
+          "text": "Promotions",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 25519,
+          "link": "{{rezerv_casino}}",
+          "text": "Casino",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 25520,
+          "link": "{{rezerv_casino}}",
+          "text": "Live Casino",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 25521,
+          "link": "{{rezerv_casino}}",
+          "text": "Sports",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 25522,
+          "link": "{{rezerv_casino}}",
+          "text": "Live Betting",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 25523,
+          "link": "/login",
+          "text": "Longfu88 Login",
+          "linkStatus": "internal",
+          "submenu": []
+        }
+      ],
+      "buttons": [
+        {
+          "id": 717782,
+          "variant": "main",
+          "link": "{{rezerv_casino}}",
+          "text": "Register",
+          "linkStatus": "affiliate"
+        },
+        {
+          "id": 717783,
+          "variant": "secondary",
+          "link": "{{rezerv_casino}}",
+          "text": "Login",
+          "linkStatus": "affiliate"
+        }
+      ]
+    },
+    "footer": {
+      "id": 6134,
+      "text": "Copyright {{year}} © {{brandName}}",
+      "payments": [
+        {
+          "id": 208,
+          "name": "B_gaiming.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "B_gaiming_f064f07280",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 10.23,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/B_gaiming_f064f07280/B_gaiming_f064f07280.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=7e95713b0a07422a5435bf52c72acd4e05e9b033b0301fceb4a92e749e8c460860e6ee60423523760a26bb0d572c3e5efdc0051807a49dabbfe3cf6c37c28b189ce77e19c6bccef6942d5c989ffa6276b4b94ea3f9cb4899dc0fa8e0bb86c00e89510cbfa4c0009560f052fb2e6c5c49451a647e83cd1662256a85edc80ac63f2daafa24e2cb3d8c683eedee1414952463f85202993a024ffe6bfad50d444f842a85600addcd163b97624f4a52293e3908058cf66248af98b4a4b9983b4c87840c4401838c249af7138d3d79b130b9be7cb4dbacfd825838549eab1d0e39edd7ea07d7758967e8253ca7bc2f17bbca3b7493d192e562c8f20e9d3b6494eeb344",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.896Z",
+          "updatedAt": "2026-02-13T21:03:11.896Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 209,
+          "name": "BetSoft.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "Bet_Soft_bcc800411f",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 9.39,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/Bet_Soft_bcc800411f/Bet_Soft_bcc800411f.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=17b128cb6ebe7bf8a477c1803f2b808e0ef13408a00eba2f2705f20151c553d984f76a25347426b76aec125f86a51687909422e003d682a13a139f2bba06e769851099a8db7ef088fc1f44b4913d4c2d3404b4100824bbc4c87781e5a17b42bc6373dc8e159ebd09fcd56cc195700fd7475211ffec24af53354811dd575ec0cb1c44a2d1d9e5891a5fba6001e69440bafe3ad7f68bc6b238339864721a227990de19cc221aed74c8b3a5c119ac8e22fe7e5ffd7f1b7addf93158a074d362ef55524eee9bdc5cd46983bb0d59b35c613eac78f81faa32fb1cfd2f836aadc096c834d7b2203435d133ee980ca5713116918f7ff7065e8bfbc57cafeba7877300bc",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.898Z",
+          "updatedAt": "2026-02-13T21:03:11.898Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 210,
+          "name": "tether USDT.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "tether_USDT_0e843fdf8c",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 11.67,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/tether_USDT_0e843fdf8c/tether_USDT_0e843fdf8c.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6f5625bd1c39778c6145e4ca00ef1fbfe718b81d7d2f77eb6c780ff38d71429643cd541901bad75f4106136f87a78c5fec61fd117ae456c8b3a387c2125d8e90379dbb1c92171af830557ee68c23891ad066c6ef4ed4abb29bfdde8409a91a04900cb7a707847a70df69c2ad678444b81e01986b07010198edc575260627b5cced6a44cd89d090f62c3506b3f640ebcf26e6b9b25bb97be5cf24fe7737d590a123b92c567e161545c80f48f8517f57b8e8a57326fde45b50914210e6d46b2591a8c8afe4d209aa3e6729d58cff8191e56aeb40a62f08c4029100769b21b1475bc1fa5282e57c2db7d651a6ba014b30859fc6b9231f1806d2b5146b51df98db6c",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.900Z",
+          "updatedAt": "2026-02-13T21:03:11.900Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 211,
+          "name": "pragmaticplay.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "pragmaticplay_d021eb4690",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 11.43,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/pragmaticplay_d021eb4690/pragmaticplay_d021eb4690.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=90206cad39aecaf829b5c89dba8f10e73337ade1f9ca71161e20857f14beeb57ebfdca26c6d8d2500c58cf5c792455a5bb032b79ec2d1fd1a530036510ad126ea49fe3bcd2512543204e932347dc76e18c578cbe5d0262db7cca97509d8b249d7c98150fbf43beefaecc803625053dee4a25b8399d949d9d6f7f784745a9d0b7041dde46d4d2c35f6ab591d6850372fdeee2760bb1a983829d1da94b48e3a7b0f7e139103f6276c88dfa0c7767310bf0e7fb3d1225b8ffb2080606815d859787017c3c6bc250b6b6b8e323342ce0dcc4ae7489ca5131f94e6ee1096bd7e7341d11c11c4fef66bfa8156fd19af95ffe9f7c664fffd9ac983da2ea961a6930b533",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.902Z",
+          "updatedAt": "2026-02-13T21:03:11.902Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 212,
+          "name": "MasterCard_Logo.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "Master_Card_Logo_3a9281c715",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 17.41,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/Master_Card_Logo_3a9281c715/Master_Card_Logo_3a9281c715.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=9570e36dd3cd555173ee43a641579f54b331153f82c545be623194a0c9fe4470eef4f966c424d906c07d891ee9b88b2a53d8b983324f90e63af7621993e70dc570d23ada7a409cafcf577bcc072c53b81abe644bac15d956821424416a863669d4230a349b57bb1db687c3689a9d562be241d6bc08e6aaa20473a4eb18d982ac0458f48e98c26b6b151f8095ebe1548c67e3ba1cc0b3b7618efb086276dc2ade3edbe79966b079eda7c5b21d2fdd6ac665ae8f3af8f8d2cb3c520fddae572ee7593321853b50666ed96f1a19bf6f4af071850e494ea2959407d96882320a3ef5312d2d3fcfa6d9066da3bdcbb23e30c059f57f949efb223b9548ee21698b4ea8",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.904Z",
+          "updatedAt": "2026-02-13T21:03:11.904Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 215,
+          "name": "inout.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "inout_99b8b98c89",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 12.21,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/inout_99b8b98c89/inout_99b8b98c89.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=38d60ada302720278a8a608500a07a5c1b93e342af0ed00cdac96a89876a6d147f6be2a2bc800408078fcc483a6bff2079232cc68000df202aa6100ddbe9ad7c55a7ee4d0e6bedc0e6133cd65b8d77482108a45e7926f345525a9c064ca7b008fe62476097a86150fb8184f0f0ca04008bed2f70910ca842e3b284ae5bacbcd4054f4df8bcf882bdc360599686b71f91e8c6e0f32828e0958ca11bfe65ecb81ebe7faf6b0b15860be8eee841db4d9fe44db609fbc509ffc94e6b7e2446f1dbc37358c3fc2ee97fd2f1acc032c3a14b66ef885b696bbb350adb5e3783104853ace4824f6acd8795257b22a2fb475415cebde0b1f91d042715cb7122c4dc479cb2",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.939Z",
+          "updatedAt": "2026-02-13T21:03:11.939Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 216,
+          "name": "ethereum.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "ethereum_844ff97201",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 10.9,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/ethereum_844ff97201/ethereum_844ff97201.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=1cd9250108295222b601824c24b2197c916e9c78bfe9761304fc890ba125cd27abad61b4e137eb616ea9638991dc03bf0a42cbb486cb684c80cca3f7aa6e7974ff2db5c7e42b0f884054684bcb9d903a6b02349c355c78addcd7a716bc5dc73567d1ef98997f2189005f698175a21e71c4f43332b00aef2c95b762019a1244969fcbb5df695e46f1036bc6eba77fa9c70a918ad491c8a1b05f7b03fb37cfc5b1a9cb72c04d64b11ae0b04a5924a49dd42ecbae09acb821ddb3c859ffdb0770883f009ee3b320d352bb2f541d5ac07cd5fbaf06273ad3f67d9fffc7eb07d22be44c764e43b3cfbe64608ea1ff9be8cb0cbeec6e849f95f77108d5d75fa1df8d00",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.941Z",
+          "updatedAt": "2026-02-13T21:03:11.941Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 217,
+          "name": "Evolution.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "Evolution_183db39423",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 8.21,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/Evolution_183db39423/Evolution_183db39423.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6583bf23683a93d1abed8d2eae89dad162f9f5947d4fec9e0e352032fa545930c19c80f65aa0d0daff13f7421f5342be1e9f3862fbb9974c0a56ce0697ed860100bc29a1f24be5f5dd5b48761168305b82a3d6220edf3ca27e3ba8928d37f4f57d789fa21c084895072574421cd759cf5992d5a091f972313d4e7331644350c507ddb669dde218f9f6a7c1c56c8f04480e219f318fb59fffec8c13ba4e7f86e49a02cb13ca07b3a104f79b5e1bae2e2ca3ef88631f1b37ec4a847a278d165345f2230406fa99430d1a54b8a71e14b8cf677c567e8932151e112ad4fbb76ebfc8864bb737cd4bb15d13a2b984666437730e279fba94f294f28f43b29fb0eb344c",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.943Z",
+          "updatedAt": "2026-02-13T21:03:11.943Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 218,
+          "name": "bitcoin.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "bitcoin_547d3b321a",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 10.31,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/bitcoin_547d3b321a/bitcoin_547d3b321a.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=4093c38f669e040a566185000253cfd10979343fc18802b7960f52d01fcce5f9ba1f7a0ef4e0b39a0754d50135257028519c3737ceca8affc811ff687b98934a83fe073f84c829e0576021f5b789c6df2c1c206d0984efb3b23b9d530367b8a47d348da56f246cea536ad8e58fbc49d9f20cfa5acd70bcfa080a61f18c88a926f8ade079959bb84d24bc0e04f076645dc9f1a9628816271f8905c9a81370943e947d75729d9470c993ef5df182696d440420ccf9d766cb296de4e0e5bc22ae39cbbafa935cb2e9ebe4b210f1a3075701b61b72dc88ca4d24837d9593be2335a05121b24ac36fc72b6e1af44b4f157aaee5d02e2b1782f6c5f11eb08e69f74240",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.994Z",
+          "updatedAt": "2026-02-13T21:03:11.994Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 219,
+          "name": "neteller.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "neteller_4500f543e8",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 6.69,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/neteller_4500f543e8/neteller_4500f543e8.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=7bbc789c8f0163761879c3953dced3da28fdbff1dfc1697cc328520c59801a5b086a59b7045209635ffcc7ac256d6b697c437e1c93f43a4e2437358e9d4d70b3df7cf4ad95beb83c11085e147838042d7354e8953a83215baa8f798eb0fb766904d39cabebca41d98721bfa057eb999213b146b824b650209526cc916570b6512c11060f7edcf6f5c7961db6ff7264b3dab23a12f1af64ddf0955e91f08a82bcfaf1924487bad53279e773c5e6132bac2be404ba2f6060f3e48bd3fbf2af02bfc736957b4d513a7497532c9caf6736bcd711f42ba9b3546ae344ee9865a090aadadc33167ca4b2f0cfb2a14352603a5b7c470d569d73e2a4cc26150aeee1b54c",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.998Z",
+          "updatedAt": "2026-02-13T21:03:11.998Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 220,
+          "name": "visa.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "visa_086df9a460",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 9.85,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/visa_086df9a460/visa_086df9a460.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=1e465bfdcd5ae106ec1c39fadf2e48925b66b3f4934d56a045ff95711e4da16ec41dd27cccf08d803d42624322c7a65df819739c12a2f94d529532f723cae268fa0596a01665a6106b2b96d93ee6e4f50a4aa90033585b6aa783561587fd832a3874d2a77623c97fe54a7a169125542805541e3f46c9493a0324fd1f5e9b9d2dbf660061bc87ef686f7f3f5bff084de4543e35b8f31a358468084a3be0d45891547315bd86c085c02db609798569734fc5359f08d525e80901eefd993d438eadd0b8734100758396b8e0dd8eb6e03754dba7e3a43d0b38d72838910ddea77645a579416fba9ae5567196715cd270c5fc1cffbee62c641d42381a38b6895362fd",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:11.999Z",
+          "updatedAt": "2026-02-13T21:03:11.999Z",
+          "isUrlSigned": true
+        },
+        {
+          "id": 222,
+          "name": "microgaming.png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 200,
+          "height": 150,
+          "formats": null,
+          "hash": "microgaming_ddbd7148f1",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 8.67,
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/microgaming_ddbd7148f1/microgaming_ddbd7148f1.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=43c67e3ba1d46372201a939db451dfe532531717b1995e228022d848edae35df3ae6f8ad1d13e554203cef82e6694508332534a7a8ce2f42dbdc625c21f8c907ea87012b176d0b56b04c61cc5124c5e32910cfcbeaad2343300cff2a0cb01282d5c312555eb8b442113b89db607a52a78716dec52611deae803410dcd3cb8289292c23ef66c2ced359ab5e763b97d62184ddad9009c887111531c321fba325eb0653a3440cfff9564abd3a5c1d1a08dc964cee04021ba4108aa92c00de23f6b990174066571d4fbe4b3c4cced0824f9842777e4de8071bda2358be5d5e094e88b62e93507776da3df81ce28e927cc15112c553e2fbe76a59585fc4624b75877e",
+          "previewUrl": null,
+          "provider": "google-cloud-storage",
+          "provider_metadata": null,
+          "folderPath": "/3/71",
+          "createdAt": "2026-02-13T21:03:12.004Z",
+          "updatedAt": "2026-02-13T21:03:12.004Z",
+          "isUrlSigned": true
+        }
+      ],
+      "links": [
+        {
+          "id": 19505,
+          "link": "{{rezerv_casino}}",
+          "text": "Casino",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19507,
+          "link": "{{rezerv_casino}}",
+          "text": "Slots",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19508,
+          "link": "{{rezerv_casino}}",
+          "text": "Live Casino",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19510,
+          "link": "{{rezerv_casino}}",
+          "text": "Promotions",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19511,
+          "link": "{{rezerv_casino}}",
+          "text": "Terms and Conditions",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19506,
+          "link": "{{rezerv_casino}}",
+          "text": "About Us",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19509,
+          "link": "{{rezerv_casino}}",
+          "text": "Help Centre",
+          "linkStatus": "affiliate",
+          "submenu": []
+        },
+        {
+          "id": 19512,
+          "link": "{{rezerv_casino}}",
+          "text": "Responsible Gaming",
+          "linkStatus": "affiliate",
+          "submenu": []
+        }
+      ]
+    },
+    "template": {
+      "id": 16,
+      "name": "Template LeadsCount"
+    },
+    "cdnProfile": {
+      "id": 5377,
+      "provider": "Cloudflare",
+      "email": null,
+      "createdAt": "2026-09-28T21:09:06.089Z",
+      "updatedAt": "2026-10-23T18:09:09.294Z",
+      "region": "de",
+      "label": null,
+      "lastVerifiedAt": "2026-10-23T18:09:09.294Z",
+      "lastAuthError": null,
+      "lastAuthErrorAt": null
+    },
+    "serverProfile": null,
+    "appliedPreset": null,
+    "registrarProfile": null,
+    "aside": [],
+    "socialButtons": [],
+    "socialMeta": null,
+    "affiliate_link": {
+      "id": 224,
+      "alias": "longfu88_brand",
+      "linkVariables": {
+        "rezerv_casino": "https://dotnettips.info/QYmJfKJC"
+      },
+      "createdAt": "2025-12-17T13:06:25.711Z",
+      "updatedAt": "2026-10-12T15:17:44.082Z"
+    },
+    "defaultHeroImage": {
+      "id": 140,
+      "name": "longfu88-hero.webp",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2646,
+      "height": 704,
+      "formats": {
+        "thumbnail": {
+          "ext": ".webp",
+          "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/thumbnail_longfu88_hero_903ac13b59/thumbnail_longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=6645a52164948ea51815fe3e1ea378b2e5138bafe119b28aac1efa56d3aa9a031b4117c4091fee1b4f3b438aa3bf72b385627dbc7efae2ab5f2054a0fe7c679970d24eb67920dfed7d3e87e8e4cc8b8ee03d33744e4bffb40a9cc771a08b954d700273b8b48fd99f2f72524acc00e6de6386414ac04fd41ec8545f855fc4866b562742436f84e79697b801d4872ca6dc07f78c22d6e8bbf2b1b6f6080f3ba088dbc416878bc9dabc41cd426b59b5a14fd6eb4afdedebb3a30edbff82f5884cdacf817ec6b5455b17cb5384e531c4644a99274dba65fe1e40cdc3a05ceb843c47034ae26c5e5e57a2bf871992449ae400288a16170be2fa7c8d61d8c0cdf3081a",
+          "hash": "thumbnail_longfu88_hero_903ac13b59",
+          "mime": "image/webp",
+          "name": "thumbnail_longfu88-hero.webp",
+          "path": null,
+          "size": 3.59,
+          "width": 245,
+          "height": 65,
+          "sizeInBytes": 3588,
+          "isUrlSigned": true
+        }
+      },
+      "hash": "longfu88_hero_903ac13b59",
+      "ext": ".webp",
+      "mime": "image/webp",
+      "size": 119.14,
+      "url": "https://storage.googleapis.com/aff-bulk-admin-file-storage-leadscount/longfu88_hero_903ac13b59/longfu88_hero_903ac13b59.webp?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=admin-storage-access%40aff-bulk-leadscount.iam.gserviceaccount.com%2F20261023%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261023T182856Z&X-Goog-Expires=900&X-Goog-SignedHeaders=host&X-Goog-Signature=345e80d7e041f96f9316e0d3a1f70cb46dc6ba4754dc2dda39d4e09ab5da0a349d945f7003e55f7b8155efdf8fd9e76338334385137d612db4caa2c760010b73d3eec4ebd5515c852c998b6a8987278087ad66c262bfc0deaf00bc85a9bcf8ef338e49eb3308f98aca2423c89581d6a0974e16e2dd159863714ca217fa1cf933db485a79c05b1ce24b971329287122990da10d94ddb53d2dc1ca4b99f8ea9f2feaf59c6cb8f9374ea265528f09ea3a7ac7c332f7ff0dfb0e954f55c02e93a31b346e18693d4d8ba8a458a17b9313ea070e8b4673732a105446a8a0c04bcec727187d09d052140a0c0e1546d485f57b9d2b1760cde5c3dc6eb9f082b6a06bad0d",
+      "previewUrl": null,
+      "provider": "google-cloud-storage",
+      "provider_metadata": null,
+      "folderPath": "/11",
+      "createdAt": "2026-02-04T17:20:10.940Z",
+      "updatedAt": "2026-02-04T17:20:10.940Z",
+      "isUrlSigned": true
+    },
+    "fonts": {
+      "id": 5120,
+      "fontFamily": "Roboto",
+      "isLocal": false
+    },
+    "localBusiness": null,
+    "customFiles": [],
+    "primaryWebsite": null,
+    "mirrors": []
+  },
+  "keywords": {
+    "id": 14014,
+    "mainKeywords": "Longfu88",
+    "additionalKeywords": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Malaysia, MY, Malaysian players"
+  }
+}

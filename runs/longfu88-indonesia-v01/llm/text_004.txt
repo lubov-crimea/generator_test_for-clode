@@ -1,0 +1,12 @@
+Longfu88 VIP Program mengaitkan aktivitas bermain dengan hadiah yang naik bertahap. Poin VIP dikumpulkan lewat permainan uang sungguhan yang memenuhi syarat, dan poin itu membuka 25 level hadiah bernomor yang dikelompokkan ke dalam lima tingkat: Bronze, Silver, Gold, Platinum, dan Diamond. Tabel berikut memuat enam level sebagai contoh, dari yang terendah hingga tertinggi.
+
+| Level | Poin | Hadiah | Cashback | Batas penarikan |
+|---|---|---|---|---|
+| 1 | 1 | €9,8 | 1% | €9.800 |
+| 5 | 70 | €24,5 | 2% | €34.300 |
+| 10 | 700 | €147 | 4% | €63.700 |
+| 15 | 2.100 | €392 | 6% | €88.200 |
+| 20 | 3.600 | €637 | 8% | €117.600 |
+| 25 | 5.500 | €980 | 10% | €147.000 |
+
+Semakin tinggi levelnya, semakin besar cashback dan batas penarikan yang berlaku, sehingga pemain dengan perputaran dana besar mendapat ruang penarikan yang lebih longgar. Mulai level 4, pemain juga dilayani Personal VIP Manager, selain menerima penawaran personal. Besaran hadiah dan batas penarikan dapat berbeda menurut level VIP dan mata uang, dan aturan program bisa berubah sewaktu-waktu.

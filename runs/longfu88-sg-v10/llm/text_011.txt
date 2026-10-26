@@ -1,0 +1,25 @@
+=== b18 ===
+Deposits are accepted through six method types, and the currencies attached to each are listed beside the examples.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore banking | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Bank transfer | Bank Transfer | MYR, IDR, VND |
+| Card payments | Mastercard, Visa | VND, SGD, MYR, IDR |
+| European banking | Sofort, Giropay | EUR |
+| Digital wallets | Neteller, Skrill | EUR |
+| Crypto coins | USDC, USDT (TRC20, ERC20, BEP20), Litecoin, Ethereum, Bitcoin | USDC, USDT, LTC, ETH, BTC |
+
+The Singapore row matters most to local readers, as DBS Bank, OCBC Bank, PayNow and PayNow QR all work in SGD. Each deposit starts at €10 and is capped at €5,000 per transaction, with the funds on the balance within 1-2 minutes. No handling charge comes from the casino, whereas providers or networks may add their own. Limits vary by residence, currency and method, and Neteller or Skrill deposits cannot trigger the welcome bonus. The route itself is short: log in to the Longfu88 account, open the cashier, choose Deposit and a method, enter the payment information and amount, then confirm.
+
+=== b19 ===
+Cash-outs run through Online Banking, DBS Bank, MoMo, DANA, Touch'n Go, USDT (TRC20, ERC20, BEP20), Litecoin, Ethereum, Bitcoin, Mastercard, Visa and Bank Transfer, from €20 to €5,000. Processing under the Lngfu88 withdrawal time takes three working days at most, and cards, crypto and wallets are typically settled in 1 to 3 business days, while a bank transfer can take 3 to 5 more days on the bank's side. No standard fee is levied by the casino, but a 10% commission (minimum €2.25) applies when wagering is lower than the deposit, 15% may apply to a share of the transactions financed by card or bank, and a 1x deposit turnover may be required. Six steps lead to a payout:
+
+1. Sign in at Longfu88 and open the cashier.
+2. Choose a supported method under Withdrawal.
+3. Enter the amount and name the recipient.
+4. Review and confirm the request.
+5. Complete any identity or payment-method check that appears.
+6. Await casino processing, then bank or network settlement.
+
+ID verification can delay a payout, as the verification part above explains.

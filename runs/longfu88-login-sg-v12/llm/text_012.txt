@@ -1,0 +1,8 @@
+- **Which details does registration ask for?** Registration at Longfu88 asks for an e-mail address, a password, a legal name, a date of birth and a residential address.
+- **How does a player log in?** With the registered e-mail and password, entered on the login screen.
+- **What follows a forgotten password?** The player requests a reset link using the registered e-mail.
+- **Which identity document is accepted?** A passport, a national identity card or a driving licence.
+- **How fast is a withdrawal request processed?** Withdrawal requests are generally processed within three working days.
+- **What can prolonged inactivity lead to?** An account review or closure under the applicable terms.
+- **How is the account closed?** The player requests closure through customer support.
+- **Where can a player turn when the login still fails?** To customer support, through live chat 24/7 or by e-mail.

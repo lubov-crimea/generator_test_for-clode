@@ -1,0 +1,5 @@
+The platform list has three entries, namely Android, iOS and mobile web. None of them involves an installation file at Longfu88, because the responsive layout resizes itself to fit a phone or a tablet, and both screen types reach the same site.
+
+- Android - the shortcut is placed with Chrome.
+- iOS - the shortcut is placed with Safari.
+- Mobile web - any smartphone or tablet browser will do.

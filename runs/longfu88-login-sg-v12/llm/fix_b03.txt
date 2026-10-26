@@ -1,0 +1,15 @@
+At this stage Longfu88 asks the player for proof of identity, but only on certain triggers: an account review, a withdrawal, unusual or high-value transactions, and changes to account or payment details. Verification is requested before a withdrawal, during an account review and for unusual or high-value transactions, and the documents fall into four groups:
+
+- Identity: passport, national identity card or driving licence.
+- Address: utility bill or bank statement.
+- Payment method: bank or card ownership evidence, or digital wallet ownership evidence.
+- Source of funds: proof of income, bank statements or other supporting financial documents, only when requested.
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days. The procedure has four steps:
+
+1. Open the verification request in the account or follow the support instructions.
+2. Upload legible, current documents that match the account profile.
+3. Complete additional telephone or face verification if requested.
+4. Wait for approval before a withdrawal or other restricted activity.
+
+Checks may happen at deposits, at withdrawals and during ongoing account monitoring. A failed check can lead to a refused transaction, account restrictions or withdrawals held pending compliance. So the checks are tied to specific events on the account.

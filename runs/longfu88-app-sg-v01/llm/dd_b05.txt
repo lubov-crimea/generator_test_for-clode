@@ -1,0 +1,3 @@
+Only e-mail registration exists. The form asks for a legal name first, together with the e-mail and a password, and then for the birth date and the street address of residence.
+
+Login behaves identically on a phone and on a computer. Logging in at Longfu88 starts with a tap on Login on the website, followed by the e-mail and password set at registration, any security check and arrival in the player account. For a forgotten password, the link named Forgot Password sits on the login screen.

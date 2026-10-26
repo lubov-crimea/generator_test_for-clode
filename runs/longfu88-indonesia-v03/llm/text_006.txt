@@ -1,0 +1,24 @@
+=== b07 ===
+Setoran menentukan seberapa cepat taruhan pertama bisa dipasang. Untuk pemain Indonesia, QRIS, DANA, OVO Wallet, Mandiri, BNI, dan BCA (IDR) menjadi pilihan utama dari enam kelompok metode.
+
+| Jenis metode | Contoh | Mata uang |
+|---|---|---|
+| Bank dan dompet lokal | QRIS, DANA, OVO Wallet, Mandiri, BNI, BCA | IDR |
+| Kartu | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Transfer bank | Bank Transfer | IDR, MYR, VND |
+| Kripto | Bitcoin, Ethereum, Litecoin, USDT di jaringan TRC20, ERC20, dan BEP20, serta USDC | BTC, ETH, LTC, USDT, USDC |
+| Dompet elektronik | Neteller, Skrill | EUR |
+| Metode Eropa | Sofort, Giropay | EUR |
+
+Batas umum berlaku untuk semua metode: setoran minimum €10 dan maksimum €5.000 per transaksi, dengan dana masuk dalam 1 sampai 2 menit. Kasino tidak memungut biaya pemrosesan, tetapi biaya penyedia pembayaran atau jaringan blockchain dapat berlaku. Batas bisa berbeda menurut negara, mata uang, dan metode, dan setoran Neteller serta Skrill tidak termasuk bonus selamat datang. Setoran dimulai dengan masuk ke akun Longfu88, membuka kasir, dan memilih Deposit. Setelah itu pemain memilih metode dengan mata uang atau jaringan yang didukung, mengisi jumlah dan data pembayaran, mengonfirmasi transaksi sesuai petunjuk penyedia, lalu menunggu dana masuk ke saldo permainan.
+
+Penarikan tersedia lewat transfer bank, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT di tiga jaringan (TRC20, ERC20, BEP20), Touch'n Go, DANA, MoMo, DBS Bank, dan Online Banking, dengan minimum €20 dan maksimum €5.000. Enam langkahnya berurutan:
+
+1. Masuk ke akun dan buka kasir.
+2. Pilih Withdrawal, lalu tentukan tujuan atau metode pembayaran yang didukung.
+3. Isi jumlah serta bank, dompet, atau alamat blockchain penerima.
+4. Selesaikan verifikasi identitas dan metode pembayaran jika diminta.
+5. Periksa permintaan dan konfirmasikan pengiriman.
+6. Tunggu pemrosesan kasino dan penyelesaian bank atau jaringan sebelum dana diterima.
+
+Soal Lngfu88 withdrawal time, penarikan lewat kartu, kripto, dan dompet digital memakan 1 sampai 3 hari kerja, sedangkan transfer bank membutuhkan hingga 3 hari kerja pemrosesan kasino ditambah 3 sampai 5 hari kerja pengiriman bank. Permintaan umumnya diproses dalam tiga hari kerja, dan pemeriksaan identitas dapat menunda pembayaran. Kasino tidak memungut biaya penarikan standar, tetapi biaya penyedia dan blockchain dapat berlaku. Komisi 10% (minimum €2,25) dapat dikenakan bila turnover lebih kecil daripada jumlah setoran, karena turnover setoran minimal 1x dapat diminta sebelum penarikan. Sebagian transaksi yang didanai kartu atau transfer bank dapat dikenai 15%.

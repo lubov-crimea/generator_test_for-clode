@@ -1,0 +1,12 @@
+Incaspin accetta depositi con carte (Visa e Mastercard), portafogli elettronici come Skrill e Neteller, Revolut, Apple Pay e Google Pay, bonifico bancario e criptovalute. I limiti cambiano da un metodo all'altro: la tabella raggruppa i metodi che hanno gli stessi importi minimi e massimi, espressi in euro o nel loro equivalente in criptovalute.
+
+| Metodo | Minimo | Massimo | Velocità |
+|---|---|---|---|
+| Visa, Mastercard, Revolut, Skrill | 15 € | 4.000 € | Istantanea |
+| Paysafecard | 15 € | 1.000 € | Istantanea |
+| Neteller, Jeton, Apple Pay, Google Pay (portafogli e pagamenti mobili) | 10 € | 5.000 € | Istantanea |
+| Bonifico bancario | 10 € | 5.000 € | Dallo stesso giorno a 1-3 giorni lavorativi |
+| Bitcoin, Ethereum, Litecoin | 15 € equivalenti | 5.000 € equivalenti | Istantanea, ma la conferma può variare |
+| Dogecoin | 10 € equivalenti | 5.000 € equivalenti | Istantanea, ma la conferma può variare |
+
+La maggior parte dei metodi accredita il deposito all'istante. Fanno eccezione il bonifico bancario, che può richiedere fino a 3 giorni lavorativi, e le criptovalute, per cui la conferma della transazione può variare. Il casinò non applica commissioni, ma il fornitore del pagamento può addebitare costi esterni. Su Incaspin si apre la sezione Deposito o la cassa, si sceglie il metodo, si inserisce l'importo entro i limiti del metodo e si conferma l'operazione seguendo le istruzioni del fornitore. Il bonus di benvenuto richiede un deposito di almeno 20 €, quindi conviene guardare anche questa soglia, oltre al minimo del metodo scelto, prima di versare la somma.

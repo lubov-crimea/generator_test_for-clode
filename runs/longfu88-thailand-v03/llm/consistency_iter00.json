@@ -1,0 +1,5 @@
+{"issues": [
+  {"block_id": "b02", "problem": "The support-languages row says 'จีน' while the support block (b14) names the language 'จีนตัวย่อ' (Simplified Chinese); the same fact is named differently on the page.", "fix": "Use 'จีนตัวย่อ' in the languages row, as in the Support block, keeping the table within the size cap and keeping the e-mail exactly once."},
+  {"block_id": "b10", "problem": "Parts of the block read as a telegraphic string of fragments rather than editorial prose: the Weekly Cashback sentence ('เข้า My Bonuses วันจันทร์ หมุนเวียน 10x'), the daily rebates sentence and above all the rewards sentence ('Bonus Crab 7 วัน 30x และฟรีสปิน 40x Wheel of Fortune 7 วัน 30x ...') where the validity and wagering of Bonus Crab and Wheel of Fortune are not connected to anything.", "fix": "Rewrite the cashback, rebate and rewards passages as complete connected Thai sentences (what the offer is, how it is credited, what to do with it), state the Bonus Crab and Wheel of Fortune validity and wagering explicitly, keep all figures exactly and keep the block within the word cap."}
+],
+ "missing_data": []}

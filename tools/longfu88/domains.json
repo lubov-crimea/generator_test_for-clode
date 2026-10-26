@@ -1,0 +1,142 @@
+[
+ {
+  "geo": "sg",
+  "variant": "v01",
+  "domain": "longfu-88.sg",
+  "website_id": 4960,
+  "page_id": 15279
+ },
+ {
+  "geo": "sg",
+  "variant": "v02",
+  "domain": "longfu88-play.sg",
+  "website_id": 5413,
+  "page_id": null
+ },
+ {
+  "geo": "sg",
+  "variant": "v03",
+  "domain": "longfu88sg.sg",
+  "website_id": 5414,
+  "page_id": null
+ },
+ {
+  "geo": "sg",
+  "variant": "v04",
+  "domain": "longfu88-sg.casino",
+  "website_id": 4961,
+  "page_id": 15280
+ },
+ {
+  "geo": "sg",
+  "variant": "v05",
+  "domain": "longfu88-sg.games",
+  "website_id": 4962,
+  "page_id": 15281
+ },
+ {
+  "geo": "sg",
+  "variant": "v06",
+  "domain": "longfu88sg.net",
+  "website_id": 4963,
+  "page_id": 15282
+ },
+ {
+  "geo": "sg",
+  "variant": "v07",
+  "domain": "longfu88casino-sg.com",
+  "website_id": 4964,
+  "page_id": 15283
+ },
+ {
+  "geo": "sg",
+  "variant": "v08",
+  "domain": "longfu88casino-sg.net",
+  "website_id": 4965,
+  "page_id": 15284
+ },
+ {
+  "geo": "sg",
+  "variant": "v09",
+  "domain": "longfu88-casino.bet",
+  "website_id": 4966,
+  "page_id": 15285
+ },
+ {
+  "geo": "sg",
+  "variant": "v10",
+  "domain": "longfu88casino.live",
+  "website_id": 4967,
+  "page_id": 15286
+ },
+ {
+  "geo": "sg",
+  "variant": "v11",
+  "domain": "longfu88casino.games",
+  "website_id": 4968,
+  "page_id": 15287
+ },
+ {
+  "geo": "sg",
+  "variant": "v12",
+  "domain": "longfu88-sg.sg",
+  "website_id": 5415,
+  "page_id": null
+ },
+ {
+  "geo": "my",
+  "variant": "v01",
+  "domain": "longfu-88.live",
+  "website_id": 4978,
+  "page_id": 15299
+ },
+ {
+  "geo": "my",
+  "variant": "v02",
+  "domain": "longfu88-play.com",
+  "website_id": 4977,
+  "page_id": 15298
+ },
+ {
+  "geo": "my",
+  "variant": "v03",
+  "domain": "longfu88-play.net",
+  "website_id": 4976,
+  "page_id": 15297
+ },
+ {
+  "geo": "my",
+  "variant": "v04",
+  "domain": "longfu88-my.games",
+  "website_id": 4975,
+  "page_id": 15296
+ },
+ {
+  "geo": "my",
+  "variant": "v05",
+  "domain": "longfu88-my.live",
+  "website_id": 4974,
+  "page_id": 15295
+ },
+ {
+  "geo": "my",
+  "variant": "v06",
+  "domain": "longfu88casino-my.net",
+  "website_id": 4973,
+  "page_id": 15294
+ },
+ {
+  "geo": "my",
+  "variant": "v07",
+  "domain": "longfu88casino-my.bet",
+  "website_id": 4972,
+  "page_id": 15293
+ },
+ {
+  "geo": "my",
+  "variant": "v08",
+  "domain": "longfu88-casino.live",
+  "website_id": 4971,
+  "page_id": 15292
+ }
+]

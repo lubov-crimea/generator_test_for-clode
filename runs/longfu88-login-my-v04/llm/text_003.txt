@@ -1,0 +1,20 @@
+=== b04 ===
+Step 2 is a Longfu login by e-mail and password, the same pair set during registration, and it follows three steps:
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password.
+3. Complete any security check and access the account.
+
+Any security check comes before access to the account, so the player enters the registered e-mail and password on the login screen first and completes the check when it appears.
+
+=== b05 ===
+A forgotten password is reset in three steps, starting on the login screen:
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+A player who no longer has access to the registered mailbox should contact support.
+
+=== b06 ===
+Most login errors come from small input mistakes, such as a mistyped e-mail, a wrong keyboard layout or caps lock. A lost password needs the reset above. The operator may suspend activity for verification or suspected abuse, so an account review may delay access until verification is complete. Support helps through live chat 24/7 and by e-mail.

@@ -1,0 +1,62 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1557,
+    "max_body_words": 1754,
+    "target_body_words": 1545,
+    "keywords_total": {
+      "Longfu88": 19,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 19,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "The opening 'Longfu88 accounts are opened by e-mail' starts with the same word and repeats the e-mail registration idea of the H1; together with b01 and b04 three openings begin with the brand name.",
+        "fix": "Open with what the section is for (the account is opened here, in five steps) without starting on the brand name; keep exactly one Longfu88 and one Longfu88 register elsewhere in the block."
+      }
+    ],
+    "b03": [],
+    "b04": [
+      {
+        "check": "consistency",
+        "problem": "The first sentence repeats the H1 fact (e-mail address and password chosen at registration) almost verbatim and again begins with the brand name.",
+        "fix": "Open with what the section is for (the route back into the account) and state the login method once without the 'chosen at registration' wording; keep one Longfu88, one Longfu88 login and one Longfu login."
+      }
+    ],
+    "b05": [],
+    "b06": [],
+    "b07": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'The operator may also suspend activity for verification or suspected abuse' duplicates the same sentence of b06.",
+        "fix": "Replace it with a different, non-repeating consequence of the operator's safeguards, or reduce it to a short pointer to the verification section without restating the suspension wording."
+      }
+    ],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": []
+  },
+  "missing_data": []
+}

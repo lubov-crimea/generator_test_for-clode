@@ -1,0 +1,45 @@
+{
+  "iteration": 0,
+  "passed": true,
+  "summary": {
+    "body_words": 1026,
+    "max_body_words": 1175,
+    "target_body_words": 985,
+    "keywords_total": {
+      "Longfu88": 12,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 12,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": []
+  },
+  "missing_data": []
+}

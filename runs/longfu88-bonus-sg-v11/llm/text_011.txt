@@ -1,0 +1,22 @@
+=== b13 ===
+The Casino Weekly Cashback at Longfu88 returns up to 10% of weekly net casino losses, capped at €6,988, and it is calculated from Monday 00:00 UTC through Sunday 23:59 UTC. A minimum cashback of €4.5 applies, and a player opts in for a four-week cycle. Active accounts can renew automatically. Wagering of 10x the cashback applies before withdrawal. The rate depends on the VIP level, as the table shows, and the VIP program section further down describes the reward levels. Next to it, the Live Casino Cashback returns 25% up to €850, with wagering of 10x the credited cashback.
+
+| VIP level | Cashback percentage | Maximum |
+|---|---|---|
+| VIP Bronze | 2% | €1,888 |
+| VIP Silver | 4% | €2,388 |
+| VIP Gold | 6% | €2,988 |
+| VIP Platinum | 8% | €3,988 |
+| VIP Diamond | 10% | €6,988 |
+
+=== b14 ===
+An unlimited rebate at Longfu88 returns a share of qualifying settled real-money wagering on a game category.
+
+| Rebate | Rate |
+|---|---|
+| Unlimited Casino Rebate | 0.9% |
+| Unlimited Live Casino Rebate | 1.0% |
+| Unlimited P2P Rebate | 0.8% |
+| Unlimited Lottery Rebate | 1.0% |
+
+The rebate is credited daily to the rewards balance and carries 1x wagering on the credited rebate.

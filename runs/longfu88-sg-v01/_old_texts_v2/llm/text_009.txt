@@ -1,0 +1,24 @@
+Deposits start at €10, with a maximum of €5,000 per transaction, and the casino charges no processing fee, although provider or blockchain network fees may apply.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local bank and wallet | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets and European methods | Neteller, Skrill, Sofort, Giropay | EUR |
+
+Neteller and Skrill deposits are excluded from the welcome bonus, and limits can differ by country, currency and method. A deposit takes six steps: log in, open the cashier and select Deposit, choose a method with its currency or network, enter the amount and payment details, confirm as the provider instructs and wait for the credit, which arrives within 1–2 minutes.
+
+Withdrawals can be sent by bank transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT on its three networks, Touch'n Go, DANA, MoMo, DBS Bank or Online Banking, from a minimum of €20 up to €5,000. Six steps lead to the payout:
+
+1. Log in to Longfu88 and open the cashier.
+2. Select Withdrawal and choose a method.
+3. Enter the amount and the receiving account or address.
+4. Complete verification if prompted.
+5. Review and confirm the request.
+6. Wait for processing and settlement.
+
+The Lngfu88 withdrawal time is 1 to 3 business days for card, crypto and wallet payouts. Bank transfers take up to 3 business days of casino processing plus 3 to 5 business days for bank delivery, and requests are generally processed within three working days. Identity checks can delay a payout.
+
+The casino applies no standard withdrawal fee, but provider and blockchain fees may apply. A 10% commission (minimum €2.25) can apply where turnover is below the deposited amount, since a minimum 1x deposit turnover can apply before a withdrawal, and 15% can apply to some card or bank transfer funded transactions.

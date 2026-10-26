@@ -1,0 +1,23 @@
+=== b17 ===
+I prelievi su Incaspin seguono una procedura in sei passaggi, che parte dalla cassa del conto e termina con l'elaborazione interna e il tempo del fornitore del pagamento:
+
+1. Accedere al conto e aprire la cassa o la sezione Prelievi.
+2. Scegliere un metodo di prelievo disponibile, preferibilmente quello usato per il deposito, se applicabile.
+3. Inserire l'importo del prelievo e controllare il proprio limite personale.
+4. Completare l'eventuale verifica di identità o del metodo di pagamento.
+5. Confermare la richiesta di prelievo.
+6. Attendere fino a 72 ore per l'elaborazione interna, seguite dal periodo di accredito del fornitore del pagamento.
+
+L'importo minimo di prelievo va da 50 a 120 € a seconda del paese o del metodo di pagamento. Il massimo arriva a 15.000 € per Visa, Mastercard, bonifico bancario e per Bitcoin, Ethereum e Litecoin (in equivalente), e a 5.000 € per Skrill, Neteller e Jeton. I limiti massimi possono dipendere anche dal livello di fedeltà e sono visibili nella cassa. Il casinò non trattiene commissioni sui prelievi, mentre i fornitori possono applicare costi propri e, per il bonifico, la banca intermediaria può addebitare fino a 16 €. Per le vincite superiori a 10.000 € è previsto il pagamento in rate mensili fino a 10.000 €.
+
+Due condizioni vanno rispettate prima di ogni richiesta: i depositi devono essere puntati almeno tre volte e nessun prelievo viene elaborato finché il conto non è completamente verificato. Per questo conviene completare la verifica in anticipo, come descritto nella sezione seguente.
+
+=== b18 ===
+Su Incaspin la verifica dell'identità può essere richiesta prima del primo prelievo e durante i controlli sui depositi, e finché il conto non è completamente verificato non viene elaborato alcun prelievo. I documenti richiesti sono questi:
+
+- Passaporto, carta d'identità nazionale o patente di guida.
+- Una bolletta recente o un estratto conto bancario.
+- La prova del metodo di pagamento usato.
+- Un selfie con il documento d'identità oppure un controllo d'identità dal vivo.
+
+La maggior parte delle verifiche richiede da poche ore a un giorno, quindi caricare i documenti in anticipo evita ritardi al primo prelievo. I documenti devono essere autentici: una documentazione falsa o fraudolenta può portare al sequestro dei fondi depositati e delle vincite.

@@ -1,0 +1,83 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2833,
+    "target_body_words": 2728,
+    "keywords_total": {
+      "Longfu88": 17,
+      "Longfu 88": 1,
+      "Longfu88 casino": 1,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 1,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [
+      {
+        "check": "consistency",
+        "problem": "Repetition of openings across blocks: the cashback paragraph starts with 'At Longfu88, the Casino ...', the same construction that opens a sentence in b08 and b11.",
+        "fix": "Rephrase the cashback sentence without the 'At Longfu88,' opening (for example 'The Casino Weekly Cashback at Longfu88 returns ...'), keeping the single Longfu88 occurrence and all figures."
+      }
+    ],
+    "b10": [],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "Repetition of openings across blocks: the second sentence starts 'At Longfu88, the online casino ...' like b08 and b09.",
+        "fix": "Rephrase the sentence so it does not open with 'At Longfu88,' (for example 'The online casino at Longfu88 offers all of them beside the sportsbook.'), keeping exactly one Longfu88 and one Longfu 88 Casino."
+      }
+    ],
+    "b12": [],
+    "b13": [],
+    "b14": [
+      {
+        "check": "consistency",
+        "problem": "Repetition between blocks: the first sentence 'Players must be at least 18 ...' duplicates the construction used in b13 and b18.",
+        "fix": "Reword the opening, for example 'Gambling is for adults aged 18 and over, and only where it is lawful.', keeping all other facts, the e-mail address and the list."
+      }
+    ],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [
+      {
+        "check": "consistency",
+        "problem": "Repetition between blocks: the age sentence 'Players must be at least 18 ...' repeats the construction of b13 and b14.",
+        "fix": "Reword it, for example 'The age limit is 18, gambling is not a source of income and losses should not be chased.', keeping the keywords Longfu88, Longfu88 Casino and Longfu once each."
+      }
+    ]
+  },
+  "missing_data": []
+}

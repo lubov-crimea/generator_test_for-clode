@@ -1,0 +1,258 @@
+{
+ "website_id": 107,
+ "domain": "longfu-888.com",
+ "page_id": null,
+ "slug": "sg",
+ "locale": "en",
+ "seo": {
+  "title": "Longfu88 Singapore: Safety, Terms and Controls",
+  "description": "Longfu88 reviewed for careful players in Singapore: operator, licence and data handling, safe login, self-exclusion tools, welcome offer terms and VIP limits.",
+  "customCanonical": "https://longfu-888.com/sg",
+  "customPageLang": "en"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-888.com/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-888.com/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-888.com/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-888.com/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-888.com/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, online casino, crypto casino, play, gambling, slots, live casino, sports betting, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+ },
+ "hero": {
+  "label": "Casino Welcome Bonus: 188% up to €2,088 + 18 Free Spins",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "3 Hot Chilli Peppers",
+    107
+   ],
+   [
+    "888 gold",
+    94
+   ],
+   [
+    "Book of Dead",
+    109
+   ],
+   [
+    "Buffalo King Megaways",
+    91
+   ],
+   [
+    "Dead or Alive",
+    93
+   ],
+   [
+    "Eye of Horus",
+    96
+   ],
+   [
+    "Le Bandit",
+    231
+   ],
+   [
+    "Sugar Rush",
+    87
+   ],
+   [
+    "The Dog House",
+    92
+   ],
+   [
+    "Thunder Coins",
+    230
+   ],
+   [
+    "Wild Clusters",
+    229
+   ],
+   [
+    "Wolf Gold",
+    106
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Ballonix",
+    81
+   ],
+   [
+    "Balloon",
+    86
+   ],
+   [
+    "Big Bass Crash",
+    88
+   ],
+   [
+    "Chicken Road",
+    97
+   ],
+   [
+    "F777 Fighters",
+    108
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Lucky Jet",
+    104
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "SpaceMan",
+    75
+   ],
+   [
+    "Squid Game",
+    101
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Longfu88 Bonus Offers",
+  "items": [
+   {
+    "image": 4652,
+    "button": "Claim Now"
+   },
+   {
+    "image": 4653,
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4654,
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4657,
+    "button": "Get Offer"
+   },
+   {
+    "image": 4656,
+    "button": "See Offer"
+   },
+   {
+    "image": 4655,
+    "button": "Claim Now"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "What Players Say",
+  "items": [
+   {
+    "username": "Arjun",
+    "review": "Depositing through my usual local method was simple, and the cashier showed each step clearly. A straightforward site that respects my time.",
+    "date": "2026-10-23",
+    "avatar": 3855,
+    "rating": 4
+   },
+   {
+    "username": "Ahmad Faiz",
+    "review": "I asked support about my account settings and the chat agent explained the steps clearly. I plan to keep using it for now.",
+    "date": "2026-10-21",
+    "avatar": 3856,
+    "rating": 5
+   },
+   {
+    "username": "Li Ting",
+    "review": "Opening an account took a few minutes, and the form asked only for the details I had ready. I would recommend a look to anyone curious about it.",
+    "date": "2026-10-18",
+    "avatar": 3861,
+    "rating": 4
+   },
+   {
+    "username": "Mei Ling",
+    "review": "Mobile play works as I hoped: the same lobby, the same cashier and the same account as on desktop. I would recommend a look to anyone curious about it.",
+    "date": "2026-10-17",
+    "avatar": 3857,
+    "rating": 5
+   },
+   {
+    "username": "Priya",
+    "review": "Having a sportsbook and a casino under one account saves me from juggling two logins. It is simple to find my way around after a short while.",
+    "date": "2026-10-15",
+    "avatar": 3854,
+    "rating": 4
+   }
+  ]
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+  "button": "Claim Bonus"
+ },
+ "cta_texts": [
+  "Join Now",
+  "Check the Bonus",
+  "Start Playing",
+  "Sign Up",
+  "Try Live Casino"
+ ]
+}

@@ -1,0 +1,10 @@
+Verification is triggered at Longfu88 by an account review or a withdrawal request, by transactions of an unusual nature or high value, and by changes to the account or payment details. The check therefore belongs to events on the account and is not part of registration or login. Four groups of documents are recognised.
+
+| Group | Accepted |
+|---|---|
+| Address | Bank statement, or alternatively a utility bill |
+| Identity | National identity card, driving licence or passport |
+| Payment method | Evidence of ownership for the digital wallet, or else for the bank account or the card |
+| Source of funds (only if requested) | Bank statements, income proof or similar supporting financial paperwork |
+
+A deadline of 30 days from the request applies to the documents. Once a complete set arrives, its review takes at most 10 days, and a missing item delays the beginning of that count.

@@ -1,0 +1,25 @@
+=== b19 ===
+Payment routes fall into a few families, with local choices for Singapore.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore picks | DBS Bank, OCBC Bank, PayNow, PayNow QR | SGD |
+| Card networks | Mastercard, Visa | SGD, VND, MYR, IDR |
+| Wallets | Skrill, Neteller | EUR |
+| European banking | Sofort, Giropay | EUR |
+| Bank rail | Bank Transfer | IDR, VND, MYR |
+| Crypto | USDT on TRC20, ERC20 or BEP20, plus Bitcoin, Ethereum, Litecoin, USDC | Coin balances |
+
+Across every route a transaction runs from €10 up to €5,000, and funds land within 1-2 minutes. Exact limits differ with country, currency and method. The operator takes nothing for processing, yet providers and blockchain networks can add charges of their own. Skrill and Neteller deposits are not eligible for the welcome bonus. A top-up takes six steps: log in to Longfu88, go to the cashier, select Deposit, pick an available method with a supported currency or network, supply the amount and the payment details, and wait for confirmation until the playable balance is credited.
+
+=== b20 ===
+Payouts use a narrower set of rails: Bitcoin, Ethereum and Litecoin, USDT over three networks, Visa and Mastercard, MoMo, DANA and Touch'n Go, DBS Bank, Online Banking and plain Bank Transfer. Each request starts at €20 and tops out at €5,000.
+
+1. Log in to Longfu88 before opening the cashier.
+2. Select Withdrawal.
+3. Choose where the money should go from the supported options.
+4. Type the amount and the receiving bank, wallet or blockchain address.
+5. Check the details and confirm.
+6. If verification appears, confirm identity and payment method.
+
+A request is normally settled within three working days. Card, crypto and wallet payouts reach the player in 1-3 business days, but bank transfers need up to 3 business days of casino handling plus 3 to 5 more for the bank to deliver. The casino sets no standard fee, yet turnover below 1x the deposit triggers a 10% fee with a €2.25 minimum, and certain card or bank-funded transactions carry 15%.

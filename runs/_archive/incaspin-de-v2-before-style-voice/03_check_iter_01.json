@@ -1,0 +1,79 @@
+{
+  "iteration": 1,
+  "passed": false,
+  "summary": {
+    "body_words": 2778,
+    "target_body_words": 3000,
+    "keywords_total": {
+      "Incaspin": 16,
+      "Incaspin casino": 20,
+      "Inca Spin": 1
+    },
+    "keyword_targets": {
+      "Incaspin": 16,
+      "Incaspin casino": 20,
+      "Inca Spin": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [
+      {
+        "check": "consistency",
+        "problem": "The split of the free spins is stated twice in the same block: in the lead-in of the list (\"Die erste Einzahlung bringt 200 der 275 Freispiele, die dritte die restlichen 75\") and again after the list (\"Die erste Einzahlung bringt den größten Teil der Freispiele, nämlich 200 von 275, die dritte ergänzt die restlichen 75\").",
+        "fix": "Restore the lead-in of the list to \"Die Summe ergibt sich aus den drei Einzahlungsboni, die Freispiele kommen bei der ersten und der dritten Einzahlung dazu:\" and keep the later sentence about 200 of 275 free spins, so the split is stated once after the list. Change \"Bei 100 % entspricht er dem eingezahlten Betrag\" to \"Bei einem Bonus von 100 % entspricht er dem eingezahlten Betrag\" and \"Spieler müssen sie nicht gesondert beantragen\" to \"Spieler müssen die Boni nicht gesondert beantragen\". Keep \"Incaspin\" once, \"Incaspin Casino\" once and 202-258 words (the block is at the lower limit)."
+      }
+    ],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence \"Jede Kategorie bündelt Spiele mit ähnlichem Ablauf\" is generic filler without a fact from brand_info, and \"Klassische Tischspiele stehen darin neben modernen Formaten wie Instant-Spielen, Crash-Spielen und Bonus Buy\" only repeats the category list already given in the block.",
+        "fix": "Delete \"Jede Kategorie bündelt Spiele mit ähnlichem Ablauf.\" and replace \"Klassische Tischspiele stehen darin neben modernen Formaten wie Instant-Spielen, Crash-Spielen und Bonus Buy.\" with a sentence that states a fact from brand_info instead of repeating the list, e.g. that Books and Jackpots are categories of their own next to the table games and that the originals form a separate category. Do not add titles, mechanics or definitions (they belong to the sub-sections). Keep \"Incaspin Originals\" (the one permitted \"Incaspin\") and \"Incaspin Casino\" exactly once, and stay within 106-134 words."
+      }
+    ],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [
+      {
+        "check": "consistency",
+        "problem": "The new fee sentence is a comma splice with a colloquial verb (\"Das Casino berechnet selbst nichts, Zahlungsanbieter können jedoch Kosten verlangen, bei einer Banküberweisung berechnen Zwischenbanken bis zu 16 €\").",
+        "fix": "Rewrite the last sentence as two clean sentences without comma splices, e.g. \"Für Auszahlungen berechnet das Casino keine Gebühren. Zahlungsanbieter können Kosten verlangen, bei einer Banküberweisung bis zu 16 € durch Zwischenbanken.\" Keep the fact about the 16 € intermediary bank charge, \"Incaspin Casino\" exactly once and the 158-202 word range."
+      }
+    ],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [
+      {
+        "check": "consistency",
+        "problem": "Two consecutive sentences say the same thing: \"Die insgesamt gesammelten Lebenszeit-BP bestimmen den Rang im Treueprogramm.\" and \"Lebenszeit-BP summieren sich über die gesamte Spielzeit.\"",
+        "fix": "Merge the two sentences into one: \"Die insgesamt gesammelten Lebenszeit-BP, die sich über die gesamte Spielzeit summieren, bestimmen den Rang im Treueprogramm.\" Keep the rest, the table, \"Incaspin Casino\" exactly once and the 123-157 word range."
+      }
+    ],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": []
+  },
+  "missing_data": [
+    {
+      "block_id": "b06",
+      "note": "Data conflict in brand_info: 200 free spins on the first deposit vs. 50 free spins daily for five days (250). The ТЗ asks for both figures, so the text states both; the knowledge base or the copywriter notes should resolve it."
+    },
+    {
+      "block_id": "b09",
+      "note": "No data for the validity of the Sunday Reload (brand_info only has '14 days under the earlier bonus schedule')."
+    }
+  ]
+}

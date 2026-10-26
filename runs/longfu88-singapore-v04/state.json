@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-22T20:27:48",
+    "blocks": 24,
+    "variant": "v04"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-22T20:48:50",
+    "iteration": 0,
+    "regenerated": 24
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-22T20:49:08",
+    "iteration": 0,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-22T20:49:12",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-singapore-v04.txt"
+  }
+}

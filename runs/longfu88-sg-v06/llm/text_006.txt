@@ -1,0 +1,25 @@
+Every deposit method shares one floor of €10 and one ceiling of €5,000 per transaction, and the funds reach the balance within 1-2 minutes.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Cards | Visa, Mastercard | SGD, MYR, IDR, VND |
+| E-wallets | Skrill, Neteller | EUR |
+| Bank transfer | Bank Transfer | MYR, IDR, VND |
+| Singapore options | DBS Bank, OCBC Bank, PayNow QR, PayNow | SGD |
+| European methods | Sofort, Giropay | EUR |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (ERC20, BEP20, TRC20), USDC | BTC, ETH, LTC, USDT, USDC |
+
+The casino bills no fee of its own on deposits, but a payment provider or a blockchain network may add one, and country, currency and method all shape the limits. A deposit through Neteller or Skrill is left out of the welcome offer. At the cashier the player picks a method and currency, enters the amount and payment information, then authorises the payment as the provider instructs.
+
+Longfu88 pays out through Visa, Mastercard, bank transfer, Online Banking, DBS Bank, Touch'n Go, DANA, MoMo and crypto: USDT over three networks, Litecoin, Bitcoin and Ethereum. Each request must fall between €20 and €5,000.
+
+1. Enter the cashier from the signed-in account.
+2. Choose Withdrawal, then a payout method.
+3. Type the amount and the recipient's wallet address or bank details.
+4. Check the request before confirming it.
+5. Pass identity and payment method verification if prompted.
+6. Allow the casino to process it, after which a bank or network settles the payout.
+
+The Lngfu88 withdrawal time for wallet, crypto and card requests is 1 to 3 business days. A bank transfer takes up to 3 business days at the casino, and the receiving bank then needs 3-5 more. Three working days is the usual limit for handling a request.
+
+The casino sets no regular payout charge, but providers or networks may bill separately. A 10% commission (minimum €2.25) can apply when turnover stays below the deposit, so at least 1x turnover of the deposit may come first. Some card or bank transfer funded transactions can carry 15%. KYC documents may also hold a payout back.

@@ -1,0 +1,30 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-22T18:48:46",
+    "blocks": 25,
+    "variant": "v03"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-25T21:52:09",
+    "iteration": 0,
+    "regenerated": 25
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-25T21:53:13",
+    "iteration": 1,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-25T21:53:18",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-sg-v03.txt"
+  },
+  "notes_diversify": {
+    "status": "done",
+    "at": "2026-10-25T21:18:07",
+    "blocks": 25
+  }
+}

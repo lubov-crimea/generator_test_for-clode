@@ -1,0 +1,14 @@
+# Пример топ-листа (top-list). Казино и их базы знаний, ключи и язык — подставьте свои; конкуренты из задачи.
+# Порядок казино в списке = порядок рейтинга на странице.
+GEO - PL
+Language - pl
+Page type - top-list
+Keywords - kasyna bez weryfikacji, kasyno bez weryfikacji, kasyna online bez weryfikacji
+Casinos:
+- Incaspin | incaspin-new
+- Longfu88 | longfu88-new
+Competitors:
+https://planetagracza.pl/kasyno-bez-weryfikacji/
+https://betzoid.com/pl/bez-weryfikacji/
+https://slotsjudge-pl.com/kasyna-online/bez-weryfikacji/
+https://kasyno-onlines.pl/kasyna-bez-weryfikacji/

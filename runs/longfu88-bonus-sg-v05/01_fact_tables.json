@@ -1,0 +1,176 @@
+{
+  "tables": [
+    {
+      "competitor": 0,
+      "url": "https://tips.gg/betting/longfu88-bonus-offers/",
+      "heading": "Welcome Bonus for New Customers",
+      "rows": [
+        [
+          "Welcome Offer",
+          "Detail"
+        ],
+        [
+          "Bonus Type",
+          "100% first-deposit match"
+        ],
+        [
+          "Maximum Bonus",
+          "$400 (or local currency equivalent)"
+        ],
+        [
+          "Minimum Deposit",
+          "Usually around $10 (varies by region & payment method)"
+        ],
+        [
+          "Eligible Products",
+          "Casino slots, some table games, and selected sports markets"
+        ],
+        [
+          "Wagering Requirement",
+          "Approx. 20x bonus; different game contribution rates"
+        ],
+        [
+          "Bonus Validity",
+          "Usually 10-14 days from credit"
+        ],
+        [
+          "Max Bet with Bonus",
+          "Limited per spin/round to keep things fair (check T&Cs)"
+        ],
+        [
+          "Max Cashout",
+          "Cap may apply on bonus-derived winnings"
+        ]
+      ]
+    },
+    {
+      "competitor": 3,
+      "url": "https://longfu88-play.my/bonuses/",
+      "heading": "Complete Longfu88 Casino Overview",
+      "rows": [
+        [
+          "Detail",
+          "Information"
+        ],
+        [
+          "Established",
+          "2020"
+        ],
+        [
+          "Licence",
+          "Curacao eGaming"
+        ],
+        [
+          "Welcome Offer",
+          "188% up to $2,088 + 18 Free Spins"
+        ],
+        [
+          "Min Deposit",
+          "$20"
+        ],
+        [
+          "Withdrawal Speed",
+          "24-72 hours (e-wallets faster)"
+        ],
+        [
+          "Top Games",
+          "Slots, Live Casino, Sports Betting, Fishing Games"
+        ],
+        [
+          "Mobile Platform",
+          "Responsive mobile site + dedicated app"
+        ],
+        [
+          "Support",
+          "24/7 Live Chat, Email, Telegram"
+        ],
+        [
+          "Payment Methods",
+          "Crypto, E-wallets, Bank Transfer, Cards"
+        ],
+        [
+          "Currencies",
+          "USD, EUR, MYR, THB, VND, IDR, Crypto"
+        ]
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "welcome offer",
+      "competitors": 2
+    },
+    {
+      "label": "bonus type",
+      "competitors": 1
+    },
+    {
+      "label": "bonus validity",
+      "competitors": 1
+    },
+    {
+      "label": "currencies",
+      "competitors": 1
+    },
+    {
+      "label": "detail",
+      "competitors": 1
+    },
+    {
+      "label": "eligible products",
+      "competitors": 1
+    },
+    {
+      "label": "established",
+      "competitors": 1
+    },
+    {
+      "label": "licence",
+      "competitors": 1
+    },
+    {
+      "label": "max bet with bonus",
+      "competitors": 1
+    },
+    {
+      "label": "max cashout",
+      "competitors": 1
+    },
+    {
+      "label": "maximum bonus",
+      "competitors": 1
+    },
+    {
+      "label": "min deposit",
+      "competitors": 1
+    },
+    {
+      "label": "minimum deposit",
+      "competitors": 1
+    },
+    {
+      "label": "mobile platform",
+      "competitors": 1
+    },
+    {
+      "label": "payment methods",
+      "competitors": 1
+    },
+    {
+      "label": "support",
+      "competitors": 1
+    },
+    {
+      "label": "top games",
+      "competitors": 1
+    },
+    {
+      "label": "wagering requirement",
+      "competitors": 1
+    },
+    {
+      "label": "withdrawal speed",
+      "competitors": 1
+    }
+  ]
+}

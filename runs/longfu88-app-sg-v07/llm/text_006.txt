@@ -1,0 +1,10 @@
+The responsive website of Longfu88 adapts to smartphone and tablet browsers, and it gives access to these areas:
+
+- Playing in the casino section
+- Betting in the sportsbook
+- Signing in to the account
+- Making deposits at the cashier
+- Making withdrawals from the account
+- Using available bonuses
+
+Each item works on a tablet in the same way as on a phone. Terms of each offer are described on the bonuses page, which is the place to check them before taking one.

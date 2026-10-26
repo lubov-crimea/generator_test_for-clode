@@ -1,0 +1,10 @@
+Account verification is requested on four triggers: during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. It is not a step of the sign-in itself. The table lists the documents that count for each purpose.
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card or driving licence |
+| Address | Utility bill or bank statement |
+| Payment method | Bank or card ownership evidence, or digital wallet ownership evidence |
+| Source of funds (only when requested) | Proof of income, bank statements or other supporting financial documents |
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.

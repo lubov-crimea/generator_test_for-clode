@@ -1,0 +1,237 @@
+{
+  "id": "v08",
+  "name": "Mobile-first",
+  "tier": "medium",
+  "angle": "A player who mostly uses a phone.",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the phone login is the topic here; the welcome offer is left to the bonus page of the site"
+    }
+  ],
+  "intent_summary": "Mobile-first brand-subpage about the Longfu88 login in Singapore: logging in from a phone, a tablet or a computer with the home-screen shortcut, the password reset, creating an account on a phone, the documents to keep ready, account safety, the first payout from a phone, the settings, a mobile FAQ and support. Page voice: brisk and concrete, device words in every section (phone, browser, shortcut), sentences of about 15 words; no calls to action. Flat H2s with one H3. There is no downloadable app in the facts. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login on Mobile and Desktop",
+      "words": 105,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(login on a phone or a computer, password reset, registration, documents, account safety, the first payout, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Log In from Any Device",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "then a NUMBERED list with the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account)",
+          "then one short paragraph that walks through the three login steps in the order of the Brand Information (select Login on the website; enter the registered e-mail and password; complete any security check and access the account)"
+        ],
+        [
+          "Do not explain password reset here (next sub-section).",
+          "Do not explain password reset here (a separate section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Password Reset on a Phone",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Add a Home Screen Shortcut on Android and iOS",
+      "words": 180,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "Add the platforms named in the Brand Information (Android, iOS and mobile web) and say that every feature of the site is the same on a phone: casino, sportsbook, account access, deposits, withdrawals, bonuses.",
+      "refs_add": [
+        "brandinfo_app.app_information.features"
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Create an Account from Your Phone",
+      "words": 145,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Documents to Keep Ready",
+      "words": 145,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "Then a TABLE with two columns, document type | accepted documents, one row each for identity",
+          "Then a bulleted list, one item each for identity"
+        ],
+        [
+          "; the source-of-funds row applies only when requested",
+          "; the source-of-funds item applies only when requested"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Account Safety on a Phone",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "First Payout From a Phone",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Phone Preferences and Cookies",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Mobile Login FAQ",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) whether a player can log in from a phone (yes, in the browser of a smartphone or tablet; a home-screen shortcut is possible); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address); (5) which languages support speaks (English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese); (6) how fast a withdrawal request is processed (generally within three working days; do not promise a payout time). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_general.customer_support.languages",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age"
+      ]
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Support on Chat or E-mail",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    }
+  ]
+}

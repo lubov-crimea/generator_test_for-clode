@@ -1,0 +1,262 @@
+{
+ "clusters": [
+  {
+   "topic": "Platform overview / about the casino",
+   "canonical_title": "About the Casino",
+   "member_ids": [
+    "c1h1",
+    "c1h17",
+    "c3h12",
+    "c6h1"
+   ]
+  },
+  {
+   "topic": "Games overview",
+   "canonical_title": "Games Overview",
+   "member_ids": [
+    "c0h1",
+    "c0h2",
+    "c1h2",
+    "c3h3",
+    "c3h9",
+    "c5h1",
+    "c6h7",
+    "c0h20",
+    "c5h20"
+   ]
+  },
+  {
+   "topic": "Slots",
+   "canonical_title": "Slots",
+   "member_ids": [
+    "c1h3",
+    "c5h2",
+    "c6h8",
+    "c6h19"
+   ]
+  },
+  {
+   "topic": "Live casino",
+   "canonical_title": "Live Casino",
+   "member_ids": [
+    "c0h3",
+    "c1h5",
+    "c3h17",
+    "c5h3",
+    "c6h9",
+    "c6h21"
+   ]
+  },
+  {
+   "topic": "Table games and video poker",
+   "canonical_title": "Table Games",
+   "member_ids": [
+    "c1h4",
+    "c6h10"
+   ]
+  },
+  {
+   "topic": "Fishing, P2P, fast and free games",
+   "canonical_title": "Instant and Specialty Games",
+   "member_ids": [
+    "c0h4",
+    "c0h5",
+    "c0h6",
+    "c1h6"
+   ]
+  },
+  {
+   "topic": "Software providers",
+   "canonical_title": "Game Providers",
+   "member_ids": [
+    "c3h15"
+   ]
+  },
+  {
+   "topic": "Sports betting and esports",
+   "canonical_title": "Sports Betting",
+   "member_ids": [
+    "c0h7",
+    "c1h7",
+    "c3h4",
+    "c3h5",
+    "c5h4",
+    "c6h20"
+   ]
+  },
+  {
+   "topic": "Lottery",
+   "canonical_title": "Lottery",
+   "member_ids": [
+    "c0h8"
+   ]
+  },
+  {
+   "topic": "Bonuses and welcome offers",
+   "canonical_title": "Bonuses and Welcome Offers",
+   "member_ids": [
+    "c0h9",
+    "c0h10",
+    "c0h19",
+    "c1h8",
+    "c3h1",
+    "c3h2",
+    "c5h5",
+    "c5h17",
+    "c6h3",
+    "c6h4"
+   ]
+  },
+  {
+   "topic": "Ongoing promotions and tournaments",
+   "canonical_title": "Ongoing Promotions",
+   "member_ids": [
+    "c0h11",
+    "c3h13",
+    "c6h5"
+   ]
+  },
+  {
+   "topic": "VIP programme and loyalty",
+   "canonical_title": "VIP Programme",
+   "member_ids": [
+    "c3h8",
+    "c5h6",
+    "c6h6",
+    "c6h23"
+   ]
+  },
+  {
+   "topic": "Registration and login",
+   "canonical_title": "Registration and Login",
+   "member_ids": [
+    "c0h12",
+    "c0h13",
+    "c0h17",
+    "c6h16",
+    "c6h18"
+   ]
+  },
+  {
+   "topic": "Deposit methods and payments",
+   "canonical_title": "Payment Methods",
+   "member_ids": [
+    "c0h14",
+    "c1h9",
+    "c1h10",
+    "c3h6",
+    "c5h7",
+    "c5h18",
+    "c6h11"
+   ]
+  },
+  {
+   "topic": "Withdrawals and payout speed",
+   "canonical_title": "Withdrawals",
+   "member_ids": [
+    "c1h11",
+    "c6h17"
+   ]
+  },
+  {
+   "topic": "Cryptocurrency payments",
+   "canonical_title": "Crypto Payments",
+   "member_ids": [
+    "c0h18",
+    "c6h22"
+   ]
+  },
+  {
+   "topic": "Mobile access and app",
+   "canonical_title": "Mobile Access",
+   "member_ids": [
+    "c1h12",
+    "c3h7",
+    "c5h12",
+    "c6h24",
+    "c5h19"
+   ]
+  },
+  {
+   "topic": "Licence, security and fair play",
+   "canonical_title": "Safety and Fair Play",
+   "member_ids": [
+    "c1h13",
+    "c3h10",
+    "c3h16",
+    "c5h8",
+    "c5h16",
+    "c6h2"
+   ]
+  },
+  {
+   "topic": "Customer support",
+   "canonical_title": "Customer Support",
+   "member_ids": [
+    "c0h15",
+    "c1h14",
+    "c3h11"
+   ]
+  },
+  {
+   "topic": "Responsible gambling",
+   "canonical_title": "Responsible Gambling",
+   "member_ids": [
+    "c1h15",
+    "c3h14",
+    "c5h14",
+    "c6h12"
+   ]
+  },
+  {
+   "topic": "Verdict and conclusion",
+   "canonical_title": "Verdict",
+   "member_ids": [
+    "c1h16",
+    "c3h18",
+    "c6h14",
+    "c6h25"
+   ]
+  },
+  {
+   "topic": "FAQ",
+   "canonical_title": "Frequently Asked Questions",
+   "member_ids": [
+    "c0h16",
+    "c5h15",
+    "c6h26"
+   ]
+  },
+  {
+   "topic": "Pros and cons",
+   "canonical_title": "Pros and Cons",
+   "member_ids": [
+    "c5h9",
+    "c5h10",
+    "c5h11",
+    "c6h13"
+   ]
+  },
+  {
+   "topic": "User reviews",
+   "canonical_title": "User Reviews",
+   "member_ids": [
+    "c1h18"
+   ]
+  },
+  {
+   "topic": "Quick links",
+   "canonical_title": "Quick Links",
+   "member_ids": [
+    "c5h13"
+   ]
+  },
+  {
+   "topic": "Hands-on experience: access and payout test",
+   "canonical_title": "Hands-on Experience",
+   "member_ids": [
+    "c6h15"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "v09",
+  "name": "Responsible account use",
+  "tier": "medium",
+  "angle": "A reader who wants to stay in control of the account.",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the text is about control of the account; the welcome offer is left to the bonus page of the site"
+    }
+  ],
+  "intent_summary": "Brand-subpage about the Longfu88 account for players in Singapore who want to stay in control: how to pause, self-exclude or close the account and where independent help is found, then the login and the password reset, the registration rules, verification, the checks before the first payout, the currency and one-account rules, the marketing and cookie settings and support. Page voice: calm and practical, the control topic first, sentences of about 17 words, no moralising, no calls to action. H2 sections with one H3. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login: Manage Your Account Responsibly",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(taking a break or closing the account, login, password reset, registration, verification, payout checks, settings, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Taking Control: Pause, Self-Exclusion and Closure",
+      "words": 190,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "Add the four steps of the procedure as a numbered list, in the order of the Brand Information, without the e-mail address, and the self-assessment questions that help to recognise possible harm.",
+      "refs_add": [
+        "brandinfo_responsible_gaming.responsible_gaming.procedure",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Login: Entering the Account",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "If the Password Is Lost",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Opening an Account Responsibly",
+      "words": 140,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Verification Without Surprises",
+      "words": 140,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Payout Checks Explained",
+      "words": 115,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "One Account, Accurate Details, Supported Currencies",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Add that residents must be legally permitted to gamble where they live.",
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.eligibility.residency_requirements"
+      ]
+    },
+    {
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Choosing What You Receive",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Customer Support and Independent Help",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Responsible Account FAQ",
+      "words": 125,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how to close the account (through customer support); (2) how to log in (with the registered e-mail and password, as the page explains); (3) what to do after a forgotten password (request a reset link with the registered e-mail); (4) what the minimum age is (18, and the player must be legally permitted to gamble where they live); (5) which currencies an account can use (EUR, USD, MYR, THB, SGD and USDT); (6) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_responsible_gaming.responsible_gaming.account_closure",
+        "brandinfo_general.currencies"
+      ],
+      "refs_drop": [
+        "brandinfo_account.verification.typical_review_time"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "id": "v09",
+  "name": "Loyalty, VIP and rewards",
+  "tier": "medium",
+  "angle": "A regular player who wants the extras beyond the first deposit: VIP points, the rewards area, Bonus Crab and the cashback by level.",
+  "skipped_clusters": [
+    {
+      "id": "k21",
+      "reason": "a checklist is left out; the page closes with the FAQ"
+    },
+    {
+      "id": "k01",
+      "reason": "the overview is left out; the page starts from the welcome offer and names the other offers in their sections"
+    }
+  ],
+  "intent_summary": "Brand-subpage about the Longfu88 offers for regular players in Singapore: the welcome offer and its claiming path as the entry point, the terms in short, the reloads, free spins and seasonal campaigns, the cashback by VIP level, the rebates, the VIP program with eight reward levels, the rewards area and how Bonus Crab works, the live casino offer and mobile access. Page voice: friendly but exact, a concrete example before each rule, sentences of about 16 words; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore. Never write \"Longfu88 bonuses\", \"Longfu bonuses\" or \"Longfu88 promo codes\": such forms count as tracked keywords.",
+  "blocks": [
+    {
+      "topic": "B01",
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Promotions for Active Players: Rewards, VIP and Cashback",
+      "words": 82,
+      "kw": {
+        "Longfu88": 3,
+        "Longfu bonus": 1
+      },
+      "summary": "What the page covers: the welcome offer, the reloads, the cashback by VIP level, the VIP program and the rewards area.",
+      "notes": "Open with \"Longfu88\" as the subject of the first sentence: the casino runs a set of bonuses that start with the Casino Welcome Bonus. The phrase \"Longfu bonus\" stands once in a sentence that says that players looking for the Longfu bonus find the welcome offer, the reloads, the cashback by VIP level, the VIP program and the rewards area on this page. Quote the welcome bonus summary of the Brand Information once, character for character (188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings). State once that the bonuses are for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics in one sentence without detail. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Neutral tone, no promises."
+    },
+    {
+      "topic": "WB",
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "The Welcome Offer as an Entry Point",
+      "words": 163,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu88 welcome bonus": 1
+      },
+      "extra": "Where the phrase \"Longfu88 welcome bonus\" is used it stands in the first sentence."
+    },
+    {
+      "topic": "CL",
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Claim It in Three Sentences",
+      "words": 76,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The path from registration to completed wagering in three sentences, with the activation in My Bonuses before the first wager and the validity of 10 days.",
+      "notes": "Three or four sentences, no list: the player registers and completes the required personal details, makes the first qualifying deposit, activates the Casino Welcome Bonus in My Bonuses before placing any wager and completes the wagering on eligible casino games before expiry; the offer is valid for 10 days from activation. Do not copy a step that contains the brand name. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "TM",
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Terms in Short",
+      "words": 142,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The main terms of the Casino Welcome Bonus in three sentences: wagering, validity, maximum bet and maximum cashout.",
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_welcome.welcome_bonus.important_terms[4]"
+      ],
+      "notes": "Three sentences, no table: wagering 25x the deposit plus bonus amount and 40x Free Spins winnings; validity 10 days from activation; maximum bet €22.5 per spin and maximum cashout 5x the initial bonus amount. These terms belong to the Casino Welcome Bonus: say so. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "PC",
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Promo Code and My Bonuses",
+      "words": 87,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "RL",
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Reloads for Regular Depositors",
+      "words": 196,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "4 reload offers with reward, minimum deposit and wagering.",
+      "refs_drop": [],
+      "notes": "One lead-in sentence that says that the reload offers reward repeat deposits, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and 4 rows in this order: Casino Weekly Crypto Reload, Casino Weekend Reload, Casino Weekend Crypto Reload, Casino Double Fortune: One-Day Reload Special (values exactly as in the Brand Information). After the table two sentences: the weekly and weekend offers are valid for 7 days; the Double Fortune special for 24 hours; the stake while wagering bonus funds is limited to €5 per spin, and a reload cannot be combined with another active casino bonus. The Casino Weekly Reload (50 Free Spins) belongs to the free spins topic: do not describe it here. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "FS",
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Free Spins in Short",
+      "words": 76,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The 50 Free Spins of the Casino Weekly Reload and the 40x wagering on the winnings.",
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[7].name",
+        "brandinfo_promotions.other_bonuses[7].reward",
+        "brandinfo_promotions.other_bonuses[7].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[7].wagering_requirement"
+      ],
+      "notes": "Two or three sentences: the Casino Weekly Reload gives 50 Free Spins for a minimum deposit of €30, valid 7 days, with 40x wagering on the winnings from Free Spins; one clause recalls that the welcome bonus adds 18 Free Spins with 40x Free Spins winnings. No game names, no spin value. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "SE",
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Seasonal Campaigns",
+      "words": 125,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "CB",
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Cashback by VIP Level",
+      "words": 218,
+      "kw": {
+        "Longfu88": 2
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "edit": [
+        [
+          "Only real-money casino bets count toward the cashback; bonus funds are excluded. ",
+          "Only real-money casino bets count toward the cashback; bonus funds are excluded. State that the weekly cashback is credited to My Bonuses on Monday, that activation is required and that it expires if it is not activated within its claim window; the Live Casino Cashback is credited on Monday too and rests on real-money stakes less winnings in eligible Live Casino games. "
+        ]
+      ],
+      "summary": "Cashback in full: the Casino Weekly Cashback with its rates by VIP level, the crediting and the claim window, and the Live Casino Cashback.",
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[9].crediting",
+        "brandinfo_promotions.other_bonuses[9].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[10].calculation_period",
+        "brandinfo_promotions.other_bonuses[10].crediting",
+        "brandinfo_promotions.other_bonuses[10].important_terms[0]"
+      ]
+    },
+    {
+      "topic": "RB",
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Rebates Credited Daily",
+      "words": 76,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "VP",
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "The VIP Program in Depth: Eight of 25 Levels",
+      "words": 272,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The VIP program in depth: the tiers, the points, eight of the 25 reward levels with points and reward, and the additional benefits.",
+      "refs_drop": [
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].level_reward"
+      ],
+      "refs_add": [
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[2].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[2].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[2].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[7].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[7].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[7].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[19].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[19].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[19].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].level_reward"
+      ],
+      "notes": "One or two sentences: the VIP program has five tiers (Bronze, Silver, Gold, Platinum, Diamond) and the player earns VIP points through eligible real-money gameplay, which unlock numbered reward levels. Then a TABLE with three columns, level | points required | level reward, and eight rows for levels 1, 3, 5, 8, 10, 15, 20 and 25 (values exactly as in the Brand Information; say in one clause that there are 25 levels in all). Then one sentence with the additional benefits (personalised offers, VIP cashback, higher withdrawal limits, a personal VIP manager for eligible high tiers) and one sentence that reward and withdrawal limits may differ by level and currency and that level-based benefits can change under the program rules. Call it \"the VIP Program\" without the brand name. Do not give the cashback percentages of the 25 levels and do not link the tiers to the numbered levels. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "RW",
+      "from": [
+        "b16"
+      ],
+      "level": 2,
+      "heading": "The Rewards Area: Where Each Feature Sits",
+      "words": 218,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The rewards area in depth: where each feature sits in the Rewards menu, what it gives and the wagering that some rewards carry.",
+      "refs_add": [
+        "brandinfo_promotions.gamification_features[0].access",
+        "brandinfo_promotions.gamification_features[0].validity",
+        "brandinfo_promotions.gamification_features[1].rewards",
+        "brandinfo_promotions.gamification_features[1].validity",
+        "brandinfo_promotions.gamification_features[2].access",
+        "brandinfo_promotions.gamification_features[3].access",
+        "brandinfo_promotions.gamification_features[4].access",
+        "brandinfo_promotions.gamification_features[4].important_terms[1]"
+      ],
+      "notes": "One lead-in sentence that says that the rewards area adds game-like features to the bonuses, then a bulleted list of five items \"name: what it does and where it is\": Bonus Crab (claim qualifying picks to open a crab reward; valid 7 days after the reward is assigned), Wheel of Fortune (spend an eligible spin or Coins to rotate a prize wheel; bonus credits, Free Spins or Coins; valid 7 days), Challenges (complete qualifying gambling tasks to unlock listed rewards; found under Rewards > Challenges), Collections (collect campaign items by completing qualifying activity; Rewards > Collections), Coin Shop (exchange earned Coins for reward items and bonus credits up to €4,500; Rewards > Shop). After the list one sentence: rewards may carry separate wagering requirements. Each list item one or two short clauses. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "N6",
+      "from": [],
+      "level": 3,
+      "heading": "How Longfu88 Bonus Crab Works",
+      "words": 131,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "How Bonus Crab works: qualifying picks open a crab reward of bonus credits, Free Spins or Coins, valid 7 days with 30x and 40x wagering.",
+      "entities": [
+        [
+          "Bonus Crab",
+          10
+        ],
+        [
+          "Crab Reward",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Bonus Crab",
+          "awards",
+          "bonus credits, Free Spins or Coins",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.gamification_features[0].mechanics",
+        "brandinfo_promotions.gamification_features[0].access",
+        "brandinfo_promotions.gamification_features[0].rewards",
+        "brandinfo_promotions.gamification_features[0].validity",
+        "brandinfo_promotions.gamification_features[0].wagering_requirement"
+      ],
+      "notes": "Say first how the feature works: the player claims qualifying picks to open a crab reward and reveal a casino prize; free picks may come from qualifying activity in the rewards area. Then the rewards (bonus credits, Free Spins, Coins) as a bulleted list of three items, then one sentence with the validity (7 days after the reward is assigned) and one with the wagering (30x the awarded bonus credit; 40x the winnings from Free Spins). No prize sizes, no odds. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "covers_clusters": [
+        "k09"
+      ]
+    },
+    {
+      "topic": "LV",
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Live Casino Offers for Regulars",
+      "words": 109,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "SP",
+      "from": [
+        "b17"
+      ],
+      "level": 2,
+      "heading": "Sports Bonus Basics for Casino Players",
+      "words": 109,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The Sport First Deposit Bonus of 100% up to €1,888 with its 8x wagering and the odds rule.",
+      "refs_drop": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[1].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[2]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[7].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[7].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].reward"
+      ],
+      "notes": "Three sentences, no table: the sportsbook has its own bonuses, for example the Sport First Deposit Bonus of 100% up to €1,888 (minimum deposit €50, wagering 8x deposit plus bonus, valid 30 days); only settled qualifying sports bets count toward the wagering; single bets need odds of at least 2.00 and each accumulator selection at least 1.50. No sports tips, no odds of events. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "MB",
+      "from": [
+        "b20"
+      ],
+      "level": 2,
+      "heading": "Rewards on a Phone",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "FQ",
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers: Loyalty and Rewards Questions",
+      "words": 234,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "7 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 7 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how VIP points work (they are earned through eligible real-money gameplay and unlock numbered reward levels); (2) what Bonus Crab does (the player claims qualifying picks to open a crab reward and reveal a casino prize); (3) what the Coin Shop gives (reward items and bonus credits up to €4,500); (4) how much the weekly cashback can return (up to 10% of weekly net casino losses, capped at €6,988); (5) when the unlimited rebates are credited (daily to the rewards balance); (6) how often the reload offers can be claimed (one claim per promotional period unless otherwise stated); (7) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "kw_lists_ok": true,
+      "refs_add": [
+        "brandinfo_loyalty.loyalty_vip_program.progression",
+        "brandinfo_promotions.gamification_features[0].mechanics",
+        "brandinfo_promotions.gamification_features[4].rewards[0]",
+        "brandinfo_promotions.other_bonuses[9].reward",
+        "brandinfo_promotions.other_bonuses[11].crediting",
+        "brandinfo_promotions.other_bonuses[4].important_terms[0]"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]",
+        "brandinfo_promotions.other_bonuses[9].opt_in",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]"
+      ]
+    }
+  ]
+}

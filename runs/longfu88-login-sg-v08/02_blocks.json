@@ -1,0 +1,405 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino Login on Mobile and Desktop",
+      "text": "Longfu88 opens an account for anyone who signs up by choosing a password and giving an e-mail address, and those two credentials stay valid whether the casino is reached from a handset or from a desktop machine. Once registered, a player signs in to the personal account with that pair of details on whichever screen is nearby. Only adults aged 18 or older are admitted to the casino, and Singapore is the audience this page is written for. The sections below deal with signing in from a phone or a computer, resetting a password, registering, the documents to prepare, account safety, the first withdrawal and the support options.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "intro-diversify",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Log In from Any Device",
+      "text": "A Longfu login follows one routine on every device and calls for two items only, the registration e-mail and its password, whatever the size of the screen. The Longfu88 website opens in a phone browser as readily as on a computer, and the Longfu88 login form requests both items in either case. Access to the account takes three steps:\n\n1. Head for the website's Login button.\n2. Enter the e-mail with its password, both set during registration.\n3. Clear any security check that is displayed, after which the account is accessible.\n\nWhere a security check appears, the account stays closed until that check is passed.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b03": {
+      "id": "b03",
+      "level": 3,
+      "heading": "Password Reset on a Phone",
+      "text": "A forgotten password is handled from the sign-in screen of a phone browser. Longfu88 relies on the e-mail address tied to the account for this.\n\n1. Tap Forgot Password where the credentials are normally typed.\n2. Ask for a link to reset the password, quoting the registered e-mail.\n3. Carry out what the e-mailed instructions say and choose a fresh password.\n\nSomeone who can no longer open that mailbox should get in touch with support.",
+      "version": 3,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b04": {
+      "id": "b04",
+      "level": 2,
+      "heading": "Add a Home Screen Shortcut on Android and iOS",
+      "text": "Longfu88 has a responsive website, which lets a smartphone or a tablet reach the casino with nothing but its browser. Pages that open on a computer open on a phone as well, and signing in is done in the same way. Android, iOS and any mobile web browser are all supported. For faster access, the home screen can hold a shortcut to the website, and the site starts from it like any other icon.\n\n- Android: in Chrome, with the site loaded, the menu of the browser lists the option Add to Home screen, with approval of the shortcut as the last move.\n- iOS: in Safari, with the site loaded, the Share button opens a menu containing Add to Home Screen, where one more tap, on Add, finishes the shortcut.\n\nNothing is lost on a small screen. Both the casino and the sportsbook stay available, together with bonuses, withdrawals, deposits and access to the account, and only the size of the page differs. Signing in still takes the credentials from registration, an e-mail address with a password, on every device.",
+      "version": 16,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "State directly that the site works on Android, iOS and in mobile web browsers; drop 'in one step'; end the block without the 'as on a computer' comparison."
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Create an Account from Your Phone",
+      "text": "A new account takes five steps on a phone. The Longfu88 register routine runs on e-mail, the single signup route available. Registration proceeds in this order:\n\n1. Start on the website and tap Register.\n2. Pick a password and enter the e-mail address in the form.\n3. Declare the player's age as eligible, and give consent to the Terms and Conditions, and likewise to the Privacy Policy.\n4. The remaining personal details go in next, with the residential address among them.\n5. Select Create Account and, when an e-mail confirmation is asked for, complete it.\n\nThe details asked for are the legal name, birth date, residential address and the e-mail with its password. Legal name and address should be given exactly as printed on an identity document, since a request for documents may follow. Eligibility means being at least 18 and at the age of legal gambling in the relevant jurisdiction, and no player may hold more than one personal account at Longfu88.",
+      "version": 13,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Documents to Keep Ready",
+      "text": "Longfu88 asks for verification at certain moments: when an account is reviewed, ahead of a withdrawal, whenever a transaction stands out as unusual or very large, and when account details or payment details change. Registration and login do not involve it. Having the papers close at hand on the same phone saves time once a request comes in. These are the documents accepted for each purpose:\n\n- Identity: driving licence, national identity card or passport.\n- Address: utility bills qualify, and so do bank statements.\n- Payment method: digital wallet ownership evidence, or bank or card ownership evidence.\n- Source of funds: supporting financial documents, for instance bank statements or evidence of income, required only on request.\n\nDocuments are due within the 30 days that follow the request. A complete set normally gets a review within 10 days at most, with the clock starting when the last missing paper comes in.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Account Safety on a Phone",
+      "text": "Keeping the login credentials safe is the account holder's own task, and a phone does not change that. The e-mail and password belong to whoever registered them, which makes a device under that person's control the sensible place to enter them. Duties lie with the operator too. Longfu88 applies technical and organisational safeguards covering personal information along with payments and accounts, and it can suspend activity if verification is called for or if abuse is suspected, a step that may leave an account paused after a verification request. Security thus rests on both sides.",
+      "version": 4,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "First Payout From a Phone",
+      "text": "A first withdrawal from a phone brings the account under close inspection. Withdrawals can trigger identity and payment checks, and funds can be held back until three things are settled: the player's identity, who owns the payment method used and, where required, the source of funds. A withdrawal therefore waits for that confirmation. As a rule, Longfu88 processes withdrawal requests within three working days, a figure that describes usual handling and carries no promise of a payout time. Only payment methods owned by the player are accepted, and those of third parties are excluded. The papers prepared in the section above, kept on the same phone, make completing these checks simpler.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "Phone Preferences and Cookies",
+      "text": "Two subjects remain in the player's hands. The first is marketing: promotional messages stay optional, because a player manages direct-marketing preferences and can unsubscribe from promotional communications. Cookies are the second subject. Four kinds are used by Longfu88: analytics, necessary, marketing and preference cookies, all supporting website functions and measurement in the phone browser. Neither topic has anything to do with signing in, which requires nothing beyond the e-mail used at registration and its password.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Rewrite the cookie sentence without a computer comparison, keeping the cookie types and their function."
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b10": {
+      "id": "b10",
+      "level": 2,
+      "heading": "Mobile Login FAQ",
+      "text": "- **Does Longfu88 work for logging in from a phone?** Yes, a smartphone or tablet needs only its browser, and a shortcut placed on the home screen makes reaching the casino faster.\n- **How is the login done?** With the e-mail chosen at registration and its password, as covered earlier on the page.\n- **What can a player do after forgetting the password?** The reset link has to be requested using the e-mail the account was registered under, and the instructions that arrive lead to a new password.\n- **Where does a player go if signing in keeps failing?** Customer support is reachable by e-mail and also through live chat, which never closes, 24/7.\n- **In which languages can support be contacted?** Indonesian, Malay, English, Thai, Vietnamese and Simplified Chinese.\n- **How long does a withdrawal request take to process?** Processing generally finishes within three working days, though no payout time is promised.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b11": {
+      "id": "b11",
+      "level": 2,
+      "heading": "Support on Chat or E-mail",
+      "text": "Customer support takes questions about an account, a sign-in or verification by e-mail, and also in live chat. The live chat service never closes, 24/7. Typical reasons to write in include trouble signing in, a reset e-mail that goes missing, or help with uploading a document. E-mails go to support@longfu88.com. Support speaks Malay, Indonesian, Vietnamese, Thai, English and Simplified Chinese, which lets a player write in whichever feels easiest.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    }
+  }
+}

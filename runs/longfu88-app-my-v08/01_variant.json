@@ -1,0 +1,333 @@
+{
+  "id": "v08",
+  "name": "Complete mobile handbook (large)",
+  "tier": "large",
+  "angle": "A reader who wants everything about the casino on a phone on one page.",
+  "intent_summary": "Complete brand-subpage for the large size group of the competitors, built like the longest app page of the query: a handbook of the Longfu88 mobile casino for players from Malaysia with the shortcut instead of a file (Android and iOS), supported devices, the choice between the shortcut and a browser tab, what the mobile site gives access to (casino games, sports betting), paying and withdrawing from a phone, the welcome offer, account access, security, troubleshooting, support and a FAQ. Page voice: reference-like, each H2 opens with what the section is for, sentences of about 18 words, a consequence after each condition; one plain invitation to start. Every extra section is written only from the facts of its Brand Information; where a section has few facts it stays short. H2 sections with H3 details. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Mobile Casino Handbook for Malaysian Players",
+      "words": 70,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu app": 1
+      },
+      "edit": [
+        [
+          "(features, home-screen shortcut for Android and iOS, supported devices, account access, security, troubleshooting, support)",
+          "(the shortcut for Android and iOS, devices, shortcut or browser tab, games, sports, paying from a phone, the welcome offer, account access, security, fixes, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download: No File, Only a Shortcut",
+      "words": 70,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Steps",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Steps",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Supported Devices and Browsers",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Choosing Between the Shortcut and a Browser Tab",
+      "words": 80,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Everything You Can Do on a Phone",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Casino Games on a Phone",
+      "words": 55,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which game categories and providers the casino section offers.",
+      "entities": [
+        [
+          "Casino Games",
+          10
+        ],
+        [
+          "Game Providers",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "chooses",
+          "among slots, live dealer games, table games, jackpots and other categories in the casino",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types",
+        "brandinfo_games.providers"
+      ],
+      "notes": "One lead-in sentence that says that the casino section of the mobile website offers these game categories, then a bulleted list of the categories exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games). One closing sentence names four or five providers from the list of the Brand Information (for example Evolution, Pragmatic Play, NetEnt, Hacksaw Gaming). No game names, RTP values, volatility, maximum multipliers or claims that a particular game works on a phone. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k02"
+      ]
+    },
+    {
+      "from": [],
+      "level": 3,
+      "heading": "Sports Betting on a Phone",
+      "words": 65,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Which sports and bet types the sportsbook offers and that live betting has live odds and in-play markets.",
+      "entities": [
+        [
+          "Sportsbook",
+          10
+        ],
+        [
+          "Live Betting",
+          8
+        ]
+      ],
+      "connections": [
+        [
+          "Live Betting",
+          "offers",
+          "live odds and in-play markets",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.bet_types",
+        "brandinfo_sportsbook.sportsbook.live_betting",
+        "brandinfo_sportsbook.sportsbook.important_terms"
+      ],
+      "notes": "The sportsbook is one of the features of the mobile website. One lead-in sentence, then a bulleted list of the sports as given (football, basketball, tennis, badminton, cricket, table tennis, volleyball, esports, virtual football), then one sentence with the bet types (single, accumulator, live, handicap, totals, outrights, Bet Builder) and one with live betting: live odds and in-play markets. Say that event availability and markets can vary by jurisdiction. No odds, bonuses, limits or promises of winnings. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k02"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Paying and Withdrawing from a Phone",
+      "words": 95,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "Five payment methods in Malaysian ringgit with their deposit speed, and the processing time of withdrawals.",
+      "entities": [
+        [
+          "Payment Methods",
+          10
+        ],
+        [
+          "Withdrawals",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "pays",
+          "with Touch'n Go, GrabPay, DuitNow, Online Banking or Bank Transfer in Malaysian ringgit",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.deposit_methods[27].method",
+        "brandinfo_deposit.deposit_methods[27].currencies",
+        "brandinfo_deposit.deposit_methods[27].transaction_speed",
+        "brandinfo_deposit.deposit_methods[11].method",
+        "brandinfo_deposit.deposit_methods[11].currencies",
+        "brandinfo_deposit.deposit_methods[11].transaction_speed",
+        "brandinfo_deposit.deposit_methods[8].method",
+        "brandinfo_deposit.deposit_methods[8].currencies",
+        "brandinfo_deposit.deposit_methods[8].transaction_speed",
+        "brandinfo_deposit.deposit_methods[19].method",
+        "brandinfo_deposit.deposit_methods[19].currencies",
+        "brandinfo_deposit.deposit_methods[19].transaction_speed",
+        "brandinfo_deposit.deposit_methods[2].method",
+        "brandinfo_deposit.deposit_methods[2].currencies",
+        "brandinfo_deposit.deposit_methods[2].transaction_speed",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[2]"
+      ],
+      "notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a TABLE with three columns, method | currency | deposit speed, and five rows in this order: Touch'n Go, GrabPay, DuitNow, Online Banking, Bank Transfer (currency MYR and the speed exactly as in the Brand Information; for Bank Transfer name MYR only). After the table two sentences on withdrawals: requests are generally processed within three working days, and bank transfers may need another 3-5 business days. Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. Name no other payment methods and no fees. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k02"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Welcome Offer from Your Phone",
+      "words": 65,
+      "kw": {},
+      "summary": "What a new account can claim from a phone: the Casino Welcome Bonus, its size, the minimum first deposit and the wagering.",
+      "entities": [
+        [
+          "Casino Welcome Bonus",
+          10
+        ],
+        [
+          "First Deposit",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Casino Welcome Bonus",
+          "requires",
+          "a first qualifying deposit of €50 and activation in My Bonuses",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.wagering_requirement"
+      ],
+      "notes": "Strictly the Brand Information: the Casino Welcome Bonus is a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins; the minimum first deposit is €50; wagering is 25x the deposit plus bonus amount; the bonus is activated in My Bonuses before placing any wager. Use the €50 minimum of the bonus; do NOT mention the general minimum deposit of €10. No terms that are not listed and no promises of winnings. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k02"
+      ]
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Account Access on a Phone: Registration and Login",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Mobile Security and Privacy Terms",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "extra": "Add with whom data may be shared and which rights the player has, as short lists inside the paragraph.",
+      "refs_add": [
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Fixing Common Mobile Problems Step by Step",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Support Channels for Mobile Players",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Mobile Handbook FAQ",
+      "words": 100,
+      "kw": {
+        "Longfu88": 2
+      },
+      "summary": "8 short questions and answers on the mobile version of the casino.",
+      "notes": "A bulleted list of 8 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) which phones work (Android, iOS and the mobile web of smartphones and tablets); (3) how the Android shortcut is added (open the casino website in Chrome, choose Add to Home screen in the browser menu, confirm the shortcut); (4) how the iOS shortcut is added (open the casino website in Safari, tap Share, choose Add to Home Screen, confirm Add); (5) what a player can do from a phone (casino, sportsbook, account access, deposits, withdrawals, bonuses); (6) whether the sportsbook is on the phone too (yes: the sportsbook is one of the features of the mobile website); (7) how a player logs in on a phone (with the registered e-mail and password, as on a computer); (8) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "refs_add": [
+        "brandinfo_app.app_information.android_installation",
+        "brandinfo_app.app_information.ios_installation",
+        "brandinfo_app.app_information.features"
+      ],
+      "refs_drop": [
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

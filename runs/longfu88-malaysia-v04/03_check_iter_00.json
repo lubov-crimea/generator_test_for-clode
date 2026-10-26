@@ -1,0 +1,92 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2705,
+    "target_body_words": 2667,
+    "keywords_total": {
+      "Longfu88": 17,
+      "Longfu 88": 1,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [
+      {
+        "check": "consistency",
+        "problem": "The block opens with the same pattern as b03 and b05 ('Longfu88' + verb about payment methods). Repeated openings across neighbouring blocks.",
+        "fix": "Open b04 with the withdrawal topic itself (for example 'Pengeluaran boleh dibuat melalui ...') and keep the keyword Longfu88 exactly once later in the first paragraph."
+      }
+    ],
+    "b05": [
+      {
+        "check": "consistency",
+        "problem": "The block opens with 'Longfu88 boleh meminta ...', the same opening pattern as b03 and b04.",
+        "fix": "Start with the verification triggers as subject (for example 'Pengesahan KYC boleh diminta ...') and put Longfu88 once in the second sentence or in the list lead-in, keeping the count at exactly one."
+      }
+    ],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "'Tiga bonus sukan wang tunai' suggests cash bonuses, which the facts do not say.",
+        "fix": "Replace with a neutral lead-in such as 'Tiga bonus sukan utama dibandingkan di bawah.'; keep all figures and keywords unchanged."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [
+      {
+        "check": "consistency",
+        "problem": "'tanpa menukar bahasa halaman' is a claim about the website language that is not in the Brand Information.",
+        "fix": "Remove that clause and end the sentence after 'boleh berurusan dalam bahasa Melayu'; keep the block at or above 70 words by keeping the other sentences."
+      }
+    ],
+    "b17": [],
+    "b18": [],
+    "b19": [
+      {
+        "check": "consistency",
+        "problem": "The block opens with 'Longfu88 sesuai ...' like several earlier blocks (b14 'Longfu88 dilancarkan', b03-b05).",
+        "fix": "Open with the player type and put Longfu88 in the same sentence as the subject later in it (for example 'Bagi pemain yang mahukan ... , Longfu88 menyatukan ...'); keep Longfu exactly once and Longfu88 exactly once."
+      }
+    ]
+  },
+  "missing_data": []
+}

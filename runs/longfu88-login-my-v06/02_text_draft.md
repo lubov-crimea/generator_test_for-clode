@@ -1,0 +1,72 @@
+# Longfu88 Casino Login: Secure Access to Your Account
+
+Longfu88 gives each player an account that is opened with the e-mail address and the password chosen at registration, and the same two details open the login screen later. The casino accepts players aged 18 or over, and this page is written for players from Malaysia. It covers the sign-in steps, password reset, blocked access, account protection, verification documents, registration and support.
+
+## Signing In Safely
+
+A Longfu login needs two details only, the registered e-mail address and the password, and it runs in three steps:
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password on the login screen.
+3. Complete any security check and access the account.
+
+The security check comes before access, so the account opens only once any such check is passed, and the e-mail and password remain the only login details.
+
+### Replacing a Lost Password
+
+A player who forgot the password can set a new one through the e-mail address used at registration, in three steps:
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+A player who no longer reaches that mailbox should contact support.
+
+### Spotting Why Access Is Blocked
+
+Failed logins often come from a typing detail: the e-mail address must match the registered one, and caps lock and the keyboard layout need checking. A lost password calls for the reset. The operator may suspend activity for verification or suspected abuse, and an account review can delay access until verification is complete. In that case support answers through live chat 24/7 and by e-mail.
+
+## What Protects the Account
+
+The account holder is responsible for safeguarding the login credentials, so the e-mail address and the password remain the player's own concern. On the operator's side, technical and organisational safeguards protect accounts, payments and personal information, and activity may be suspended for verification or suspected abuse. Personal data may be shared with payment service providers, identity verification providers, technology providers, and with regulators and law enforcement when required. Players also hold rights over this data: access, rectification, erasure where legally permitted, restriction, objection, portability where applicable and withdrawal of consent.
+
+## Why the Casino Asks for Documents
+
+Account verification is requested on four triggers: during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. It is not a step of the sign-in itself. The table lists the documents that count for each purpose.
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card or driving licence |
+| Address | Utility bill or bank statement |
+| Payment method | Bank or card ownership evidence, or digital wallet ownership evidence |
+| Source of funds (only when requested) | Proof of income, bank statements or other supporting financial documents |
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.
+
+## Registration Details and Eligibility
+
+The Longfu88 register process uses e-mail registration, the only method given, and takes five steps in a fixed order:
+
+1. Open the website and select Register.
+2. Enter e-mail and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested e-mail confirmation.
+
+Registration requires e-mail, password, legal name, date of birth and residential address. Eligibility means age 18+ and legal gambling age in the relevant jurisdiction, and each player may hold only one personal account, so a second profile for the same player is not allowed.
+
+## The Welcome Offer in Brief
+
+A new account can claim the Casino Welcome Bonus, a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins. The minimum first deposit is €50, and wagering is 25x the deposit plus bonus amount. Claiming takes four steps: register and complete the personal details, make the first qualifying deposit, activate the bonus in My Bonuses before any wager, then play eligible games and complete the wagering.
+
+## Who to Contact
+
+Customer support answers account, login and verification questions through 24/7 live chat and by e-mail at support@longfu88.com. A failed login, a reset e-mail that does not arrive and a document upload problem all belong there. Support is available in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.
+
+## Account Safety Questions
+
+- **How does a player log in?** The Longfu88 casino login takes the registered e-mail and password, followed by any security check.
+- **How long does verification take?** A complete set of documents is normally reviewed within up to 10 days.
+- **Which identity document is accepted?** A passport, a national identity card or a driving licence.
+- **May a player hold more than one account?** No, each player may hold one personal account only.
+- **Where should a player turn if the login still fails?** Customer support at Longfu88 answers through live chat 24/7 and by e-mail.

@@ -1,0 +1,60 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2404,
+    "max_body_words": 3053,
+    "target_body_words": 2476,
+    "keywords_total": {
+      "Longfu88": 20,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 20,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "The last sentence says the daily rebate follows live play 'instead of waiting for a weekly result'. The Brand Information gives no period for the Live Casino Cashback, so the contrast with a weekly result is an unsupported inference.",
+        "fix": "Keep the rebate sentence to the facts: 1.0%, credited daily. Remove the comparison with a weekly result."
+      }
+    ],
+    "b12": [],
+    "b13": [],
+    "b14": [
+      {
+        "check": "consistency",
+        "problem": "The closing sentence adds 'wagered once before it can be withdrawn'. The Brand Information states only 1x wagering on the credited rebate and says nothing about withdrawal for rebates, so this is an unsupported inference.",
+        "fix": "State only that the rebate is credited daily to the rewards balance and carries 1x wagering on the credited rebate, without the withdrawal consequence."
+      }
+    ],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,8 @@
+The cashier is part of the mobile website, so a deposit is made in the same browser where the player already plays or bets. Four methods accept Singapore dollars: PayNow, PayNow QR, DBS Bank and OCBC Bank. Each lists a deposit speed of 1–2 minutes, so the choice comes down to which banking route the player already uses.
+
+| Method | Currency | Deposit speed |
+|---|---|---|
+| PayNow | SGD | 1–2 minutes |
+| PayNow QR | SGD | 1–2 minutes |
+| DBS Bank | SGD | 1–2 minutes |
+| OCBC Bank | SGD | 1–2 minutes |

@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "VIP",
+    "competitors": 4,
+    "count": 21
+  },
+  {
+    "entity": "USDT",
+    "competitors": 4,
+    "count": 11
+  },
+  {
+    "entity": "Olympus",
+    "competitors": 4,
+    "count": 7
+  },
+  {
+    "entity": "Free Spins",
+    "competitors": 4,
+    "count": 6
+  },
+  {
+    "entity": "Sweet Bonanza",
+    "competitors": 4,
+    "count": 5
+  },
+  {
+    "entity": "Gates",
+    "competitors": 4,
+    "count": 5
+  },
+  {
+    "entity": "Megaways",
+    "competitors": 4,
+    "count": 5
+  },
+  {
+    "entity": "MYR",
+    "competitors": 3,
+    "count": 30
+  },
+  {
+    "entity": "Malaysia",
+    "competitors": 3,
+    "count": 17
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 3,
+    "count": 14
+  },
+  {
+    "entity": "DuitNow",
+    "competitors": 3,
+    "count": 10
+  },
+  {
+    "entity": "Bitcoin",
+    "competitors": 3,
+    "count": 9
+  },
+  {
+    "entity": "Baccarat",
+    "competitors": 3,
+    "count": 8
+  },
+  {
+    "entity": "GrabPay",
+    "competitors": 3,
+    "count": 8
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 3,
+    "count": 5
+  },
+  {
+    "entity": "Diamond",
+    "competitors": 3,
+    "count": 5
+  },
+  {
+    "entity": "Visa",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "SSL",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "Asian",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Sic Bo",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Dota 2",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Gambling Therapy",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Wallet",
+    "competitors": 2,
+    "count": 9
+  },
+  {
+    "entity": "Touch",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "MYR 2",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Singapore",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Live Casino",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Register",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Hacksaw Gaming",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Cardano",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Bank Transfer",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "RTP",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Android",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Roulette",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Malaysian",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Gold",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "KYC",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Blackjack",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Neteller",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Skrill",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Evolution",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Crazy Time",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Online Banking",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Tether",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "RNG",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Silver",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Platinum",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Bronze",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "MYR 1",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "MYR 30",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Casino Games",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Customer Support",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Lottery",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Payment Methods",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Starburst",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Minimum Deposit",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Live Chat",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Responsible Gambling Tools",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Gaming",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Dog House Megaways",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Asia",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "HTML5",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "RHB",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Public Bank",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "THB",
+    "competitors": 1,
+    "count": 26
+  },
+  {
+    "entity": "No Fees",
+    "competitors": 1,
+    "count": 10
+  },
+  {
+    "entity": "Evolution Gaming",
+    "competitors": 1,
+    "count": 6
+  },
+  {
+    "entity": "SABA Sports",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "NetEnt",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "FPX",
+    "competitors": 1,
+    "count": 5
+  },
+  {
+    "entity": "EUR",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Kasino Langsung",
+    "competitors": 1,
+    "count": 4
+  },
+  {
+    "entity": "Welcome Bonus",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Äôs",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Top",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Opt",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Dead",
+    "competitors": 1,
+    "count": 3
+  },
+  {
+    "entity": "Play'n GO",
+    "competitors": 1,
+    "count": 3
+  }
+]

@@ -1,0 +1,145 @@
+# Longfu88 App Reference: Mobile Casino Facts for Singapore
+
+Longfu88 is a responsive site, which Android and iOS handsets and tablets open in a browser. Searches for the Longfu app end at this site, which offers a home-screen shortcut instead of a store download. The Longfu88 mobile casino lives in the browser. Below, the sections serve Singapore players who are 18 or over and run from the shortcut to registration, cash-outs, safety, sports, currencies and support.
+
+## Mobile Features Reference
+
+Phone and tablet users find that Longfu88 resizes itself to their screens, and the same pages cover casino games, sports betting, the account, deposits, withdrawals and bonuses. The table pairs each area with the action a player takes there.
+
+| Area | Player action |
+|---|---|
+| Casino | Browse the game categories |
+| Sportsbook | Bet on the listed sports |
+| Account access | Sign in to a personal account |
+| Deposits | Fund the balance in the cashier |
+| Withdrawals | Ask the cashier for a payout |
+| Bonuses | See which bonus offers exist |
+
+## Longfu88 Download Reference: Shortcut, Not a File
+
+Opening Longfu88 on a smartphone or tablet needs nothing beyond the browser, and the single setup step is a home-screen shortcut created once. There is no installation file, no Longfu88 apk and no store listing, because the casino site opens straight from the mobile browser and the shortcut only points to it. Chrome on Android and Safari on iOS each get a sub-section below.
+
+### Longfu88 Android: Chrome Reference
+
+Chrome lets an Android phone or tablet keep an icon for the casino site on its home screen, and three steps are enough.
+
+1. Visit the casino website using Chrome.
+2. From the browser menu, the option to pick is Add to Home screen.
+3. Accept the shortcut when it is offered.
+
+Once added, the icon sits among the phone's apps.
+
+### Longfu88 iOS: Safari Reference
+
+Safari handles the same job on iPhone and iPad by storing an icon for the casino site on the home screen.
+
+1. Start in Safari with the casino site open.
+2. Press Share, and after that Add to Home Screen.
+3. Confirm by tapping Add.
+
+Next to the other icons on the home screen, the casino icon now appears.
+
+## Home Screen Icon Versus Browser Tab
+
+Longfu88 can be reached from a phone by two routes: the icon of the home-screen shortcut and an ordinary browser tab. Both lead to one responsive website, so the account, the deposits, the withdrawals and the bonuses look identical either way. The shortcut asks for a one-time setup, and the tab asks for none. Phones used with the casino frequently fit the shortcut, and rarely used devices fit the tab.
+
+## Account Opening and Login Reference
+
+Five steps open an account on the website, and the login screen gives access afterwards.
+
+1. Select Register on the website.
+2. Type an e-mail and set a password.
+3. Tick the age box, and tick the Terms and Conditions as well as the Privacy Policy.
+4. Fill out date of birth, legal name and the address of residence.
+5. Press Create Account last, and complete any e-mail confirmation requested.
+
+A player may open one personal account only and must be 18 or more. The legal gambling age set by the relevant jurisdiction applies too.
+
+## Cash-Out Reference for Mobile Players
+
+Withdrawals run through the cashier on the mobile site, in six steps.
+
+1. Log in, then open the cashier.
+2. Go to Withdrawal and pick where the money should land, among the supported destinations and payment methods.
+3. Type the amount and name the receiving wallet, blockchain address or bank.
+4. Finish identity and payment-method verification when it is prompted.
+5. Check the request and submit it.
+6. Wait for the casino to process it and for the bank or network to settle.
+
+The casino usually processes requests inside three working days, and settlement of a bank transfer can add 3–5 business days. Before payments go out, KYC documents may be requested by the operator.
+
+## Account Security Reference
+
+Responsibility for safeguarding the login credentials rests with the account holder at Longfu88, whether the device is a phone, a tablet or anything else. A phone or tablet that is unlocked and logged in should not be passed to other people. Safeguards on the operator side, both technical and organisational, protect personal data as well as payments and accounts, and the casino may suspend activity during verification or when abuse is suspected.
+
+## Technical Data Reference
+
+A phone or tablet that opens the mobile website passes on technical data: the IP address, device details, browser information and cookies. Cookies fall into four types, namely preference, necessary, marketing and analytics, serving website functions and measurement. Regulators and law enforcement, where required, can receive the data as well, along with technology, identity verification and payment service providers.
+
+## Sportsbook Reference
+
+Sports betting is one of the things the mobile website offers, and the sportsbook lists nine sports:
+
+- Esports
+- Cricket
+- Badminton
+- Football
+- Virtual football
+- Tennis
+- Table tennis
+- Basketball
+- Volleyball
+
+The sportsbook also covers live betting, which brings in-play markets (markets that stay open for betting while the match is being played) together with live odds.
+
+## Game Category Reference
+
+The games in the casino section of the mobile website are sorted into nine categories, which are listed below, and a player selects a category to see the games it holds.
+
+- Slots
+- Lottery
+- Live dealer games
+- Fishing
+- Jackpots
+- Crash & instant games
+- Table games
+- Fast games
+- P2P games
+
+## Deposit Method Reference
+
+The mobile site's cashier handles deposits, reached from the phone browser or from the home-screen shortcut. Three options are listed, PayNow, PayNow QR and DBS Bank, and each works in Singapore dollars.
+
+| Method | Deposit time | Currency |
+|---|---|---|
+| DBS Bank | 1–2 minutes | SGD |
+| PayNow QR | 1–2 minutes | SGD |
+| PayNow | 1–2 minutes | SGD |
+
+Currency (SGD) and deposit time (1–2 minutes) are the same in all three rows, which means the methods do not differ in speed.
+
+## Currency and Language Reference
+
+Accepted currencies number six: SGD, USD, EUR, MYR, THB and USDT. SGD is the Singapore dollar listed for every method in the deposit table above. Support answers in six languages, Thai, Vietnamese, English, Malay, Indonesian and Simplified Chinese, and takes contact through live chat as well as e-mail.
+
+## Problem and Fix Reference
+
+Longfu88 on a phone can run into four typical problems, and each has a short remedy:
+
+- Shortcut missing: add it again, using the Android steps in Chrome or the iOS steps in Safari.
+- Page not loading: refresh it and verify the internet connection.
+- Login failing: recheck the typed e-mail address, then pick Forgot Password, found on the login screen.
+- Anything else goes to customer support, which answers e-mail and runs a live chat day and night.
+
+## Support Reference
+
+Customer support handles mobile and account questions in the live chat, open at any hour, or via support@longfu88.com. A missing shortcut, a page that fails to load, trouble logging in or questions about documents all fall within its remit. Languages offered are Simplified Chinese, English, Malay, Vietnamese, Indonesian and Thai.
+
+## Reference FAQ
+
+- **Is there a downloadable app in a store?** No. Longfu88 is used in the browser, with its shortcut sitting on the home screen.
+- **Which devices can open it?** Android phones, iPhones and any other smartphone or tablet with a mobile browser.
+- **Is making the shortcut mandatory?** No, a plain browser tab opens the same website.
+- **How is an account created on a phone?** Through the registration form on the Longfu88 site, which requires an e-mail address.
+- **Which languages can support answer in?** Simplified Chinese, Thai, English, Malay, Vietnamese and Indonesian.
+- **Who helps when something fails?** Customer support, via e-mail or the live chat that never closes.

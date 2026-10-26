@@ -1,0 +1,8 @@
+Deposits are handled by the cashier inside the mobile website, so the browser already used for games and bets also serves for paying in. Four methods accept Singapore dollars, and the table below lists each of them. All four need 1–2 minutes for a deposit, so the deciding factor is simply whichever banking route a player has on hand.
+
+| Method | Currency | Time to deposit |
+|---|---|---|
+| OCBC Bank | SGD (Singapore dollars) | 1–2 min |
+| PayNow | SGD (Singapore dollars) | 1–2 min |
+| DBS Bank | SGD (Singapore dollars) | 1–2 min |
+| PayNow QR | SGD (Singapore dollars) | 1–2 min |

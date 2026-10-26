@@ -1,0 +1,9 @@
+Registration takes five steps on the website, and the login screen gives access afterwards.
+
+1. Open the website and select Register.
+2. Enter an e-mail address and create a password.
+3. Confirm age and acceptance of the Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested e-mail confirmation.
+
+The registration form asks for e-mail, password, legal name, date of birth and residential address. Players must be 18 or over and of legal gambling age in the relevant jurisdiction, with one personal account each.

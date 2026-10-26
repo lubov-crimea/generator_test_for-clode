@@ -1,0 +1,168 @@
+{
+  "id": "v02",
+  "name": "Register first, offer-led (small)",
+  "tier": "small",
+  "angle": "A newcomer who needs the account, the welcome offer and the phone access.",
+  "skipped_clusters": [
+    {
+      "id": "k05",
+      "reason": "the short text keeps the account entry (registration, login, the welcome offer) and leaves the verification and security block to the longer texts of the site"
+    }
+  ],
+  "intent_summary": "Short brand-subpage for the small size group: a newcomer to Longfu88 in Singapore opens the account, sees what the welcome offer asks for, logs in, uses the site on a phone and knows the currency and one-account rules. Page voice: a patient guide in plain \"first, then\" order, sentences of about 15 words, one plain invitation to register. The welcome offer is covered in more detail than in the other short texts. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Account Guide: Open, Log In and Start Playing",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(registration, the welcome offer, login, mobile access, currencies)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Open the Account First",
+      "words": 140,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "extra": "One plain invitation to register is allowed here."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "A Welcome Offer for New Accounts",
+      "words": 135,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "Do not add terms that are not listed (validity, limits, exclusions are described elsewhere).",
+          "Do not add terms that are not listed."
+        ]
+      ],
+      "extra": "Add the validity of the offer, its wagering on the free spins and the maximum bet while the bonus is active: facts of the Brand Information only.",
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_welcome.welcome_bonus.maximum_bet"
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Login on the Website",
+      "words": 105,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 1
+      },
+      "edit": [
+        [
+          "Do not explain password reset here (next sub-section).",
+          "Do not explain password reset here."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Mobile Access in the Browser",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Currencies and the One-Account Rule",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Beginner FAQ",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) which details registration asks for (e-mail, password, legal name, date of birth, residential address); (2) how to log in (with the registered e-mail and password, as the page explains); (3) whether a player may hold more than one account (no: one personal account per player); (4) when the welcome bonus can be claimed (after registration, on the first qualifying deposit of at least €50); (5) whether a player can log in from a phone (yes, in the browser of a smartphone or tablet; a home-screen shortcut is possible); (6) which currencies an account can use (EUR, USD, MYR, THB, SGD and USDT). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_account.registration.required_details",
+        "brandinfo_account.registration.eligibility[1]",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_general.currencies"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.password_recovery[1]",
+        "brandinfo_account.verification.typical_review_time",
+        "brandinfo_general.minimum_age",
+        "brandinfo_general.customer_support.channels"
+      ]
+    }
+  ]
+}

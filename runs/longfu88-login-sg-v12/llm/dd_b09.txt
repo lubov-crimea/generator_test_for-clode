@@ -1,0 +1,6 @@
+Phone use goes through the browser. Longfu88 runs as a responsive website adjusting to smartphone and tablet screens, so signing in from a handset takes the same registered e-mail and password as on a desktop. A home-screen shortcut is the extra: it places the site beside the other icons, and each platform has its own route:
+
+- Android: Chrome opens the site, then the browser menu lists Add to Home screen as an entry, and approving the shortcut completes the setup.
+- iOS: Safari opens the site, Share gets tapped, then the entry named Add to Home Screen is selected and Add confirms it.
+
+Both routes lead to the same website that the browser opens.

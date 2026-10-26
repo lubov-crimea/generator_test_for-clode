@@ -1,0 +1,13 @@
+=== b05 ===
+A new account at VegasHunter can be opened in three ways: with an e-mail address and password, with a Google account, or through Fast Track registration. Whichever route is chosen, the process follows the same five steps:
+
+1. Choose Sign Up.
+2. Select e-mail, Google or Fast Track registration.
+3. Fill in the fields that the chosen method asks for.
+4. Confirm legal age and acceptance of the casino policies.
+5. Submit the registration and access the account.
+
+E-mail registration needs an address and a password, and every route includes the age confirmation. The casino allows one personal account per player, and only eligible adult residents of countries where gambling is permitted may register at VegasHunter, so local rules are worth checking first. The VegasHunter casino login uses the same details: the registered e-mail and password, or the Google account when the player signed up through Google. A player who forgets the password goes through the reset flow and confirms ownership of the registered e-mail.
+
+=== b06 ===
+Identity checks become mandatory at defined points. VegasHunter asks for verification when cumulative deposits or cumulative withdrawals reach NZ$2,000 equivalent, when two or more payment systems have been used, and when the casino starts a security or fraud check of its own. A typical request covers a photo of a valid identity document and proof of the payment method used for the deposit, except for crypto. Proof of address, a selfie holding the document or records of the source of funds can follow when requested. Full KYC information has to arrive within 40 days of the request, because missing documents can lead to confiscation of winnings. A player who cannot be reached for two weeks after a withdrawal request may also see the account locked.

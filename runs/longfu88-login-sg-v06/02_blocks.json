@@ -1,0 +1,365 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino Login Help: Fix Access Problems",
+      "text": "At Longfu88, getting into an account takes just two details, the e-mail given when signing up and the password set then. The text is meant for adult readers in Singapore, because the minimum age at the casino is 18. Its order runs from the ordinary login route and the common failure causes to the password reset, document checks, the pause before a first payout and credential safety. Registration for newcomers and the support options come last, so anyone locked out can locate the fix that matches the problem.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "intro-diversify",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "The Normal Login Route",
+      "text": "Entry to the account works through a single method, a registered e-mail paired with its password. The Longfu login is a sequence of three steps, with the security check placed last, so the order matters. At Longfu88 the player starts from the sign-in screen, and the Longfu88 login is finished only once any security check the site may show has been passed. Once that happens, the account can be used as normal. The sequence is:\n\n1. Open the Login option of the site.\n2. Key in the e-mail on file together with its password.\n3. Clear the security check where one appears, and the account is ready.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b03": {
+      "id": "b03",
+      "level": 2,
+      "heading": "Common Reasons for a Failed Login",
+      "text": "Small input slips cause most failed logins. The registered e-mail has to be entered exactly as it was saved, and the keyboard layout plus caps lock are worth a check because passwords usually distinguish upper and lower case. A lost password calls for a reset link delivered to the mailbox linked to the account, which the next section covers. The casino can also be the reason: Longfu88 is allowed to pause activity while it verifies an account or investigates suspected abuse, and a reviewed account may remain inaccessible until that work ends. Long inactivity can lead to a review or closure as well, under the applicable terms. For either situation, support is reached through live chat that runs around the clock, or through e-mail, and it is the place to ask where a held account stands.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b04": {
+      "id": "b04",
+      "level": 2,
+      "heading": "Reset the Password",
+      "text": "Passwords that have been forgotten are recovered via the e-mail address used for registration, and Longfu88 keeps the procedure to three steps, the first of which happens on the login screen. Without access to that mailbox, a player has to approach support, as links go out to the registered address alone, and the contacts are listed in the support section. The steps:\n\n1. On the login screen, select Forgot Password.\n2. Request the link by typing in the registered e-mail.\n3. Check the mailbox, read the e-mail and set a fresh password as instructed.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Verification Checks and Held Accounts",
+      "text": "Longfu88 does not ask for documents at every login, only on specific occasions: during an account review, ahead of a withdrawal, for transactions seen as unusual or high-value, and after an alteration of the account data or the payment data. The evidence that counts varies with the check:\n\n- A national ID card, a passport or a driving licence proves identity.\n- Where the player lives is evidenced by a bank statement, or by a utility bill if that suits better.\n- Ownership of the payment method is shown by bank or card evidence, or by wallet evidence in the case of digital wallets.\n- Source-of-funds checks accept income proof, bank statements or similar supporting financial documents, though only when requested.\n\nDocuments must arrive within 30 days of being requested, and holding them back until the final day brings no advantage. Going through a full set of papers takes up to 10 days as a rule. Until that ends, an account being checked may remain on hold, which can delay access.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Why the First Payout Waits for Checks",
+      "text": "A first withdrawal is when an account runs into its checks. Before money can leave the account, identity checks and payment checks may be needed, and Longfu88 is entitled to hold a payout while it confirms who the player is, whom the payment method belongs to and, if needed, where the money comes from. A player who has not yet supplied the requested documents may notice the hold at the cashier instead of at the login screen.\n\nProcessing of withdrawal requests usually completes within three working days. That period is a general guide rather than a guarantee for each individual payment. Payment methods that belong to third parties are not accepted, so the one used must be owned by the player. Failed checks can end in a declined transaction, restrictions on the account or withdrawals that stay withheld until the player complies.",
+      "version": 7,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Keeping Credentials Safe",
+      "text": "The account holder answers for the safety of the login credentials, which means the e-mail on file and the password that goes with it. With only these two details guarding the account, a password that was shared or lost ought to be replaced through the reset covered earlier.\n\nThe operator carries a share too. Longfu88 secures personal data, payments and accounts through technical and organisational safeguards, and it may halt activity while a verification takes place or when abuse is suspected. A suspension is therefore a job for support, since a new password does not lift it.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "Inactivity, Complaints and Rule Changes",
+      "text": "Three rules in the account terms can restrict access even when nothing goes wrong at the login screen. First, long inactivity may lead to a review or closure of the account under the applicable terms, so a rarely used account benefits from an occasional visit. Second, disagreement with a dispute or account decision is taken to customer support with a request for a review. Third, promotional and contractual terms can be changed by Longfu88, with the updates published on the site, which makes checking the terms now and then a sensible habit.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "No Account Yet? Longfu88 Register",
+      "text": "Longfu88 offers e-mail as its only registration method, and five stages complete it:\n\n1. Head to the site and press Register.\n2. Provide the player's e-mail together with a chosen password.\n3. The player first confirms age and then gives consent to the Privacy Policy plus the Terms and Conditions.\n4. Residential address and further personal details are entered.\n5. The final move is Create Account, followed by whatever e-mail confirmation the site asks for.\n\nRegistration collects five items. Among them are the date of birth, residential address and legal name, besides e-mail and password. Eighteen is the lowest age accepted, and registrants must also have reached the gambling age legal in their own jurisdiction. Each player gets one personal account only. For that reason, a returning player who forgot the password should go through the reset route rather than register a second time.",
+      "version": 12,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b10": {
+      "id": "b10",
+      "level": 2,
+      "heading": "Contact the Support Team",
+      "text": "Customer support deals with account, login and verification matters. The chat is staffed around the clock, and written enquiries go to support@longfu88.com. Typical cases include a login that keeps failing, a reset link that does not come through, or a document waiting to be uploaded. Six languages are covered: Malay, English, Thai, Vietnamese, Indonesian and Simplified Chinese, and the player can choose the most convenient one.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b11": {
+      "id": "b11",
+      "level": 2,
+      "heading": "Common Login Questions",
+      "text": "- **How does access to Longfu88 work?** By entering the e-mail on file and the matching password at the login screen.\n- **What is done about a lost password?** The link comes after a request made with the e-mail on file, and the message carrying it explains how to pick a new password.\n- **What counts as proof of identity?** Any of three: driving licence, national ID card or passport.\n- **How long does a verification review last?** A full document set is normally checked within 10 days at most.\n- **What is the age requirement?** Eighteen, with the additional condition that gambling must be legal for the player where he or she lives.\n- **Where to turn when login keeps failing?** Customer support, via its 24/7 chat or via e-mail.\n- **What may follow long inactivity?** A review of the account or its closure under the terms.",
+      "version": 11,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    }
+  }
+}

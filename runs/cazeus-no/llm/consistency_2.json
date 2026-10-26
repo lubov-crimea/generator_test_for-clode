@@ -1,0 +1,12 @@
+{
+ "issues": [
+  {
+   "block_id": "b11",
+   "problem": "Unsupported claims about how the registration works: step 3 says 'slik at riktig tilbud følger kontoen fra start' and the paragraph says that the details 'sammenlignes med dokumentene i den senere verifiseringen'. Neither is stated in the brand information of the block.",
+   "fix": "Step 3 of the list: keep only that the account type and the wanted welcome bonus are chosen, without the clause about the offer following the account. In the paragraph replace the sentence that the details are compared with the documents by a neutral practical sentence that correct personal details matter because verification is described further below. Keep 'Cazeus' exactly twice (step 1 and the login passage), the six numbered steps, the list of requested personal data, the choice of the welcome package and the password recovery, and stay in the 142-182 word range."
+  }
+ ],
+ "missing_data": [
+  {"block_id": "b02", "note": "No data for the languages of the website and of customer support: the Languages row says that they are not specified."}
+ ]
+}

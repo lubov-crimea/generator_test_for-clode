@@ -1,0 +1,468 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 App Rules and Payments: Mobile Casino for Singapore Players",
+      "text": "Longfu88 is used on phones and tablets through a responsive website. On Android and iOS, Longfu88 mobile casino access means opening the regular site in the phone's browser. Anyone searching for a Longfu app finds a regular website plus a shortcut icon on the home screen, and no store listing. Longfu88 registration is limited to adults aged 18 and above, and the text targets Singapore. Sections below cover the shortcut, eligibility, currencies, sports, payments, withdrawals, devices, sign-in and support.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "intro-diversify",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Longfu88 Download: The Home Screen Route",
+      "text": "Longfu88 is reached from the browser on a smartphone or tablet. A shortcut icon gets placed on the home screen once, and it stays beside the other icons afterwards. Since the casino is a website, no file has to be installed and no Longfu88 apk is needed, and the icon is merely a link to the site. Separate steps follow for Chrome on Android and for Safari on iOS.",
+      "version": 4,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b03": {
+      "id": "b03",
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Menu Steps",
+      "text": "Chrome on an Android phone creates the shortcut in three stages:\n\n1. Visit the casino website in Chrome.\n2. Pick the Add to Home screen item from the Chrome menu.\n3. Accept the prompt to add it.\n\nAn icon for the site then appears next to the phone's other icons.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b04": {
+      "id": "b04",
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Share Steps",
+      "text": "The Share menu in Safari is the route to a shortcut on the iPhone or iPad home screen:\n\n1. Visit the casino in the Safari browser.\n2. Press Share and look for Add to Home Screen.\n3. Complete the process with Add.\n\nAfterward the home screen holds the new icon next to the other items.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Mobile Features at a Glance",
+      "text": "Longfu88 adapts its layout to phone and tablet browsers, so a single page structure covers every part of the casino. Six areas are reachable from one account, as the table shows.\n\n| Area | Use on a phone |\n|---|---|\n| Casino | Playing casino games on the phone |\n| Sportsbook | Placing sports bets, including live bets |\n| Account access | Registering and logging in |\n| Deposits | Funding the account via the cashier |\n| Withdrawals | Requesting a payout through the cashier |\n| Bonuses | Viewing and activating current offers |",
+      "version": 2,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Who Can Play from a Phone",
+      "text": "Age, residence and account rules apply before anyone plays from a phone. The terms set two conditions: an age of at least 18, and legal permission to gamble wherever the player resides. Three account rules apply as well:\n\n- Give accurate details when registering.\n- One personal account per player.\n- Payment methods must not belong to a third party.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Currencies and Support Languages",
+      "text": "Six currencies are supported: SGD, MYR, USD, EUR, THB and USDT. SGD, the Singapore dollar, is the one used by the payment methods shown later on this page. Customer support operates in Thai, Malay, English, Vietnamese, Simplified Chinese and Indonesian, so a question can be asked in whichever of these suits the player.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "Sports Betting Rules on Mobile",
+      "text": "The mobile website includes a sportsbook, and its coverage spans nine sports:\n\n- Basketball\n- Esports\n- Cricket\n- Tennis\n- Table tennis\n- Football\n- Virtual football\n- Volleyball\n- Badminton\n\nSingle and accumulator bets sit alongside handicap, totals, outrights, live and Bet Builder wagers. Live betting adds odds that update live and markets open in-play, so a bet can still be placed once an event has started. Availability of events and markets can differ by jurisdiction.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "Which Game Categories the Casino Section Offers",
+      "text": "Nine categories organise the games in the mobile casino, which lets a player pick a type before choosing a title. The categories are:\n\n- Fishing\n- Slots\n- Lottery\n- Crash and instant games\n- Live dealer games\n- P2P games\n- Jackpots\n- Fast games\n- Table games\n\nThe cashback and reload section lower on the page describes the ongoing bonuses for casino play.",
+      "version": 4,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b10": {
+      "id": "b10",
+      "level": 2,
+      "heading": "Cashback and Reload Offers for Mobile Players",
+      "text": "Every week the Casino Weekly Cashback gives back a portion of net casino losses, to a maximum of 10%, and €6,988 is the upper limit. Joining requires an opt-in, valid for one four-week cycle, and an account that stays active may renew itself automatically. A separate deposit offer, the Casino Weekend Reload, has a ceiling of €3,360 along with 50 Free Spins. The minimum deposit for it is €50, so smaller deposits do not count. My Bonuses is where both offers get activated.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b11": {
+      "id": "b11",
+      "level": 2,
+      "heading": "Payment Methods for Singapore Players",
+      "text": "Inside the mobile website is the cashier, so deposits are made without leaving the phone browser that opens the casino. Singapore players get four methods in Singapore dollars, made up of two PayNow routes and two banks, all with one deposit speed.\n\n| Detail | OCBC Bank | DBS Bank | PayNow QR | PayNow |\n|---|---|---|---|---|\n| Currency | SGD | SGD | SGD | SGD |\n| Deposit speed | 1–2 minutes | 1–2 minutes | 1–2 minutes | 1–2 minutes |\n\nWhichever of OCBC Bank, DBS Bank, PayNow QR or PayNow is used, the waiting time stays the same.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b12": {
+      "id": "b12",
+      "level": 2,
+      "heading": "Taking Money Out from a Mobile Account",
+      "text": "Cashing out begins in the cashier on the phone site, and six steps follow the login:\n\n1. Sign in, then go to the cashier.\n2. In Withdrawal, select a supported payment method as the destination.\n3. Specify the amount and the receiving wallet, bank or blockchain address.\n4. Identity verification and payment-method verification follow when requested.\n5. Review the details, then submit.\n6. The player gets the money once the casino has finished with the request and any bank or network involved has settled it.\n\nRequests normally finish within three working days, though bank transfers can take a further 3–5 business days to settle. KYC documents can be requested by the operator before processing.",
+      "version": 10,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Open b12 with a different sentence, for example one on the withdrawal request itself, keeping the six steps, the processing times and the KYC sentence unchanged."
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b13": {
+      "id": "b13",
+      "level": 2,
+      "heading": "Phones and Browsers That Work",
+      "text": "Three platforms are listed by Longfu88: mobile web, Android and iOS. Smartphone and tablet screens both get an adapted layout, which lets a single website serve devices of different size. Chrome serves the Android route, Safari the iOS one. Everything happens in the browser, so no installation is needed.",
+      "version": 4,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b14": {
+      "id": "b14",
+      "level": 2,
+      "heading": "Signing In from a Phone",
+      "text": "Longfu88 registration is by e-mail only. First the form wants a password with its e-mail, then a legal name, then a date of birth together with a residential address. Logging in on a phone follows the desktop pattern: Login is selected on the website, and the account opens with the credentials set at registration, e-mail plus password. Anyone who has lost the password can choose Forgot Password at login.",
+      "version": 11,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b15": {
+      "id": "b15",
+      "level": 2,
+      "heading": "Support for Players on the Go",
+      "text": "Customer support covers mobile and account questions, with live chat running around the clock and support@longfu88.com as the e-mail address. Replies come in Simplified Chinese, English, Indonesian, Malay, Vietnamese and Thai. Common topics for phone players are a shortcut that fails to appear, a site that refuses to open, difficulty logging in and documents that the operator asks for.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b16": {
+      "id": "b16",
+      "level": 2,
+      "heading": "Rules and Payments FAQ",
+      "text": "- **Does a store app exist?** No. Longfu88 loads in the browser, and only a shortcut is added to the phone's home screen.\n- **Which devices can be used?** Phones and tablets on Android or iOS, using the mobile web.\n- **Is there an age limit?** Yes, 18, and gambling has to be legal wherever the player resides.\n- **Which languages does support use?** Malay, Simplified Chinese and English, along with Vietnamese, Thai and Indonesian.\n- **Can sports be bet on from a phone?** Yes, the Longfu88 mobile website includes the sportsbook.\n- **Who can be contacted about a problem?** Customer support: the live chat never closes (24/7), and an e-mail address is there as well.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    }
+  }
+}

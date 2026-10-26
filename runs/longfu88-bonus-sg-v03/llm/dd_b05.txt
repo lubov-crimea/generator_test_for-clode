@@ -1,0 +1,6 @@
+Longfu88 runs two cashback offers. The Casino Weekly Cashback returns a share of each week's net casino losses, at most 10%. Its maximum is €6,988, and the smallest payout is €4.5. Weeks run Monday 00:00 to Sunday 23:59 UTC. A four-week cycle starts with an opt-in. Withdrawal needs 10x wagering on the cashback, counted on real-money casino bets only. Bonus funds do not count. The second offer is the Live Casino Cashback with 25%, to a ceiling of €850. It needs an opt-in, then activation in My Bonuses. Wagering on its credited cashback is 10x. Rate and ceiling follow VIP level:
+
+| Measure | VIP Bronze | VIP Silver | VIP Gold | VIP Platinum | VIP Diamond |
+|---|---|---|---|---|---|
+| Cashback | 2% | 4% | 6% | 8% | 10% |
+| Maximum | €1,888 | €2,388 | €2,988 | €3,988 | €6,988 |

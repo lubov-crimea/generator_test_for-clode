@@ -1,0 +1,5 @@
+The route back into the account is short and uses a single method, e-mail and password, so the Longfu88 login is completed in three steps. Longfu88 asks for both on the login screen, and any security check that is requested comes before access to the account is granted. The Longfu login is therefore the same for every registered player, and it needs nothing beyond what registration already produced.
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password.
+3. Complete any security check and access the account.

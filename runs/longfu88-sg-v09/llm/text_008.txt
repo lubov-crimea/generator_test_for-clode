@@ -1,0 +1,25 @@
+=== b10 ===
+Seven offers sit beside the welcome package.
+
+- **Casino Weekly Reload**: €30 minimum, 50 Free Spins, 40x on spin winnings, 7 days.
+- Crypto version: **Casino Weekly Crypto Reload**: 20 USDT minimum, 60% up to 1,000 USDT, 30x, 7 days.
+- **Casino Weekend Reload**: €50 minimum, up to €3,360 + 50 Free Spins, 30x plus 40x on spins, 7 days.
+- Crypto twin: **Casino Weekend Crypto Reload**: from 20 USDT, 75% up to 750 USDT + 100 Free Spins, 30x plus 40x, 7 days.
+- **Casino Double Fortune: One-Day Reload Special**: €30 minimum, 50% up to €500, 30x, 24 hours.
+- Seasonal: **Casino Trick or Treat Pumpkin Bonanza**: €20 minimum, up to 100 Free Spins, 40x, 7 days.
+- **Dragon Quest: Get Verified and Get Extra**: €20 minimum, €10 credit for verification, 30x, 7 days.
+
+Four rules apply to all seven: a single claim per promotional period, activation through My Bonuses, no combining with any other casino bonus in progress, and at most €5 staked per spin during wagering.
+
+=== b11 ===
+Net casino losses over one week, Monday to Sunday UTC, form the base, and up to 10% of them comes back. A single opt-in covers four weeks, and My Bonuses receives the credit on Monday with 10x wagering. Percentages depend on the player's VIP level:
+
+| Percent | Level | Ceiling |
+|---|---|---|
+| 2% | Bronze | €1,888 |
+| 4% | Silver | €2,388 |
+| 6% | Gold | €2,988 |
+| 8% | Platinum | €3,988 |
+| 10% | Diamond | €6,988 |
+
+Live Casino Cashback adds 25% up to €850. Daily rebates reach the rewards balance with 1x wagering: lottery 1.0%, P2P 0.8%, live casino 1.0%, casino 0.9%. Bonus-fund stakes earn nothing.

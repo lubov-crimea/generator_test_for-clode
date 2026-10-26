@@ -1,0 +1,920 @@
+{
+ "clusters": [
+  {
+   "topic": "Platform overview / about the casino",
+   "canonical_title": "About the Casino",
+   "member_ids": [
+    "c1h1",
+    "c1h17",
+    "c2h6",
+    "c2h7",
+    "c2h8",
+    "c2h28",
+    "c4h37",
+    "c5h12"
+   ]
+  },
+  {
+   "topic": "Games overview",
+   "canonical_title": "Games Overview",
+   "member_ids": [
+    "c1h2",
+    "c2h30",
+    "c3h20",
+    "c4h11",
+    "c5h9",
+    "c7h7",
+    "c7h9",
+    "c8h2",
+    "c8h13",
+    "c9h14",
+    "c9h32",
+    "c9h42"
+   ]
+  },
+  {
+   "topic": "Slots",
+   "canonical_title": "Slots",
+   "member_ids": [
+    "c1h3",
+    "c3h2",
+    "c4h2",
+    "c7h8",
+    "c7h19",
+    "c8h43",
+    "c9h43",
+    "c9h51"
+   ]
+  },
+  {
+   "topic": "Table games and video poker",
+   "canonical_title": "Table Games",
+   "member_ids": [
+    "c1h4",
+    "c4h3",
+    "c4h4",
+    "c4h9",
+    "c4h13",
+    "c4h14",
+    "c4h15",
+    "c4h26",
+    "c7h10",
+    "c9h4",
+    "c9h10",
+    "c9h22"
+   ]
+  },
+  {
+   "topic": "Live casino",
+   "canonical_title": "Live Casino",
+   "member_ids": [
+    "c1h5",
+    "c2h31",
+    "c3h3",
+    "c5h17",
+    "c8h42"
+   ]
+  },
+  {
+   "topic": "Fishing, P2P, fast and free games",
+   "canonical_title": "Instant and Specialty Games",
+   "member_ids": [
+    "c1h6",
+    "c4h10",
+    "c4h20",
+    "c4h32",
+    "c8h8",
+    "c8h45",
+    "c9h46"
+   ]
+  },
+  {
+   "topic": "Sports betting and esports",
+   "canonical_title": "Sports Betting",
+   "member_ids": [
+    "c1h7",
+    "c2h16",
+    "c2h17",
+    "c2h18",
+    "c2h19",
+    "c2h21",
+    "c2h23",
+    "c2h24",
+    "c2h25",
+    "c2h26",
+    "c2h27",
+    "c4h38",
+    "c5h4",
+    "c5h5",
+    "c7h20",
+    "c8h44",
+    "c9h6",
+    "c9h45"
+   ]
+  },
+  {
+   "topic": "Bonuses and welcome offers",
+   "canonical_title": "Bonuses and Welcome Offers",
+   "member_ids": [
+    "c1h8",
+    "c2h1",
+    "c2h2",
+    "c2h3",
+    "c3h5",
+    "c3h17",
+    "c4h33",
+    "c5h1",
+    "c5h2",
+    "c7h3",
+    "c7h4"
+   ]
+  },
+  {
+   "topic": "Withdrawals and payout speed",
+   "canonical_title": "Withdrawals",
+   "member_ids": [
+    "c1h9",
+    "c1h11",
+    "c2h12",
+    "c4h30",
+    "c4h39",
+    "c7h11",
+    "c9h13"
+   ]
+  },
+  {
+   "topic": "Deposit methods and payments",
+   "canonical_title": "Payment Methods",
+   "member_ids": [
+    "c1h10",
+    "c2h10",
+    "c2h11",
+    "c2h13",
+    "c2h14",
+    "c2h22",
+    "c2h32",
+    "c3h7",
+    "c3h11",
+    "c3h18",
+    "c4h12",
+    "c4h22",
+    "c4h42",
+    "c5h6",
+    "c5h16",
+    "c7h1",
+    "c7h15",
+    "c7h17",
+    "c8h17",
+    "c9h17",
+    "c9h37"
+   ]
+  },
+  {
+   "topic": "Mobile access and app",
+   "canonical_title": "Mobile Access",
+   "member_ids": [
+    "c1h12",
+    "c2h9",
+    "c3h1",
+    "c3h12",
+    "c3h19",
+    "c5h7",
+    "c8h7",
+    "c9h26"
+   ]
+  },
+  {
+   "topic": "Licence, security and fair play",
+   "canonical_title": "Safety and Fair Play",
+   "member_ids": [
+    "c1h13",
+    "c2h5",
+    "c3h8",
+    "c3h16",
+    "c4h25",
+    "c4h27",
+    "c4h35",
+    "c5h10",
+    "c7h2",
+    "c7h21",
+    "c7h24",
+    "c8h16",
+    "c8h34",
+    "c9h11",
+    "c9h28",
+    "c9h30",
+    "c9h41",
+    "c9h48"
+   ]
+  },
+  {
+   "topic": "Customer support",
+   "canonical_title": "Customer Support",
+   "member_ids": [
+    "c1h14",
+    "c2h15",
+    "c4h34",
+    "c4h41",
+    "c5h11",
+    "c8h15",
+    "c8h22",
+    "c8h23",
+    "c8h30",
+    "c9h25",
+    "c9h29"
+   ]
+  },
+  {
+   "topic": "Responsible gambling",
+   "canonical_title": "Responsible Gambling",
+   "member_ids": [
+    "c1h15",
+    "c3h14",
+    "c5h14",
+    "c7h12"
+   ]
+  },
+  {
+   "topic": "Verdict and conclusion",
+   "canonical_title": "Verdict",
+   "member_ids": [
+    "c1h16",
+    "c2h34",
+    "c7h14",
+    "c7h25"
+   ]
+  },
+  {
+   "topic": "VIP programme and loyalty",
+   "canonical_title": "VIP Programme",
+   "member_ids": [
+    "c2h4",
+    "c3h6",
+    "c5h8",
+    "c7h6",
+    "c7h23"
+   ]
+  },
+  {
+   "topic": "Software providers",
+   "canonical_title": "Game Providers",
+   "member_ids": [
+    "c2h29",
+    "c5h3",
+    "c5h15",
+    "c8h9",
+    "c8h51",
+    "c9h9"
+   ]
+  },
+  {
+   "topic": "Registration and login",
+   "canonical_title": "Registration and Login",
+   "member_ids": [
+    "c2h33",
+    "c4h28",
+    "c7h16",
+    "c7h18",
+    "c8h10",
+    "c9h12",
+    "c9h36"
+   ]
+  },
+  {
+   "topic": "Lottery",
+   "canonical_title": "Lottery",
+   "member_ids": [
+    "c3h4"
+   ]
+  },
+  {
+   "topic": "Pros and cons",
+   "canonical_title": "Pros and Cons",
+   "member_ids": [
+    "c3h9",
+    "c3h10",
+    "c7h13"
+   ]
+  },
+  {
+   "topic": "FAQ",
+   "canonical_title": "Frequently Asked Questions",
+   "member_ids": [
+    "c3h15",
+    "c4h43",
+    "c7h26",
+    "c8h39",
+    "c9h34"
+   ]
+  },
+  {
+   "topic": "Ongoing promotions and tournaments",
+   "canonical_title": "Ongoing Promotions",
+   "member_ids": [
+    "c5h13"
+   ]
+  },
+  {
+   "topic": "Cryptocurrency payments",
+   "canonical_title": "Crypto Payments",
+   "member_ids": [
+    "c7h22"
+   ]
+  },
+  {
+   "topic": "Other: User Reviews",
+   "canonical_title": "User Reviews",
+   "member_ids": [
+    "c1h18"
+   ]
+  },
+  {
+   "topic": "Other: Limits",
+   "canonical_title": "Limits",
+   "member_ids": [
+    "c2h20"
+   ]
+  },
+  {
+   "topic": "Other: User Reviews",
+   "canonical_title": "User Reviews",
+   "member_ids": [
+    "c2h35"
+   ]
+  },
+  {
+   "topic": "Other: Quick Links",
+   "canonical_title": "Quick Links",
+   "member_ids": [
+    "c3h13"
+   ]
+  },
+  {
+   "topic": "Other: What You Find When You Open longfu88",
+   "canonical_title": "What You Find When You Open longfu88",
+   "member_ids": [
+    "c4h1"
+   ]
+  },
+  {
+   "topic": "Other: Ocean Fortune",
+   "canonical_title": "Ocean Fortune",
+   "member_ids": [
+    "c4h5"
+   ]
+  },
+  {
+   "topic": "Other: Halloween Fortune",
+   "canonical_title": "Halloween Fortune",
+   "member_ids": [
+    "c4h6"
+   ]
+  },
+  {
+   "topic": "Other: Wild Walker",
+   "canonical_title": "Wild Walker",
+   "member_ids": [
+    "c4h7"
+   ]
+  },
+  {
+   "topic": "Other: Fortune Mouse",
+   "canonical_title": "Fortune Mouse",
+   "member_ids": [
+    "c4h8"
+   ]
+  },
+  {
+   "topic": "Other: Ocean Fortune",
+   "canonical_title": "Ocean Fortune",
+   "member_ids": [
+    "c4h16"
+   ]
+  },
+  {
+   "topic": "Other: Halloween Fortune",
+   "canonical_title": "Halloween Fortune",
+   "member_ids": [
+    "c4h17"
+   ]
+  },
+  {
+   "topic": "Other: Wild Walker",
+   "canonical_title": "Wild Walker",
+   "member_ids": [
+    "c4h18"
+   ]
+  },
+  {
+   "topic": "Other: Fortune Mouse",
+   "canonical_title": "Fortune Mouse",
+   "member_ids": [
+    "c4h19"
+   ]
+  },
+  {
+   "topic": "Other: Four Reasons Your Account Works Better Here",
+   "canonical_title": "Four Reasons Your Account Works Better Here",
+   "member_ids": [
+    "c4h21"
+   ]
+  },
+  {
+   "topic": "Other: Continuous Live Streams",
+   "canonical_title": "Continuous Live Streams",
+   "member_ids": [
+    "c4h23"
+   ]
+  },
+  {
+   "topic": "Other: Single Account Balance",
+   "canonical_title": "Single Account Balance",
+   "member_ids": [
+    "c4h24"
+   ]
+  },
+  {
+   "topic": "Other: RNG Certification",
+   "canonical_title": "RNG Certification",
+   "member_ids": [
+    "c4h29"
+   ]
+  },
+  {
+   "topic": "Other: Two-Factor Option",
+   "canonical_title": "Two-Factor Option",
+   "member_ids": [
+    "c4h31"
+   ]
+  },
+  {
+   "topic": "Other: longfu88 in Malaysia ‚Äî Availability and Access",
+   "canonical_title": "longfu88 in Malaysia ‚Äî Availability and Access",
+   "member_ids": [
+    "c4h36"
+   ]
+  },
+  {
+   "topic": "Other: No Wallet Lock-In",
+   "canonical_title": "No Wallet Lock-In",
+   "member_ids": [
+    "c4h40"
+   ]
+  },
+  {
+   "topic": "Other: Join Longfu88 Today",
+   "canonical_title": "Join Longfu88 Today",
+   "member_ids": [
+    "c5h18"
+   ]
+  },
+  {
+   "topic": "Other: Ganjaran Berterusan Untuk Pemain Sedia Ada",
+   "canonical_title": "Ganjaran Berterusan Untuk Pemain Sedia Ada",
+   "member_ids": [
+    "c7h5"
+   ]
+  },
+  {
+   "topic": "Other: Nombor ringkas di longfu88",
+   "canonical_title": "Nombor ringkas di longfu88",
+   "member_ids": [
+    "c8h1"
+   ]
+  },
+  {
+   "topic": "Other: Andar Bahar",
+   "canonical_title": "Andar Bahar",
+   "member_ids": [
+    "c8h3"
+   ]
+  },
+  {
+   "topic": "Other: Secrets of Cleopatra",
+   "canonical_title": "Secrets of Cleopatra",
+   "member_ids": [
+    "c8h4"
+   ]
+  },
+  {
+   "topic": "Other: Lucky Twins",
+   "canonical_title": "Lucky Twins",
+   "member_ids": [
+    "c8h5"
+   ]
+  },
+  {
+   "topic": "Other: The Dog House Megaways",
+   "canonical_title": "The Dog House Megaways",
+   "member_ids": [
+    "c8h6"
+   ]
+  },
+  {
+   "topic": "Other: Lima kawasan tahan lama",
+   "canonical_title": "Lima kawasan tahan lama",
+   "member_ids": [
+    "c8h11"
+   ]
+  },
+  {
+   "topic": "Other: Pusat profil",
+   "canonical_title": "Pusat profil",
+   "member_ids": [
+    "c8h12"
+   ]
+  },
+  {
+   "topic": "Other: Rekod transaksi",
+   "canonical_title": "Rekod transaksi",
+   "member_ids": [
+    "c8h14"
+   ]
+  },
+  {
+   "topic": "Other: Touch 'n Go",
+   "canonical_title": "Touch 'n Go",
+   "member_ids": [
+    "c8h18"
+   ]
+  },
+  {
+   "topic": "Other: GrabPay",
+   "canonical_title": "GrabPay",
+   "member_ids": [
+    "c8h19"
+   ]
+  },
+  {
+   "topic": "Other: Boost",
+   "canonical_title": "Boost",
+   "member_ids": [
+    "c8h20"
+   ]
+  },
+  {
+   "topic": "Other: FPX",
+   "canonical_title": "FPX",
+   "member_ids": [
+    "c8h21"
+   ]
+  },
+  {
+   "topic": "Other: Email",
+   "canonical_title": "Email",
+   "member_ids": [
+    "c8h24"
+   ]
+  },
+  {
+   "topic": "Other: Bantuan mudah alih",
+   "canonical_title": "Bantuan mudah alih",
+   "member_ids": [
+    "c8h25"
+   ]
+  },
+  {
+   "topic": "Other: Lobi lancar pada telefon",
+   "canonical_title": "Lobi lancar pada telefon",
+   "member_ids": [
+    "c8h26"
+   ]
+  },
+  {
+   "topic": "Other: Cara kami bina keyakinan",
+   "canonical_title": "Cara kami bina keyakinan",
+   "member_ids": [
+    "c8h27"
+   ]
+  },
+  {
+   "topic": "Other: Struktur boleh disemak",
+   "canonical_title": "Struktur boleh disemak",
+   "member_ids": [
+    "c8h28"
+   ]
+  },
+  {
+   "topic": "Other: Akses polisi",
+   "canonical_title": "Akses polisi",
+   "member_ids": [
+    "c8h29"
+   ]
+  },
+  {
+   "topic": "Other: Semakan transaksi",
+   "canonical_title": "Semakan transaksi",
+   "member_ids": [
+    "c8h31"
+   ]
+  },
+  {
+   "topic": "Other: longfu88 berbanding carian berselerak",
+   "canonical_title": "longfu88 berbanding carian berselerak",
+   "member_ids": [
+    "c8h32"
+   ]
+  },
+  {
+   "topic": "Other: Akses Malaysia secara setempat",
+   "canonical_title": "Akses Malaysia secara setempat",
+   "member_ids": [
+    "c8h33"
+   ]
+  },
+  {
+   "topic": "Other: Langkah pertama",
+   "canonical_title": "Langkah pertama",
+   "member_ids": [
+    "c8h35"
+   ]
+  },
+  {
+   "topic": "Other: Selepas akaun dibuka",
+   "canonical_title": "Selepas akaun dibuka",
+   "member_ids": [
+    "c8h36"
+   ]
+  },
+  {
+   "topic": "Other: Sebelum transaksi",
+   "canonical_title": "Sebelum transaksi",
+   "member_ids": [
+    "c8h37"
+   ]
+  },
+  {
+   "topic": "Other: Jika tersekat",
+   "canonical_title": "Jika tersekat",
+   "member_ids": [
+    "c8h38"
+   ]
+  },
+  {
+   "topic": "Other: Empat perkara anda semak dahulu",
+   "canonical_title": "Empat perkara anda semak dahulu",
+   "member_ids": [
+    "c8h40"
+   ]
+  },
+  {
+   "topic": "Other: Bacaan kadar dan kategori",
+   "canonical_title": "Bacaan kadar dan kategori",
+   "member_ids": [
+    "c8h41"
+   ]
+  },
+  {
+   "topic": "Other: Bingo",
+   "canonical_title": "Bingo",
+   "member_ids": [
+    "c8h46"
+   ]
+  },
+  {
+   "topic": "Other: Kawalan akaun dan akses",
+   "canonical_title": "Kawalan akaun dan akses",
+   "member_ids": [
+    "c8h47"
+   ]
+  },
+  {
+   "topic": "Other: Enam tanda longfu88",
+   "canonical_title": "Enam tanda longfu88",
+   "member_ids": [
+    "c8h48"
+   ]
+  },
+  {
+   "topic": "Other: Lobi gabungan",
+   "canonical_title": "Lobi gabungan",
+   "member_ids": [
+    "c8h49"
+   ]
+  },
+  {
+   "topic": "Other: Tajuk dikenali",
+   "canonical_title": "Tajuk dikenali",
+   "member_ids": [
+    "c8h50"
+   ]
+  },
+  {
+   "topic": "Other: Pilihan Malaysia",
+   "canonical_title": "Pilihan Malaysia",
+   "member_ids": [
+    "c8h52"
+   ]
+  },
+  {
+   "topic": "Other: Kawalan akses",
+   "canonical_title": "Kawalan akses",
+   "member_ids": [
+    "c8h53"
+   ]
+  },
+  {
+   "topic": "Other: Bantuan tersusun",
+   "canonical_title": "Bantuan tersusun",
+   "member_ids": [
+    "c8h54"
+   ]
+  },
+  {
+   "topic": "Other: Perkara Pertama yang Perlu Anda Ketahui",
+   "canonical_title": "Perkara Pertama yang Perlu Anda Ketahui",
+   "member_ids": [
+    "c9h1"
+   ]
+  },
+  {
+   "topic": "Other: Apa yang Menanti di Dalam Lobi longfu88",
+   "canonical_title": "Apa yang Menanti di Dalam Lobi longfu88",
+   "member_ids": [
+    "c9h2"
+   ]
+  },
+  {
+   "topic": "Other: Fish Hunter",
+   "canonical_title": "Fish Hunter",
+   "member_ids": [
+    "c9h3"
+   ]
+  },
+  {
+   "topic": "Other: Sugar Rush 1000",
+   "canonical_title": "Sugar Rush 1000",
+   "member_ids": [
+    "c9h5"
+   ]
+  },
+  {
+   "topic": "Other: Caishen Wins",
+   "canonical_title": "Caishen Wins",
+   "member_ids": [
+    "c9h7"
+   ]
+  },
+  {
+   "topic": "Other: Aztec Gems",
+   "canonical_title": "Aztec Gems",
+   "member_ids": [
+    "c9h8"
+   ]
+  },
+  {
+   "topic": "Other: Kawalan Akaun dan Privasi Data",
+   "canonical_title": "Kawalan Akaun dan Privasi Data",
+   "member_ids": [
+    "c9h15"
+   ]
+  },
+  {
+   "topic": "Other: Hubungi Kami — Saluran dan Jam Operasi",
+   "canonical_title": "Hubungi Kami — Saluran dan Jam Operasi",
+   "member_ids": [
+    "c9h16"
+   ]
+  },
+  {
+   "topic": "Other: Touch 'n Go eWallet",
+   "canonical_title": "Touch 'n Go eWallet",
+   "member_ids": [
+    "c9h18"
+   ]
+  },
+  {
+   "topic": "Other: GrabPay",
+   "canonical_title": "GrabPay",
+   "member_ids": [
+    "c9h19"
+   ]
+  },
+  {
+   "topic": "Other: Boost",
+   "canonical_title": "Boost",
+   "member_ids": [
+    "c9h20"
+   ]
+  },
+  {
+   "topic": "Other: FPX",
+   "canonical_title": "FPX",
+   "member_ids": [
+    "c9h21"
+   ]
+  },
+  {
+   "topic": "Other: Hubungi Kami — Cara Terbaik untuk Anda",
+   "canonical_title": "Hubungi Kami — Cara Terbaik untuk Anda",
+   "member_ids": [
+    "c9h23"
+   ]
+  },
+  {
+   "topic": "Other: Chat Langsung",
+   "canonical_title": "Chat Langsung",
+   "member_ids": [
+    "c9h24"
+   ]
+  },
+  {
+   "topic": "Other: Tanda-tanda E-E-A-T longfu88",
+   "canonical_title": "Tanda-tanda E-E-A-T longfu88",
+   "member_ids": [
+    "c9h27"
+   ]
+  },
+  {
+   "topic": "Other: Keterlibatan Komunitas Jangka Panjang",
+   "canonical_title": "Keterlibatan Komunitas Jangka Panjang",
+   "member_ids": [
+    "c9h31"
+   ]
+  },
+  {
+   "topic": "Other: longfu88 untuk Pemain Malaysia",
+   "canonical_title": "longfu88 untuk Pemain Malaysia",
+   "member_ids": [
+    "c9h33"
+   ]
+  },
+  {
+   "topic": "Other: Panduan Menavigasi longfu88",
+   "canonical_title": "Panduan Menavigasi longfu88",
+   "member_ids": [
+    "c9h35"
+   ]
+  },
+  {
+   "topic": "Other: Langkah 3: Penjelajahan Lobi Pertama",
+   "canonical_title": "Langkah 3: Penjelajahan Lobi Pertama",
+   "member_ids": [
+    "c9h38"
+   ]
+  },
+  {
+   "topic": "Other: Langkah 4: Mengelola Akaun Anda",
+   "canonical_title": "Langkah 4: Mengelola Akaun Anda",
+   "member_ids": [
+    "c9h39"
+   ]
+  },
+  {
+   "topic": "Other: Angka yang Menentukan longfu88",
+   "canonical_title": "Angka yang Menentukan longfu88",
+   "member_ids": [
+    "c9h40"
+   ]
+  },
+  {
+   "topic": "Other: Kasino Langsung",
+   "canonical_title": "Kasino Langsung",
+   "member_ids": [
+    "c9h44"
+   ]
+  },
+  {
+   "topic": "Other: Bingo",
+   "canonical_title": "Bingo",
+   "member_ids": [
+    "c9h47"
+   ]
+  },
+  {
+   "topic": "Other: Lobi yang Tertata dengan Baik",
+   "canonical_title": "Lobi yang Tertata dengan Baik",
+   "member_ids": [
+    "c9h49"
+   ]
+  },
+  {
+   "topic": "Other: Penyaring dan Pencarian Cepat",
+   "canonical_title": "Penyaring dan Pencarian Cepat",
+   "member_ids": [
+    "c9h50"
+   ]
+  },
+  {
+   "topic": "Other: Saldo dan Laporan Real-Time",
+   "canonical_title": "Saldo dan Laporan Real-Time",
+   "member_ids": [
+    "c9h52"
+   ]
+  },
+  {
+   "topic": "Other: Pengaturan Akaun yang Dapat Dipersonalisasi",
+   "canonical_title": "Pengaturan Akaun yang Dapat Dipersonalisasi",
+   "member_ids": [
+    "c9h53"
+   ]
+  },
+  {
+   "topic": "Other: Akses Responsif Lintas Perangkat",
+   "canonical_title": "Akses Responsif Lintas Perangkat",
+   "member_ids": [
+    "c9h54"
+   ]
+  }
+ ]
+}

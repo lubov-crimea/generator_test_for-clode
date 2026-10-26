@@ -1,0 +1,120 @@
+{
+ "website_id": 4973,
+ "domain": "longfu88casino-my.net",
+ "locale": "en",
+ "seo": {
+  "title": "Longfu88 Sportsbook and Casino Review for Malaysia",
+  "description": "Longfu88 for bettors in Malaysia: sports markets, bet types, live betting and sports bonuses, plus the casino welcome offer and payment options."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, online casino, crypto casino, play, gambling, slots, live casino, sports betting, register, login, KYC, app, payments, bonuses, welcome bonus, Malaysia, MY, Malaysian"
+ },
+ "hero": {
+  "label": "Start with 188% up to €2,088 + 18 Free Spins",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Join Now"
+ },
+ "preview": {
+  "title": "Longfu88 Promotions",
+  "items": [
+   {
+    "image": 4654,
+    "title": "Casino Crypto Welcome Bonus",
+    "text": "188% up to 2,888 USDT",
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4657,
+    "title": "Live Casino Welcome Bonus",
+    "text": "125% up to €888",
+    "button": "Get Offer"
+   },
+   {
+    "image": 4656,
+    "title": "Sport First Deposit Bonus",
+    "text": "100% up to €1,888",
+    "button": "See Offer"
+   },
+   {
+    "image": 4655,
+    "title": "Casino Weekend Crypto Reload",
+    "text": "75% up to 750 USDT + 100 Free Spins",
+    "button": "Claim Now"
+   },
+   {
+    "image": 4652,
+    "title": "Casino Weekly Cashback",
+    "text": "Up to 10% of weekly net casino losses",
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4653,
+    "title": "Bonus Crab",
+    "text": "Qualifying picks reveal bonus credits, free spins or coins",
+    "button": "Claim Bonus"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Player Reviews",
+  "items": [
+   {
+    "username": "Farhana",
+    "review": "I like checking the rewards area when I log in, since the offers are listed in one place. It is simple to find my way around after a short while.",
+    "date": "2026-10-22",
+    "avatar": 3861,
+    "rating": 4
+   },
+   {
+    "username": "Zulkifli",
+    "review": "The registration page is short and easy to follow, even for someone new to online casinos. The whole experience felt well organised to me.",
+    "date": "2026-10-20",
+    "avatar": 3858,
+    "rating": 5
+   },
+   {
+    "username": "Wan Ling",
+    "review": "Playing in the phone browser is smooth, and I did not need to download anything extra. No complaints from my side so far.",
+    "date": "2026-10-18",
+    "avatar": 3857,
+    "rating": 5
+   },
+   {
+    "username": "Adam Lee",
+    "review": "The payment page does not hide anything, and I could see which methods were available before I chose. A straightforward site that respects my time.",
+    "date": "2026-10-16",
+    "avatar": 3855,
+    "rating": 5
+   },
+   {
+    "username": "Kumaran",
+    "review": "The live casino section loads cleanly and the table games are simple to find. It is simple to find my way around after a short while.",
+    "date": "2026-10-15",
+    "avatar": 3862,
+    "rating": 4
+   },
+   {
+    "username": "Aisyah",
+    "review": "Support was friendly and to the point, which is what I want when I have a question about my account. A straightforward site that respects my time.",
+    "date": "2026-10-15",
+    "avatar": 3854,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "disclaimer": "18+. Terms and conditions apply. Play responsibly.",
+  "button": "Claim Bonus"
+ },
+ "cta_texts": [
+  "Register",
+  "Get Your Bonus",
+  "Open an Account",
+  "Claim Bonus",
+  "Play Now"
+ ]
+}

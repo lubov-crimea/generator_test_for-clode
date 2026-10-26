@@ -1,0 +1,25 @@
+=== b09 ===
+Seven offers recur, each by reward, deposit, wagering and validity.
+
+- **Casino Weekend Crypto Reload**: 75% up to 750 USDT + 100 Free Spins, 20 USDT, 30x deposit plus bonus and 40x Free Spins winnings, for 7 days.
+- **Casino Weekend Reload**: up to €3,360 + 50 Free Spins, €50, 30x deposit plus bonus and 40x Free Spins winnings, for 7 days.
+- **Casino Weekly Crypto Reload**: 60% up to 1,000 USDT, 20 USDT, 30x deposit plus bonus, for 7 days.
+- **Casino Weekly Reload**: 50 Free Spins, €30, 40x winnings from Free Spins, for 7 days.
+- **Casino Trick or Treat Pumpkin Bonanza**: up to 100 Free Spins, €20, 40x Free Spins winnings, for 7 days.
+- **Dragon Quest, Get Verified and Get Extra**: €10 bonus credit, €20, 30x promotional credit, for 7 days.
+- **Casino Double Fortune: One-Day Reload Special**: 50% up to €500, €30, 30x deposit plus bonus, for 24 hours.
+
+Each is switched on under My Bonuses and claimed once per promotional period. None runs beside another active casino bonus, and a spin may stake at most €5 while bonus money is wagered.
+
+=== b10 ===
+Casino Weekly Cashback returns up to 10% of weekly net casino losses, capped at €6,988. Monday 00:00 UTC opens the tally and Sunday 23:59 UTC closes it. That credit reaches My Bonuses on Monday and carries 10x wagering, while every four-week cycle needs its own opt-in. Rates depend on level:
+
+| Level | Rate | Cap |
+|---|---|---|
+| VIP Bronze | 2% | €1,888 |
+| VIP Silver | 4% | €2,388 |
+| VIP Gold | 6% | €2,988 |
+| VIP Platinum | 8% | €3,988 |
+| VIP Diamond | 10% | €6,988 |
+
+Live Casino Cashback pays 25% up to €850. Four daily rebates run at 0.9% for casino, 1.0% for live casino, 0.8% for P2P and 1.0% for lottery, each with 1x wagering and real-money bets only.

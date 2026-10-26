@@ -1,0 +1,533 @@
+[
+  {
+    "id": "k03",
+    "topic": "How to download and install or add to the home screen",
+    "canonical_title": "How to Install",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 74,
+    "avg_position": 0.17,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Pasang dalam 3 langkah mudah"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Pusat pemasangan"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Muat turun dan pasang dalam 3 langkah"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Add LongFu88 to Your Home Screen — One-Time Setup"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Android — Chrome (Recommended)"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "iPhone / iPad — Safari"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Install the App in 3 Steps"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "What the mobile version offers and what the player sees inside",
+    "canonical_title": "What the Mobile Version Offers",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 46,
+    "avg_position": 0.18,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Lobi bergerak untuk telefon anda"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "6 skrin utama dalam aplikasi"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Apa yang aplikasi mudah alih longfu88 tawarkan"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Apa yang anda lihat apabila membuka aplikasi longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "What Works on Mobile — Everything"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "What the longfu88 App Adds to Your Experience"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "What You See Inside the longfu88 App"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "App features and what works on mobile",
+    "canonical_title": "Mobile Features",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.19,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "6 fungsi yang terasa laju"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Ciri-ciri yang dipandu oleh keselamatan dan kecepatan"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Login Biometrik"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Notifikasi Betul pada Masa"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Mod Gelap"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Pratonton Lobby Luar Talian"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposit Cepat Dalam Aplikasi"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Penarikan Terus ke e-Dompet"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Device compatibility and system requirements",
+    "canonical_title": "Device Compatibility",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 51,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Keperluan telefon sebelum pasang"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Keserasian aplikasi untuk Android dan iOS"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Android"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "iOS"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sambungan Internet"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Wilayah Disokong"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Mobile Performance — Minimum Requirements"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Android"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Mobile security and account protection",
+    "canonical_title": "Mobile Security",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 31,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Cara kami lindungi aplikasi"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Pautan dalam akaun"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Semakan kod"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Sesi peranti"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Pemulihan akaun"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kebenaran minimum"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kemas kini terkawal"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Kepercayaan dan keselamatan dalam aplikasi longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Frequently asked questions about the mobile version and the app",
+    "canonical_title": "Mobile FAQ",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.92,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Soalan lazim tentang aplikasi"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Soalan tentang aplikasi mudah alih longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "FAQ – LongFu88 Mobile"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Why doesn’t LongFu88 have a dedicated app?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Can I deposit and withdraw on mobile?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Does mobile use more data than desktop?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Can I use Face ID or fingerprint to log in?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Is the mobile experience the same as desktop?"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Customer support for mobile users",
+    "canonical_title": "Support for Mobile Players",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.46,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Bantuan khusus untuk aplikasi"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Sembang aplikasi"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "E-mel sokongan"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bantuan untuk pengguna aplikasi mudah alih"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sembang Sokongan Dalam Aplikasi"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "E-mel Sokongan"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Panduan Pemasangan & FAQ"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Get Help for Any App Issue Fast"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Installed app compared with the mobile browser",
+    "canonical_title": "App or Mobile Browser",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 38,
+    "avg_position": 0.81,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Aplikasi berbanding pelayar mudah alih"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kelajuan masuk"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kegemaran lobi"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Notifikasi akaun"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Paparan meja langsung"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Slip taruhan"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Kawalan storan"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mengapa aplikasi mudah alih longfu88 mengatasi versi penyemak imbas"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Logging in on a phone",
+    "canonical_title": "Login on Mobile",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 96,
+    "avg_position": 0.36,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Login on Mobile — Options"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Mobile notifications about bonuses",
+    "canonical_title": "Mobile Notifications",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 73,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Mobile Notifications — Stay Updated on Bonuses"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Troubleshooting mobile problems",
+    "canonical_title": "Mobile Troubleshooting",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.62,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Troubleshooting — Common Mobile Issues"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Site not loading on mobile"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Game not launching"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Login loop — keeps returning to login screen"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live stream buffering on 4G"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Home screen shortcut not showing casino — shows browser address bar"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Related pages of the site",
+    "canonical_title": "Related Pages",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Related Pages"
+      }
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+{
+  "id": "v04",
+  "name": "Safety and control (cautious reader, long)",
+  "angle": "A careful reader who checks the licence, the terms and the protection tools before depositing.",
+  "intent_summary": "Detailed brand-review page about the Incaspin online casino for players from Poland, written for a careful reader: who runs the casino and under which licence, the fact sheet, registration with account security and verification, the responsible-gambling tools, the welcome package with its terms, other promotions and loyalty, payments with withdrawal timing in a table, the game library, providers, mobile installation, the sportsbook, support, a pros and cons table, an FAQ and a closing checklist. Page voice: precise and calm, sentences of about 20 words on average with a few short ones, paragraphs of three to four sentences; every advantage is followed by the condition or limit that goes with it, stated calmly and in the same detail as the advantage; a fact is followed by what it means in practice; one call to action only, at the welcome package. All brand facts come from the AffBulk knowledge base incaspin-new; nothing is claimed about the legal status of the casino in Poland.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Incaspin Casino Review: Licence, Terms and Player Protection",
+      "words": 98,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "refs_add": [
+        "brandinfo_general.licences[0]",
+        "brandinfo_general.operator.company_name"
+      ],
+      "summary": "The licence and operator in the first sentence, the four areas of the casino, the 18+ limit and a signpost to terms and protection tools.",
+      "notes": "Open with the facts of the licence and the operator as the subject of the first sentence: the Tobique Gaming Commission licence and the operator company named in the Brand Information. In the second sentence define the casino by its four areas exactly as in the Brand Information (online casino, live casino, sportsbook, esports betting). Then state the 18+ age limit once and say that the page is written for players from Poland and looks at terms, limits and protection tools. NEVER say or imply that the casino is licensed, legal or approved in Poland. No bonus amounts, payment or registration details here. Neutral tone, no promises of winnings."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Who Runs the Casino and Under Which Licence",
+      "words": 150,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Licence authority, number and jurisdiction, the operator company, the payment agent and the technical protection of accounts and documents."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Brand Fact Sheet",
+      "words": 98,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "fact_rows": [
+        "licence",
+        "company",
+        "founded",
+        "languages",
+        "support",
+        {
+          "key": "other",
+          "label": "Support hours",
+          "kb_refs": [
+            "brandinfo_general.customer_support.availability"
+          ]
+        },
+        "currencies",
+        "payment_methods",
+        "welcome_bonus",
+        "min_deposit",
+        "cashback",
+        {
+          "key": "other",
+          "label": "Age limit",
+          "kb_refs": [
+            "brandinfo_general.minimum_age"
+          ]
+        },
+        {
+          "key": "other",
+          "label": "Mobile version",
+          "kb_refs": [
+            "brandinfo_app.app_information.type"
+          ]
+        }
+      ],
+      "extra": "Three rows go beyond the standard ones: Support hours = the availability as given; Age limit = the number only; Mobile version = the app type as given.",
+      "summary": "A fact sheet that repeats nothing from the licence block in prose: operator, licence, launch year, languages, support, hours, currencies, payments, bonus, deposit, cashback, age limit and mobile version."
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Registration, Login and Account Security",
+      "words": 138,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 1,
+        "Incaspin casino": 1
+      },
+      "summary": "How to open an account by e-mail in five steps, the one-account rule, login, password recovery and two-factor authentication.",
+      "extra": "Put the one-account rule and the consequences of duplicate accounts before the login part. The \"Inca Spin\" occurrence (two-word spelling) sits in the login sentence."
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Verification: Documents, Timing and Consequences",
+      "words": 115,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "When identity verification is required, which documents are accepted, how long the review takes and what happens with false documents."
+    },
+    {
+      "from": [
+        "b20"
+      ],
+      "level": 2,
+      "heading": "Responsible Gambling Tools and Limits",
+      "words": 172,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 1,
+        "Incaspin casino": 0
+      },
+      "formats": [
+        "paragraph",
+        "table",
+        "list"
+      ],
+      "edit": [
+        [
+          "Deposit limits: daily (rolling 24 hours), weekly (rolling 168 hours), monthly (rolling 720 hours), set in My Account, Responsible Gaming; a decrease takes effect immediately, an increase or removal after a 24-hour delay.",
+          "Deposit limits and self-exclusion go into a Markdown table Tool | Period | How it works (Polish header): daily limit (rolling 24 hours), weekly limit (rolling 168 hours), monthly limit (rolling 720 hours), all set in My Account, Responsible Gaming, where a decrease takes effect immediately and an increase or removal after a 24-hour delay, and self-exclusion (from 3 months to 5 years or indefinite, 6 months by default if no period is chosen)."
+        ],
+        [
+          "Self-exclusion: from 3 months to 5 years or indefinite, 6 months by default if no period is chosen; during it the account is blocked and no new deposits or withdrawals are made.",
+          "After the table, say in prose that during self-exclusion the account is blocked and no new deposits or withdrawals are made."
+        ]
+      ],
+      "summary": "Age limit, a table of deposit limits and self-exclusion, other limits, help organisations and basic rules.",
+      "extra": "Mention the account of the player once as \"Inca Spin\" (two-word spelling) in the sentence on self-exclusion."
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Welcome Package and What It Requires",
+      "words": 155,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "The Casino Welcome Package: the claiming rule, total amount, free spins, the three deposit stages and the minimum deposit.",
+      "extra": "Put the claiming rule (credited automatically, no promo code, a code makes the player ineligible) before the three stages. One plain invitation to claim the package is the only call to action of the page."
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 3,
+      "heading": "Wagering Table and Game Contribution",
+      "words": 126,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "The terms behind the welcome package in a table, with the consequence of the game contribution."
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Other Promotions and Their Conditions",
+      "words": 144,
+      "kw": {
+        "Incaspin": 3,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Weekly Cashback, Highroller Bonus and Sunday Reload compared in a table, each with its condition."
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Loyalty Ranks and Withdrawal Limits at Incaspin",
+      "words": 150,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Boomerang Points, the six ranks in a table, the rewards, the effect of the rank on withdrawal limits and the gamification features."
+    },
+    {
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "Payment Methods and Deposit Limits",
+      "words": 155,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Deposit methods with minimum, maximum and speed in a table, and the short route of a deposit through the cashier."
+    },
+    {
+      "from": [
+        "b16"
+      ],
+      "level": 3,
+      "heading": "Withdrawal Methods and Timing",
+      "words": 172,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "entities": [
+        [
+          "Withdrawal Methods",
+          10
+        ],
+        [
+          "Processing Time",
+          8
+        ],
+        [
+          "Minimum Withdrawal",
+          6
+        ],
+        [
+          "Verification",
+          5
+        ]
+      ],
+      "summary": "Withdrawal methods grouped in a table by the time added after internal processing, plus the rules: processing time, minimum, wagering of deposits and verification.",
+      "notes": "Name the withdrawal methods in one sentence (Visa OCT, Mastercard Payment Transfer, Skrill, Neteller, Jeton, Bank Transfer, Bitcoin, Ethereum, Litecoin, Dogecoin). Then a Markdown table Methods | Time after internal processing | Charges (Polish header) with these grouped rows: Visa OCT and Mastercard Payment Transfer (instant to a few hours after processing; no casino fee, external provider charges may apply); Skrill, Neteller and Jeton (the provider's own time is added; no casino fee, external provider charges may apply); Bank Transfer (1-5 business days of bank transfer time; no casino fee, intermediary bank charges of up to 16 EUR may apply); Bitcoin, Ethereum, Litecoin and Dogecoin (blockchain confirmation is added; no casino fee, external provider charges may apply). After the table the rules in prose: internal processing takes up to 72 hours for every method; the minimum withdrawal is between 50 and 120 EUR depending on country or payment method; deposited funds must be wagered at least three times before withdrawal; no withdrawal is processed until the account is fully verified; maximum limits may depend on the loyalty rank and are visible in the cashier. Do NOT mention monthly installments or any installment figure (the base contains conflicting rules); mention maximum amounts only as 'visible in the cashier'. The six-step route is described in one sentence at most, without a list."
+    },
+    {
+      "from": [
+        "b17"
+      ],
+      "level": 3,
+      "heading": "Account Currencies and E-wallet Limits",
+      "words": 109,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Which currencies the account can use and examples of withdrawal limits and bank charges."
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Game Library and Categories",
+      "words": 109,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Overview of the game library: the categories offered and the size of the lobby; details follow in the sub-section."
+    },
+    {
+      "from": [
+        "b11",
+        "b12",
+        "b13"
+      ],
+      "level": 3,
+      "heading": "Slots, Live and Instant Titles",
+      "words": 207,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "ent_top": 8,
+      "summary": "Named titles of slots, jackpots, live games, instant and crash games and the casino's own games, grouped by category.",
+      "extra": "Give the live casino and the wagering remark (live dealer games count 0%) as much room as the slots; two or three titles per category are enough. Title picks for this page, to be used instead of the examples and lists named above: slots Book of Khonsu, Gates of Olympus and Mad Jesters: Hold & Win; jackpots Triple Money Jackpot Gold! and Triple Money Jackpot Spicy!; live Lightning Roulette, Crazy Time, Speed Baccarat and Dragon Tiger; instant and crash Plinko, Chicken Road 2 and Tower Rush; original games Dragon Pots and MegaBlock."
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Game Providers and Studios",
+      "words": 103,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "edit": [
+        [
+          "name Pragmatic Play and Evolution in the sentence",
+          "name Playtech and NetEnt in the sentence"
+        ],
+        [
+          "Then a bulleted list with exactly these providers, names only, as given: Pragmatic Play, Evolution, Playtech, NetEnt, Microgaming, Hacksaw Gaming, Nolimit City, Push Gaming.",
+          "Then a bulleted list with exactly these providers, names only, as given: Playtech, NetEnt, Microgaming, Yggdrasil, Red Tiger, Big Time Gaming, Thunderkick, Nolimit City."
+        ]
+      ],
+      "entities": [
+        [
+          "Game Providers",
+          10
+        ],
+        [
+          "Playtech",
+          8
+        ],
+        [
+          "NetEnt",
+          8
+        ],
+        [
+          "Microgaming",
+          5
+        ],
+        [
+          "Yggdrasil",
+          5
+        ],
+        [
+          "Red Tiger",
+          5
+        ],
+        [
+          "Big Time Gaming",
+          5
+        ],
+        [
+          "Thunderkick",
+          5
+        ],
+        [
+          "Nolimit City",
+          5
+        ]
+      ],
+      "listed_entities": [
+        "Playtech",
+        "NetEnt",
+        "Microgaming",
+        "Yggdrasil",
+        "Red Tiger",
+        "Big Time Gaming",
+        "Thunderkick",
+        "Nolimit City"
+      ],
+      "summary": "Which studios supply the games: a few key providers named in a sentence and a bulleted list of further studios."
+    },
+    {
+      "from": [
+        "b18"
+      ],
+      "level": 2,
+      "heading": "Progressive Web App for iPhone and Android",
+      "words": 132,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "summary": "Mobile play as a Progressive Web App: what it is, how to install it on iPhone and Android and which sections it contains."
+    },
+    {
+      "from": [
+        "b19"
+      ],
+      "level": 2,
+      "heading": "Incaspin Sportsbook and Esports Terms",
+      "words": 138,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "The sportsbook: sports and esports covered, bet types and the separate Sportsbook Welcome Package with its wagering."
+    },
+    {
+      "from": [
+        "b21"
+      ],
+      "level": 2,
+      "heading": "Support Contacts and Availability",
+      "words": 86,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "summary": "Support channels, availability and languages."
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Pros and Cons of Incaspin Casino",
+      "words": 161,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 0
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "entities": [
+        [
+          "Advantages",
+          10
+        ],
+        [
+          "Limitations",
+          9
+        ],
+        [
+          "Wagering Requirement",
+          7
+        ],
+        [
+          "Withdrawal Processing",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Wagering Requirement",
+          "limits",
+          "how quickly bonus winnings can be withdrawn",
+          8
+        ],
+        [
+          "Advantages",
+          "are balanced by",
+          "the limitations of the same offer",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.wagering",
+        "brandinfo_withdrawal.important_terms[0]",
+        "brandinfo_withdrawal.important_terms[1]",
+        "brandinfo_general.customer_support.languages",
+        "brandinfo_games.game_types"
+      ],
+      "summary": "A table of advantages and limitations drawn only from facts stated elsewhere on the page, with a short commentary.",
+      "notes": "A short lead-in sentence, then a Markdown table Pros | Cons (Polish header) with four to five rows. Pros come from the Brand Information: the multi-stage welcome package credited automatically, the broad game range (write only 'more than 5000 games', never 6000), 24/7 live chat and e-mail support, instant deposits for most methods, the progressive web app without an app store. Cons are stated calmly with the same level of detail: wagering of 35x on the second and third deposit bonuses (general bonus rules specify 40x unless stated otherwise), a withdrawal minimum between 50 and 120 EUR depending on country or payment method, deposited funds that must be wagered at least three times before withdrawal, support languages of English and other languages (do not claim Polish support). Do not claim that the Polish zloty is supported, do not invent any other pro or con and repeat no more detail than a table cell needs. One closing sentence says what to weigh first (the wagering terms against the game range). Do not mention promo codes."
+    },
+    {
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Frequently Asked Questions",
+      "words": 172,
+      "kw": {
+        "Incaspin": 1,
+        "Inca Spin": 1,
+        "Incaspin casino": 1
+      },
+      "kw_lists_ok": true,
+      "entities": [
+        [
+          "Promo Code",
+          7
+        ],
+        [
+          "Account Verification",
+          6
+        ],
+        [
+          "Minimum Withdrawal",
+          7
+        ],
+        [
+          "Self-Exclusion",
+          6
+        ],
+        [
+          "Minimum Age",
+          5
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_withdrawal.withdrawal_guide[5]",
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_app.app_information.distribution"
+      ],
+      "refs_add": [
+        "brandinfo_account.verification.processing_time",
+        "brandinfo_withdrawal.important_terms[0]",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.duration",
+        "brandinfo_general.minimum_age"
+      ],
+      "connections": [
+        [
+          "Welcome Package",
+          "is credited",
+          "without a promo code",
+          7
+        ],
+        [
+          "Self-Exclusion",
+          "blocks",
+          "account access for the chosen period",
+          7
+        ]
+      ],
+      "summary": "Five short answers: promo code, verification time, minimum withdrawal, self-exclusion and the age limit.",
+      "notes": "A bulleted list of exactly five items, each a bold question followed by a short answer of 20-30 words, in this order: (1) is a promo code needed for the welcome bonus (credited automatically, no code needed, entering a code for a Welcome Package bonus makes the player ineligible for it; never mention INC2 or INC3); (2) how long does identity verification take (most reviews take a few hours to one day); (3) what is the minimum withdrawal (between 50 and 120 EUR depending on country or payment method); (4) can a player exclude himself or herself: the question must contain the keyword \"Inca Spin\" in the form \"konto Inca Spin\" (exactly once in the block), the answer: from 3 months to 5 years or indefinitely, 6 months by default if no period is chosen; (5) who may register at the casino: the question contains the name Incaspin Casino (the one occurrence of \"Incaspin casino\"), the answer: adults aged 18 and over. The brand name \"Incaspin\" goes into one answer, not into a question. These are the only questions on the page; the questions are the one place where question form is allowed."
+    },
+    {
+      "from": [
+        "b23"
+      ],
+      "level": 2,
+      "heading": "Conclusion: Checks Before Registering",
+      "words": 98,
+      "kw": {
+        "Incaspin": 2,
+        "Inca Spin": 0,
+        "Incaspin casino": 1
+      },
+      "kw_tail": "Put the first occurrence into the first sentence.",
+      "summary": "A checklist-style conclusion: what to confirm before registering, what to read before depositing and the responsible-gambling reminder.",
+      "notes": "Write the conclusion as three practical checks in running text, no list: the licence and the operator, the bonus terms with the wagering table, the limit and the timing of the chosen payment method. Add one calm sentence on the kind of player the facts fit. End with the 18+ age limit and the reminders that gambling is not a source of income, that losses should not be chased and that a budget and breaks help. No new figures, no promises of winnings, no hype."
+    }
+  ]
+}

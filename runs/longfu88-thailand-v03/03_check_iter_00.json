@@ -1,0 +1,71 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2584,
+    "target_body_words": 2358,
+    "keywords_total": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "The support-languages row says 'จีน' while the support block (b14) names the language 'จีนตัวย่อ' (Simplified Chinese); the same fact is named differently on the page.",
+        "fix": "Use 'จีนตัวย่อ' in the languages row, as in the Support block, keeping the table within the size cap and keeping the e-mail exactly once."
+      }
+    ],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "Parts of the block read as a telegraphic string of fragments rather than editorial prose: the Weekly Cashback sentence ('เข้า My Bonuses วันจันทร์ หมุนเวียน 10x'), the daily rebates sentence and above all the rewards sentence ('Bonus Crab 7 วัน 30x และฟรีสปิน 40x Wheel of Fortune 7 วัน 30x ...') where the validity and wagering of Bonus Crab and Wheel of Fortune are not connected to anything.",
+        "fix": "Rewrite the cashback, rebate and rewards passages as complete connected Thai sentences (what the offer is, how it is credited, what to do with it), state the Bonus Crab and Wheel of Fortune validity and wagering explicitly, keep all figures exactly and keep the block within the word cap."
+      }
+    ],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": []
+  },
+  "missing_data": []
+}

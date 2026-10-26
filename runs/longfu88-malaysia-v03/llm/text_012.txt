@@ -1,0 +1,13 @@
+Kasino ini berjalan sebagai laman web responsif pada pelayar telefon pintar dan tablet, dengan platform Android, iOS dan web mudah alih. Pintasan skrin utama memberi akses pantas kepada kasino dan buku sukan, serta kepada akaun, deposit, pengeluaran dan bonus. Pintasan itu membuka laman web yang sama dalam pelayar, bukan aplikasi yang dimuat turun.
+
+Di Android, pintasan ditambah melalui Chrome dalam tiga langkah:
+
+1. Buka Longfu88 dalam Chrome.
+2. Buka menu pelayar dan pilih Tambah ke skrin utama.
+3. Sahkan pintasan.
+
+Di iOS, laluannya melalui Safari:
+
+1. Buka Longfu88 dalam Safari.
+2. Ketik Kongsi dan pilih Tambah ke Skrin Utama.
+3. Sahkan Tambah.

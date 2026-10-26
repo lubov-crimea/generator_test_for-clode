@@ -1,0 +1,150 @@
+{
+  "id": "v05",
+  "name": "Troubleshooting-led",
+  "tier": "medium",
+  "angle": "A player who already has an account and cannot get in.",
+  "intent_summary": "Troubleshooting-led brand-subpage about the Longfu88 login in Malaysia for a player who is locked out or unsure: the normal route, why a login fails, the password reset, the checks that can hold an account, how the data is protected, registration for those who have no account with the welcome offer, and support. Page voice: practical and calm, cause then fix, sentences of about 16 words, a short consequence after each limit; no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Login Help: Sign In and Fix Access Problems",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, support)",
+          "(the normal login route, reasons for a failed login, password reset, verification, security, registration, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "The Normal Login Route",
+      "words": 65,
+      "kw": {
+        "Longfu login": 1
+      },
+      "edit": [
+        [
+          "Do not explain password reset here (next sub-section).",
+          "Do not explain password reset here (a separate section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Why a Login Fails",
+      "words": 80,
+      "kw": {},
+      "extra": "Add that prolonged inactivity may trigger an account review or closure.",
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.inactivity"
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Reset the Password",
+      "words": 65,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Checks That Can Hold an Account",
+      "words": 100,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "Then a TABLE with two columns, document type | accepted documents, one row each for identity",
+          "Then a bulleted list, one item each for identity"
+        ],
+        [
+          "; the source-of-funds row applies only when requested",
+          "; the source-of-funds item applies only when requested"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Protecting Your Details",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "No Account Yet? Create One",
+      "words": 100,
+      "kw": {
+        "Longfu88 register": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "A Welcome Offer for New Accounts",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Contact the Support Team",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Common Login Questions",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 casino login": 1
+      },
+      "summary": "6 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how to log in (with the registered e-mail and password, as the page explains); (2) what to do after a forgotten password (request a reset link with the registered e-mail); (3) which identity document is accepted (passport, national identity card or driving licence); (4) how long verification takes (a complete document set is normally reviewed within up to 10 days); (5) what the minimum age is (18, and the player must be legally permitted to gamble where they live); (6) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_privacy_policy.kyc_aml.required_documents.identity"
+      ],
+      "refs_drop": []
+    }
+  ]
+}

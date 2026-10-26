@@ -1,0 +1,258 @@
+{
+ "website_id": 108,
+ "domain": "longfu88.mobi",
+ "page_id": 137,
+ "slug": "vn",
+ "locale": "vi",
+ "seo": {
+  "title": "Longfu88 Casino Việt Nam: Đánh giá nhanh",
+  "description": "Đánh giá nhanh Longfu88 cho người chơi Việt Nam: thông tin chính, ưu đãi nạp đầu 188% kèm 18 vòng quay, VIP, trò chơi, cược thể thao và thanh toán.",
+  "customCanonical": "https://longfu88.mobi/vn",
+  "customPageLang": "vi"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu88.mobi/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu88.mobi/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu88.mobi/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu88.mobi/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu88.mobi/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, casino online, casino tiền mã hóa, chơi, cá cược, slot, live casino, cược thể thao, đăng ký, đăng nhập, KYC, ứng dụng, thanh toán, thưởng, thưởng chào mừng, Việt Nam, VN"
+ },
+ "hero": {
+  "label": "Thưởng nạp đầu: 188% đến €2.088 + 18 vòng quay miễn phí",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Đăng ký ngay"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "888 gold",
+    94
+   ],
+   [
+    "Big Bass Bonanza",
+    72
+   ],
+   [
+    "Eye of Horus",
+    96
+   ],
+   [
+    "Gates Of Olympus 1000",
+    84
+   ],
+   [
+    "Mega Moolah",
+    99
+   ],
+   [
+    "StarBurst",
+    73
+   ],
+   [
+    "Sugar Rush",
+    87
+   ],
+   [
+    "Sun of Egypt",
+    98
+   ],
+   [
+    "Sweet Bonanza",
+    100
+   ],
+   [
+    "Thunder Coins",
+    230
+   ],
+   [
+    "Wild Clusters",
+    229
+   ],
+   [
+    "Zeus vs Hades",
+    80
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviator",
+    89
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Big Bass Crash",
+    88
+   ],
+   [
+    "Chicken Road",
+    97
+   ],
+   [
+    "F777 Fighters",
+    108
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Penalty Shoot Out",
+    90
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "Reactoonz",
+    76
+   ],
+   [
+    "SpaceMan",
+    75
+   ],
+   [
+    "Squid Game",
+    101
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Ưu đãi mới của Longfu88",
+  "items": [
+   {
+    "image": 4655,
+    "button": "Lấy ưu đãi"
+   },
+   {
+    "image": 4652,
+    "button": "Nhận thưởng"
+   },
+   {
+    "image": 4653,
+    "button": "Xem ưu đãi"
+   },
+   {
+    "image": 4654,
+    "button": "Nhận ngay"
+   },
+   {
+    "image": 4657,
+    "button": "Lấy ưu đãi"
+   },
+   {
+    "image": 4656,
+    "button": "Nhận thưởng"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Nhận xét từ người chơi",
+  "items": [
+   {
+    "username": "Bùi Minh Châu",
+    "review": "Tìm theo loại game hoạt động tốt, và các studio quen thuộc dễ nhận ra trong sảnh. Đáng để xem qua với ai đang tò mò.",
+    "date": "2026-10-17",
+    "avatar": 3854,
+    "rating": 4
+   },
+   {
+    "username": "Nguyễn Thị Lan",
+    "review": "Tôi thích cược bóng đá ở đây, và các loại cược được trình bày rõ trên phiếu cược. Không rườm rà và đúng với những gì tôi cần.",
+    "date": "2026-10-16",
+    "avatar": 3860,
+    "rating": 5
+   },
+   {
+    "username": "Lý Thanh Sơn",
+    "review": "Quy trình tạo tài khoản đơn giản: email và mật khẩu trước, rồi đến thông tin cá nhân ở màn hình tiếp theo. Lựa chọn hợp cho ai thích giao diện sạch.",
+    "date": "2026-10-16",
+    "avatar": 3858,
+    "rating": 4
+   },
+   {
+    "username": "Trần Mai Anh",
+    "review": "Chương trình VIP được giải thích tốt, và dễ thấy các cấp độ vận hành ra sao. Trải nghiệm tổng thể được sắp xếp khá tốt.",
+    "date": "2026-10-15",
+    "avatar": 3857,
+    "rating": 4
+   },
+   {
+    "username": "Võ Ngọc Mai",
+    "review": "Chơi bằng trình duyệt điện thoại khá mượt và tôi không cần tải thêm gì. Hiện tại tôi sẽ tiếp tục dùng.",
+    "date": "2026-10-14",
+    "avatar": 3859,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Thưởng chào mừng casino",
+  "description": "188% đến €2.088 + 18 vòng quay miễn phí",
+  "disclaimer": "Người chơi phải từ 18 tuổi. Áp dụng điều kiện ưu đãi. Hãy chơi có trách nhiệm.",
+  "button": "Nhận thưởng"
+ },
+ "cta_texts": [
+  "Tham gia ngay",
+  "Thử live casino",
+  "Nhận thưởng",
+  "Nhận ưu đãi",
+  "Xem ưu đãi"
+ ]
+}

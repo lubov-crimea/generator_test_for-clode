@@ -1,0 +1,2636 @@
+[
+  {
+    "id": "k02",
+    "topic": "Games overview",
+    "canonical_title": "Games Overview",
+    "frequency": 8,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 34,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Casino games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Selection of casino games"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "What games does longfu88 casino have?"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "How to Open Your Account and Reach the Games"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Explore 2,500+ Casino Games"
+      },
+      {
+        "competitor": 7,
+        "level": 2,
+        "text": "Pilihan Permainan di Longfu Casino"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Kasino Langsung & Game Shows"
+      },
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Permainan utama dalam satu lobi"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Deposit methods and payments",
+    "canonical_title": "Payment Methods",
+    "frequency": 8,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 71,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposit methods"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Payment methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit and withdrawal limits in Singapore"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit and withdrawal limits in Thailand"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Minimum / maximum deposits"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Minimum / maximum deposits"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Payments – Local Methods for Malaysian Players"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Licence, security and fair play",
+    "canonical_title": "Safety and Fair Play",
+    "frequency": 8,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 69,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Licensing & security"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Licensing & security information"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Is Longfu88 Safe? Security and Fair Play"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Is longfu88 casino safe to play at?"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Fast Account Verification"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "How We Protect Your Account and Ensure Fair Results"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Keeping Your longfu88 Account Safe"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Security Measures and Fair Gaming"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Sports betting and esports",
+    "canonical_title": "Sports Betting",
+    "frequency": 7,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 60,
+    "avg_position": 0.58,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sportsbook"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Sports betting overview"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Sports coverage (20+)"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Sports odds"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live betting and streaming"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Betting markets"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Esports betting overview"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Esports coverage"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Bonuses and welcome offers",
+    "canonical_title": "Bonuses and Welcome Offers",
+    "frequency": 6,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 114,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bonuses & promotions"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Bonus offers and promotions"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Welcome bonus"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Other promotions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Longfu88 Bonuses – Four Welcome Offers, One Account"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "What is the longfu88 welcome bonus?"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Check the Promo Board for What's Running This Week"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Welcome Bonuses and Promotional Offers"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Mobile access and app",
+    "canonical_title": "Mobile Access",
+    "frequency": 6,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 71,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile & app experience"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "LongFu88 App"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Games and Providers – 7,500 Titles from 50+ Studios"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Mobile Access"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Does longfu88 have a mobile app?"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Mobile Gaming Experience"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "PUBG Mobile"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Bantuan Aplikasi Seluler"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Slots",
+    "canonical_title": "Slots",
+    "frequency": 6,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 57,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Fan-Favourite Slots You Can Open Right Now"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Slot: Dunia Gulungan Untuk Semua Gaya"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Variasi Mesin Slot & Rahsia Pusingan Pertaruhan (TO)"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Slot"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Mode Demo Gratis untuk Slot"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 6,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 55,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Customer support"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Customer service"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Three Ways to Reach Our Support Team"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "24-Hour Support Coverage"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Customer Support Channels"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Saluran sokongan"
+      },
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Tiga laluan sokongan"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Live chat"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Withdrawals and payout speed",
+    "canonical_title": "Withdrawals",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 56,
+    "avg_position": 0.53,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Deposits & withdrawals"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Withdrawal methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Withdrawal methods"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Withdrawal Audit Trail"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Consistent Payout Processing"
+      },
+      {
+        "competitor": 7,
+        "level": 2,
+        "text": "Kaedah Pembayaran: Deposit & Pengeluaran"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Cara Deposit dan Pengeluaran"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Registration and login",
+    "canonical_title": "Registration and Login",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 59,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Registration at LongFu88"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Encrypted Login"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Akses Link Rasmi & Sistem Log Masuk Auto"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Kemudahan Navigasi Selepas Mendaftar"
+      },
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Masuk ke ruang longfu88"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Panduan Pendaftaran Akaun"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Langkah 1: Pendaftaran Akaun"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Live casino",
+    "canonical_title": "Live Casino",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 46,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live Dealer Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live dealer games"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Live Casino"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Experience Live Dealer Gaming"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Live Casino"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "FAQ",
+    "canonical_title": "Frequently Asked Questions",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.82,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "FAQ"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Frequently Asked Questions About longfu88"
+      },
+      {
+        "competitor": 7,
+        "level": 2,
+        "text": "Soalan Lazim (FAQ) - Longfu88"
+      },
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "FAQ"
+      },
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Pertanyaan Lazim"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Table games and video poker",
+    "canonical_title": "Table Games",
+    "frequency": 4,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 37,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Table games"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Classic Blackjack"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "French Roulette"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Baccarat, Roulette and Dragon Tiger ‚Äî Streamed Live"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Classic Table Games With Multiple Bet Ranges"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Classic Blackjack"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "French Roulette"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Playing longfu88 on Your Phone or Tablet"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "VIP programme and loyalty",
+    "canonical_title": "VIP Programme",
+    "frequency": 4,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 115,
+    "avg_position": 0.39,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Rewards and loyalty programs at LongFu88"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "VIP Programme – Bronze to Diamond"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "VIP Program and Loyalty Rewards"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Butiran Program VIP"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Keistimewaan Ahli VIP & Keutamaan Pengeluaran (Cuci)"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "Platform overview / about the casino",
+    "canonical_title": "About the Casino",
+    "frequency": 4,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "About LongFu88"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "LongFu88 overview"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Usability and user experience"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Navigation"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Design"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Casino overview"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "What We Hold Ourselves to on This Platform"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Key Platform Features"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Fishing, P2P, fast and free games",
+    "canonical_title": "Instant and Specialty Games",
+    "frequency": 4,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 69,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Free games"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Crash X, Aviator and Fast-Round Arcade Titles"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Thunder Fishing, Fish Rooms and Sportsbook Markets"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Slot Themes, Live Rooms and Arcade Formats ‚Äî All in One Place"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Bombing Fishing"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Crash Games"
+      },
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Permainan Arcade"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Software providers",
+    "canonical_title": "Game Providers",
+    "frequency": 4,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 96,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Software providers"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Game Selection and Software Providers"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Game Provider Partnerships"
+      },
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Studio dalam longfu88"
+      },
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Studio jelas"
+      },
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Studio Berkuasa Permainan longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Responsible gambling",
+    "canonical_title": "Responsible Gambling",
+    "frequency": 4,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 103,
+    "avg_position": 0.69,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Responsible gambling tools"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Responsible Gambling"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Responsible Gambling Tools"
+      },
+      {
+        "competitor": 7,
+        "level": 2,
+        "text": "Sokongan Pemain & Permainan Bertanggungjawab"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Verdict and conclusion",
+    "canonical_title": "Verdict",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 108,
+    "avg_position": 0.84,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Our verdict on LongFu88"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Conclusion"
+      },
+      {
+        "competitor": 7,
+        "level": 2,
+        "text": "Ringkasan: Mengapa Memilih Longfu 88 Casino?"
+      },
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Kesimpulan: Platform Stabil Dengan Proses Kewangan Pantas"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "Pros and cons",
+    "canonical_title": "Pros and Cons",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 46,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Longfu88 Review – What Works and What to Know"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Strengths"
+      },
+      {
+        "competitor": 7,
+        "level": 2,
+        "text": "Kelebihan & Kekurangan Longfu Casino"
+      }
+    ]
+  },
+  {
+    "id": "k28",
+    "topic": "Other: What You Find When You Open longfu88",
+    "canonical_title": "What You Find When You Open longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 123,
+    "avg_position": 0.02,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "What You Find When You Open longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k46",
+    "topic": "Other: Nombor ringkas di longfu88",
+    "canonical_title": "Nombor ringkas di longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.02,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Nombor ringkas di longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k81",
+    "topic": "Other: Perkara Pertama yang Perlu Anda Ketahui",
+    "canonical_title": "Perkara Pertama yang Perlu Anda Ketahui",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.02,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Perkara Pertama yang Perlu Anda Ketahui"
+      }
+    ]
+  },
+  {
+    "id": "k82",
+    "topic": "Other: Apa yang Menanti di Dalam Lobi longfu88",
+    "canonical_title": "Apa yang Menanti di Dalam Lobi longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 27,
+    "avg_position": 0.04,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Apa yang Menanti di Dalam Lobi longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k47",
+    "topic": "Other: Andar Bahar",
+    "canonical_title": "Andar Bahar",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.06,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Andar Bahar"
+      }
+    ]
+  },
+  {
+    "id": "k83",
+    "topic": "Other: Fish Hunter",
+    "canonical_title": "Fish Hunter",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 21,
+    "avg_position": 0.06,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Fish Hunter"
+      }
+    ]
+  },
+  {
+    "id": "k48",
+    "topic": "Other: Secrets of Cleopatra",
+    "canonical_title": "Secrets of Cleopatra",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 24,
+    "avg_position": 0.07,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Secrets of Cleopatra"
+      }
+    ]
+  },
+  {
+    "id": "k49",
+    "topic": "Other: Lucky Twins",
+    "canonical_title": "Lucky Twins",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 24,
+    "avg_position": 0.09,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Lucky Twins"
+      }
+    ]
+  },
+  {
+    "id": "k84",
+    "topic": "Other: Sugar Rush 1000",
+    "canonical_title": "Sugar Rush 1000",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 21,
+    "avg_position": 0.09,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Sugar Rush 1000"
+      }
+    ]
+  },
+  {
+    "id": "k50",
+    "topic": "Other: The Dog House Megaways",
+    "canonical_title": "The Dog House Megaways",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.11,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "The Dog House Megaways"
+      }
+    ]
+  },
+  {
+    "id": "k29",
+    "topic": "Other: Ocean Fortune",
+    "canonical_title": "Ocean Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.12,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Ocean Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k85",
+    "topic": "Other: Caishen Wins",
+    "canonical_title": "Caishen Wins",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 21,
+    "avg_position": 0.13,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Caishen Wins"
+      }
+    ]
+  },
+  {
+    "id": "k30",
+    "topic": "Other: Halloween Fortune",
+    "canonical_title": "Halloween Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.14,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Halloween Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k86",
+    "topic": "Other: Aztec Gems",
+    "canonical_title": "Aztec Gems",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.15,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Aztec Gems"
+      }
+    ]
+  },
+  {
+    "id": "k31",
+    "topic": "Other: Wild Walker",
+    "canonical_title": "Wild Walker",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.16,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Wild Walker"
+      }
+    ]
+  },
+  {
+    "id": "k32",
+    "topic": "Other: Fortune Mouse",
+    "canonical_title": "Fortune Mouse",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.19,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Fortune Mouse"
+      }
+    ]
+  },
+  {
+    "id": "k45",
+    "topic": "Other: Ganjaran Berterusan Untuk Pemain Sedia Ada",
+    "canonical_title": "Ganjaran Berterusan Untuk Pemain Sedia Ada",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 73,
+    "avg_position": 0.19,
+    "examples": [
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Ganjaran Berterusan Untuk Pemain Sedia Ada"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Lottery",
+    "canonical_title": "Lottery",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 67,
+    "avg_position": 0.2,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Sports, E-sports and Lottery"
+      }
+    ]
+  },
+  {
+    "id": "k51",
+    "topic": "Other: Lima kawasan tahan lama",
+    "canonical_title": "Lima kawasan tahan lama",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.2,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Lima kawasan tahan lama"
+      }
+    ]
+  },
+  {
+    "id": "k52",
+    "topic": "Other: Pusat profil",
+    "canonical_title": "Pusat profil",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 16,
+    "avg_position": 0.22,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Pusat profil"
+      }
+    ]
+  },
+  {
+    "id": "k53",
+    "topic": "Other: Rekod transaksi",
+    "canonical_title": "Rekod transaksi",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 16,
+    "avg_position": 0.26,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Rekod transaksi"
+      }
+    ]
+  },
+  {
+    "id": "k87",
+    "topic": "Other: Kawalan Akaun dan Privasi Data",
+    "canonical_title": "Kawalan Akaun dan Privasi Data",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.28,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Kawalan Akaun dan Privasi Data"
+      }
+    ]
+  },
+  {
+    "id": "k88",
+    "topic": "Other: Hubungi Kami — Saluran dan Jam Operasi",
+    "canonical_title": "Hubungi Kami — Saluran dan Jam Operasi",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Hubungi Kami — Saluran dan Jam Operasi"
+      }
+    ]
+  },
+  {
+    "id": "k54",
+    "topic": "Other: Touch 'n Go",
+    "canonical_title": "Touch 'n Go",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Touch 'n Go"
+      }
+    ]
+  },
+  {
+    "id": "k89",
+    "topic": "Other: Touch 'n Go eWallet",
+    "canonical_title": "Touch 'n Go eWallet",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Touch 'n Go eWallet"
+      }
+    ]
+  },
+  {
+    "id": "k55",
+    "topic": "Other: GrabPay",
+    "canonical_title": "GrabPay",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.35,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "GrabPay"
+      }
+    ]
+  },
+  {
+    "id": "k90",
+    "topic": "Other: GrabPay",
+    "canonical_title": "GrabPay",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.35,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "GrabPay"
+      }
+    ]
+  },
+  {
+    "id": "k33",
+    "topic": "Other: Ocean Fortune",
+    "canonical_title": "Ocean Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Ocean Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k56",
+    "topic": "Other: Boost",
+    "canonical_title": "Boost",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Boost"
+      }
+    ]
+  },
+  {
+    "id": "k91",
+    "topic": "Other: Boost",
+    "canonical_title": "Boost",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Boost"
+      }
+    ]
+  },
+  {
+    "id": "k57",
+    "topic": "Other: FPX",
+    "canonical_title": "FPX",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.39,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "FPX"
+      }
+    ]
+  },
+  {
+    "id": "k92",
+    "topic": "Other: FPX",
+    "canonical_title": "FPX",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.39,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "FPX"
+      }
+    ]
+  },
+  {
+    "id": "k34",
+    "topic": "Other: Halloween Fortune",
+    "canonical_title": "Halloween Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Halloween Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k35",
+    "topic": "Other: Wild Walker",
+    "canonical_title": "Wild Walker",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Wild Walker"
+      }
+    ]
+  },
+  {
+    "id": "k93",
+    "topic": "Other: Hubungi Kami — Cara Terbaik untuk Anda",
+    "canonical_title": "Hubungi Kami — Cara Terbaik untuk Anda",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 41,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Hubungi Kami — Cara Terbaik untuk Anda"
+      }
+    ]
+  },
+  {
+    "id": "k36",
+    "topic": "Other: Fortune Mouse",
+    "canonical_title": "Fortune Mouse",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Fortune Mouse"
+      }
+    ]
+  },
+  {
+    "id": "k58",
+    "topic": "Other: Email",
+    "canonical_title": "Email",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Email"
+      }
+    ]
+  },
+  {
+    "id": "k94",
+    "topic": "Other: Chat Langsung",
+    "canonical_title": "Chat Langsung",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Chat Langsung"
+      }
+    ]
+  },
+  {
+    "id": "k59",
+    "topic": "Other: Bantuan mudah alih",
+    "canonical_title": "Bantuan mudah alih",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 18,
+    "avg_position": 0.46,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Bantuan mudah alih"
+      }
+    ]
+  },
+  {
+    "id": "k60",
+    "topic": "Other: Lobi lancar pada telefon",
+    "canonical_title": "Lobi lancar pada telefon",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Lobi lancar pada telefon"
+      }
+    ]
+  },
+  {
+    "id": "k37",
+    "topic": "Other: Four Reasons Your Account Works Better Here",
+    "canonical_title": "Four Reasons Your Account Works Better Here",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Four Reasons Your Account Works Better Here"
+      }
+    ]
+  },
+  {
+    "id": "k61",
+    "topic": "Other: Cara kami bina keyakinan",
+    "canonical_title": "Cara kami bina keyakinan",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Cara kami bina keyakinan"
+      }
+    ]
+  },
+  {
+    "id": "k95",
+    "topic": "Other: Tanda-tanda E-E-A-T longfu88",
+    "canonical_title": "Tanda-tanda E-E-A-T longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 24,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Tanda-tanda E-E-A-T longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k62",
+    "topic": "Other: Struktur boleh disemak",
+    "canonical_title": "Struktur boleh disemak",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Struktur boleh disemak"
+      }
+    ]
+  },
+  {
+    "id": "k38",
+    "topic": "Other: Continuous Live Streams",
+    "canonical_title": "Continuous Live Streams",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.53,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Continuous Live Streams"
+      }
+    ]
+  },
+  {
+    "id": "k63",
+    "topic": "Other: Akses polisi",
+    "canonical_title": "Akses polisi",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.54,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Akses polisi"
+      }
+    ]
+  },
+  {
+    "id": "k39",
+    "topic": "Other: Single Account Balance",
+    "canonical_title": "Single Account Balance",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 27,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Single Account Balance"
+      }
+    ]
+  },
+  {
+    "id": "k25",
+    "topic": "Other: Limits",
+    "canonical_title": "Limits",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Limits"
+      }
+    ]
+  },
+  {
+    "id": "k64",
+    "topic": "Other: Semakan transaksi",
+    "canonical_title": "Semakan transaksi",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Semakan transaksi"
+      }
+    ]
+  },
+  {
+    "id": "k96",
+    "topic": "Other: Keterlibatan Komunitas Jangka Panjang",
+    "canonical_title": "Keterlibatan Komunitas Jangka Panjang",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Keterlibatan Komunitas Jangka Panjang"
+      }
+    ]
+  },
+  {
+    "id": "k65",
+    "topic": "Other: longfu88 berbanding carian berselerak",
+    "canonical_title": "longfu88 berbanding carian berselerak",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.59,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "longfu88 berbanding carian berselerak"
+      }
+    ]
+  },
+  {
+    "id": "k66",
+    "topic": "Other: Akses Malaysia secara setempat",
+    "canonical_title": "Akses Malaysia secara setempat",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 63,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Akses Malaysia secara setempat"
+      }
+    ]
+  },
+  {
+    "id": "k97",
+    "topic": "Other: longfu88 untuk Pemain Malaysia",
+    "canonical_title": "longfu88 untuk Pemain Malaysia",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "longfu88 untuk Pemain Malaysia"
+      }
+    ]
+  },
+  {
+    "id": "k27",
+    "topic": "Other: Quick Links",
+    "canonical_title": "Quick Links",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 48,
+    "avg_position": 0.65,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "id": "k67",
+    "topic": "Other: Langkah pertama",
+    "canonical_title": "Langkah pertama",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.65,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Langkah pertama"
+      }
+    ]
+  },
+  {
+    "id": "k98",
+    "topic": "Other: Panduan Menavigasi longfu88",
+    "canonical_title": "Panduan Menavigasi longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 31,
+    "avg_position": 0.65,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Panduan Menavigasi longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k40",
+    "topic": "Other: RNG Certification",
+    "canonical_title": "RNG Certification",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 17,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "RNG Certification"
+      }
+    ]
+  },
+  {
+    "id": "k68",
+    "topic": "Other: Selepas akaun dibuka",
+    "canonical_title": "Selepas akaun dibuka",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 18,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Selepas akaun dibuka"
+      }
+    ]
+  },
+  {
+    "id": "k69",
+    "topic": "Other: Sebelum transaksi",
+    "canonical_title": "Sebelum transaksi",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 18,
+    "avg_position": 0.69,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Sebelum transaksi"
+      }
+    ]
+  },
+  {
+    "id": "k70",
+    "topic": "Other: Jika tersekat",
+    "canonical_title": "Jika tersekat",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.7,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Jika tersekat"
+      }
+    ]
+  },
+  {
+    "id": "k99",
+    "topic": "Other: Langkah 3: Penjelajahan Lobi Pertama",
+    "canonical_title": "Langkah 3: Penjelajahan Lobi Pertama",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.7,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Langkah 3: Penjelajahan Lobi Pertama"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "Ongoing promotions and tournaments",
+    "canonical_title": "Ongoing Promotions",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 231,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Tournament Competitions and Promotions"
+      }
+    ]
+  },
+  {
+    "id": "k41",
+    "topic": "Other: Two-Factor Option",
+    "canonical_title": "Two-Factor Option",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 10,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Two-Factor Option"
+      }
+    ]
+  },
+  {
+    "id": "k100",
+    "topic": "Other: Langkah 4: Mengelola Akaun Anda",
+    "canonical_title": "Langkah 4: Mengelola Akaun Anda",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 24,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Langkah 4: Mengelola Akaun Anda"
+      }
+    ]
+  },
+  {
+    "id": "k71",
+    "topic": "Other: Empat perkara anda semak dahulu",
+    "canonical_title": "Empat perkara anda semak dahulu",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 34,
+    "avg_position": 0.74,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Empat perkara anda semak dahulu"
+      }
+    ]
+  },
+  {
+    "id": "k101",
+    "topic": "Other: Angka yang Menentukan longfu88",
+    "canonical_title": "Angka yang Menentukan longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.74,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 2,
+        "text": "Angka yang Menentukan longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k72",
+    "topic": "Other: Bacaan kadar dan kategori",
+    "canonical_title": "Bacaan kadar dan kategori",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.76,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Bacaan kadar dan kategori"
+      }
+    ]
+  },
+  {
+    "id": "k102",
+    "topic": "Other: Kasino Langsung",
+    "canonical_title": "Kasino Langsung",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.81,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Kasino Langsung"
+      }
+    ]
+  },
+  {
+    "id": "k42",
+    "topic": "Other: longfu88 in Malaysia ‚Äî Availability and Access",
+    "canonical_title": "longfu88 in Malaysia ‚Äî Availability and Access",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 141,
+    "avg_position": 0.84,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "longfu88 in Malaysia ‚Äî Availability and Access"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "Cryptocurrency payments",
+    "canonical_title": "Crypto Payments",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 63,
+    "avg_position": 0.85,
+    "examples": [
+      {
+        "competitor": 7,
+        "level": 3,
+        "text": "Era Baharu Pembayaran Kripto"
+      }
+    ]
+  },
+  {
+    "id": "k73",
+    "topic": "Other: Bingo",
+    "canonical_title": "Bingo",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.85,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Bingo"
+      }
+    ]
+  },
+  {
+    "id": "k74",
+    "topic": "Other: Kawalan akaun dan akses",
+    "canonical_title": "Kawalan akaun dan akses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 34,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Kawalan akaun dan akses"
+      }
+    ]
+  },
+  {
+    "id": "k103",
+    "topic": "Other: Bingo",
+    "canonical_title": "Bingo",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Bingo"
+      }
+    ]
+  },
+  {
+    "id": "k75",
+    "topic": "Other: Enam tanda longfu88",
+    "canonical_title": "Enam tanda longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.89,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 2,
+        "text": "Enam tanda longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k76",
+    "topic": "Other: Lobi gabungan",
+    "canonical_title": "Lobi gabungan",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 21,
+    "avg_position": 0.91,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Lobi gabungan"
+      }
+    ]
+  },
+  {
+    "id": "k104",
+    "topic": "Other: Lobi yang Tertata dengan Baik",
+    "canonical_title": "Lobi yang Tertata dengan Baik",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.91,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Lobi yang Tertata dengan Baik"
+      }
+    ]
+  },
+  {
+    "id": "k43",
+    "topic": "Other: No Wallet Lock-In",
+    "canonical_title": "No Wallet Lock-In",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 31,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "No Wallet Lock-In"
+      }
+    ]
+  },
+  {
+    "id": "k77",
+    "topic": "Other: Tajuk dikenali",
+    "canonical_title": "Tajuk dikenali",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 20,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Tajuk dikenali"
+      }
+    ]
+  },
+  {
+    "id": "k105",
+    "topic": "Other: Penyaring dan Pencarian Cepat",
+    "canonical_title": "Penyaring dan Pencarian Cepat",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Penyaring dan Pencarian Cepat"
+      }
+    ]
+  },
+  {
+    "id": "k78",
+    "topic": "Other: Pilihan Malaysia",
+    "canonical_title": "Pilihan Malaysia",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.96,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Pilihan Malaysia"
+      }
+    ]
+  },
+  {
+    "id": "k106",
+    "topic": "Other: Saldo dan Laporan Real-Time",
+    "canonical_title": "Saldo dan Laporan Real-Time",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 21,
+    "avg_position": 0.96,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Saldo dan Laporan Real-Time"
+      }
+    ]
+  },
+  {
+    "id": "k79",
+    "topic": "Other: Kawalan akses",
+    "canonical_title": "Kawalan akses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 17,
+    "avg_position": 0.98,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Kawalan akses"
+      }
+    ]
+  },
+  {
+    "id": "k107",
+    "topic": "Other: Pengaturan Akaun yang Dapat Dipersonalisasi",
+    "canonical_title": "Pengaturan Akaun yang Dapat Dipersonalisasi",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 0.98,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Pengaturan Akaun yang Dapat Dipersonalisasi"
+      }
+    ]
+  },
+  {
+    "id": "k24",
+    "topic": "Other: User Reviews",
+    "canonical_title": "User Reviews",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 66,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "User Reviews"
+      }
+    ]
+  },
+  {
+    "id": "k26",
+    "topic": "Other: User Reviews",
+    "canonical_title": "User Reviews",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 270,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "User Reviews"
+      }
+    ]
+  },
+  {
+    "id": "k44",
+    "topic": "Other: Join Longfu88 Today",
+    "canonical_title": "Join Longfu88 Today",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 262,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Join Longfu88 Today"
+      }
+    ]
+  },
+  {
+    "id": "k80",
+    "topic": "Other: Bantuan tersusun",
+    "canonical_title": "Bantuan tersusun",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 19,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 8,
+        "level": 3,
+        "text": "Bantuan tersusun"
+      }
+    ]
+  },
+  {
+    "id": "k108",
+    "topic": "Other: Akses Responsif Lintas Perangkat",
+    "canonical_title": "Akses Responsif Lintas Perangkat",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 21,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 9,
+        "level": 3,
+        "text": "Akses Responsif Lintas Perangkat"
+      }
+    ]
+  }
+]

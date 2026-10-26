@@ -1,0 +1,93 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino Login: Secure Access to Your Account",
+      "text": "Longfu88 gives each player an account that is opened with the e-mail address and the password chosen at registration, and the same two details open the login screen later. The casino accepts players aged 18 or over, and this page is written for players from Malaysia. It covers the sign-in steps, password reset, blocked access, account protection, verification documents, registration and support.",
+      "version": 1,
+      "history": []
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Signing In Safely",
+      "text": "A Longfu login needs two details only, the registered e-mail address and the password, and it runs in three steps:\n\n1. Select Login on the website.\n2. Enter the registered e-mail and password on the login screen.\n3. Complete any security check and access the account.\n\nThe security check comes before access, so the account opens only once any such check is passed, and the e-mail and password remain the only login details.",
+      "version": 1,
+      "history": []
+    },
+    "b03": {
+      "id": "b03",
+      "level": 3,
+      "heading": "Replacing a Lost Password",
+      "text": "A player who forgot the password can set a new one through the e-mail address used at registration, in three steps:\n\n1. Choose Forgot Password on the login screen.\n2. Request a reset link using the registered e-mail.\n3. Follow the e-mailed instructions to set a new password.\n\nA player who no longer reaches that mailbox should contact support.",
+      "version": 1,
+      "history": []
+    },
+    "b04": {
+      "id": "b04",
+      "level": 3,
+      "heading": "Spotting Why Access Is Blocked",
+      "text": "Failed logins often come from a typing detail: the e-mail address must match the registered one, and caps lock and the keyboard layout need checking. A lost password calls for the reset. The operator may suspend activity for verification or suspected abuse, and an account review can delay access until verification is complete. In that case support answers through live chat 24/7 and by e-mail.",
+      "version": 1,
+      "history": []
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "What Protects the Account",
+      "text": "The account holder is responsible for safeguarding the login credentials, so the e-mail address and the password remain the player's own concern. On the operator's side, technical and organisational safeguards protect accounts, payments and personal information, and activity may be suspended for verification or suspected abuse. Personal data may be shared with payment service providers, identity verification providers, technology providers, and with regulators and law enforcement when required. Players also hold rights over this data: access, rectification, erasure where legally permitted, restriction, objection, portability where applicable and withdrawal of consent.",
+      "version": 1,
+      "history": []
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Why the Casino Asks for Documents",
+      "text": "Account verification is requested on four triggers: during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. It is not a step of the sign-in itself. The table lists the documents that count for each purpose.\n\n| Document type | Accepted documents |\n|---|---|\n| Identity | Passport, national identity card or driving licence |\n| Address | Utility bill or bank statement |\n| Payment method | Bank or card ownership evidence, or digital wallet ownership evidence |\n| Source of funds (only when requested) | Proof of income, bank statements or other supporting financial documents |\n\nDocuments are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.",
+      "version": 1,
+      "history": []
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Registration Details and Eligibility",
+      "text": "The Longfu88 register process uses e-mail registration, the only method given, and takes five steps in a fixed order:\n\n1. Open the website and select Register.\n2. Enter e-mail and create a password.\n3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.\n4. Complete the additional personal details and residential address.\n5. Select Create Account and complete any requested e-mail confirmation.\n\nRegistration requires e-mail, password, legal name, date of birth and residential address. Eligibility means age 18+ and legal gambling age in the relevant jurisdiction, and each player may hold only one personal account, so a second profile for the same player is not allowed.",
+      "version": 1,
+      "history": []
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "The Welcome Offer in Brief",
+      "text": "A new account can claim the Casino Welcome Bonus, a first-deposit casino bonus of 188% up to €2,088 plus 18 free spins. The minimum first deposit is €50, and wagering is 25x the deposit plus bonus amount. Claiming takes four steps: register and complete the personal details, make the first qualifying deposit, activate the bonus in My Bonuses before any wager, then play eligible games and complete the wagering.",
+      "version": 1,
+      "history": []
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "Who to Contact",
+      "text": "Customer support answers account, login and verification questions through 24/7 live chat and by e-mail at support@longfu88.com. A failed login, a reset e-mail that does not arrive and a document upload problem all belong there. Support is available in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.",
+      "version": 1,
+      "history": []
+    },
+    "b10": {
+      "id": "b10",
+      "level": 2,
+      "heading": "Account Safety Questions",
+      "text": "- **How does a player log in?** The Longfu88 casino login takes the registered e-mail and password, followed by any security check.\n- **How long does verification take?** A complete set of documents is normally reviewed within up to 10 days.\n- **Which identity document is accepted?** A passport, a national identity card or a driving licence.\n- **May a player hold more than one account?** No, each player may hold one personal account only.\n- **Where should a player turn if the login still fails?** The Longfu88 support team takes messages in the live chat, open around the clock, and by e-mail.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Reword the answer to question 5 so that it does not reuse the frame 'answers through live chat 24/7 and by e-mail': for example say that the player can write to customer support at Longfu88 in the live chat, which is open around the clock, or by e-mail. Keep 'Longfu88' in the block exactly once, keep 'Longfu88 casino login' exactly once (in the answer to question 1), do not print the e-mail address, keep the bold questions and the list of 5 items."
+          ]
+        }
+      ]
+    }
+  }
+}

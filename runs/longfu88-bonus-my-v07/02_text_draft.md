@@ -1,0 +1,90 @@
+# Longfu88 Bonus Terms to Check Before You Claim
+
+Longfu88 runs bonuses that start with the Casino Welcome Bonus for new players: 188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings. Players looking for the Longfu bonus find the welcome offer, the weekly and weekend reloads, cashback and a rewards area here. Terms behind the Longfu88 promotions follow below. This page is written for players from Malaysia, and the bonuses are for players aged 18 or over, as Longfu88 requires.
+
+## The Offers and Their Rules at a Glance
+
+The bonuses fall into four families, and Longfu88 names the offers of each family separately.
+
+- Welcome offers: Casino Welcome Bonus, Live Casino Welcome Bonus and Casino Crypto Welcome Bonus
+- Reload offers: Casino Weekend Reload and Casino Weekly Reload
+- Cashback: Casino Weekly Cashback and Live Casino Cashback
+- Rebates: Unlimited Casino Rebate, together with the other rebate categories
+
+Every offer has its own terms and is activated in My Bonuses. The sportsbook keeps a separate set of bonuses, which this page does not list.
+
+## The Welcome Offer
+
+The Casino Welcome Bonus is a first-deposit match of 188% up to €2,088 plus 18 Free Spins, that is spins on a slot with the stake paid by the casino. It rewards the first qualifying deposit, and the minimum first deposit for it is €50. New registered players are eligible, with one welcome offer per account.
+
+Longfu88 lists two alternatives. The Live Casino Welcome Bonus gives 125% up to €888, while the Casino Crypto Welcome Bonus gives 188% up to 2,888 USDT. Of these, the Casino Welcome Bonus and the Crypto Welcome Bonus are alternative first-deposit offers.
+
+## Claiming Without Losing Eligibility
+
+Claiming the Casino Welcome Bonus at Longfu88 takes four steps in a fixed order.
+
+1. Register an account and complete the required personal details.
+2. Make the first qualifying deposit.
+3. Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.
+4. Play eligible casino games and complete the wagering before expiry.
+
+The bonus stays valid for 10 days from activation, so the activation has to come before any wager. No Longfu88 promo code is listed, and the player activates the bonus in My Bonuses.
+
+## Longfu88 Welcome Bonus Terms and Wagering
+
+The terms of the Casino Welcome Bonus at Longfu88 set how the bonus is wagered and how much can be cashed out. A wagering requirement applies to the deposit plus the bonus amount, and separately to Free Spins winnings.
+
+| Term | Value |
+|---|---|
+| Wagering | 25x the deposit plus bonus amount |
+| Free Spins wagering | 40x Free Spins winnings |
+| Validity | 10 days from activation |
+| Maximum bet | €22.5 per spin |
+| Maximum cashout | 5x the initial bonus amount |
+
+Four rules can cost a player the bonus. Neteller and Skrill deposits are excluded, and only one promotional bonus may be active at a time. A withdrawal request before claiming or while the bonus is active can void the eligibility. Longfu88 may also require account verification before promotional winnings are paid.
+
+## Verification Before Bonus Winnings
+
+Account verification may be required before promotional winnings are paid. A withdrawal request before claiming a bonus or while it is active can also void the promotional eligibility. Verification at Longfu88 involves these documents:
+
+- Government-issued photo ID or passport
+- Proof of residential address
+- Proof of ownership of a payment method
+- Source of funds or wealth documents when requested
+
+The submission window is up to 30 days when requested, and the review takes up to 10 days after a complete document set is received.
+
+## Reload Offers and Their Conditions
+
+Reload offers reward repeat deposits during the week or at the weekend, and Longfu88 attaches a minimum deposit and a wagering requirement to each of them.
+
+| Offer | Reward | Minimum deposit | Wagering |
+|---|---|---|---|
+| Casino Weekly Crypto Reload | 60% up to 1,000 USDT | 20 USDT | 30x deposit plus bonus |
+| Casino Weekend Reload | Up to €3,360 + 50 Free Spins | €50 | 30x deposit plus bonus; 40x Free Spins winnings |
+| Casino Weekend Crypto Reload | 75% up to 750 USDT + 100 Free Spins | 20 USDT | 30x deposit plus bonus; 40x Free Spins winnings |
+| Casino Double Fortune: One-Day Reload Special | 50% up to €500 | €30 | 30x deposit plus bonus |
+
+The weekly and weekend offers are valid for 7 days, while the Double Fortune special lasts 24 hours. The stake while wagering bonus funds is limited to €5 per spin, and a reload cannot be combined with another active casino bonus.
+
+## Seasonal and Limited-Time Campaigns
+
+Campaigns come and go, so the promotions page of the casino shows what is currently available. Longfu88 has listed two. The Casino Trick or Treat Pumpkin Bonanza gives up to 100 Free Spins, with wagering of 40x Free Spins winnings. In the Casino Dragon Quest: Get Verified and Get Extra! a player who completes the requested account verification during the campaign receives a €10 bonus credit, wagered 30x. Both require a €20 minimum deposit, are valid for 7 days and limit the stake to €5 per spin while bonus funds are wagered. Neither can be combined with another active casino bonus.
+
+## Cashback Conditions
+
+At Longfu88, the Casino Weekly Cashback returns up to 10% of weekly net casino losses, capped at €6,988. Net losses are calculated from Monday 00:00 UTC through Sunday 23:59 UTC, the minimum cashback is €4.5, and the player opts in for a four-week cycle. Wagering is 10x the cashback before withdrawal. The Live Casino Cashback gives 25% up to €850, with wagering of 10x the credited cashback. Longfu88 also pays the Unlimited Casino Rebate of 0.9% and the Unlimited Live Casino Rebate of 1.0% daily, with 1x wagering on the credited rebate. Only real-money bets count, while bonus funds are excluded.
+
+## Using Bonuses Responsibly
+
+Bonuses are for players aged 18 or over who gamble only where it is lawful, and the wagering, maximum bet and validity of an offer should be read before the player accepts it. Cancelling a promotion forfeits bonus funds and unconverted promotional winnings. Self-assessment questions help players identify possible gambling-related harm. Longfu88 names GamCare, Gamblers Anonymous and Gambling Therapy as organisations that offer support.
+
+## Longfu88 Offers and Terms: Frequently Asked Questions
+
+- **What happens if a withdrawal is requested before claiming a bonus or while it is active?** The promotional eligibility can be voided.
+- **Can verification be required for bonus winnings?** Yes, account verification may be required before promotional winnings are paid.
+- **Which payment methods are excluded from the welcome bonus?** Neteller and Skrill deposits are excluded.
+- **How many promotional bonuses can be active at once?** Only one promotional bonus may be active at a time.
+- **What is the minimum age?** Players must be at least 18 years old.
+- **Where can a player turn with a bonus question?** Customer support at Longfu88 answers through 24/7 live chat or e-mail.

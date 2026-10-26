@@ -1,0 +1,151 @@
+{
+  "id": "v01",
+  "name": "Quick bonus guide (small, flat)",
+  "tier": "small",
+  "angle": "A player who wants the welcome offer, the terms and the promo code answer in a minute.",
+  "skipped_clusters": [
+    {
+      "id": "k16",
+      "reason": "left out of the short text; the offer families are named in the sections that follow"
+    },
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Short brand-subpage for the small size group of the competitors: the Longfu88 welcome bonus with its claiming steps, the terms, the promo code question, the reload, free spin and cashback offers in the fewest words for a player from Malaysia. Page voice: short, dense paragraphs of two or three sentences, sentences of about 14 words, facts before comment, no scene-setting, no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Promotions: Quick Guide to Bonuses and Promo Code",
+      "words": 50,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1
+      }
+    },
+    {
+      "from": [
+        "b03",
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Welcome Bonus and How to Claim It",
+      "words": 140,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu88 welcome bonus": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The Casino Welcome Bonus of 188% up to €2,088 plus 18 Free Spins and the four steps to claim it."
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Terms in Brief",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Promo Code: What to Know",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 promo code": 1
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Weekly and Weekend Reloads",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "notes": "One lead-in sentence that says that the reload offers reward repeat deposits, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and three rows in this order: Casino Weekend Reload, Casino Weekend Crypto Reload, Casino Double Fortune: One-Day Reload Special (values exactly as in the Brand Information). After the table one sentence: the weekend offers are valid for 7 days and the Double Fortune special for 24 hours, and a reload cannot be combined with another active casino bonus. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].reward",
+        "brandinfo_promotions.other_bonuses[3].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[3].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[4].important_terms[2]"
+      ],
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[4].important_terms[1]"
+      ]
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Free Spins",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Weekly Cashback",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence, and the Unlimited Casino Rebate (0.9%) and the Unlimited Live Casino Rebate (1.0%) in one sentence: rebates are credited daily and carry 1x wagering on the credited rebate (that figure is in the Brand Information, state it once). ",
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence. "
+        ],
+        [
+          "Do not give the VIP cashback levels (the VIP page of the site covers them). ",
+          ""
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ]
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers: Quick Answers",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "4 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 4 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what is the minimum first deposit for the welcome bonus (€50); (2) how many promotional bonuses can be active at once (one); (3) how long the welcome bonus is valid (10 days from activation); (4) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[9].opt_in"
+      ]
+    }
+  ]
+}

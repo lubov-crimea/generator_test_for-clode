@@ -1,0 +1,1308 @@
+{
+ "intent_summary": "Brand-related (navigational and informational) page about the Rockyspin casino for Polish players: login, registration, bonuses and promo code, games, payments and withdrawals, VIP programme, player opinions.",
+ "blocks": [
+  {
+   "id": "b01",
+   "level": 1,
+   "heading": "Rockyspin Online Casino: Login, Bonuses and Withdrawals",
+   "source": "h1",
+   "words_min": 62,
+   "words_max": 78,
+   "keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 1,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Online Casino",
+     "priority": 10
+    },
+    {
+     "name": "Players from Poland",
+     "priority": 9
+    },
+    {
+     "name": "Welcome Bonus",
+     "priority": 7
+    },
+    {
+     "name": "Slots",
+     "priority": 7
+    },
+    {
+     "name": "Login and Registration",
+     "priority": 7
+    },
+    {
+     "name": "Withdrawals",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Online Casino",
+     "relation": "serves",
+     "object": "Players from Poland",
+     "priority": 9
+    },
+    {
+     "subject": "Official Website",
+     "relation": "is the entry point for",
+     "object": "Registration and Login",
+     "priority": 7
+    }
+   ],
+   "summary": "Short introduction for Polish players: what the guide covers (registration, login, bonuses, games, payments, withdrawals, mobile version, opinions) and who the casino is for. It builds the central entity Online Casino and previews the following sections.",
+   "copywriter_notes": "Start with one sentence explaining what the casino is and who it is for (Online Casino has the highest priority). Use \"Rockyspin official\" exactly once, in a natural sentence about the official site (for example as the query players type), and \"Rockyspin\" once. Only name the topics of the page: do not describe bonus terms, payments or registration steps. No promises about winnings; neutral-positive tone.",
+   "words": 70,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 1
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b02",
+   "level": 2,
+   "heading": "Rockyspin Casino at a Glance",
+   "source": "mandatory",
+   "words_min": 88,
+   "words_max": 112,
+   "keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 1,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k01"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Online Casino",
+     "priority": 10
+    },
+    {
+     "name": "Slots",
+     "priority": 8
+    },
+    {
+     "name": "Players from Poland",
+     "priority": 8
+    },
+    {
+     "name": "Live Casino",
+     "priority": 7
+    },
+    {
+     "name": "Sports Betting",
+     "priority": 6
+    },
+    {
+     "name": "Customer Support",
+     "priority": 5
+    },
+    {
+     "name": "PLN",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Online Casino",
+     "relation": "offers",
+     "object": "Slots, Live Casino and Sports Betting",
+     "priority": 9
+    },
+    {
+     "subject": "Online Casino",
+     "relation": "is intended for",
+     "object": "Adult Players from Poland",
+     "priority": 8
+    }
+   ],
+   "summary": "Overview of the platform: what the casino is, its main areas (slots, live casino, sports betting), who may play (adult players from Poland) and a short quick-facts list.",
+   "copywriter_notes": "Start with the definition of the platform (Online Casino), then name the main areas. End with a short quick-facts list: platform type, game types, mobile access, contact with support, age 18+. Use \"Rocky Spin\" once and \"Rockyspin\" once. Currency (PLN), languages and contact channels only if the brand information gives them. No licence number, owner or dates. Do not invent brand facts: state specifics only if they are in the brand information.",
+   "words": 100,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 1,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b03",
+   "level": 2,
+   "heading": "Registration at Rockyspin Step by Step",
+   "source": "unique",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 1,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k19"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Registration",
+     "priority": 10
+    },
+    {
+     "name": "Registration Form",
+     "priority": 8
+    },
+    {
+     "name": "First Deposit",
+     "priority": 7
+    },
+    {
+     "name": "KYC Verification",
+     "priority": 7
+    },
+    {
+     "name": "Email Confirmation",
+     "priority": 6
+    },
+    {
+     "name": "Welcome Bonus",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Registration",
+     "relation": "requires",
+     "object": "Real Personal Data",
+     "priority": 8
+    },
+    {
+     "subject": "Real Personal Data",
+     "relation": "facilitates",
+     "object": "KYC Verification",
+     "priority": 8
+    },
+    {
+     "subject": "First Deposit",
+     "relation": "follows",
+     "object": "Registration",
+     "priority": 6
+    }
+   ],
+   "summary": "A guide from opening the official site to the first deposit, with short tips that make later verification easier.",
+   "copywriter_notes": "One introductory sentence on what registration gives access to, then a numbered step list: open the official site, fill in the form, confirm email or phone, complete the profile, optionally choose the welcome bonus, make the first deposit. Add 2-3 tips (real data, one account per person, strong password). Use \"Rockyspin register\" once in a natural sentence, for example as the query players type. Do not give exact form fields or bonus amounts unless the brand information has them.",
+   "words": 90,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b04",
+   "level": 2,
+   "heading": "Login to Rocky Spin Casino",
+   "source": "mandatory",
+   "words_min": 70,
+   "words_max": 90,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 1,
+    "Rockyspin login": 1,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k18"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Login",
+     "priority": 10
+    },
+    {
+     "name": "Account Security",
+     "priority": 8
+    },
+    {
+     "name": "Password Reset",
+     "priority": 8
+    },
+    {
+     "name": "Customer Support",
+     "priority": 6
+    },
+    {
+     "name": "Mobile Version",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Login",
+     "relation": "requires",
+     "object": "a Registered Account",
+     "priority": 7
+    },
+    {
+     "subject": "Password Reset",
+     "relation": "restores",
+     "object": "Account Access",
+     "priority": 8
+    },
+    {
+     "subject": "Strong Password",
+     "relation": "protects",
+     "object": "Account Security",
+     "priority": 7
+    }
+   ],
+   "summary": "How to log in on desktop and mobile, what to do after a forgotten password or a login error, and basic account-security rules.",
+   "copywriter_notes": "Describe the login steps in one short paragraph, then the password-reset path (by email) and login errors (check the details, contact support). Two security tips: a strong unique password and never sharing login details. Use \"Rockyspin login\" once and \"Rocky Spin casino\" once. Do not claim that two-factor authentication exists unless the brand information says so.",
+   "words": 80,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 1,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b05",
+   "level": 2,
+   "heading": "Bonuses and Welcome Package at Rockyspin",
+   "source": "mandatory",
+   "words_min": 123,
+   "words_max": 157,
+   "keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 1,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k02",
+    "k05"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Welcome Bonus",
+     "priority": 10
+    },
+    {
+     "name": "Welcome Package",
+     "priority": 9
+    },
+    {
+     "name": "Wagering Requirements",
+     "priority": 9
+    },
+    {
+     "name": "Promotion Terms",
+     "priority": 8
+    },
+    {
+     "name": "Free Spins",
+     "priority": 8
+    },
+    {
+     "name": "Reload Bonus",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Welcome Package",
+     "relation": "is split across",
+     "object": "the First Deposits",
+     "priority": 8
+    },
+    {
+     "subject": "Welcome Bonus",
+     "relation": "is subject to",
+     "object": "Wagering Requirements",
+     "priority": 9
+    },
+    {
+     "subject": "Promotion Terms",
+     "relation": "define",
+     "object": "Maximum Bet and Expiry",
+     "priority": 8
+    }
+   ],
+   "summary": "The welcome package spread over the first deposits and the types of ongoing promotions, with a reminder to read the terms before activating.",
+   "copywriter_notes": "Start with the welcome bonus (highest priority), then a list of the main offers: free spins and reload bonuses. Explain in 1-2 sentences what wagering requirements, maximum bet and expiry mean. Use \"Rocky Spin casino\" once and \"Rockyspin\" once. Do not give amounts, percentages or offer names unless the brand information has them; describe the offers in general terms and refer to the promotion terms on the official site.",
+   "words": 140,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b06",
+   "level": 3,
+   "heading": "Rocky Spin Casino Promo Code",
+   "source": "mandatory",
+   "words_min": 53,
+   "words_max": 67,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k03"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Promo Code",
+     "priority": 10
+    },
+    {
+     "name": "Bonus Offer",
+     "priority": 8
+    },
+    {
+     "name": "Promotion Terms",
+     "priority": 6
+    },
+    {
+     "name": "Deposit",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Promo Code",
+     "relation": "activates",
+     "object": "a Bonus Offer",
+     "priority": 9
+    },
+    {
+     "subject": "Promo Code",
+     "relation": "does not guarantee",
+     "object": "a Bonus without Meeting the Terms",
+     "priority": 8
+    }
+   ],
+   "summary": "What a promo code does, where to enter it and why the code alone does not guarantee a bonus.",
+   "copywriter_notes": "Explain briefly what a promo code is and where it is usually entered (at registration or in the cashier). Say that the bonus requires meeting the promotion terms. Do NOT give any specific code unless the brand information has it. Do not use any tracked keyword in this block.",
+   "words": 60,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 1,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b07",
+   "level": 3,
+   "heading": "Cashback at Rockyspin",
+   "source": "mandatory",
+   "words_min": 53,
+   "words_max": 67,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k04"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Cashback",
+     "priority": 10
+    },
+    {
+     "name": "Net Losses",
+     "priority": 8
+    },
+    {
+     "name": "Wagering Requirements",
+     "priority": 7
+    },
+    {
+     "name": "Limits",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Cashback",
+     "relation": "returns",
+     "object": "a Percentage of Net Losses",
+     "priority": 9
+    },
+    {
+     "subject": "Cashback",
+     "relation": "is subject to",
+     "object": "Limits and Wagering Requirements",
+     "priority": 7
+    }
+   ],
+   "summary": "How cashback works in general, in what form it is paid and why the current terms must be checked.",
+   "copywriter_notes": "Explain the principle of cashback (a refund of part of net losses for a period), the possible forms (bonus or real money) and the fact that limits and wagering requirements apply. Do not give a percentage or frequency unless the brand information has it. Do not use any tracked keyword in this block.",
+   "words": 60,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b08",
+   "level": 2,
+   "heading": "Tournaments and Ongoing Promotions",
+   "source": "mandatory",
+   "words_min": 62,
+   "words_max": 78,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k07"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Tournaments",
+     "priority": 10
+    },
+    {
+     "name": "Leaderboard",
+     "priority": 8
+    },
+    {
+     "name": "Prize Pool",
+     "priority": 7
+    },
+    {
+     "name": "Ongoing Promotions",
+     "priority": 7
+    },
+    {
+     "name": "Free Spins",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Tournaments",
+     "relation": "reward",
+     "object": "Top Players on the Leaderboard",
+     "priority": 8
+    },
+    {
+     "subject": "Ongoing Promotions",
+     "relation": "complement",
+     "object": "the Welcome Bonus",
+     "priority": 6
+    }
+   ],
+   "summary": "How tournaments and recurring promotions work, how to join and why to read the rules of each event.",
+   "copywriter_notes": "Describe in general how tournaments work (points, leaderboard, prize pool) and what ongoing promotions are. Do not give tournament names or prize amounts unless the brand information has them. End with the advice to read the rules. Do not use any tracked keyword in this block.",
+   "words": 70,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b09",
+   "level": 2,
+   "heading": "Games and Slots at Rockyspin",
+   "source": "unique",
+   "words_min": 97,
+   "words_max": 123,
+   "keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k08",
+    "k09",
+    "k10"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Slots",
+     "priority": 10
+    },
+    {
+     "name": "Live Casino",
+     "priority": 8
+    },
+    {
+     "name": "Demo Mode",
+     "priority": 8
+    },
+    {
+     "name": "Table Games",
+     "priority": 7
+    },
+    {
+     "name": "Game Providers",
+     "priority": 7
+    },
+    {
+     "name": "Special Games",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Demo Mode",
+     "relation": "allows",
+     "object": "Playing for Free without a Deposit",
+     "priority": 8
+    },
+    {
+     "subject": "Live Casino",
+     "relation": "streams",
+     "object": "Dealers in Real Time",
+     "priority": 8
+    },
+    {
+     "subject": "Provider Filter",
+     "relation": "makes it easier to",
+     "object": "Choose Games",
+     "priority": 6
+    }
+   ],
+   "summary": "Overview of the lobby: slots, demo mode, live casino, table and special games, and ways to find games.",
+   "copywriter_notes": "Start with slots, then live casino and table games. End with a short list of the main categories. Mention filtering by provider or feature. Describe demo mode only if the brand information confirms it. Use \"Rockyspin\" once. Do NOT name providers or game titles as the brand's offer unless the brand information has them.",
+   "words": 110,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b10",
+   "level": 2,
+   "heading": "Sports Betting at Rockyspin",
+   "source": "mandatory",
+   "words_min": 62,
+   "words_max": 78,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 1,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k06"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Sports Betting",
+     "priority": 10
+    },
+    {
+     "name": "Bonus for Bets",
+     "priority": 7
+    },
+    {
+     "name": "Live Bets",
+     "priority": 7
+    },
+    {
+     "name": "Accumulator Bets",
+     "priority": 6
+    },
+    {
+     "name": "Bonus Terms",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Sports Betting",
+     "relation": "is a separate area of",
+     "object": "the Casino",
+     "priority": 7
+    },
+    {
+     "subject": "Sports Bonus",
+     "relation": "has",
+     "object": "Its Own Terms",
+     "priority": 8
+    }
+   ],
+   "summary": "The sportsbook: disciplines, bet types and a separate welcome offer for sports bets, if available.",
+   "copywriter_notes": "Describe the sports area in general terms (disciplines; single, accumulator and live bets). Remind readers that a sports bonus has its own terms, separate from casino bonuses. Use \"Rocky Spin casino\" once. Do not claim that the area exists or what odds it has unless the brand information confirms it.",
+   "words": 70,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b11",
+   "level": 2,
+   "heading": "Payment Methods and Deposits",
+   "source": "mandatory",
+   "words_min": 88,
+   "words_max": 112,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "table"
+   ],
+   "covers_clusters": [
+    "k12",
+    "k14"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Payment Methods",
+     "priority": 10
+    },
+    {
+     "name": "Payment Cards",
+     "priority": 8
+    },
+    {
+     "name": "Digital Wallets",
+     "priority": 7
+    },
+    {
+     "name": "Cryptocurrencies",
+     "priority": 7
+    },
+    {
+     "name": "Bank Transfer",
+     "priority": 6
+    },
+    {
+     "name": "PLN",
+     "priority": 6
+    },
+    {
+     "name": "SSL Encryption",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Payment Methods",
+     "relation": "enable",
+     "object": "Deposits and Withdrawals",
+     "priority": 9
+    },
+    {
+     "subject": "SSL Encryption",
+     "relation": "protects",
+     "object": "Payment Data",
+     "priority": 7
+    },
+    {
+     "subject": "Digital Wallets",
+     "relation": "are usually",
+     "object": "Faster than Bank Transfers",
+     "priority": 6
+    }
+   ],
+   "summary": "A table of deposit methods for players from Poland with minimum deposit and crediting time, plus one sentence on payment security.",
+   "copywriter_notes": "One short lead-in sentence (currency, SSL encryption), then a table with the columns \"Method\", \"Minimum deposit\", \"Crediting time\" (in Polish). Rows by category: payment cards, digital wallets, cryptocurrencies, bank transfer. Specific names (for example Visa, Mastercard, Apple Pay, Google Pay) may appear only as examples of popular methods and only if the brand information confirms them. Write \"No data\" (in Polish) for missing values. Do not claim the list is complete; refer to the cashier. Do not use any tracked keyword in this block.",
+   "words": 100,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b12",
+   "level": 3,
+   "heading": "Withdrawals: Limits and Timing",
+   "source": "mandatory",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k13",
+    "k15"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Withdrawal",
+     "priority": 10
+    },
+    {
+     "name": "KYC Verification",
+     "priority": 9
+    },
+    {
+     "name": "Withdrawal Limits",
+     "priority": 8
+    },
+    {
+     "name": "Processing Time",
+     "priority": 8
+    },
+    {
+     "name": "Identity Documents",
+     "priority": 7
+    },
+    {
+     "name": "Same Method",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Withdrawal",
+     "relation": "requires",
+     "object": "Completed KYC Verification",
+     "priority": 9
+    },
+    {
+     "subject": "Payment Method",
+     "relation": "influences",
+     "object": "Processing Time",
+     "priority": 7
+    }
+   ],
+   "summary": "How a withdrawal works, what the processing time depends on and why KYC verification is needed before the first payout.",
+   "copywriter_notes": "In a short paragraph describe the process: request in the cashier, time depends on the method and the verification status, limits, payout usually to the same method that was used for the deposit. Then a short list of the documents usually requested (ID document, proof of address, proof of payment method). Use \"Rockyspin\" once. Do not give exact times or limits unless the brand information has them.",
+   "words": 90,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b13",
+   "level": 2,
+   "heading": "VIP and Loyalty Programme at Rockyspin",
+   "source": "mandatory",
+   "words_min": 62,
+   "words_max": 78,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k16"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "VIP Programme",
+     "priority": 10
+    },
+    {
+     "name": "Loyalty Levels",
+     "priority": 8
+    },
+    {
+     "name": "Loyalty Points",
+     "priority": 7
+    },
+    {
+     "name": "Cashback",
+     "priority": 5
+    },
+    {
+     "name": "Cashier Limits",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Loyalty Points",
+     "relation": "unlock",
+     "object": "Higher VIP Levels",
+     "priority": 8
+    },
+    {
+     "subject": "Higher VIP Levels",
+     "relation": "may give",
+     "object": "Better Benefits",
+     "priority": 6
+    }
+   ],
+   "summary": "How the loyalty programme works: earning points or levels and the possible benefits at higher levels.",
+   "copywriter_notes": "Explain the mechanism in general terms (points or levels; benefits depend on the current rules). Do not name levels, thresholds or specific rewards unless the brand information has them. Use conditional wording (\"may\", \"depend\"). Do not use any tracked keyword in this block.",
+   "words": 70,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b14",
+   "level": 2,
+   "heading": "Rockyspin app: Mobile Play",
+   "source": "unique",
+   "words_min": 62,
+   "words_max": 78,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Mobile App",
+     "priority": 10
+    },
+    {
+     "name": "Browser Version",
+     "priority": 8
+    },
+    {
+     "name": "Android",
+     "priority": 7
+    },
+    {
+     "name": "iOS",
+     "priority": 7
+    },
+    {
+     "name": "Home Screen Shortcut",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Mobile Version",
+     "relation": "works in",
+     "object": "the Browser on Android and iOS",
+     "priority": 8
+    },
+    {
+     "subject": "Home Screen Shortcut",
+     "relation": "gives",
+     "object": "App-like Access",
+     "priority": 6
+    }
+   ],
+   "summary": "Playing on a phone: the browser version and a possible shortcut or app for Android and iOS.",
+   "copywriter_notes": "Describe mobile play in one paragraph: the browser version, adding a shortcut to the home screen, requirements (a stable connection). Do NOT claim that there is an app in a store or an APK unless the brand information confirms it. The heading already carries the brand keyword, so do not repeat the brand name or any tracked keyword in this block.",
+   "words": 70,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 1,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b15",
+   "level": 2,
+   "heading": "Player Reviews of Rockyspin",
+   "source": "mandatory",
+   "words_min": 79,
+   "words_max": 101,
+   "keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph",
+    "list"
+   ],
+   "covers_clusters": [
+    "k17",
+    "k20"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Player Opinions",
+     "priority": 10
+    },
+    {
+     "name": "Advantages",
+     "priority": 8
+    },
+    {
+     "name": "Disadvantages",
+     "priority": 8
+    },
+    {
+     "name": "Customer Support",
+     "priority": 6
+    },
+    {
+     "name": "Wagering Requirements",
+     "priority": 6
+    },
+    {
+     "name": "Verification",
+     "priority": 5
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Player Opinions",
+     "relation": "highlight",
+     "object": "Game and Payment Choice",
+     "priority": 7
+    },
+    {
+     "subject": "Wagering Requirements",
+     "relation": "are a frequent complaint in",
+     "object": "Player Opinions",
+     "priority": 7
+    }
+   ],
+   "summary": "A balanced summary of what players usually appreciate and criticise, ending with a short list of pros and cons.",
+   "copywriter_notes": "A short paragraph on what players usually pay attention to, then a list of pros and cons (game choice, payments, support versus wagering terms, verification). Use \"Rockyspin\" once. Do NOT invent opinions, ratings, quotes or review counts; write in general terms without attributing specific statements.",
+   "words": 90,
+   "heading_keywords": {
+    "Rockyspin": 1,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  },
+  {
+   "id": "b16",
+   "level": 2,
+   "heading": "Responsible Gambling",
+   "source": "unique",
+   "words_min": 53,
+   "words_max": 67,
+   "keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "formats": [
+    "paragraph"
+   ],
+   "covers_clusters": [
+    "k21"
+   ],
+   "kb_refs": [],
+   "entities": [
+    {
+     "name": "Responsible Gambling",
+     "priority": 10
+    },
+    {
+     "name": "Deposit Limits",
+     "priority": 8
+    },
+    {
+     "name": "Self-Exclusion",
+     "priority": 8
+    },
+    {
+     "name": "Age 18+",
+     "priority": 7
+    },
+    {
+     "name": "Breaks from Play",
+     "priority": 6
+    }
+   ],
+   "entity_connections": [
+    {
+     "subject": "Deposit Limits",
+     "relation": "help",
+     "object": "Control Spending",
+     "priority": 8
+    },
+    {
+     "subject": "Self-Exclusion",
+     "relation": "blocks",
+     "object": "Account Access for a Chosen Period",
+     "priority": 8
+    }
+   ],
+   "summary": "Responsible-gambling tools and the reminder of the 18+ age limit.",
+   "copywriter_notes": "Name the tools in general (deposit limits, breaks, self-exclusion) and say they should be set before playing. Remind readers of 18+ and that gambling is entertainment, not a way to earn money. Do not claim which tools this casino has unless the brand information says so. Do not use any tracked keyword in this block.",
+   "words": 60,
+   "heading_keywords": {
+    "Rockyspin": 0,
+    "Rocky Spin": 0,
+    "Rockyspin casino": 0,
+    "Rocky Spin casino": 0,
+    "Rockyspin login": 0,
+    "Rockyspin app": 0,
+    "Rockyspin register": 0,
+    "Rockyspin official": 0,
+    "Rockyspin online casino": 0
+   },
+   "brand_info": []
+  }
+ ],
+ "kb_unresolved": []
+}

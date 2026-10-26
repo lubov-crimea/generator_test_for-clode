@@ -1,0 +1,626 @@
+{
+ "website": 4132,
+ "slug": "index",
+ "seo": {
+  "title": "BC Game казино: 4-етапний бонус 180–360% + рейкбек",
+  "description": "BC Game казино для гравців з України: слоти, лайв-казино, ставки на спорт, чотириетапний вітальний пакет і лайв-підтримка 24/7. Прочитайте умови перед грою.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "BC Game",
+  "additionalKeywords": "казино, онлайн-казино, крипто-казино, слоти, лайв-казино, ставки на спорт, реєстрація, вхід, KYC, PWA, платежі, бонуси, вітальний бонус, рейкбек, Україна, UA"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "BC Game казино: огляд, бонуси, реєстрація та ігри",
+   "label": "Чотириетапний вітальний пакет: бонус на депозит від 180% до 360% + рейкбек",
+   "mainLabel": "",
+   "background": 2334,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Зареєструватися",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Топ-слоти",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Mega Moolah",
+     "image": 99,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "StarBurst",
+     "image": 73,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 100,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Bonanza",
+     "image": 72,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Razor Shark",
+     "image": 83,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Dead",
+     "image": 109,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Buffalo King Megaways",
+     "image": 91,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sugar Rush",
+     "image": 87,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Wolf Gold",
+     "image": 106,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Gates Of Olympus 1000",
+     "image": 84,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "The Dog House",
+     "image": 92,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "3 Hot Chilli Peppers",
+     "image": 107,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Crash та миттєві ігри",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Aviamasters",
+     "image": 78,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviator",
+     "image": 89,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviatrix",
+     "image": 77,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ballonix",
+     "image": 81,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Balloon",
+     "image": 86,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Crash",
+     "image": 88,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Chicken Road",
+     "image": 97,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "F777 Fighters",
+     "image": 108,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "JetX",
+     "image": 70,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lucky Jet",
+     "image": 104,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Penalty Shoot Out",
+     "image": 90,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Piggy Tap",
+     "image": 82,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Live",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "American Roulette",
+     "image": 2628,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Balls",
+     "image": 2630,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Time",
+     "image": 2208,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ice Fishing",
+     "image": 102,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Infinite Blackjack",
+     "image": 2626,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 235,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Грати зараз",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "Бонуси BC Game",
+   "items": [
+    {
+     "image": 2337,
+     "content": "<h3><strong>Вітальний пакет</strong></h3>\n4 депозити: бонус від 180% до 360% + рейкбек",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Отримати бонус",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 2335,
+     "content": "<h3><strong>Кешбек</strong></h3>\n10% від чистих збитків, до 500 $ на тиждень",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Отримати бонус",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 2336,
+     "content": "<h3><strong>Спортивна акція</strong></h3>\nTop 5 Leagues Combo Boost: до 35% на комбіновані ставки",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Отримати бонус",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 2338,
+     "content": "<h3><strong>VIP-клуб</strong></h3>\nП'ять рівнів, рейкбек і бонуси за підвищення рівня",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Отримати бонус",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>BC Game є онлайн-казино, яке пропонує гравцям з України ігри казино, ставки на спорт і лотерею в одному каталозі. Основу лобі становлять слоти та лайв казино, а поруч з ними працюють краш-ігри, оригінальні ігри платформи, покер, бінго, перегони, UpDown і ринки прогнозів. Про оплату, зокрема криптовалютою, докладно сказано в розділах про платежі.</p>\n<p>Платформа приймає тільки дорослих: мінімальний вік становить 18 років або вищий, якщо його встановлює законодавство країни гравця. Тому перед реєстрацією варто перевірити вимоги власної юрисдикції.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Отримати бонус",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Коротка інформація про казино</h2>\n<table>\n<tr>\n<td>Параметр</td>\n<td>Значення</td>\n</tr>\n<tr>\n<td>Оператор</td>\n<td>Twocent Technology Limited</td>\n</tr>\n<tr>\n<td>Ліцензія</td>\n<td>Уряд автономного острова Анжуан, Союз Коморських Островів, ALSI-202410011-FI1</td>\n</tr>\n<tr>\n<td>Рік запуску</td>\n<td>2017</td>\n</tr>\n<tr>\n<td>Валюти</td>\n<td>Євро, долар США, BTC, ETH, BNB, XRP</td>\n</tr>\n<tr>\n<td>Платіжні методи</td>\n<td>Криптовалюта, PayDo, Skrill, Tink, Neteller</td>\n</tr>\n<tr>\n<td>Вітальний бонус</td>\n<td>Чотириетапний пакет: від 180% + 40% рейкбеку до 360% + 140% рейкбеку</td>\n</tr>\n<tr>\n<td>Мінімальний депозит для бонусу</td>\n<td>5 €</td>\n</tr>\n<tr>\n<td>Кешбек</td>\n<td>10% від чистих збитків, до 500 $ на тиждень</td>\n</tr>\n<tr>\n<td>Лайв-підтримка</td>\n<td>24/7</td>\n</tr>\n<tr>\n<td>E-mail підтримки</td>\n<td>feedback@bcgame.com</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Реєстрація на BC Game</h2>\n<p>Створення акаунта в казино складається з п'яти послідовних кроків.</p>\n<ol>\n<li>Відкрити вебсайт казино або мобільну PWA.</li>\n<li>Вибрати спосіб реєстрації та вказати потрібні дані акаунта.</li>\n<li>За наявності ввести реферальний або промокод.</li>\n<li>Підтвердити електронну адресу чи інший контакт, якщо платформа цього вимагає.</li>\n<li>Прийняти Умови користування та правила акаунта: без цього реєстрація не завершується.</li>\n</ol>\n<p>Для входу потрібні сайт або PWA і дані, указані під час реєстрації. Забутий пароль відновлюють через відповідну опцію на сторінці входу, дотримуючись інструкцій, які надходять на зареєстрований контакт.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Вітальний бонус</h2>\n<p>BC Game пропонує новим гравцям чотириетапний вітальний пакет: він складається з чотирьох депозитних етапів, і кожен поєднує бонус на депозит із рейкбеком. Від етапу до етапу зростають і мінімальний кваліфікаційний депозит, і відсотки бонусу та рейкбеку.</p>\n<table>\n<tr>\n<td>Етап</td>\n<td>Бонус на депозит</td>\n<td>Рейкбек</td>\n<td>Мінімальний депозит</td>\n</tr>\n<tr>\n<td>Депозит 1</td>\n<td>180%</td>\n<td>40%</td>\n<td>5 €</td>\n</tr>\n<tr>\n<td>Депозит 2</td>\n<td>240%</td>\n<td>60%</td>\n<td>9 €</td>\n</tr>\n<tr>\n<td>Депозит 3</td>\n<td>300%</td>\n<td>100%</td>\n<td>20 €</td>\n</tr>\n<tr>\n<td>Депозит 4</td>\n<td>360%</td>\n<td>140%</td>\n<td>30 €</td>\n</tr>\n</table>\n<p>Пакет доступний лише новим користувачам і діє 24 години. Кожен бонус спочатку заблокований: після кваліфікаційного депозиту його потрібно отримати вручну, і він надходить на заблокований баланс як депозитний рейкбек. Далі гравець грає як зазвичай, а бонус розблоковується в реальному часі в міру розрахунку ставок.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Грати зараз",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Інші акції та кешбек</h2>\n<p>Кешбек становить 10% від чистих кваліфікованих збитків за тижневий період з понеділка 00:00 до неділі 23:59 за UTC. Для нарахування потрібні чисті збитки від 10 $, а ліміт дорівнює 500 $ на тиждень. Кошти надходять протягом 24 годин після завершення періоду.</p>\n<p>Акція 7-Day Gift винагороджує виконання щоденних завдань безкоштовними обертаннями: 20 за кожен завершений день і до 120 загалом. Перед участю варто перевірити актуальні умови на сторінці акцій.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Ігри казино BCGame</h2>\n<p>Каталог починається зі слотів, за якими йдуть лайв казино та настільні ігри: блекджек, рулетка й бакара. Окремий напрямок становлять краш-ігри та інші оригінальні розробки платформи, серед яких Crash, Mines, Classic Dice, Wheel, Limbo, Plinko і Tower Legend. Слоти та ігри з живими дилерами постачають студії Pragmatic Play, Evolution Gaming і Hacksaw. Тож у лобі поруч зі стороннім контентом працюють власні ігри казино. Каталог доповнюють ігрові шоу, кено, відеопокер, віртуальний спорт і криптоф'ючерси.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Ставки на спорт</h2>\n<p>Спортивний розділ BC Game приймає ставки на футбол, крикет, NFL, баскетбол і кіберспорт, а загалом охоплює понад 80 видів спорту та віртуальний спорт. Ставки доступні в двох режимах: до початку матчу та наживо. Нині рекламується акція Top 5 Leagues Combo Boost, яка повертає до 35% на комбіновані ставки. Призовий фонд у 500 000 $ спільний для всіх учасників, тож це не гарантована виплата кожному гравцеві.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Зареєструватися",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Платіжні методи та поповнення рахунку</h2>\n<p>BC Game дозволяє поповнити рахунок криптовалютою або через PayDo, Skrill, Tink і Neteller, причому платіж має надходити з методу, що належить самому гравцеві.</p>\n<table>\n<tr>\n<td>Метод</td>\n<td>Мінімум</td>\n<td>Максимум</td>\n<td>Комісія</td>\n</tr>\n<tr>\n<td>Криптовалюта</td>\n<td>10 € в еквіваленті</td>\n<td>5 000 € в еквіваленті</td>\n<td>0,1%</td>\n</tr>\n<tr>\n<td>PayDo</td>\n<td>10 €</td>\n<td>5 000 €</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Skrill</td>\n<td>10 €</td>\n<td>5 000 €</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Tink</td>\n<td>10 €</td>\n<td>5 000 €</td>\n<td>0%</td>\n</tr>\n<tr>\n<td>Neteller</td>\n<td>10 €</td>\n<td>5 000 €</td>\n<td>0%</td>\n</tr>\n</table>\n<p>Комісію 0% казино здебільшого бере на себе, проте банк або провайдер можуть утримати власні збори. Криптовалютні депозити обкладаються комісією 0,1%. Також доступні банківські картки Visa і Mastercard та електронні гаманці Apple Pay, Google Pay і PicPay, якщо їх підтримують країна, валюта та провайдер акаунта.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Виведення коштів</h3>\n<p>Виведення коштів можливе після того, як внесена сума буде відіграна щонайменше 1x: це правило діє з міркувань AML. Мінімум на одну транзакцію становить 20 € або еквівалент у вибраній валюті, а максимум дорівнює 5 000 € або ліміту, який діє для обраного методу. Кошти зазвичай повертаються тим методом, яким вносився депозит, якщо це практично можливо. Перевірка особи може передувати виведенню: оператор вправі запросити паспорт чи ID-картку, підтвердження адреси або селфі. Час зарахування залежить від провайдера, банку та мережі.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Мобільна версія BC Game і PWA</h2>\n<p>Мобільний доступ забезпечують адаптивний сайт і Progressive Web App (PWA). Через PWA доступні казино, ставки на спорт, лотерея, криптоф'ючерси та акції, а також VIP-клуб, реферальний розділ, форум, блог та інструменти відповідальної гри. Є й інформація про provably fair, і спортивні інсайти для ставок. Казино й спортивний розділ працюють з одним спільним гаманцем, тож баланс не потрібно переносити між ними.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Забрати бонус",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VIP-клуб</h2>\n<p>VIP-клуб казино є п'ятирівневою програмою лояльності та винагород. Рівень залежить від досвіду (XP), який нараховується за кваліфікаційні розраховані ставки, тож просування сходами рівнів повністю залежить від ігрової активності. Учасників програма винагороджує рейкбеком і бонусами за підвищення рівня. Рейкбек розраховується від такої активності та переваги казино в конкретній грі, а не повертає відсоток від усієї ставки. Умови й право на винагороди можуть змінюватися.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Ліцензія, легальність і заборонені країни</h2>\n<p>BC Game працює за ліцензією уряду автономного острова Анжуан (Союз Коморських Островів) з номером ALSI-202410011-FI1, а оператором є компанія Twocent Technology Limited. Доступ закритий для гравців з Австралії, Австрії, Німеччини, Великої Британії, Франції, Нідерландів і США (разом з їхніми територіями), з Союзу Коморських Островів, а також з юрисдикцій з чорного списку FATF та інших країн, які забороняє регулятор або чинне законодавство. VPN і проксі для приховування реального місцезнаходження заборонені. Українським гравцям варто окремо перевірити правила азартних ігор у власній країні.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Безпека та захист даних</h2>\n<p>Акаунти й транзакції захищають цілодобовий моніторинг шахрайства та ризик-орієнтований контроль операцій. Для чесності ігор застосовують provably fair системи з аудитованою генерацією випадкових чисел. Політика конфіденційності посилається на GDPR і CCPA. Дані можуть передаватися платіжним провайдерам, провайдерам перевірки особи, сервісним партнерам і, якщо цього вимагає закон, регуляторним та правоохоронним органам. Користувач може запросити видалення даних там, де це дозволяє закон.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Приєднатися",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Відповідальна гра</h2>\n<p>Інструменти контролю гри обмежують депозити, ставки та збитки: доступні добові, тижневі й місячні ліміти на депозити, а ліміти на суму ставок і збитків встановлюються на добу, тиждень, місяць або квартал. Окремо діє період охолодження тривалістю 24 години. Самовиключення можна ініціювати на платформі, встановивши ліміт, або запросити через службу підтримки. Допомогу також надають Gamblers Anonymous, Gambling Therapy, GamCare і National Council on Problem Gambling.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Служба підтримки</h2>\n<p>У BC Game працює лайв-підтримка, яка доступна цілодобово, у режимі 24/7. Через неї варто вирішувати питання щодо акаунта, платежів, верифікації та інструментів відповідальної гри. Цілодобовий графік означає, що звернутися за допомогою можна в будь-який час доби, наприклад, якщо питання виникає під час депозиту чи виведення коштів.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Висновок</h2>\n<p>BC Games поєднує казино та спортивні ставки з доступом через сайт і PWA, а новим гравцям пропонує чотириетапний вітальний пакет з бонусами на депозит і рейкбеком. Платформа підійде тим, хто хоче грати й ставити на спорт з одного гаманця. Ліміти, період охолодження та самовиключення допомагають гравцям контролювати власну гру. Перед стартом варто прочитати умови акцій і сприймати гру лише як розвагу.</p>"
+  },
+  {
+   "__component": "blocks.reviews-2",
+   "title": "Відгуки гравців",
+   "reviews": [
+    {
+     "username": "Олександр",
+     "review": "Реєстрація зайняла кілька хвилин, а кроки були зрозумілі. Перед виведенням я вже знав, які дані можуть знадобитися.",
+     "date": "2026-10-16",
+     "avatar": 3858,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Оксана",
+     "review": "У лобі легко знайти і слоти, і лайв-казино. Розділи розкладені логічно, тож довго шукати не доводиться.",
+     "date": "2026-10-17",
+     "avatar": 3861,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Андрій",
+     "review": "Граю в основному з телефона через PWA, працює стабільно. Касу зручно використовувати навіть на маленькому екрані.",
+     "date": "2026-10-18",
+     "avatar": 3853,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Марія",
+     "review": "Лайв-підтримка відповіла по суті й підказала, де прочитати умови бонусу. Перед депозитом я їх уважно переглянула.",
+     "date": "2026-10-19",
+     "avatar": 3857,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Ірина",
+     "review": "Подобається, що доступно кілька способів поповнення і все описано в одному місці. Умови акцій варто перевіряти до депозиту.",
+     "date": "2026-10-21",
+     "avatar": 3860,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Поширені запитання",
+   "faqs": [
+    {
+     "question": "Який вітальний бонус отримують нові гравці?",
+     "answer": "Новим користувачам доступний чотириетапний пакет: від 180% + 40% рейкбеку на першому депозиті до 360% + 140% рейкбеку на четвертому. Мінімальні депозити для етапів: 5, 9, 20 і 30 €. Пакет діє 24 години."
+    },
+    {
+     "question": "Як розблокувати бонус?",
+     "answer": "Кожен бонус спочатку заблокований: після кваліфікаційного депозиту його потрібно отримати вручну. Далі гравець грає як зазвичай, і бонус розблоковується в реальному часі в міру розрахунку ставок."
+    },
+    {
+     "question": "Якими способами можна поповнити рахунок?",
+     "answer": "Криптовалютою або через PayDo, Skrill, Tink і Neteller. Мінімум становить 10 €, максимум 5 000 € у розрахунку на транзакцію. Платіж має надходити з методу, що належить самому гравцеві."
+    },
+    {
+     "question": "Який мінімум для виведення коштів?",
+     "answer": "Мінімум на одну транзакцію становить 20 € або еквівалент у вибраній валюті, максимум 5 000 € або ліміт обраного методу. Виведення можливе після того, як внесену суму відіграно щонайменше 1x."
+    },
+    {
+     "question": "Чи є мобільний застосунок?",
+     "answer": "Нативного застосунку немає. Мобільний доступ забезпечують адаптивний сайт і Progressive Web App (PWA)."
+    },
+    {
+     "question": "Як зв'язатися зі службою підтримки?",
+     "answer": "Через лайв-підтримку, яка працює цілодобово (24/7). Також доступна електронна пошта feedback@bcgame.com."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Вітальний пакет BC Game",
+   "description": "4 депозити: бонус від 180% до 360% + рейкбек",
+   "disclaimer": "18+. Діють умови та положення. Грайте відповідально.",
+   "image": 2334,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Отримати бонус",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

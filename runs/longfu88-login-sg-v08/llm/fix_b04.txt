@@ -1,0 +1,6 @@
+Longfu88 is a responsive website, so a smartphone or a tablet needs only its browser to reach the casino. A page that loads on a computer loads on a phone too, and the login works in the same way. The site works on Android, on iOS and in any mobile web browser. For quicker access, the player adds a shortcut of the website to the home screen, and the site then opens from there like any other icon.
+
+- Android: open the site in Chrome, open the browser menu and choose Add to Home screen, then confirm the shortcut.
+- iOS: open the site in Safari, tap Share and choose Add to Home Screen, then confirm Add.
+
+Every feature of the site stays the same on a phone: the casino, the sportsbook, account access, deposits, withdrawals and bonuses. A small screen changes only the size of the page, not the routine. Login still needs the registered e-mail and password, whichever device is in hand.

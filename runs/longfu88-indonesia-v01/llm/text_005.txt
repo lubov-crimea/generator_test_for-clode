@@ -1,0 +1,30 @@
+=== b06 ===
+Casino Weekly Reload memberi 50 putaran gratis, dua Weekend Reload mengisi akhir pekan, dan Casino Double Fortune hanya berlaku sehari penuh.
+
+| Penawaran | Hadiah | Deposit minimum | Wagering | Masa berlaku |
+|---|---|---|---|---|
+| Casino Weekly Reload | 50 putaran gratis | €30 | 40x kemenangan putaran gratis | 7 hari |
+| Casino Weekly Crypto Reload | 60% hingga 1.000 USDT | 20 USDT | 30x deposit plus bonus | 7 hari |
+| Casino Weekend Reload | Hingga €3.360 + 50 putaran gratis | €50 | 30x deposit plus bonus dan 40x kemenangan putaran gratis | 7 hari |
+| Casino Weekend Crypto Reload | 75% hingga 750 USDT + 100 putaran gratis | 20 USDT | 30x deposit plus bonus dan 40x kemenangan putaran gratis | 7 hari |
+| Casino Double Fortune | 50% hingga €500 | €30 | 30x deposit plus bonus | 24 jam |
+| Promosi musiman bernama Casino Trick or Treat Pumpkin Bonanza | Hingga 100 putaran gratis | €20 | 40x kemenangan putaran gratis | 7 hari |
+| Casino Dragon Quest | Kredit bonus €10 | €20 | 30x kredit promosi | 7 hari |
+
+Semua penawaran diaktifkan di My Bonuses dan hanya bisa diklaim sekali per periode promosi. Promosi tidak dapat digabung dengan bonus kasino lain yang masih aktif, dan taruhan maksimum saat memutar dana bonus adalah €5 per putaran.
+
+=== b07 ===
+Casino Weekly Cashback mengembalikan hingga 10% dari kerugian bersih kasino mingguan, dengan batas €6.988. Periode hitungnya berjalan dari Senin 00:00 UTC hingga Minggu 23:59 UTC, pemain harus ikut serta untuk siklus empat minggu, dan cashback masuk ke My Bonuses pada hari Senin dengan wagering 10x.
+
+| Tingkat VIP | Persentase | Maksimum |
+|---|---|---|
+| Bronze | 2% | €1.888 |
+| Silver | 4% | €2.388 |
+| Gold | 6% | €2.988 |
+| Platinum | 8% | €3.988 |
+| Diamond | 10% | €6.988 |
+
+Live Casino Cashback memberi 25% hingga €850. Unlimited Rebate dikreditkan setiap hari menurut kategori, masing-masing dengan wagering 1x: kasino 0,9%, kasino live 1,0%, P2P 0,8%, dan lotere 1,0%. Hanya taruhan uang sungguhan yang dihitung, sedangkan dana bonus tidak. Aktifkan Casino Weekly Cashback di My Bonuses agar kerugian bersih pekan berikutnya ikut dihitung.
+
+=== b08 ===
+Area Rewards menghimpun lima fitur gamifikasi. Di Bonus Crab, pemain memakai pick yang memenuhi syarat untuk membuka hadiah kepiting, berlaku 7 hari dengan wagering 30x pada kredit bonus dan 40x pada kemenangan putaran gratis. Wheel of Fortune diputar dengan satu putaran yang memenuhi syarat atau Coins, berlaku 7 hari dengan wagering 30x. Challenges membuka Coins, putaran gratis, dan kredit bonus setelah tugas permainan tertentu selesai, sedangkan Collections menukar set item kampanye yang lengkap dengan hadiah. Coins ditukar di Coin Shop dengan hadiah dan kredit bonus hingga €4.500, dengan harga berbeda untuk tiap item. Hadiah di area ini dapat membawa syarat taruhan sendiri.

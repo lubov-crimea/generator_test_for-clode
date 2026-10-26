@@ -1,0 +1,155 @@
+{
+  "tables": [
+    {
+      "competitor": 0,
+      "url": "https://longfu88.bid/app/",
+      "heading": "Keperluan telefon sebelum pasang",
+      "rows": [
+        [
+          "Android",
+          "Android 8.0 atau lebih baharu disyorkan untuk APK."
+        ],
+        [
+          "iOS",
+          "iOS 13 atau lebih baharu sesuai untuk aplikasi web."
+        ],
+        [
+          "RAM",
+          "Sekurang-kurangnya 3GB membantu lobi dan video bergerak stabil."
+        ],
+        [
+          "Storan",
+          "Sediakan 150MB ruang kosong untuk fail dan cache."
+        ],
+        [
+          "Wilayah",
+          "Akses tersedia di wilayah yang disokong dan dibenarkan setempat."
+        ]
+      ]
+    },
+    {
+      "competitor": 1,
+      "url": "https://longfu88.best/app/",
+      "heading": "Mengapa aplikasi mudah alih longfu88 mengatasi versi penyemak imbas",
+      "rows": [
+        [
+          "Kelajuan Pemuatan",
+          "Aplikasi: lobby dan jadual langsung dimuat dalam 2-3 saat. Penyemak imbas: 4-6 saat bergantung pada sambungan anda. Perb"
+        ],
+        [
+          "Notifikasi Tolak",
+          "Aplikasi: terima pemberitahuan langsung tentang promosi, tarik balik dan jadual baharu. Penyemak imbas: tiada pemberitah"
+        ],
+        [
+          "Kestabilan Permainan",
+          "Aplikasi: kod dioptimumkan untuk skrin mudah alih, permainan tidak melambat atau mogok. Penyemak imbas: pembaruan automa"
+        ],
+        [
+          "Penggunaan Baterai",
+          "Aplikasi: permainan slot menggunakan 15-20% kuasa baterai per jam. Penyemak imbas: memuatkan laman penuh menggunakan 25-"
+        ],
+        [
+          "Akses Luar Talian",
+          "Aplikasi: lihat senarai permainan dan jadual walaupun tanpa internet; data tersinkron apabila anda tersambung semula. Pe"
+        ],
+        [
+          "Kemudahan Deposit & Penarikan",
+          "Aplikasi: butang deposit dan penarikan sentiasa dalam pandangan di bar menu. Penyemak imbas: anda mesti menavigasi menu "
+        ]
+      ]
+    },
+    {
+      "competitor": 4,
+      "url": "https://longfu88.vin/longfu88-app/",
+      "heading": "Phones and Versions the App Runs On",
+      "rows": [
+        [
+          "Android Version",
+          "Android 8.0 (Oreo) and above. Devices running Android 10 or higher will see the smoothest frame rates on live dealer str"
+        ],
+        [
+          "iOS Version",
+          "iOS 13 and above. iPhone 8 and newer models are fully supported. Older devices on iOS 13 may experience slightly slower "
+        ],
+        [
+          "RAM Requirement",
+          "Minimum 2 GB RAM for standard use. 3 GB or more is recommended if you plan to run live Baccarat or Mahjong Ways streams "
+        ],
+        [
+          "Storage Space",
+          "The APK installation requires approximately 30 MB of free storage. Cache files accumulate over sessions; clearing the ap"
+        ],
+        [
+          "Supported Regions",
+          "The app is available for download and use where local law permits. Access and eligibility depend on local regulations in"
+        ]
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "akses luar talian",
+      "competitors": 1
+    },
+    {
+      "label": "android",
+      "competitors": 1
+    },
+    {
+      "label": "android version",
+      "competitors": 1
+    },
+    {
+      "label": "ios",
+      "competitors": 1
+    },
+    {
+      "label": "ios version",
+      "competitors": 1
+    },
+    {
+      "label": "kelajuan pemuatan",
+      "competitors": 1
+    },
+    {
+      "label": "kemudahan deposit & penarikan",
+      "competitors": 1
+    },
+    {
+      "label": "kestabilan permainan",
+      "competitors": 1
+    },
+    {
+      "label": "notifikasi tolak",
+      "competitors": 1
+    },
+    {
+      "label": "penggunaan baterai",
+      "competitors": 1
+    },
+    {
+      "label": "ram",
+      "competitors": 1
+    },
+    {
+      "label": "ram requirement",
+      "competitors": 1
+    },
+    {
+      "label": "storage space",
+      "competitors": 1
+    },
+    {
+      "label": "storan",
+      "competitors": 1
+    },
+    {
+      "label": "supported regions",
+      "competitors": 1
+    },
+    {
+      "label": "wilayah",
+      "competitors": 1
+    }
+  ]
+}

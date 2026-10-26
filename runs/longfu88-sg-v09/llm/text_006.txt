@@ -1,0 +1,20 @@
+=== b06 ===
+A new account at Longfu88 is opened by e-mail in five steps. The form gathers the legal name, birth date, home address, e-mail address and password.
+
+1. Click Register on the site.
+2. Submit an email plus a chosen password.
+3. Age confirmation comes first, then acceptance of the Privacy Policy and the Terms and Conditions.
+4. Fill in the other personal fields and the residential address.
+5. Press Create Account and complete the confirmation sent to the mailbox.
+
+The rules allow one personal account per player, so a second profile for the same person is not accepted. Signing in works through the Longfu88 login: the player picks Login on the website, types the credentials from registration into the form and reaches the account once any security check is done. A forgotten password has its own route. The Forgot Password link on the login page requests a reset link, and the steps in the message that follows set a new password.
+
+=== b07 ===
+A verification request may arrive ahead of a payout, during an account review, after changes to account or payment details, and when a payment looks unusually large. Four kinds of paper are involved:
+
+- Identity: passport, national identity card or driving licence.
+- Residence: utility bill or bank statement.
+- Payment tool: ownership proof for the bank or card account, or for the digital wallet.
+- Funds origin, on request: bank statements, income proof or similar financial papers.
+
+Senders get 30 days from the request, and a complete set is normally reviewed within 10 days. Withdrawals wait while the checks run. Failed checks may lead to refused transactions, restricted accounts or payouts held back until compliance questions are resolved.

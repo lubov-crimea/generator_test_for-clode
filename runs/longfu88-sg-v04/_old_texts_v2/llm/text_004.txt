@@ -1,0 +1,20 @@
+=== b04 ===
+Registration is done by email and requires an email address, a password, a legal name, a date of birth and a residential address, collected over five steps.
+
+1. Open Longfu88 and select Register.
+2. Enter email and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested email confirmation.
+
+A player may hold only one personal account, and the age confirmation in step three covers 18+ and the legal gambling age of the relevant jurisdiction. The Longfu88 login runs on email and password: the player selects Login on the website, enters both and completes any security check. A forgotten password is handled through Forgot Password on the login screen. The reset link goes to the registered email, and the emailed instructions set a new password.
+
+=== b05 ===
+KYC verification may be required before a withdrawal, and also during an account review, on unusual or high-value transactions and after changes to account or payment details. The accepted documents fall into four groups:
+
+- Identity: passport, national identity card or driving licence.
+- Proof of address: utility bill or bank statement.
+- Payment method: bank or card ownership evidence, or digital wallet ownership evidence.
+- Source of funds, when requested: proof of income, bank statements or other supporting financial documents.
+
+When Longfu88 asks for documents, they can be sent within up to 30 days, and a complete document set is reviewed within up to 10 days. Withdrawals may be held until the checks are done, and additional telephone or face verification can be requested. Failed checks can lead to refused transactions or account restrictions, so legible, current documents that match the account profile save the most time.

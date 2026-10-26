@@ -1,0 +1,13 @@
+Kasino ini berjalan sebagai laman web responsif pada pelayar telefon pintar dan tablet di platform Android, iOS dan web mudah alih, dan laman itu boleh ditambah ke skrin utama sebagai pintasan. Longfu88 app dalam bentuk ini ialah versi skrin utama bagi laman web, dan pintasannya memberi akses pantas ke kasino dan buku sukan. Fungsi yang tersedia ialah kasino, buku sukan, akses akaun, deposit, pengeluaran dan bonus.
+
+Pada Android, pintasan dibuat dalam tiga langkah:
+
+1. Buka Longfu88 dalam Chrome.
+2. Buka menu pelayar dan pilih tambah ke skrin utama (Add to Home screen).
+3. Sahkan pintasan.
+
+Pada iOS, laluannya juga tiga langkah:
+
+1. Buka Longfu88 dalam Safari.
+2. Ketik Share dan pilih tambah ke skrin utama (Add to Home Screen).
+3. Sahkan dengan Add.

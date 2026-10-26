@@ -1,0 +1,15 @@
+Deposit thresholds vary by offer and currency, so each of the nine offers at Longfu88 gets a row below, with USDT standing in for euros on the crypto rows.
+
+| Offer | Smallest deposit |
+|---|---|
+| Casino Welcome Bonus | upward of €50 |
+| Live Casino Welcome Bonus | upward of €30 |
+| Casino Crypto Welcome Bonus | upward of 50 USDT |
+| Casino Weekly Reload | upward of €30 |
+| Casino Weekly Crypto Reload | upward of 20 USDT |
+| Casino Weekend Reload | upward of €50 |
+| Casino Weekend Crypto Reload | upward of 20 USDT |
+| Double Fortune One-Day Reload | upward of €30 |
+| Trick or Treat Pumpkin Bonanza | upward of €20 |
+
+Anyone depositing through Neteller or Skrill is excluded from the Casino Welcome Bonus. A casino-wide minimum deposit does not replace an offer's own figure, so the row of the offer is the one to check.

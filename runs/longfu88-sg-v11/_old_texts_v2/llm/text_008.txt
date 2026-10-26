@@ -1,0 +1,25 @@
+=== b11 ===
+Every deposit method shares the same general limits: a minimum of €10 and a maximum of €5,000 per transaction, credited within 1-2 minutes, with no casino processing fee, although provider or blockchain network fees may apply.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local bank and wallet methods | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus. The deposit route has six steps: log in to the Longfu88 account, open the cashier and select Deposit, choose a method with its currency or blockchain network, enter the amount and payment details, confirm following the provider's instructions, and wait for the funds to reach the playable balance.
+
+=== b12 ===
+Withdrawals go through Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT in three networks, Touch'n Go, DANA, MoMo, DBS Bank and Online Banking, with a minimum of €20 and a maximum of €5,000. A withdrawal at Longfu88 follows six steps:
+
+1. Log in and open the cashier.
+2. Select Withdrawal and choose a payment method.
+3. Enter the amount and the receiving bank, wallet or blockchain address.
+4. Complete identity verification if prompted.
+5. Review the request and confirm it.
+6. Wait for casino processing and any bank or network settlement.
+
+The Lngfu88 withdrawal time is 1 to 3 business days for cards, crypto and wallets, while a bank transfer takes up to 3 business days for casino processing plus 3 to 5 business days for bank delivery. No standard casino withdrawal fee applies, though provider and blockchain fees may apply. A 10% commission (minimum €2.25) can apply where turnover is below the deposited amount, since a minimum 1x deposit turnover can apply before a withdrawal, and 15% on some card or bank transfer funded transactions.

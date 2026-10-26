@@ -1,0 +1,11 @@
+=== b07 ===
+Account security is split between the player and the operator, and the player's share comes first. The account holder is responsible for safeguarding the login credentials, the e-mail address and the password, since nothing else opens the account. Longfu88 applies technical and organisational safeguards that protect accounts, payments and personal information. The operator may also suspend activity for verification or suspected abuse, so a suspended account is usually a matter for support and the verification steps described below.
+
+=== b08 ===
+The casino holds three groups of personal data about an account holder, covering who the player is, how the player can be reached and whether the payment methods belong to the player:
+
+- Identity data: name, date of birth and identity documents.
+- Contact data: e-mail, telephone and residential address.
+- Verification data: KYC documents and evidence of payment method ownership.
+
+Longfu88 may share this data with payment service providers, identity verification providers and technology providers, and with regulators and law enforcement when required. The player holds the rights of access, rectification, erasure where legally permitted, restriction, objection, portability where applicable and withdrawal of consent.

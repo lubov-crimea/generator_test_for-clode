@@ -1,0 +1,8 @@
+Account verification is requested during an account review, before a withdrawal, for unusual or high-value transactions and after changes to account or payment details. The documents depend on what is asked for:
+
+- Identity: passport, national identity card or driving licence.
+- Address: utility bill or bank statement.
+- Payment method: bank or card ownership evidence, or digital wallet ownership evidence.
+- Source of funds: proof of income, bank statements or other supporting financial documents, only when requested.
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days.

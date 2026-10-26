@@ -1,0 +1,366 @@
+{
+ "clusters": [
+  {
+   "topic": "Platform overview / about the casino",
+   "canonical_title": "About the Casino",
+   "member_ids": [
+    "c1h1",
+    "c1h17",
+    "c2h6",
+    "c2h7",
+    "c2h8",
+    "c2h28",
+    "c4h37"
+   ]
+  },
+  {
+   "topic": "Games overview",
+   "canonical_title": "Games Overview",
+   "member_ids": [
+    "c1h2",
+    "c2h30",
+    "c3h20",
+    "c4h11"
+   ]
+  },
+  {
+   "topic": "Slots",
+   "canonical_title": "Slots",
+   "member_ids": [
+    "c1h3",
+    "c3h2",
+    "c4h2"
+   ]
+  },
+  {
+   "topic": "Table games and video poker",
+   "canonical_title": "Table Games",
+   "member_ids": [
+    "c1h4",
+    "c4h3",
+    "c4h4",
+    "c4h9",
+    "c4h13",
+    "c4h14",
+    "c4h15",
+    "c4h26"
+   ]
+  },
+  {
+   "topic": "Live casino",
+   "canonical_title": "Live Casino",
+   "member_ids": [
+    "c1h5",
+    "c2h31",
+    "c3h3"
+   ]
+  },
+  {
+   "topic": "Fishing, P2P, fast and free games",
+   "canonical_title": "Instant and Specialty Games",
+   "member_ids": [
+    "c1h6",
+    "c4h10",
+    "c4h20",
+    "c4h32"
+   ]
+  },
+  {
+   "topic": "Sports betting and esports",
+   "canonical_title": "Sports Betting",
+   "member_ids": [
+    "c1h7",
+    "c2h16",
+    "c2h17",
+    "c2h18",
+    "c2h19",
+    "c2h21",
+    "c2h23",
+    "c2h24",
+    "c2h25",
+    "c2h26",
+    "c2h27",
+    "c4h38"
+   ]
+  },
+  {
+   "topic": "Bonuses and welcome offers",
+   "canonical_title": "Bonuses and Welcome Offers",
+   "member_ids": [
+    "c1h8",
+    "c2h1",
+    "c2h2",
+    "c2h3",
+    "c3h5",
+    "c3h17",
+    "c4h33"
+   ]
+  },
+  {
+   "topic": "Withdrawals and payout speed",
+   "canonical_title": "Withdrawals",
+   "member_ids": [
+    "c1h9",
+    "c1h11",
+    "c2h12",
+    "c4h30",
+    "c4h39"
+   ]
+  },
+  {
+   "topic": "Deposit methods and payments",
+   "canonical_title": "Payment Methods",
+   "member_ids": [
+    "c1h10",
+    "c2h10",
+    "c2h11",
+    "c2h13",
+    "c2h14",
+    "c2h22",
+    "c2h32",
+    "c3h7",
+    "c3h11",
+    "c3h18",
+    "c4h12",
+    "c4h22",
+    "c4h42"
+   ]
+  },
+  {
+   "topic": "Mobile access and app",
+   "canonical_title": "Mobile Access",
+   "member_ids": [
+    "c1h12",
+    "c2h9",
+    "c3h1",
+    "c3h12",
+    "c3h19"
+   ]
+  },
+  {
+   "topic": "Licence, security and fair play",
+   "canonical_title": "Safety and Fair Play",
+   "member_ids": [
+    "c1h13",
+    "c2h5",
+    "c3h8",
+    "c3h16",
+    "c4h25",
+    "c4h27",
+    "c4h35"
+   ]
+  },
+  {
+   "topic": "Customer support",
+   "canonical_title": "Customer Support",
+   "member_ids": [
+    "c1h14",
+    "c2h15",
+    "c4h34",
+    "c4h41"
+   ]
+  },
+  {
+   "topic": "Responsible gambling",
+   "canonical_title": "Responsible Gambling",
+   "member_ids": [
+    "c1h15",
+    "c3h14"
+   ]
+  },
+  {
+   "topic": "Verdict and conclusion",
+   "canonical_title": "Verdict",
+   "member_ids": [
+    "c1h16",
+    "c2h34"
+   ]
+  },
+  {
+   "topic": "VIP programme and loyalty",
+   "canonical_title": "VIP Programme",
+   "member_ids": [
+    "c2h4",
+    "c3h6"
+   ]
+  },
+  {
+   "topic": "Software providers",
+   "canonical_title": "Game Providers",
+   "member_ids": [
+    "c2h29"
+   ]
+  },
+  {
+   "topic": "Registration and login",
+   "canonical_title": "Registration and Login",
+   "member_ids": [
+    "c2h33",
+    "c4h28"
+   ]
+  },
+  {
+   "topic": "Lottery",
+   "canonical_title": "Lottery",
+   "member_ids": [
+    "c3h4"
+   ]
+  },
+  {
+   "topic": "Pros and cons",
+   "canonical_title": "Pros and Cons",
+   "member_ids": [
+    "c3h9",
+    "c3h10"
+   ]
+  },
+  {
+   "topic": "FAQ",
+   "canonical_title": "Frequently Asked Questions",
+   "member_ids": [
+    "c3h15",
+    "c4h43"
+   ]
+  },
+  {
+   "topic": "Other: User Reviews",
+   "canonical_title": "User Reviews",
+   "member_ids": [
+    "c1h18"
+   ]
+  },
+  {
+   "topic": "Other: Limits",
+   "canonical_title": "Limits",
+   "member_ids": [
+    "c2h20"
+   ]
+  },
+  {
+   "topic": "Other: User Reviews",
+   "canonical_title": "User Reviews",
+   "member_ids": [
+    "c2h35"
+   ]
+  },
+  {
+   "topic": "Other: Quick Links",
+   "canonical_title": "Quick Links",
+   "member_ids": [
+    "c3h13"
+   ]
+  },
+  {
+   "topic": "Other: What You Find When You Open longfu88",
+   "canonical_title": "What You Find When You Open longfu88",
+   "member_ids": [
+    "c4h1"
+   ]
+  },
+  {
+   "topic": "Other: Ocean Fortune",
+   "canonical_title": "Ocean Fortune",
+   "member_ids": [
+    "c4h5"
+   ]
+  },
+  {
+   "topic": "Other: Halloween Fortune",
+   "canonical_title": "Halloween Fortune",
+   "member_ids": [
+    "c4h6"
+   ]
+  },
+  {
+   "topic": "Other: Wild Walker",
+   "canonical_title": "Wild Walker",
+   "member_ids": [
+    "c4h7"
+   ]
+  },
+  {
+   "topic": "Other: Fortune Mouse",
+   "canonical_title": "Fortune Mouse",
+   "member_ids": [
+    "c4h8"
+   ]
+  },
+  {
+   "topic": "Other: Ocean Fortune",
+   "canonical_title": "Ocean Fortune",
+   "member_ids": [
+    "c4h16"
+   ]
+  },
+  {
+   "topic": "Other: Halloween Fortune",
+   "canonical_title": "Halloween Fortune",
+   "member_ids": [
+    "c4h17"
+   ]
+  },
+  {
+   "topic": "Other: Wild Walker",
+   "canonical_title": "Wild Walker",
+   "member_ids": [
+    "c4h18"
+   ]
+  },
+  {
+   "topic": "Other: Fortune Mouse",
+   "canonical_title": "Fortune Mouse",
+   "member_ids": [
+    "c4h19"
+   ]
+  },
+  {
+   "topic": "Other: Four Reasons Your Account Works Better Here",
+   "canonical_title": "Four Reasons Your Account Works Better Here",
+   "member_ids": [
+    "c4h21"
+   ]
+  },
+  {
+   "topic": "Other: Continuous Live Streams",
+   "canonical_title": "Continuous Live Streams",
+   "member_ids": [
+    "c4h23"
+   ]
+  },
+  {
+   "topic": "Other: Single Account Balance",
+   "canonical_title": "Single Account Balance",
+   "member_ids": [
+    "c4h24"
+   ]
+  },
+  {
+   "topic": "Other: RNG Certification",
+   "canonical_title": "RNG Certification",
+   "member_ids": [
+    "c4h29"
+   ]
+  },
+  {
+   "topic": "Other: Two-Factor Option",
+   "canonical_title": "Two-Factor Option",
+   "member_ids": [
+    "c4h31"
+   ]
+  },
+  {
+   "topic": "Other: longfu88 in Malaysia ‚Äî Availability and Access",
+   "canonical_title": "longfu88 in Malaysia ‚Äî Availability and Access",
+   "member_ids": [
+    "c4h36"
+   ]
+  },
+  {
+   "topic": "Other: No Wallet Lock-In",
+   "canonical_title": "No Wallet Lock-In",
+   "member_ids": [
+    "c4h40"
+   ]
+  }
+ ]
+}

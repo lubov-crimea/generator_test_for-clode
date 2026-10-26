@@ -1,0 +1,43 @@
+{
+ "website_id": 4962,
+ "domain": "longfu88-sg.games",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Mobile Account Path: Shortcut to Cash-Out",
+  "description": "Longfu88 account path on a phone: add the shortcut, register, log in, pass identity checks, cash out, protect the account, play responsibly and fix issues."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Follow the account path from shortcut to cash-out",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Claim Bonus"
+ },
+ "cta_texts": [
+  "Claim Bonus",
+  "Log In"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "bonuses",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "login page",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Get Offer"
+ }
+}

@@ -1,0 +1,11 @@
+# Пример страницы бренда (brand-subpage). GEO, язык и ключи — подставьте свои: конкуренты из задачи, остальное — образец формата.
+GEO - MY
+Language - en
+Page type - brand-subpage
+Brand - Longfu88
+Knowledge Base - longfu88-new
+Keywords - Longfu88 login, Longfu88, Longfu88 casino, Longfu88 app
+Competitors:
+https://longfu88-play.my/en-my/login/
+https://longfu88-official.games/registration/
+https://longfu.net/login/

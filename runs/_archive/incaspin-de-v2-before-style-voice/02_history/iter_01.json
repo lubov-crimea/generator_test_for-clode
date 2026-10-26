@@ -1,0 +1,276 @@
+{
+  "iteration": 1,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Incaspin Casino: Bonus, Registrierung, Spiele und Auszahlungen",
+      "text": "Incaspin ist ein Online-Casino mit vier Bereichen: dem klassischen Casino, einem Live Casino, Sportwetten und Esports-Wetten. Es richtet sich an volljährige Spieler aus Deutschland, das Mindestalter beträgt 18 Jahre. Zum Start steht ein Willkommenspaket mit bis zu 2.750 € und 275 Freispielen bereit. Diese Seite erklärt, wie Bonus und Registrierung funktionieren, welche Spiele und Zahlungsmethoden das Casino bietet und wie mobile Nutzung, Sicherheit und Support aussehen.",
+      "version": 1,
+      "history": []
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Incaspin Casino im Überblick",
+      "text": "Incaspin ist ein Online-Casino, das 2025 gestartet ist und von Spielern auch als Inca Spin gesucht wird. Die Legasta Technologies SRL betreibt die Plattform. Das Unternehmen hat seinen eingetragenen Sitz in San José, Costa Rica, und führt die Firmennummer 3-102-921383. Die Glücksspiellizenz des Online-Casinos stammt von der Tobique Gaming Commission und trägt die Nummer 0000158, die Gerichtsbarkeit ist Tobique.\n\nDie Spielkategorien umfassen Casino, Live Casino, Sportwetten und Esports, dazu kommen mehr als 5.000 Spiele. Das Online-Casino unterstützt insgesamt sechs Währungen, nämlich vier klassische Währungen und zwei Kryptowährungen: Euro (EUR), Brasilianischer Real (BRL), Kanadischer Dollar (CAD), Australischer Dollar (AUD), Bitcoin (BTC) und Ethereum (ETH). Der Kundensupport steht Spielern täglich rund um die Uhr (24/7) zur Verfügung.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace \"mehrere Währungen, darunter vier klassische Währungen und zwei Kryptowährungen\" with a statement of exactly these six currencies without \"darunter\" (e.g. \"insgesamt sechs Währungen, nämlich vier klassische Währungen und zwei Kryptowährungen\"), keeping the list EUR, BRL, CAD, AUD, BTC, ETH. Replace \"an jedem Tag rund um die Uhr (24/7) erreichbar\" by a non-redundant wording (e.g. \"steht Spielern täglich rund um die Uhr (24/7) zur Verfügung\"). Keep \"Incaspin\" and \"Inca Spin\" exactly once each and stay within 114-146 words (the block is at the lower limit)."
+          ]
+        }
+      ]
+    },
+    "b03": {
+      "id": "b03",
+      "level": 2,
+      "heading": "Vorteile von Incaspin",
+      "text": "Incaspin bietet ein Willkommenspaket und eine große Spielauswahl, dazu kommen weitere Vorteile:\n\n- Spielauswahl: Das Online-Casino führt mehr als 5.000 Spiele aus vielen Kategorien, darunter Slots, Live Casino, Tischspiele und Crash-Spiele.\n- Willkommenspaket: Es umfasst bis zu 2.750 € und 275 Freispiele.\n- Mobile Nutzung ohne Download: Spieler installieren die Progressive Web App direkt über den Browser, ein App-Store ist nicht nötig.\n- Support rund um die Uhr: Der Kundensupport antwortet 24/7 per Live Chat und E-Mail.\n- Spielerschutz: Zu den Werkzeugen zählen Einsatzlimits, Verlustgrenzen und Zeitlimits für Spielsitzungen.",
+      "version": 1,
+      "history": []
+    },
+    "b04": {
+      "id": "b04",
+      "level": 2,
+      "heading": "Registrierung im Incaspin Casino",
+      "text": "Wer sich im Incaspin Casino registriert, nutzt dafür die E-Mail-Registrierung. Die Registrierung erfordert eine E-Mail-Adresse, ein Passwort und die Altersbestätigung 18+. So läuft sie ab:\n\n1. Auf der offiziellen Website die Option zur Registrierung wählen.\n2. Eine E-Mail-Adresse eingeben.\n3. Ein Passwort erstellen.\n4. Bestätigen, dass man mindestens 18 Jahre alt ist.\n5. Das Registrierungsformular absenden und damit die Registrierung abschließen.\n\nJede Person darf nur ein Konto besitzen. Dieselbe Regel gilt pro Haushalt, pro IP-Adresse und pro Computer. Sie gilt auch dann, wenn jemand mehrere Konten mit unterschiedlichen E-Mail-Adressen eröffnet. Wer dagegen verstößt, riskiert gesperrte Doppelkonten: Das Casino kann Doppelkonten sperren oder schließen und die Einsätze, Boni oder Gewinne daraus annullieren. Das Mindestalter von 18 Jahren gilt für jedes Konto, deshalb gehört die Altersbestätigung zur Registrierung. Wer eine E-Mail-Adresse angibt, prüft sie vor dem Absenden auf Tippfehler.",
+      "version": 1,
+      "history": []
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Login und Kontosicherheit",
+      "text": "Der Login bei Incaspin läuft über E-Mail und Passwort: Spieler wählen Anmelden, geben die registrierten Daten ein und senden sie ab. Danach öffnet das Casino den Zugang zum Konto. Wer das Passwort vergessen hat, klickt auf dem Anmeldebildschirm auf Passwort vergessen und folgt der Anleitung in der E-Mail. Die Zwei-Faktor-Authentifizierung aktivieren Spieler in den Kontoeinstellungen, sie erhöht die Kontosicherheit. Die Kontoverwaltung umfasst Profildaten und Währungseinstellungen, Zahlungsmethoden, Wett- und Spielverlauf, Bonusfortschritt und Limits für verantwortungsvolles Spielen.",
+      "version": 1,
+      "history": []
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Willkommensbonus im Incaspin Casino",
+      "text": "Das Willkommenspaket im Incaspin Casino heißt Casino Welcome Package. Es umfasst einen Einzahlungsbonus von bis zu 2.750 € und 275 Freispiele und verteilt sich auf die ersten drei Einzahlungen. Die Summe ergibt sich aus den drei Einzahlungsboni. Die erste Einzahlung bringt 200 der 275 Freispiele, die dritte die restlichen 75:\n\n- Erste Einzahlung: bis zu 1.000 € und 200 Freispiele\n- Zweite Einzahlung: 100 % bis zu 1.000 €\n- Dritte Einzahlung: 75 % bis zu 750 € und 75 Freispiele\n\nEin Einzahlungsbonus erhöht das Spielguthaben um einen Prozentsatz der Einzahlung und ist je Einzahlung auf einen Höchstbetrag begrenzt. Bei 100 % entspricht er dem eingezahlten Betrag. Die erste Einzahlung bringt den größten Teil der Freispiele, nämlich 200 von 275, die dritte ergänzt die restlichen 75. Freispiele sind kostenlose Drehungen an Slots, bei denen das Casino den Einsatz übernimmt. Die Mindesteinzahlung beträgt bei der ersten Einzahlung 20 €, und das Casino zeigt die Einzahlungsstufen 20 €, 50 € und 300 € an. Incaspin schreibt die Boni automatisch gut, Spieler müssen sie nicht gesondert beantragen. Nach der ersten Einzahlung vergibt das Casino fünf Tage lang täglich 50 Freispiele, und Spieler können sie 3 Tage lang aktivieren. Die Freispiele gelten für ausgewählte Slots: Gates of Olympus, Aztec Magic, Aztec Magic Deluxe, Johnny Cash, Platinum Lightning und Platinum Lightning Deluxe.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Rewrite the opening sentence without the tautology (e.g. \"Das Willkommenspaket im Incaspin Casino heißt Casino Welcome Package.\"; \"Incaspin Casino\" stays exactly once). Delete \"Incaspin verteilt die Freispiele damit über fünf Tage statt auf einmal\" and move the single keyword \"Incaspin\" into another sentence of the block (e.g. \"Incaspin schreibt die Boni automatisch gut\"). Delete \"Bei der zweiten Einzahlung entsprechen 100 % dem eingezahlten Betrag, die Grenze liegt bei 1.000 €\" and \"Die erste Einzahlung bringt den größten Teil der Freispiele, nämlich 200 von 275, die dritte ergänzt die restlichen 75\" (they repeat the list). Shorten the definitions of the deposit bonus and of free spins to one short clause each. Do not mention validity, wagering or promo codes. Write the minimum-deposit sentence in the active voice with the casino as subject: 20 € on the first deposit, displayed deposit tiers 20 €, 50 € and 300 € (no \"laut Aktionskarte\"). Stay within 202-258 words."
+          ]
+        }
+      ]
+    },
+    "b07": {
+      "id": "b07",
+      "level": 3,
+      "heading": "Bonusbedingungen auf einen Blick",
+      "text": "Der Willkommensbonus unterliegt Umsatzbedingungen, und der Spielbeitrag bestimmt den Umsatzfortschritt.\n\n| Bedingung | Details |\n|---|---|\n| Umsatzbedingungen | 35x Bonus bei der zweiten und dritten Einzahlung, 40x als allgemeine Regel, sofern nichts anderes festgelegt ist |\n| Gültigkeit | 7 Tage für die Boni des Willkommenspakets |\n| Maximaleinsatz | 5 € bei Slots und 10 € bei Live-Spielen während des Umsatzes, abhängig von den Sonderbedingungen des Angebots |\n| Aktiver Bonus | Nur ein Bonus kann gleichzeitig aktiv sein, aktive Boni lassen sich pausieren, ihre Ablauf-Timer laufen aber weiter |\n| Gewinne | Spieler können Bonusgewinne erst nach Erfüllung der Umsatzbedingungen auszahlen lassen |\n| Spielbeitrag zum Umsatz | Slots 100 %, Kartenspiele, Roulette, Poker und Video Poker 5 %, Live-Dealer-Spiele 0 % |\n| Sticky Bonus | Die Boni sind sticky, Spieler setzen zuerst das Echtgeld-Guthaben ein |\n| Maximalgewinn aus Freispielen | 50 € bei den Freispielen zur Anmeldung, sofern ein Angebot nichts anderes bestimmt |",
+      "version": 1,
+      "history": []
+    },
+    "b08": {
+      "id": "b08",
+      "level": 3,
+      "heading": "Promo-Code und Aktivierung",
+      "text": "Laut den allgemeinen Bedingungen schreibt das Casino das Willkommenspaket automatisch gut. Ein Promo-Code ist dafür nicht erforderlich. Wer für einen Bonus des Pakets trotzdem einen Code eingibt, kann damit den Anspruch auf diesen Bonus verlieren. Das gilt für alle Boni des Willkommenspakets. Die Aktivierung braucht daher keine zusätzliche Eingabe. Spieler sollten vor der Aktivierung die Bedingungen lesen, die am Angebot angezeigt werden.",
+      "version": 1,
+      "history": []
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "Weitere Aktionen und Cashback bei Incaspin",
+      "text": "Das Incaspin Casino bietet neben dem Willkommenspaket weitere Aktionen. Der Highroller Bonus gibt 50 % bis zu 500 € bei einer Mindesteinzahlung von 300 € und 40x Umsatz auf den Bonus. Er gilt für Spieler, die alle Boni des Willkommenspakets genutzt haben, und lässt sich alle 30 Tage verwenden. Der Sunday Reload bringt sonntags 25 % bis zu 100 € bei 15 € Mindesteinzahlung und 40x Umsatz. Der wöchentliche Cashback erstattet bis zu 25 % der Nettoverluste der Woche. Seine Höhe hängt von Aktivität und Treuestatus ab.\n\nAls Gamification-Funktionen bietet das Casino das Wheel of Fortune, bei dem Spieler am Rad drehen und Preise gewinnen, sowie Missionen. Tägliche Missionen setzen sich jeden Tag zurück, Lifetime-Missionen vergeben bis zu 100.000 Boomerang Points (BP). Mit BP öffnen Spieler Belohnungstruhen mit Zufallsbelohnungen, etwa 10 € Bargeld oder 5 Freispiele. Die Inca Chest kostet 1.000 BP, der Paititi Treasure 1.000.000 BP. Im Punkteshop lösen Spieler gesammelte BP gegen Belohnungen ein.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace \"bei dem Spieler Preise drehen\" with correct German, e.g. \"bei dem Spieler am Rad drehen und Preise gewinnen\". Change nothing else; keep \"Incaspin Casino\" exactly once and the 132-168 word range."
+          ]
+        }
+      ]
+    },
+    "b10": {
+      "id": "b10",
+      "level": 2,
+      "heading": "Spiele im Incaspin Casino",
+      "text": "Das Incaspin Casino ordnet seine Spielbibliothek in Kategorien. Die Hauptbereiche sind Slots und Live Casino, dazu kommen Tischspiele mit Roulette, Blackjack, Baccarat und Poker. Instant-Spiele und Crash-Spiele bilden zwei weitere Kategorien. Eigene Kategorien sind außerdem Bonus Buy, Jackpots, Books sowie Drops & Wins Slots. Die Spielbibliothek umfasst mehr als 5.000 Spiele, die sich auf diese Kategorien verteilen. Klassische Tischspiele stehen darin neben modernen Formaten wie Instant-Spielen, Crash-Spielen und Bonus Buy. Eigene Originals ergänzen sie: Die hauseigenen Spiele laufen unter der Marke Incaspin Originals und bilden eine eigene Kategorie. Sie stehen neben den Spielen externer Studios und erweitern die Spielbibliothek um eigene Titel. Jede Kategorie bündelt Spiele mit ähnlichem Ablauf.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Delete the last sentence (\"Slots drehen Walzen, … jedes Ergebnis zufällig ist\") and the sentence \"Roulette, Blackjack, Baccarat und Poker zählen zu den Tischspielen, Jackpots und Drops & Wins Slots bilden eigene Kategorien\". Describe only the category list from brand_info, the size (\"mehr als 5.000 Spiele\") and the in-house originals. Keep \"Incaspin Originals\" (the one permitted \"Incaspin\") and \"Incaspin Casino\" exactly once, and stay within 106-134 words (the deleted sentences must be replaced by fuller wording of the categories from brand_info: Bonus Buy, Jackpots, Books, Drops & Wins Slots, Instant-Spiele, Crash-Spiele, without titles, mechanics or definitions)."
+          ]
+        }
+      ]
+    },
+    "b11": {
+      "id": "b11",
+      "level": 3,
+      "heading": "Slots",
+      "text": "Slots umfassen Hold-and-Win-Titel, Bonus-Buy-Slots und Jackpot-Slots. Zu den Beispielen zählen Gates of Olympus, Big Bass Splash, Book of Khonsu, Burning Chilli X und Obsidian Rush. Neben Gates of Olympus steht auch Gates of Olympus 2500 im Angebot. Hold-and-Win-Slots wie Mad Jesters: Hold & Win, Coin Strike Hold and Win und Double Dragon Gold: Hold & Win arbeiten mit Respins, bei denen Symbole stehen bleiben. In der Kategorie Bonus Buy starten Spieler die Bonusrunde gegen Aufpreis direkt. Drops & Wins Slots und Jackpots bilden eigene Kategorien.",
+      "version": 1,
+      "history": []
+    },
+    "b12": {
+      "id": "b12",
+      "level": 3,
+      "heading": "Live Casino",
+      "text": "Im Live Casino von Incaspin leitet ein echter Dealer die Runde, ein Video-Stream überträgt sie in Echtzeit, und die Spieler setzen online am Bildschirm. Das Angebot umfasst Live-Dealer-Tische wie Lightning Roulette, Speed Baccarat, Dragon Tiger und Sic Bo sowie Game Shows wie Crazy Time, Sweet Bonanza CandyLand und Ice Fishing. Weitere Titel sind Red Door Roulette, Gates of Olympus Roulette und Disco Balls. Live-Dealer-Spiele tragen 0 % zum Umsatz des Willkommensbonus bei, Slots dagegen 100 %. Wer den Bonus umsetzen möchte, spielt deshalb Slots.",
+      "version": 1,
+      "history": []
+    },
+    "b13": {
+      "id": "b13",
+      "level": 3,
+      "heading": "Tischspiele, Crash- und Instant-Spiele",
+      "text": "Zu den Kategorien des Incaspin Casino zählen Tischspiele wie Roulette, Blackjack, Baccarat und Poker sowie Instant-Spiele und Crash-Spiele. Instant-Spiele liefern das Ergebnis direkt nach dem Einsatz, Crash-Spiele sind schnelle Formate mit kurzen Runden. Zu den Instant- und Crash-Titeln gehören Chicken Road, Plinko, Plinko 2, Golden Plinko, Tower Rush und Aviamasters. Chicken Road zählt zugleich zu den hauseigenen Originals. Jackpot-Spiele sind zum Beispiel Break The Piggy Bank, Triple Money Jackpot Gold! und Crown of Fire Jackpot Play. Die hauseigenen Originals umfassen außerdem Chicken Road 2, Dragon Pots, MegaBlock und Joker's Clash. Bei Crash-Spielen ist jedes Ergebnis zufällig, keine Strategie garantiert Gewinne.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Rephrase the jackpot sentence so that the title \"Triple Money Jackpot Gold!\" is in the middle of the enumeration and no \"!.\" appears (e.g. \"Break The Piggy Bank, Triple Money Jackpot Gold! und Crown of Fire Jackpot Play\"). Keep the exact title spellings, \"Incaspin Casino\" exactly once and the 97-123 word range."
+          ]
+        }
+      ]
+    },
+    "b14": {
+      "id": "b14",
+      "level": 2,
+      "heading": "Spieleanbieter im Incaspin Casino",
+      "text": "Bei der Wahl eines Casinos zählt die Vielfalt der Spieleanbieter, weil jedes Studio eigene Spielmechaniken und Themen mitbringt. Die Spieleanbieter liefern die Spiele für die Spielbibliothek. Incaspin führt unter anderem Pragmatic Play, Evolution, BGaming, Hacksaw Gaming, NetEnt, Playtech, Playson, Spinomenal und Novomatic, dazu Pragmatic Play Live sowie Original Games für die hauseigenen Titel. Wer ein bestimmtes Studio bevorzugt, findet dessen Titel in der Spielbibliothek.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace \"eigene Spielmechaniken, Themen und Funktionen\" with two items (\"eigene Spielmechaniken und Themen\"). Change nothing else; keep \"Incaspin\" exactly once, the provider names and the 62-78 word range."
+          ]
+        }
+      ]
+    },
+    "b15": {
+      "id": "b15",
+      "level": 2,
+      "heading": "Zahlungsmethoden und Einzahlungen",
+      "text": "Einzahlungen im Incaspin Casino laufen in sechs Schritten ab: im Konto anmelden, die Kasse öffnen, eine verfügbare Zahlungsmethode wählen, den Betrag eingeben und die Limits der Methode prüfen, die Anweisungen des Zahlungsanbieters befolgen und danach den Kontostand kontrollieren. Die meisten Zahlungsmethoden ermöglichen sofortige Einzahlungen.\n\n| Methode | Minimum | Maximum | Geschwindigkeit |\n|---|---|---|---|\n| Visa | 15 € | 4.000 € | Sofort |\n| Mastercard | 15 € | 4.000 € | Sofort |\n| Revolut | 15 € | 4.000 € | Sofort |\n| Skrill | 15 € | 4.000 € | Sofort |\n| Paysafecard | 15 € | 1.000 € | Sofort |\n| Neteller | 10 € | 5.000 € | Sofort |\n| Jeton | 10 € | 5.000 € | Sofort |\n| Apple Pay | 10 € | 5.000 € | Sofort |\n| Google Pay | 10 € | 5.000 € | Sofort |\n| Banküberweisung | 10 € | 5.000 € | Am selben Tag bis zu 3 Werktage |\n| Bitcoin (BTC) | 15 € Gegenwert | 5.000 € Gegenwert | Sofort, Bestätigung kann variieren |\n| Ethereum (ETH) | 15 € Gegenwert | 5.000 € Gegenwert | Sofort, Bestätigung kann variieren |\n| Litecoin (LTC) | 15 € Gegenwert | 5.000 € Gegenwert | Sofort, Bestätigung kann variieren |\n| Dogecoin (DOGE) | 10 € Gegenwert | 5.000 € Gegenwert | Sofort, Bestätigung kann variieren |\n\nDie Einzahlungslimits gelten je Methode. Das Casino erhebt keine Gebühren, externe Zahlungsanbieter können jedoch Kosten berechnen.",
+      "version": 1,
+      "history": []
+    },
+    "b16": {
+      "id": "b16",
+      "level": 2,
+      "heading": "Auszahlungen im Incaspin Casino",
+      "text": "Das Incaspin Casino zahlt Gewinne per Visa OCT, Mastercard Payment Transfer, Skrill, Neteller, Jeton, Banküberweisung sowie Bitcoin, Ethereum, Litecoin und Dogecoin aus. Das Minimum liegt je nach Wohnsitzland oder Zahlungsoption zwischen 50 € und 120 €, das Maximum je nach Methode zwischen 5.000 € und 15.000 €. Die interne Bearbeitung dauert bis zu 72 Stunden, dazu kommt die Zeit des Zahlungsanbieters. Die Zahlungsmethode beeinflusst damit Dauer und Limits der Auszahlung.\n\n1. Anmelden und die Kasse oder den Bereich Auszahlung öffnen.\n2. Eine verfügbare Methode wählen, möglichst die der Einzahlung.\n3. Den Betrag eingeben und das persönliche Limit prüfen.\n4. Erforderliche Identitäts- oder Zahlungsprüfungen abschließen.\n5. Die Auszahlung bestätigen.\n6. Bis zu 72 Stunden Bearbeitung und anschließend die Abwicklung des Zahlungsanbieters abwarten.\n\nSpieler müssen eingezahlte Beträge mindestens dreimal umsetzen, bevor eine Auszahlung möglich ist. Ohne vollständige Kontoverifizierung bearbeitet das Casino keine Auszahlung. Die Höchstgrenzen können vom Treuerang abhängen und stehen in der Kasse. Das Casino kann Gewinne über 10.000 € in monatlichen Raten von bis zu 10.000 € auszahlen. Das Casino berechnet selbst nichts, Zahlungsanbieter können jedoch Kosten verlangen, bei einer Banküberweisung berechnen Zwischenbanken bis zu 16 €.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace the last sentence with a different wording that carries a concrete fact: the casino charges no fees; external providers may charge costs; for bank transfers intermediary banks may charge up to 16 €. Rewrite \"Bei Gewinnen über 10.000 € sind monatliche Raten bis zu 10.000 € möglich\" in the active voice with the casino as subject (e.g. \"Das Casino kann Gewinne über 10.000 € in monatlichen Raten von bis zu 10.000 € auszahlen\"). Do not mention the 15.000 € instalment rule. Keep \"Incaspin Casino\" exactly once and the 158-202 word range."
+          ]
+        }
+      ]
+    },
+    "b17": {
+      "id": "b17",
+      "level": 3,
+      "heading": "Verifizierung (KYC)",
+      "text": "Incaspin kann vor der ersten Auszahlung und bei Einzahlungsprüfungen eine Identitätsprüfung verlangen. Die Verifizierung (KYC) ist die Voraussetzung für die erste Auszahlung. Die Prüfung der meisten Dokumente dauert zwischen einigen Stunden und einem Tag. Zu den Unterlagen zählen:\n\n- Identitätsnachweis: Reisepass, Personalausweis oder Führerschein\n- Adressnachweis: aktuelle Nebenkostenrechnung oder aktueller Kontoauszug\n- Zahlungsnachweis: Beleg der genutzten Zahlungsmethode\n- ein Selfie mit dem Ausweis oder eine Live-Identitätsprüfung\n\nDazu kann das Casino eine Videoverifizierung verlangen, falls Dokumente nicht in lateinischer oder kyrillischer Schrift vorliegen, sowie eine telefonische Prüfung. Die Unterlagen müssen echt sein, gefälschte Dokumente können zur Einbehaltung von Einzahlungen und Gewinnen führen.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace \"Das Casino verlangt:\" with a lead-in that matches the optional wording of brand_info (e.g. \"Zu den Unterlagen zählen:\"). Replace \"echt und unverändert\" with \"echt\". Keep \"Incaspin\" exactly once and the 88-112 word range."
+          ]
+        }
+      ]
+    },
+    "b18": {
+      "id": "b18",
+      "level": 2,
+      "heading": "Mobil spielen mit Incaspin: PWA für Android und iOS",
+      "text": "Das Incaspin Casino läuft mobil als Progressive Web App (PWA). Spieler installieren sie direkt über die Website im mobilen Browser, ohne App-Store, auf Android und iOS. Die mobile Version bietet Casino, Live Casino, Sport, Esports sowie die Bereiche Boni, Aktionen, Wheel of Fortune, Treueprogramm und Missionen.\n\nInstallation auf dem iPhone oder iPad:\n\n1. Die Website in Safari öffnen.\n2. Auf Teilen tippen.\n3. Zum Home-Bildschirm hinzufügen wählen.\n4. Einen Namen vergeben und auf Hinzufügen tippen.\n\nInstallation auf Android:\n\n1. Das Casino im mobilen Browser öffnen.\n2. App installieren oder Zum Startbildschirm hinzufügen wählen.\n3. Die Installation bestätigen.\n4. Das Casino über das Symbol auf dem Startbildschirm starten.",
+      "version": 1,
+      "history": []
+    },
+    "b19": {
+      "id": "b19",
+      "level": 2,
+      "heading": "Sportwetten und Esports bei Incaspin",
+      "text": "Das Sportwetten-Angebot von Incaspin deckt Sportarten wie Fußball, Tennis und Basketball sowie Esports-Titel wie Counter-Strike und eFootball ab. Zu den Wettarten zählen das Dreiwege-Ergebnis (1x2), Doppelte Chance, Über/Unter, Handicap, Kombiwetten und Livewetten. Quick Bet platziert eine Wette sofort per Klick auf eine Auswahl, im BetSlip stehen Einsatzvorgaben von 10, 30, 50 und 100 bereit. Sportwetten ergänzen damit das Casino-Angebot.\n\nDas Sport-Willkommenspaket gilt für die ersten drei Sport-Einzahlungen und umfasst bis zu 450 €: 100 % bis 100 €, 75 % bis 150 € und 50 % bis 200 €. Die Mindesteinzahlung beträgt 20 €, der Umsatz 5x, die Gültigkeit 14 Tage. Zählende Wetten sind Kombiwetten mit mindestens drei Ereignissen und einer Quote von mindestens 1,40 je Auswahl. Das Sunday Sports Reload läuft jeden Sonntag von 00:00 bis 23:59 UTC, setzt mindestens drei frühere Einzahlungen voraus und hat 5x Umsatz bei 7 Tagen Gültigkeit. Der wöchentliche Sport-Cashback liegt je nach Stufe zwischen 6 % und 10 %.",
+      "version": 1,
+      "history": []
+    },
+    "b20": {
+      "id": "b20",
+      "level": 2,
+      "heading": "VIP- und Treueprogramm Boomerang",
+      "text": "Das Treueprogramm Boomerang des Incaspin Casino belohnt Echtgeld-Einsätze in Slots mit Boomerang Points (BP). Die insgesamt gesammelten Lebenszeit-BP bestimmen den Rang im Treueprogramm. Lebenszeit-BP summieren sich über die gesamte Spielzeit. Einlösbare BP geben Spieler beim Öffnen von Belohnungstruhen aus, die Lebenszeit-BP bleiben davon unberührt. Auch Missionen vergeben BP. Zu den Belohnungen zählen weitere BP, Freispiele, Bargeldboni und Preise aus den Truhen. Mit jedem höheren Rang steigen die BP, die ein Spieler pro 10 € Slot-Einsatz erhält, und der Treuerang kann auch die Auszahlungslimits erhöhen. Die sechs Ränge unterscheiden sich in den benötigten Lebenszeit-BP und in den BP pro 10 € Slot-Einsatz:\n\n| Rang | Benötigte BP | BP pro 10 € Slot-Einsatz |\n|---|---|---|\n| Scout | 0 | 100 |\n| Shaman | 25.000 | 150 |\n| Chief | 150.000 | 200 |\n| Emperor | 1.500.000 | 300 |\n| Legend | 10.000.000 | 400 |\n| Inca | 60.000.000 | 500 |",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Delete \"der Einstieg erfolgt als Scout, der höchste Rang ist Inca\", \"Ein Scout erhält 100 BP, ein Inca 500 BP\" and the sentence that lists all rank names before the table; use a short lead-in before the table instead (e.g. \"Die sechs Ränge unterscheiden sich in den benötigten Lebenszeit-BP und in den BP pro 10 € Slot-Einsatz:\"). Replace \"Ausgebbare BP\" with \"Einlösbare BP\" or an equally natural wording. Keep the table unchanged, \"Incaspin Casino\" exactly once and the 123-157 word range (if the block becomes too short, state the two kinds of points more explicitly: lifetime BP set the rank, spendable BP are redeemed for reward chests; no new facts)."
+          ]
+        }
+      ]
+    },
+    "b21": {
+      "id": "b21",
+      "level": 2,
+      "heading": "Sicherheit und Lizenz im Incaspin Casino",
+      "text": "Das Incaspin Casino verfügt über eine Glücksspiellizenz der Tobique Gaming Commission (Nummer 0000158, Gerichtsbarkeit Tobique). Betreiber ist die Legasta Technologies SRL, eine Gesellschaft mit beschränkter Haftung aus Costa Rica (Firmennummer 3-102-921383). Zahlungsabwickler ist die OptaStream Innovations Limited aus Zypern (Registernummer HE 472273). Spieler sollten selbst prüfen, ob das Angebot nach den für sie geltenden Vorschriften zulässig ist.\n\nDie Plattform schützt Konto- und Zahlungsdaten mit HTTPS und TLS 1.3 sowie SSL-Zertifikaten, ergänzt durch eine Web Application Firewall (WAF) und DDoS-Schutz. Das Casino verschlüsselt Verifizierungsdokumente und verarbeitet sie sicher. Hinzu kommen Identitätsprüfungen und Kontrollen für verantwortungsvolles Spielen. Für den Datenschutz ist der Betreiber Legasta Technologies SRL als Verantwortlicher zuständig. Spieler ändern ihre Profildaten in den Kontoeinstellungen. Das Angebot richtet sich nur an Personen ab 18 Jahren.",
+      "version": 1,
+      "history": []
+    },
+    "b22": {
+      "id": "b22",
+      "level": 2,
+      "heading": "Verantwortungsvolles Spielen",
+      "text": "Bei Incaspin gilt ein Mindestalter von 18 Jahren. Einzahlungslimits begrenzen die Einzahlungen pro Tag, Woche oder Monat (rollierend über 24, 168 und 720 Stunden). Spieler legen sie im Konto im Bereich für verantwortungsvolles Spielen fest. Eine Senkung wirkt sofort, eine Erhöhung oder Aufhebung nach 24 Stunden. Der Selbstausschluss sperrt den Kontozugang für den gewählten Zeitraum von 3 Monaten bis 5 Jahren oder unbefristet, ohne Angabe gilt eine Dauer von 6 Monaten. Währenddessen nimmt das Casino weder Einzahlungen noch Auszahlungen vor. Im Konto prüfen Spieler ihre Wetten und Aktivitäten.\n\n- Hilfe bieten Live Chat, E-Mail, Gambling Therapy, Gamblers Anonymous und die Selbsteinschätzung von BeGambleAware.\n- Glücksspiel ist kein Einkommen.\n- Verluste nicht durch weiteres Spielen ausgleichen und nicht unter Alkohol- oder Drogeneinfluss spielen.\n- Ein Budget festlegen, einhalten und Pausen einlegen.",
+      "version": 2,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace \"Verluste nicht jagen\" with natural German (e.g. \"Verluste nicht durch weiteres Spielen ausgleichen\") and \"nicht unter Alkoholeinfluss spielen\" with \"nicht unter Alkohol- oder Drogeneinfluss spielen\". Keep one idea per list item, \"Incaspin\" exactly once and the 106-134 word range."
+          ]
+        }
+      ]
+    },
+    "b23": {
+      "id": "b23",
+      "level": 2,
+      "heading": "Kundensupport",
+      "text": "Der Kundensupport ist rund um die Uhr erreichbar. Der Live Chat antwortet 24/7, per E-Mail erreichen Spieler das Team unter support@incaspin.com. Hinzu kommt ein FAQ-Bereich mit Antworten auf häufige Fragen. Der Support arbeitet auf Englisch und in mehreren weiteren Sprachen. Bei einer Anfrage helfen der Benutzername und, falls die Frage eine Zahlung betrifft, die Transaktionsnummer, damit sich das Anliegen leichter prüfen lässt.",
+      "version": 1,
+      "history": []
+    },
+    "b24": {
+      "id": "b24",
+      "level": 2,
+      "heading": "Häufige Fragen zum Incaspin Casino",
+      "text": "- **Wie wird der Willkommensbonus aktiviert?** Das Casino schreibt das Willkommenspaket automatisch gut, ein Promo-Code ist nicht erforderlich. Gibt ein Spieler zusätzlich einen Code ein, kann er den Anspruch auf den Paketbonus verlieren.\n- **Wie lange dauert eine Auszahlung?** Die interne Bearbeitung dauert bis zu 72 Stunden, danach folgt die Abwicklung durch den Zahlungsanbieter. Vorher muss der Spieler erforderliche Identitäts- oder Zahlungsprüfungen abschließen. Wie schnell das Geld danach eintrifft, hängt von der gewählten Zahlungsmethode ab.\n- **Wie hoch ist die Mindesteinzahlung?** Bei Visa liegt sie bei 15 € und das Maximum bei 4.000 €, andere Methoden haben eigene Beträge. Für das Willkommenspaket beträgt sie bei der ersten Einzahlung 20 €, die Einzahlungsstufen liegen bei 20 €, 50 € und 300 €.\n- **Ist mobiles Spielen im Incaspin Casino möglich?** Ja, als Progressive Web App für Android und iOS, die Spieler direkt über die Website im Browser ohne App-Store installieren. Danach starten sie die PWA über ein Symbol auf dem Startbildschirm.\n- **Wie erreicht man den Support?** Über den Live Chat, der rund um die Uhr (24/7) erreichbar ist, per E-Mail und über den FAQ-Bereich.",
+      "version": 1,
+      "history": []
+    },
+    "b25": {
+      "id": "b25",
+      "level": 2,
+      "heading": "Fazit",
+      "text": "Das Online-Casino spricht mit Casino, Live Casino und Sportwetten Spieler aus Deutschland an, die ein breites Angebot suchen. Spieler sollten vor jeder Aktivierung die Bonusbedingungen lesen, vor allem zu Umsatz und Gültigkeit. Das Mindestalter beträgt 18 Jahre, und Glücksspiel ist kein Einkommen. Verantwortungsvolles Spielen sollte jede Spielsitzung begleiten, mit festem Budget und Pausen.",
+      "version": 1,
+      "history": []
+    }
+  }
+}

@@ -1,0 +1,10 @@
+Kasyno realizuje wypłaty przez Visa OCT, Mastercard Payment Transfer, Skrill, Neteller, Jeton, przelew bankowy oraz kryptowaluty: Bitcoin, Ethereum, Litecoin i Dogecoin. Zlecenie wypłaty składa się w sześciu krokach:
+
+1. Zalogować się i otworzyć kasę lub sekcję wypłat.
+2. Wybrać dostępną metodę wypłaty, najlepiej tę, której użyto do wpłaty.
+3. Wpisać kwotę wypłaty i sprawdzić swój limit.
+4. Przejść wymaganą weryfikację tożsamości lub metody płatności.
+5. Potwierdzić zlecenie wypłaty.
+6. Odczekać do 72 godzin na wewnętrzne przetwarzanie, a potem na rozliczenie przez dostawcę płatności.
+
+Na czas wypłaty składa się więc kontrola po stronie kasyna oraz czas dostawcy: w przypadku przelewu bankowego dochodzi od 1 do 5 dni roboczych, a przy kryptowalutach potwierdzenie w sieci blockchain. Minimalna kwota wypłaty wynosi od 50 do 120 €, w zależności od kraju lub metody płatności. Wpłacone środki trzeba obrócić co najmniej trzykrotnie, a do pełnej weryfikacji konta żadna wypłata nie jest realizowana. Maksymalne limity mogą zależeć od rangi lojalnościowej i są widoczne w kasie. W Incaspin warto zaplanować wypłatę z wyprzedzeniem, bo do czasu kasyna dochodzi czas dostawcy płatności.

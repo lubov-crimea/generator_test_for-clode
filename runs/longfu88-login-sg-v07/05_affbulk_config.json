@@ -1,0 +1,39 @@
+{
+ "website_id": 4968,
+ "domain": "longfu88casino.games",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Secure Login: Passwords, Data and Documents",
+  "description": "Longfu88 secure login for Singapore players: sign in safely, replace a lost password, see what protects the account and which documents are requested and why."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Sign in safely and keep the account protected",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Register"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ },
+ "internal_links": [
+  {
+   "anchor": "Casino Welcome Bonus",
+   "href": "/bonuses"
+  }
+ ]
+}

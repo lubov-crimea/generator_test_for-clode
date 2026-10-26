@@ -1,0 +1,9 @@
+Spillene kommer fra flere studioer. Pragmatic Play, Play’n GO og BGaming er tre av dem, og lobbyen har i tillegg spill fra Amusnet, Spinomenal, Gamzix, Booongo, EGT, IGTech og Playson. Tre eksempler viser hvordan nøkkeltallene varierer fra spill til spill.
+
+| Spill | Leverandør | RTP | Volatilitet | Maks. multiplikator |
+|---|---|---|---|---|
+| Coin Spark | CROCO Games | 92 % / 94 % / 95 % / 96 % | Middels | 2 000x |
+| Piggy Party XL | CROCO Games | 96 % | Høy | 5 000x |
+| 3 Hot Chilli Peppers | Iron Dog Studio (1X2 Network) | 95 % / 93 % / 91 % | Høy | 10 000x |
+
+RTP viser hvor stor andel av innsatsene en spilleautomat teoretisk gir tilbake over lang tid, mens volatiliteten sier hvor store og hvor hyppige gevinstene er. Har et spill flere RTP-verdier, finnes det i flere versjoner, så verdien er verdt å sjekke i spillinformasjonen.

@@ -1,0 +1,78 @@
+# Longfu88 Mobile Casino: A First-Time Guide for Phone Users
+
+Longfu88 is a mobile casino that runs in the browser of a smartphone or tablet, on Android and iOS, through a responsive website. Players who look for the Longfu app will find the mobile version of the website, which can get a shortcut on the home screen. This page is written for players from Malaysia, and Longfu88 is open only to people aged 18 or over. The steps below cover the mobile site, shortcuts, devices, sign-in, safety, fixes and support.
+
+## Step 1: See What the Mobile Site Offers
+
+Longfu88 is a responsive website, which means its pages adapt to the screen of a smartphone or tablet browser instead of staying fixed to a desktop layout. A player who opens it on a phone reaches these parts of the casino:
+
+- Play in the casino section
+- Place bets in the sportsbook
+- Sign in to the player account
+- Add funds through deposits
+- Request money through withdrawals
+- Check and claim available bonuses
+
+These mobile features all sit on the same website, so a phone and a tablet differ only in screen size, not in what a player can do.
+
+## Step 2: Longfu88 Download Without a File
+
+The casino works in the browser of a smartphone or tablet, so a player adds a home-screen shortcut once and opens the site from there. Nobody needs a Longfu88 apk or any installation file, because Longfu88 opens in the mobile browser and sits on the home screen as a shortcut, with no store listing involved. The next two sub-sections give the steps for Android in Chrome and for iOS in Safari.
+
+### Longfu88 Android: Steps in Chrome
+
+On an Android phone, Chrome adds a shortcut of the casino website to the home screen in three steps.
+
+1. Open the casino website in Chrome.
+2. In the browser menu, choose Add to Home screen.
+3. Confirm the shortcut.
+
+After that, the shortcut appears among the apps of the phone and opens the same website as the browser.
+
+### Longfu88 iOS: Steps for iPhone and iPad
+
+On an iPhone or iPad, the route runs through Safari, which places a shortcut of the casino website on the home screen.
+
+1. Open the casino website in Safari.
+2. Tap Share and choose Add to Home Screen.
+3. Confirm Add.
+
+The new icon then sits next to the other icons of the device, ready for a one-tap visit.
+
+## Step 3: Check Your Phone and Browser
+
+The casino supports three kinds of access: Android, iOS and the mobile web, which covers the browser of any smartphone or tablet. Longfu88 uses one responsive layout that adapts to the size of the screen, so an Android phone, an iPhone and an iPad all show the same website. The shortcut routes differ only by browser, with Chrome on Android and Safari on iOS. No installation file is needed on either.
+
+## Step 4: Sign In from the Phone
+
+A player without an account registers by e-mail first, and the form asks for an e-mail address, a password, a legal name, a date of birth and a residential address. After that, signing in on a phone works as it does on a computer: select Login on the Longfu88 website, enter the registered e-mail and password, complete any security check that appears and access the account. Anyone who forgot the password can choose Forgot Password on the login screen.
+
+## Shortcut or Browser Tab: Which to Keep
+
+The home-screen shortcut opens the same responsive Longfu88 website as the browser tab, so the account, deposits, withdrawals and bonuses are identical whichever way a player gets in. Setup happens once, and afterwards an icon on the screen opens the site with a single tap. A browser tab needs no setup, because the player simply opens the site in the browser. In practice, the shortcut suits a phone that is used for Longfu88 often, while the tab is enough for a device that visits the casino rarely.
+
+## Keeping the Account Safe on a Phone
+
+The account holder is responsible for safeguarding the login credentials on every device in use, whether a phone, a tablet or a computer. One simple habit helps: a phone that others can pick up unlocked should not stay within their reach. The operator has its own part. Technical and organisational safeguards protect accounts, payments and personal information at Longfu88, and the casino may suspend activity for verification or suspected abuse.
+
+## When Something Does Not Work
+
+Four quick checks cover the most common problems when Longfu88 is used on a phone, and each one is worth trying before anything else.
+
+- Shortcut does not appear: repeat the steps in Chrome on Android or in Safari on iOS.
+- Page does not load: reload it and check the internet connection.
+- Login fails: check the e-mail address, then choose Forgot Password on the login screen to request a reset link.
+- Problem remains: customer support helps with what these checks do not solve, through the 24/7 live chat or by e-mail.
+
+## Help for Phone Players
+
+Customer support answers mobile and account questions through the live chat, which runs 24/7, and by e-mail at support@longfu88.com. Typical questions for the team are a shortcut that does not appear, a page that does not load, a failed login or the documents of the account. Help is available in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.
+
+## First-Time Phone Questions
+
+- **Is there a store app to download?** No, Longfu88 opens in the browser and is added to the home screen as a shortcut.
+- **Which phones work?** Android, iOS and the mobile web of smartphones and tablets.
+- **How is the Android shortcut added?** Open the casino website in Chrome, choose Add to Home screen in the browser menu and confirm the shortcut.
+- **How is the iOS shortcut added?** Open the casino website in Safari, tap Share, choose Add to Home Screen and confirm Add.
+- **How does a player log in on a phone?** With the registered e-mail and password on the Longfu88 website, just as on a computer.
+- **Where to turn when something fails?** Customer support helps through the live chat, open 24/7, or by e-mail.

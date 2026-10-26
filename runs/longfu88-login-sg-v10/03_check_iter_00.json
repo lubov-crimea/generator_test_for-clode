@@ -1,0 +1,55 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1268,
+    "max_body_words": 1559,
+    "target_body_words": 1260,
+    "keywords_total": {
+      "Longfu88": 12,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 12,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [
+      {
+        "check": "consistency",
+        "problem": "The last sentence is clumsy ('a player who logs in for the first time with a deposit made should open that section') and adds an assumption about the order of deposit and login that the facts do not state.",
+        "fix": "Keep the facts (activation in My Bonuses before any wager) in one short, plain sentence without the extra assumption; keep one 'Longfu88' and one 'Longfu login', keep the numbered three-step list unchanged."
+      }
+    ],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [
+      {
+        "check": "consistency",
+        "problem": "'so the length of the break is settled with support instead of being left to chance' is filler and slightly moralising and goes beyond the facts.",
+        "fix": "Replace with a plain consequence of the agreed period (access and gambling may be restricted for that period); keep all facts, GamCare, Gamblers Anonymous, Gambling Therapy and exactly one 'Longfu88'."
+      }
+    ],
+    "b10": [],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "The answer to the withdrawal question repeats the phrasing of b05 ('a general expectation and not a promise').",
+        "fix": "Reword the third answer so it states 'generally processed within three working days' without the repeated 'general expectation' phrase and without promising a payout time; keep the rest of the list unchanged and exactly one 'Longfu88'."
+      }
+    ]
+  },
+  "missing_data": []
+}

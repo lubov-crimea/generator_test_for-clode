@@ -1,0 +1,4 @@
+The casino works in the browser of a smartphone or a tablet on Android and iOS, and the login is the same as on a computer. A shortcut on the home screen gives quicker access to the site and is added in a few steps that differ by system:
+
+- Android: open the site in Chrome, open the browser menu and choose Add to Home screen, then confirm the shortcut.
+- iOS: open the site in Safari, tap Share and choose Add to Home Screen, then confirm Add.

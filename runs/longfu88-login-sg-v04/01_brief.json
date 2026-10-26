@@ -1,0 +1,748 @@
+{
+  "geo": "SG",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu88 login",
+    "Longfu login",
+    "Longfu88 register",
+    "Longfu88 casino login"
+  ],
+  "targets": {
+    "target_body_words": 795,
+    "competitor_body_words": 844,
+    "max_body_words": 1013,
+    "tier": "small",
+    "tiers": {
+      "competitors": [
+        844,
+        1754
+      ],
+      "base": "medium",
+      "tiers": {
+        "small": {
+          "competitors": [
+            844
+          ],
+          "mean": 844,
+          "multiplier": 1.2,
+          "target": 844,
+          "limit": 1013
+        },
+        "medium": {
+          "competitors": [
+            844,
+            1754
+          ],
+          "mean": 1299,
+          "multiplier": 1.2,
+          "target": 1299,
+          "limit": 1559,
+          "synthetic": true
+        },
+        "large": {
+          "competitors": [
+            1754
+          ],
+          "mean": 1754,
+          "multiplier": 1.0,
+          "target": 1754,
+          "limit": 1754,
+          "outlier": true
+        }
+      }
+    },
+    "keyword_targets": {
+      "Longfu88": 7,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "base_body_words": 795
+  },
+  "brand": "Longfu88",
+  "knowledge_base": {
+    "id": 576,
+    "title": "longfu88-new"
+  },
+  "intent_summary": "Short brand-subpage for the small size group: what an account holder of Longfu88 in Singapore controls: the registration details, the protection of the credentials and the data, the currency and one-account rules, taking a break or closing the account, marketing and cookie settings, and where to ask. Page voice: sober and exact, every claim tied to a stated fact, sentences of about 17 words, no reassurance beyond the facts; no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino Login and Account Control for Singapore",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.login.method",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 75,
+      "words_max": 95,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Player Account",
+          "priority": 10
+        },
+        {
+          "name": "Login",
+          "priority": 9
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the Player Account with e-mail and password",
+          "priority": 8,
+          "relation": "logs in to",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What the page covers: how a registered player signs in to the casino account, how a lost password is reset, how the account is opened and checked, and where help is found.",
+      "copywriter_notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence, followed by the fact that the account is opened with the e-mail address and the password chosen at registration. State once that the casino is for players aged 18 or over, and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (registration, protection of the data, rules of the account, taking a break, settings, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. No payment or game details. Neutral tone, no promises. Use \"Longfu88\" exactly once and \"Longfu88 login\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b01"
+      ],
+      "words": 85,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.method",
+          "value": "Email and password"
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_words": {
+        "facts": 7,
+        "connections": 15,
+        "need": 22
+      },
+      "words_base": [
+        75,
+        95
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Longfu88 Register: Details and Eligibility",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration"
+      ],
+      "words_min": 136,
+      "words_max": 174,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Registration",
+          "priority": 10
+        },
+        {
+          "name": "Required Details",
+          "priority": 7
+        },
+        {
+          "name": "One Account Rule",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "e-mail, password, legal name, date of birth and residential address",
+          "priority": 8,
+          "relation": "requires",
+          "subject": "Registration"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Registration by e-mail in five numbered steps, the details the form asks for and the eligibility rules (18+, one account per player).",
+      "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the five registration steps in the order of the Brand Information, then one short sentence with the required details (e-mail, password, legal name, date of birth, residential address) and the eligibility rules (18+ and of legal gambling age in the relevant jurisdiction, one personal account per player). Registration by e-mail is the only method given. Write \"the site\" or \"the casino\" in the list items instead of the brand name. Do not describe bonuses or deposits here. Use \"Longfu88\" exactly once and \"Longfu login\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b02"
+      ],
+      "words": 155,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.registration",
+          "value": {
+            "methods": [
+              "Email registration"
+            ],
+            "required_details": [
+              "Email",
+              "Password",
+              "Legal name",
+              "Date of birth",
+              "Residential address"
+            ],
+            "steps": [
+              "Open Longfu88 and select Register.",
+              "Enter email and create a password.",
+              "Confirm age and acceptance of Terms and Conditions and Privacy Policy.",
+              "Complete the additional personal details and residential address.",
+              "Select Create Account and complete any requested email confirmation."
+            ],
+            "eligibility": [
+              "18+ and of legal gambling age in the relevant jurisdiction.",
+              "Only one personal account per player."
+            ]
+          }
+        }
+      ],
+      "coverage_words": {
+        "facts": 40,
+        "connections": 15,
+        "need": 55
+      },
+      "words_base": [
+        136,
+        174
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "Protecting Your Details",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.security",
+        "brandinfo_privacy_policy.terms_conditions.account_terms",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights"
+      ],
+      "words_min": 123,
+      "words_max": 157,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Account Security",
+          "priority": 10
+        },
+        {
+          "name": "Login Credentials",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the login credentials",
+          "priority": 8,
+          "relation": "safeguards",
+          "subject": "Account Holder"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Who is responsible for the credentials and what the operator does to protect accounts and data.",
+      "copywriter_notes": "Lead with the player's own part: the account holder is responsible for safeguarding the login credentials. Then the operator's part exactly at the level of detail of the Brand Information: technical and organisational safeguards protect accounts, payments and personal information, and the operator may suspend activity for verification or suspected abuse. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL or encryption, a username or a player ID: the login is e-mail and password only and no other protection is given. Do not claim an audit or a certificate. Do not print the contact addresses of the privacy policy (they contain the brand name). Variant direction: Add with whom data may be shared and which rights the player has, as two short lists inside the paragraph. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b07"
+      ],
+      "words": 140,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.security",
+          "value": "Technical and organizational safeguards protect accounts, payments and personal information."
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.account_terms",
+          "value": [
+            "The account holder is responsible for safeguarding credentials.",
+            "The operator may suspend activity for verification or suspected abuse."
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_sharing",
+          "value": [
+            "Payment service providers",
+            "Identity verification providers",
+            "Technology providers",
+            "Regulators and law enforcement when required"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_subject_rights",
+          "value": [
+            "Access",
+            "Rectification",
+            "Erasure where legally permitted",
+            "Restriction",
+            "Objection",
+            "Portability where applicable",
+            "Withdrawal of consent"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 68,
+        "connections": 15,
+        "need": 83
+      },
+      "words_base": [
+        123,
+        157
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 2,
+      "heading": "Account Currencies and Player Rules",
+      "source": "unique",
+      "covers_clusters": [
+        "k16"
+      ],
+      "kb_refs": [
+        "brandinfo_general.currencies",
+        "brandinfo_privacy_policy.terms_conditions.eligibility.player_requirements",
+        "brandinfo_privacy_policy.terms_conditions.eligibility.residency_requirements"
+      ],
+      "words_min": 88,
+      "words_max": 112,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Account Currencies",
+          "priority": 8
+        },
+        {
+          "name": "One Personal Account",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "one personal account in one of the supported currencies",
+          "priority": 8,
+          "relation": "uses",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which currencies an account can use and the rules for the account itself: accurate details, one personal account, no third-party payment methods.",
+      "copywriter_notes": "State the currencies exactly as listed (EUR, USD, MYR, THB, SGD and USDT) and do not convert amounts or mention exchange rates, conversion or a choice of currency at registration: none is given. The player requirements: register with accurate information, use only one personal account, do not use third-party payment methods. Calm tone, no legal advice. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Variant direction: Add that residents must be legally permitted to gamble where they live. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b11"
+      ],
+      "words": 100,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "MYR",
+            "THB",
+            "SGD",
+            "USDT"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.eligibility.player_requirements",
+          "value": [
+            "Register with accurate information",
+            "Use only one personal account",
+            "Do not use third-party payment methods"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.eligibility.residency_requirements",
+          "value": "Players must be legally permitted to gamble in their place of residence."
+        }
+      ],
+      "coverage_words": {
+        "facts": 39,
+        "connections": 15,
+        "need": 54
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 2,
+      "heading": "Stopping, Pausing and Closing an Account",
+      "source": "unique",
+      "covers_clusters": [
+        "k17"
+      ],
+      "kb_refs": [
+        "brandinfo_responsible_gaming.responsible_gaming.policy",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.effect",
+        "brandinfo_responsible_gaming.responsible_gaming.account_closure",
+        "brandinfo_responsible_gaming.responsible_gaming.support_organizations",
+        "brandinfo_responsible_gaming.responsible_gaming.procedure",
+        "brandinfo_responsible_gaming.responsible_gaming.self_assessment"
+      ],
+      "words_min": 136,
+      "words_max": 174,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Self-Exclusion",
+          "priority": 10
+        },
+        {
+          "name": "Account Closure",
+          "priority": 8
+        },
+        {
+          "name": "Support Organisations",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "self-exclusion or account closure through customer support",
+          "priority": 8,
+          "relation": "requests",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How a player limits or ends access: self-exclusion, account closure through support and the independent help organisations.",
+      "copywriter_notes": "Players must be at least 18 and gamble only where lawful. A player who wants to stop contacts support and asks for self-exclusion or account closure; account access and gambling may then be restricted for the agreed period. Independent support: GamCare, Gamblers Anonymous and Gambling Therapy. Do not print the e-mail address of the self-exclusion request (it contains the brand name) and do not state a processing time. Accurate and practical, not moralising. Variant direction: Add the four steps of the procedure as a numbered list, in the order of the Brand Information, without the e-mail address. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b12"
+      ],
+      "words": 155,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.policy",
+          "value": "Players must be at least 18 years old and gamble only where lawful."
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.effect",
+          "value": "Account access and gambling may be restricted for the agreed period."
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.account_closure",
+          "value": "Request account closure through customer support."
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.support_organizations",
+          "value": [
+            "GamCare",
+            "Gamblers Anonymous",
+            "Gambling Therapy"
+          ]
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.procedure",
+          "value": [
+            "Contact support and request self-exclusion or account closure.",
+            "Confirm your account details and preferred exclusion terms.",
+            "Allow the casino to restrict or close access.",
+            "Seek independent support where appropriate."
+          ]
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.self_assessment",
+          "value": "Self-assessment questions help players identify possible gambling-related harm."
+        }
+      ],
+      "coverage_words": {
+        "facts": 80,
+        "connections": 15,
+        "need": 95
+      },
+      "words_base": [
+        136,
+        174
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 2,
+      "heading": "Marketing Messages and Cookies",
+      "source": "unique",
+      "covers_clusters": [
+        "k14"
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.marketing",
+        "brandinfo_privacy_policy.privacy_policy.cookies"
+      ],
+      "words_min": 75,
+      "words_max": 95,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Communication Preferences",
+          "priority": 10
+        },
+        {
+          "name": "Cookies",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "direct-marketing preferences and can unsubscribe from promotional communications",
+          "priority": 8,
+          "relation": "manages",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which settings the player controls: promotional communication and the cookies of the site.",
+      "copywriter_notes": "Two facts only, exactly as in the Brand Information: the player may manage direct-marketing preferences and unsubscribe from promotional communications; necessary, preference, analytics and marketing cookies support website functions and measurement. Do not invent account settings, screens, limits (deposit, loss, session) or profile fields and do not say where in the account to find these settings. Neutral tone. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b13"
+      ],
+      "words": 85,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.marketing",
+          "value": "Players may manage direct-marketing preferences and unsubscribe from promotional communications."
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.cookies",
+          "value": "Necessary, preference, analytics and marketing cookies support website functions and measurement."
+        }
+      ],
+      "coverage_words": {
+        "facts": 25,
+        "connections": 15,
+        "need": 40
+      },
+      "words_base": [
+        75,
+        95
+      ],
+      "internal_links": [
+        {
+          "slug": "bonuses",
+          "href": "/bonuses",
+          "label": "Bonuses",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Where to Ask Account Questions",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support"
+      ],
+      "words_min": 66,
+      "words_max": 84,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "entities": [
+        {
+          "name": "Customer Support",
+          "priority": 10
+        },
+        {
+          "name": "Live Chat",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "account, login and verification questions through live chat and e-mail",
+          "priority": 8,
+          "relation": "answers",
+          "subject": "Customer Support"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How to reach support with a login or account problem: live chat around the clock, e-mail and the languages of the support team.",
+      "copywriter_notes": "Support channels: 24/7 live chat and e-mail. Print the e-mail address exactly as given in the Brand Information. Support languages: English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese. Say which kinds of account questions go here (login failure, a reset e-mail that does not arrive, document upload) without response-time promises. Use \"Longfu88\" exactly once, and no other tracked keyword. The e-mail address contains the tracked keyword \"Longfu88\"; it is part of the exact count of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b14"
+      ],
+      "words": 75,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support",
+          "value": {
+            "channels": [
+              "24/7 live chat",
+              "Email"
+            ],
+            "email": "support@longfu88.com",
+            "languages": [
+              "English",
+              "Malay",
+              "Simplified Chinese",
+              "Thai",
+              "Indonesian",
+              "Vietnamese"
+            ]
+          }
+        }
+      ],
+      "coverage_words": {
+        "facts": 16,
+        "connections": 15,
+        "need": 31
+      },
+      "words_base": [
+        66,
+        84
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [],
+  "page_type": "brand-subpage",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the text is about the control of the account (privacy, settings, closing); the welcome offer is left to the longer texts"
+    }
+  ],
+  "variant": {
+    "id": "v04",
+    "name": "Control and privacy (small)",
+    "base_run": "longfu88-login-sg",
+    "angle": "A cautious reader who wants to know what the player controls.",
+    "tier": "small"
+  },
+  "site_pages": [
+    "bonuses",
+    "app"
+  ]
+}

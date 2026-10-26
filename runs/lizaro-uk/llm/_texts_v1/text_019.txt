@@ -1,0 +1,8 @@
+Deposits accept Pay By Card and a long list of cryptocurrencies, while the withdrawal list contains cryptocurrencies only and Pay By Card does not appear in it. Bitcoin, Ethereum and USDT on several networks are among the options, and crypto transactions are listed as fast. Limits differ by method, as the examples below show.
+
+| Method | Deposit limits | Withdrawal limits |
+|---|---|---|
+| Pay By Card | €10 - €2,000 | Not listed |
+| USDT TRC20 | €10 - €5,000 | €10 - €5,000 |
+| Bitcoin | €30 - €5,000 | €60 - €5,000 |
+| Ethereum | €10 - €5,000 | €10 - €5,000 |

@@ -1,0 +1,152 @@
+{
+  "id": "v03",
+  "name": "Troubleshooting (small)",
+  "tier": "small",
+  "angle": "A player who already has an account and cannot get in.",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the welcome bonus is no help to a player who cannot sign in; the offer is left to the longer texts"
+    }
+  ],
+  "intent_summary": "Short troubleshooting brand-subpage for the small size group: why a Longfu88 login can fail for a player in Singapore, the normal route, the password reset, the checks that can hold an account, what the first payout needs from the account and where to ask. Page voice: practical and calm, cause then fix, sentences of about 16 words, no calls to action. Flat H2s with one H3. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login Problems: Quick Fixes and Checks",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, mobile access, support)",
+          "(the login route, password reset, reasons for a failed login, verification, payout checks, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "How the Login Works",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 1,
+        "Longfu login": 1,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "edit": [
+        [
+          "Do not explain password reset here (next sub-section).",
+          "Do not explain password reset here (a separate section)."
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Reset a Lost Password",
+      "words": 75,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Why a Login Fails",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 1,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Say that a player without an account starts with registration (use the phrase once, naturally) and add that prolonged inactivity may trigger an account review or closure.",
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.inactivity"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Checks That Can Hold an Account",
+      "words": 170,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "Then a TABLE with two columns, document type | accepted documents, one row each for identity",
+          "Then a bulleted list, one item each for identity"
+        ],
+        [
+          "; the source-of-funds row applies only when requested",
+          "; the source-of-funds item applies only when requested"
+        ]
+      ],
+      "extra": "After the list add the procedure in one sentence: upload legible, current documents that match the account profile; telephone or face verification if requested; wait for approval before a withdrawal.",
+      "refs_add": [
+        "brandinfo_account.verification.procedure"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "What the Account Needs Before a Payout",
+      "words": 130,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "extra": "Add that failing the checks can lead to a refused transaction, account restrictions or withheld withdrawals.",
+      "refs_add": [
+        "brandinfo_privacy_policy.kyc_aml.failure_consequences"
+      ]
+    },
+    {
+      "from": [
+        "b14"
+      ],
+      "level": 2,
+      "heading": "Where to Get Help With the Login",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    }
+  ]
+}

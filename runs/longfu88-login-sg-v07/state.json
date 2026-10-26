@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-25T15:32:05",
+    "blocks": 12,
+    "variant": "v07"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-25T15:45:56",
+    "iteration": 0,
+    "regenerated": 12
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-25T15:48:06",
+    "iteration": 1,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-25T17:59:28",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-login-sg-v07.txt"
+  }
+}

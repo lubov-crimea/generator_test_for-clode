@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-22T20:28:01",
+    "blocks": 27,
+    "variant": "v02"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-22T20:51:45",
+    "iteration": 0,
+    "regenerated": 27
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-22T20:51:52",
+    "iteration": 0,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-22T20:51:56",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-vietnam-v02.txt"
+  }
+}

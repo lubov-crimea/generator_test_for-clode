@@ -1,0 +1,11 @@
+The casino works as a responsive website on smartphone and tablet browsers, on Android, iOS and mobile web alike, so the casino, the sportsbook, account access, deposits, withdrawals and bonuses are all within reach of a phone. A shortcut added to the home screen gives quick access to the casino and the sportsbook. On Android it is set up through Chrome:
+
+1. Open Longfu88 in Chrome.
+2. Open browser menu and choose Add to Home screen.
+3. Confirm the shortcut.
+
+On iOS the route runs through Safari:
+
+1. Open Longfu88 in Safari.
+2. Tap Share and choose Add to Home Screen.
+3. Confirm Add.

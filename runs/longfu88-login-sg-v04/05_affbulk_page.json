@@ -1,0 +1,96 @@
+{
+ "website": 4965,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Account Control: Data, Breaks and Closing",
+  "description": "Longfu88 account control for Singapore players: registration rules, protecting login details, currencies, taking a break or closing the account, and support.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Casino Login and Account Control for Singapore",
+   "label": "Keep your account and your details under control",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> sets up every player account around two items, an e-mail plus the password picked during registration. That same pair is what a Longfu88 login asks for later, and no other credential is given. Playing is for adults of 18 years or more, while this page is directed at readers in Singapore. Following the order of the account, the sections cover signing up, safeguarding the data, account rules, time away, settings and help with questions.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Register: Details and Eligibility</h2>\n<p>New accounts at Longfu88 are created by e-mail alone, in five steps that run from the Register button to the confirmed account.</p>\n<ol>\n<li>Go to the site and click Register.</li>\n<li>Give an e-mail and pick a password.</li>\n<li>Confirm age, agree to the site Terms and Conditions, and read through the Privacy Policy.</li>\n<li>Provide further personal details plus the residential address.</li>\n<li>Finish with Create Account, then complete whatever e-mail confirmation is requested.</li>\n</ol>\n<p>Besides the login pair, the form gathers the player's legal name, birth date and place of residence, so identity data is collected at sign-up as well. Eligibility rests on two conditions. One is age: the player is of legal gambling age under the relevant jurisdiction and at least 18. The other is that every person keeps a single personal account. After sign-up, the Longfu login accepts the e-mail and password typed in the second step.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Protecting Your Details</h2>\n<p>Credentials are looked after by the account holder: the e-mail used for the account and its password must stay private. As these two items make up the whole login, their privacy is the main thing a player can do for account security. The operator speaks of its own role only in general terms. At Longfu88, technical and organizational measures are applied to accounts, payments and personal information. Account activity may be suspended as well, should verification or suspected abuse call for it. Personal data can be passed to payment service providers, to identity verification and technology providers, and to regulators and law enforcement if the law demands. Players have these rights over their data: withdrawal of consent, objection, restriction, access, rectification, portability where applicable and erasure where legally permitted.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Account Currencies and Player Rules</h2>\n<p>Accounts at Longfu88 are held one per player, in a single currency chosen from SGD, USDT, THB, USD, MYR and EUR. Three requirements apply to the player: truthful registration data, one personal account only, and no use of payment methods that belong to someone else. All three describe the player's own conduct, since the details given must be true, one person holds one account and money moves only through methods in that person's name. Players must in addition have the legal right to gamble where they live. That condition is theirs to meet.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Stopping, Pausing and Closing an Account</h2>\n<p>To stop playing, a customer of Longfu88 turns to customer support and requests either self-exclusion or the closing of the account. Under self-exclusion, login and play may be restricted for an agreed time, whereas closure goes through the same support route. One request therefore opens both paths, and the choice between a restriction and an ended account is made inside it. Playing is meant for adults of 18 and older, and only where the law allows. The request follows four steps:</p>\n<ol>\n<li>Approach support with a wish for self-exclusion or for the account to be closed.</li>\n<li>Verify the account details and state the exclusion terms the player prefers.</li>\n<li>Let the casino apply the restriction or close the access.</li>\n<li>Turn to independent support when appropriate.</li>\n</ol>\n<p>Beyond the casino, independent help is offered by GamCare, and also by Gambling Therapy and Gamblers Anonymous. Self-assessment questions let a player notice signs of harm linked to gambling, so they work as a sensible first move when deciding on a break.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Marketing Messages and Cookies</h2>\n<p>Players at Longfu88 keep control over two separate areas. Marketing is one of them: a player can manage preferences for direct marketing and unsubscribe from promotional communications, such as messages on bonus offers. The other area is cookies. Necessary, preference, analytics and marketing types serve website functions and measurement. In short, marketing choices determine which messages arrive in the player's inbox, while cookie types relate to how the site operates and how visits to it are measured.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Where to Ask Account Questions</h2>\n<p>Questions about an account, a login or verification are answered by customer support, via round-the-clock live chat or an e-mail to support@longfu88.com. Failed logins, reset e-mails that never show up and document uploads for verification are the usual topics. No answer times are promised on either channel. Staff handle Malay, Vietnamese, English, Thai, Simplified Chinese and Indonesian, so the problem can be described in the player's most comfortable language among those.</p>"
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

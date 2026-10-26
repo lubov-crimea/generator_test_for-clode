@@ -1,0 +1,356 @@
+{
+  "id": 187,
+  "title": "lizaro",
+  "category": "brand-data",
+  "variables": [
+    {
+      "key": "brandinfo",
+      "type": "json",
+      "value": {
+        "brand_name": "Lizaro",
+        "release_date": "2025",
+        "proper_welcome_bonus": {
+          "casino": {
+            "name": "Welcome Package",
+            "type": "casino_welcome_bonus",
+            "amount": "250% up to €3,000 + 350 FS",
+            "minimum_deposit": null,
+            "claiming_guide": [
+              "Register a new account",
+              "Make a first qualifying deposit",
+              "Open the bonus section if activation is required",
+              "Use the bonus funds and free spins on eligible casino games"
+            ],
+            "wager": null,
+            "terms_and_conditions": [
+              "Presented as the main casino welcome offer on the site",
+              "Detailed full rules for this specific welcome package are not fully visible in the uploaded text",
+              "The offer includes a deposit match and 350 free spins"
+            ]
+          },
+          "sport": {
+            "name": "First Deposit Bonus",
+            "type": "sports_welcome_bonus",
+            "amount": "100% up to €300",
+            "minimum_deposit": "€20",
+            "claiming_guide": [
+              "Make your first deposit",
+              "Roll over the initial deposit 1x with minimum odds of 1.50",
+              "Have qualifying bets settled",
+              "Receive and activate the bonus in My Bonus"
+            ],
+            "wager": "6x (deposit + bonus)",
+            "terms_and_conditions": [
+              "Available only to new customers after a first qualifying deposit",
+              "Single bets must be settled at odds of at least 2.00",
+              "Multi-bets must have odds of at least 1.50 per selection",
+              "Deposits via Skrill or Neteller do not qualify",
+              "Only the first bet on a given event counts toward rollover",
+              "Wagering must be completed within 30 days",
+              "Max win rule of 10x bonus value applies in some countries",
+              "The operator may request ID, proof of address, and proof of payment before crediting or withdrawing bonus-related winnings"
+            ]
+          }
+        },
+        "app_information": {
+          "native_app_available": null,
+          "mobile_friendly_website": true,
+          "ios_supported": true,
+          "android_supported": true,
+          "notes": "The text confirms the website is mobile-friendly and usable on Android and iOS devices, but it does not clearly confirm a dedicated native app."
+        },
+        "available_bonuses": [
+          {
+            "name": "Welcome Package",
+            "category": "Casino",
+            "amount": "250% up to €3,000 + 350 FS",
+            "minimum_deposit": null,
+            "claiming_guide": [
+              "Register",
+              "Make a first qualifying deposit",
+              "Activate and use the package on eligible casino games"
+            ],
+            "wager": null,
+            "terms_and_conditions": [
+              "Main casino welcome offer shown on the site",
+              "Full detailed terms are not fully visible in the uploaded text"
+            ]
+          },
+          {
+            "name": "First Deposit Bonus",
+            "category": "Sport",
+            "amount": "100% up to €300",
+            "minimum_deposit": "€20",
+            "claiming_guide": [
+              "Make your first deposit",
+              "Complete 1x deposit rollover at minimum odds of 1.50",
+              "Have bets settled",
+              "Get the reward"
+            ],
+            "wager": "6x (deposit + bonus)",
+            "terms_and_conditions": [
+              "New customers only",
+              "Single bets at odds 2.00+",
+              "Multi-bets at odds 1.50+ per selection",
+              "30-day wagering period",
+              "Skrill and Neteller excluded"
+            ]
+          },
+          {
+            "name": "Daily Cashback",
+            "category": "Casino",
+            "amount": "15% up to €400",
+            "minimum_cashback": "€1",
+            "claiming_guide": [
+              "Opt in",
+              "Play casino games daily",
+              "Activate cashback in My Bonuses after it is credited"
+            ],
+            "wager": "1x",
+            "terms_and_conditions": [
+              "Available to VIP levels 2-5",
+              "Qualifying period is daily from 00:00 to 23:59:59 UTC",
+              "Credited once per day at 04:00 UTC",
+              "Applies only to Casino games",
+              "Cashback percentage and max amount depend on VIP level"
+            ]
+          },
+          {
+            "name": "Cashback Bonus",
+            "category": "Sport",
+            "amount": "10% up to €500",
+            "minimum_cashback": "€20",
+            "claiming_guide": [
+              "Opt in each week",
+              "Place sports bets during the qualifying period",
+              "Activate cashback in My Bonuses on Monday"
+            ],
+            "wager": "3x",
+            "terms_and_conditions": [
+              "Available once per week",
+              "Qualifying period runs Monday to Sunday",
+              "Only Sports section activity counts",
+              "Activation window is 72 hours",
+              "Must be wagered within 30 days after activation"
+            ]
+          },
+          {
+            "name": "Live Cashback",
+            "category": "Casino",
+            "amount": "25% up to €200",
+            "minimum_cashback": "€1",
+            "claiming_guide": [
+              "Opt in",
+              "Play Live Casino games during the week",
+              "Activate cashback in My Bonuses"
+            ],
+            "wager": "1x",
+            "terms_and_conditions": [
+              "Available to VIP levels 1-5",
+              "Qualifying period runs Monday to Sunday",
+              "Applies only to Live Casino",
+              "Cashback is based on real money bets minus real winnings",
+              "No fixed end date"
+            ]
+          },
+          {
+            "name": "Weekly Reload",
+            "category": "Casino",
+            "amount": "66 Free Spins",
+            "minimum_deposit": null,
+            "claiming_guide": [],
+            "wager": null,
+            "terms_and_conditions": [
+              "Listed on the promotions page",
+              "Detailed terms are not fully visible in the uploaded text"
+            ]
+          },
+          {
+            "name": "Weekend Reload Bonus",
+            "category": "Casino",
+            "amount": "€777 + 77 Free Spins",
+            "minimum_deposit": null,
+            "claiming_guide": [],
+            "wager": null,
+            "terms_and_conditions": [
+              "Listed on the promotions page",
+              "Detailed terms are not fully visible in the uploaded text"
+            ]
+          },
+          {
+            "name": "Weekly Reload Bonus",
+            "category": "Sport",
+            "amount": "55% up to €750",
+            "minimum_deposit": null,
+            "claiming_guide": [],
+            "wager": null,
+            "terms_and_conditions": [
+              "Listed on the promotions page",
+              "Detailed terms are not fully visible in the uploaded text"
+            ]
+          },
+          {
+            "name": "Early Payout",
+            "category": "Sport",
+            "amount": "€50,000",
+            "minimum_deposit": null,
+            "claiming_guide": [
+              "Place a bet on a qualifying pre-match market",
+              "Back a team on the 1X2 Home or Away Win market",
+              "If your team goes sufficiently ahead, the bet is settled instantly as a win"
+            ],
+            "wager": "No wagering if the bet was placed from real balance",
+            "terms_and_conditions": [
+              "Only for markets marked with Early Payout (EP)",
+              "Only valid for pre-match 1X2 Home or Away Win bets",
+              "Not valid for Draw selection",
+              "Not valid for live bets",
+              "Sport-specific lead thresholds apply"
+            ]
+          },
+          {
+            "name": "Accumulator Boost",
+            "category": "Sport",
+            "amount": "€100,000",
+            "minimum_deposit": null,
+            "claiming_guide": [],
+            "wager": null,
+            "terms_and_conditions": [
+              "Listed on the promotions page",
+              "Detailed terms are not fully visible in the uploaded text"
+            ]
+          },
+          {
+            "name": "Bet Builder",
+            "category": "Sport",
+            "amount": "50% Risk Free €50",
+            "minimum_deposit": null,
+            "claiming_guide": [],
+            "wager": null,
+            "terms_and_conditions": [
+              "Listed on the promotions page",
+              "Detailed terms are not fully visible in the uploaded text"
+            ]
+          }
+        ],
+        "game_types": [
+          "Slots",
+          "Live Casino",
+          "Jackpots",
+          "Sportsbook",
+          "Live Betting",
+          "Virtual Sports",
+          "Crash Games",
+          "Instant Games",
+          "Bonus Buys",
+          "Roulette",
+          "Game Shows",
+          "Blackjack",
+          "Table Games",
+          "Poker",
+          "Baccarat & Dice",
+          "International Tables"
+        ],
+        "providers": {
+          "list": [],
+          "notes": [
+            "The uploaded text says Lizaro works with top providers and popular providers",
+            "A structured provider-name list is not clearly visible in the uploaded text"
+          ]
+        },
+        "payments": {
+          "deposit_methods": [
+            { "method": "Pay By Card", "limits": "€10 - €2,000", "transaction_speed": "Card transactions may take slightly longer because they are processed by a bank" },
+            { "method": "USDT ERC20", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "BitCoinCash", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDT Solana", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDT BEP20", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDT TRC20", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Bitcoin", "limits": "€30 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Ethereum", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Litecoin", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Ripple", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "TRX", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDC", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "BNB", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "DOGE", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Solana", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDC Solana", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Cardano", "limits": "€10 - €5,000", "transaction_speed": "Fast" }
+          ],
+          "withdrawal_methods": [
+            { "method": "USDT ERC20", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "BitCoinCash", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDT Solana", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDT BEP20", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDT TRC20", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Bitcoin", "limits": "€60 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Ethereum", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Litecoin", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Ripple", "limits": "€30 - €5,000", "transaction_speed": "Fast" },
+            { "method": "TRX", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDC", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "BNB", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "DOGE", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Solana", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "USDC Solana", "limits": "€10 - €5,000", "transaction_speed": "Fast" },
+            { "method": "Cardano", "limits": "€10 - €5,000", "transaction_speed": "Fast" }
+          ]
+        },
+        "available_currencies": ["EUR", "PLN", "NOK", "AUD", "CAD", "CHF", "CZK", "HUF", "NZD", "PEN", "USD"],
+        "withdrawal_speed": {
+          "general": "The site describes payouts as fast and says e-wallet-style methods are lightning-fast, while card transactions may take longer because they are processed by a bank.",
+          "e_wallets_and_crypto": "Lightning-fast / fast",
+          "card_transactions": "May take longer because they are processed by a bank"
+        },
+        "deposit_guide": [
+          "Create or log in to your account",
+          "Open the Payments or Cashier section",
+          "Choose a deposit method",
+          "Enter an amount within the allowed limits",
+          "Confirm the transaction",
+          "Activate a bonus in My Bonus if applicable"
+        ],
+        "withdrawal_guide": [
+          "Open the Payments or Cashier section",
+          "Choose an available withdrawal method",
+          "Enter the withdrawal amount",
+          "Submit the withdrawal request",
+          "Complete verification if requested",
+          "Wait for processing according to the selected method and account status"
+        ],
+        "minimum_deposit_amounts": {
+          "general_site_minimum": "€10",
+          "sports_first_deposit_bonus": "€20"
+        },
+        "minimum_withdrawal_amounts": {
+          "general_lowest_seen": "€10",
+          "bitcoin": "€60",
+          "ripple": "€30"
+        },
+        "additional_brand_features": {
+          "support": {
+            "live_chat": true,
+            "email": "support@lizaro.com",
+            "availability": "24/7",
+            "multilingual": true
+          },
+          "vip_club": true,
+          "coins_shop": true,
+          "tournaments": true,
+          "challenges": true,
+          "responsible_gaming": {
+            "minimum_age": 18,
+            "self_exclusion_available": true
+          }
+        },
+        "notes": [
+          "The footer shows 2026, so that is used as the release date because no separate launch date is clearly stated.",
+          "The full detailed rules for the 250% Welcome Package are not fully visible in the uploaded text, so unknown fields are left null instead of guessed.",
+          "Provider names are not clearly enumerated in a structured provider list in the uploaded content."
+        ],
+        "source_file": "lizaro.txt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+# Brief (step 1)
+
+- GEO: SG  |  page language: en
+- AffBulk knowledge base: longfu88-new
+- Search intent: Editor's take on the Longfu88 online casino for readers in Singapore. Open on the game lobby: a fact table starts the page, after it come the game categories (slots, live casino and the other game types), providers, the welcome bonus and promotions, VIP levels, sports betting, payments, registration, mobile access, licence and safety, responsible gambling, support, an FAQ and a verdict. Voice: lively, still factual. Sentences around 15 words, a "you" here and there. Describe every game category through the actions a player takes inside it. Hard numbers (RTP, volatility, multipliers) go before adjectives, and game types get contrasted with one another. Paragraphs: two to three sentences. One call to action only, attached to the welcome bonus. Facts about the brand are taken exclusively from the AffBulk knowledge base longfu88-new. Keep Singapore's legal view of the casino out of the text altogether.
+- Body length: target 2852 words (competitor-based size 2042, enlarged to give the facts and connections of a block the words they need); block midpoints add up to 2852; the sum of the block ranges is 2510-3187 (every block is checked against its own range; a block may exceed its maximum by the overflow named in its Word Count line)
+- Keywords (total target, headings included): Longfu88 ×16, Longfu 88 ×1, Longfu88 casino ×2, Longfu88 login ×1, Longfu88 bonus ×1, Longfu88 app ×1, Longfu88 promo code ×1, Longfu 88 casino ×1, casino Longfu88 ×1, Lngfu88 withdrawal time ×1, Longfu 88 Official Site ×1, Longfu ×1, Longfu sports ×1
+- Headings are written in English here; the page headings are localized in step 2 (keeping the planned keywords)
+
+| # | Heading | Words | Keywords in body | Format | Source |
+|---|---|---|---|---|---|
+| b01 | H1 Longfu88 Casino Games, Bonuses and Payments: Singapore Review | 96-122 | Longfu88 ×1 | paragraph | h1 |
+| b02 |   H2 Casino Facts | 88-112 | Longfu88 ×1 | table (fact table) | unique |
+| b03 |   H2 Game Lobby | 90-113 | Longfu88 ×1, Longfu88 casino ×1 | paragraph+list | mandatory |
+| b04 |     H3 Slot Games | 109-138 | — | paragraph | mandatory |
+| b05 |     H3 Live Dealer Games | 96-122 | Longfu88 ×1, Longfu 88 casino ×1 | paragraph | mandatory |
+| b06 |     H3 Table, Fishing, P2P and Lottery Games | 90-113 | — | paragraph | unique |
+| b07 |   H2 Game Providers | 57-73 | Longfu 88 ×1 | list | unique |
+| b08 |   H2 Welcome Bonus for Casino Players | 141-178 | Longfu88 ×1, Longfu88 bonus ×1, Longfu88 promo code ×1 | paragraph+list | mandatory |
+| b09 |     H3 Welcome Bonus Terms | 102-130 | — | paragraph+table | unique |
+| b10 |   H2 Reloads and Cashback | 178-228 | Longfu88 ×1 | paragraph+table | mandatory |
+| b11 |     H3 Rewards Area | 77-97 | — | paragraph | unique |
+| b12 |   H2 VIP Programme | 109-138 | Longfu88 ×1 | paragraph+table | mandatory |
+| b13 |   H2 Sports Betting | 102-130 | Longfu88 ×1, Longfu sports ×1 | paragraph | mandatory |
+| b14 |     H3 Sports Bonuses | 77-97 | — | paragraph+table | unique |
+| b15 |   H2 Payments: Deposits and Withdrawals | 242-309 | Longfu88 ×1, Lngfu88 withdrawal time ×1 | paragraph+list+table | mandatory |
+| b16 |   H2 Registration and Verification | 173-219 | Longfu88 ×1, Longfu88 login ×1 | paragraph+list | unique |
+| b17 |   H2 Mobile Gaming | 96-122 | Longfu88 ×2 | paragraph+list | mandatory |
+| b18 |   H2 Licence and Security | 173-219 | Longfu88 ×1, casino Longfu88 ×1, Longfu 88 Official Site ×1 | paragraph | mandatory |
+| b19 |   H2 Responsible Gambling | 96-122 | — | paragraph+list | mandatory |
+| b20 |   H2 Support | 70-90 | Longfu88 ×1 | paragraph | mandatory |
+| b21 |   H2 Game and Account Questions | 158-202 | Longfu88 ×1, Longfu88 app ×1 | list | mandatory |
+| b22 |   H2 Verdict on the Casino | 90-113 | Longfu88 ×1, Longfu ×1 | paragraph | mandatory |
+
+---
+
+<!-- b01 -->
+# Longfu88 Casino Games, Bonuses and Payments: Singapore Review
+
+Word Count: 96-122 words
+
+Entities to cover: Online Casino [10], Players from Singapore [8], Game Categories [7], Sportsbook [6]
+
+Keywords (exact count in body): Longfu88 ×1
+Keywords the page heading must contain: Longfu88 casino ×1
+
+Summary: Intro: a short identity statement for the casino, the range of game areas it covers, the launch year, and a remark that the readers are adults in Singapore.
+
+Visual Elements: None specified
+
+Copywriter Notes: Margin note: sentence one has the keyword "Longfu88" as its grammatical subject. Describe the operator by its offer: jackpots, fishing and P2P next to slots, live dealer and table games, then lottery, crash and instant titles, fast games, and a sportsbook on top. Work in the year the casino launched (take it from the Brand Information). 18+ appears once, never twice. Tell readers directly that this page speaks to people in Singapore. Never present the casino as approved, licensed or legal in Singapore, not even by hint; whatever the Brand Information says about its licence is the only wording on that subject. Leave out bonus sums, payment steps and signup details. A teaser line pointing to later sections is enough (mobile play, payments, licence, bonuses, games, facts, responsible gambling). Positive but level-headed, no talk of winning money. Use "Longfu88" exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Online Casino → pulls into one lobby → a casino catalogue, dealer-led live tables, sports betting and lottery draws [8]
+- Adult Players → must have turned → 18 at minimum [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_general.release_year: 2026
+- brandinfo_general.minimum_age: 18
+- brandinfo_games.game_types: ["Slots", "Live dealer games", "Table games", "Jackpots", "Fishing", "P2P games", "Fast games", "Lottery", "Crash & instant games"]
+
+---
+
+<!-- b02 -->
+## Casino Facts
+
+Word Count: 88-112 words
+
+Entities to cover: Operator [8], Gambling Licence [8], Welcome Bonus [7], Payment Methods [6], Currencies [5], Customer Support [5]
+
+Keywords (exact count in body): Longfu88 ×1
+
+Summary: Quick-reference sheet: licence, welcome bonus, cashback, operator, year of launch, languages, currencies, payment methods, Game types, Game providers and support.
+
+Visual Elements: Table — 1 of 6 tables on the page
+
+Copywriter Notes: Row by row, the table follows the Fact Table list; the order stays and nothing is added. Each row is name | value, where the value is a figure, a name or a few comma-separated items, 20 words at the very most, and never a sentence. Licence: jurisdiction, operator and registration number exactly as supplied. Welcome bonus: percentage, cap and free spins, trimmed from the supplied summary. Cashback: the percentage and what it is measured against, which is weekly net casino losses; add nothing more. Minimum deposit: write €10, the casino-wide figure; €50 applies only to the welcome bonus, so it is absent here. Payment methods: a shortlist of five or six well-known options - PayNow, Mastercard, USDT, Visa, Bitcoin and Bank Transfer - and not the whole roster. In the Currencies and Languages rows put bare names. Support: name the live chat, then give the e-mail character for character; that e-mail contains the keyword "Longfu88". Leave out any intro, outro or filler. Use "Longfu88" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them. The Support row prints the e-mail address exactly as given; it contains the tracked keyword "Longfu88", which counts toward the exact count of this block.
+
+Entity Connections:
+- Gambling Licence → covers → the casino's operation [7]
+- Welcome Bonus → is handed out by → the casino itself [6]
+
+Brand Fact Table (short label | value rows, in this order; values come from the knowledge base):
+1. Licence [licence] ← brandinfo_general.licences[0]
+2. Welcome bonus [welcome_bonus] ← brandinfo_general.welcome_bonus_summary
+3. Cashback [cashback] ← brandinfo_promotions.other_bonuses[9].reward
+4. Operator [company] ← brandinfo_privacy_policy.privacy_policy.data_controller.company_name
+5. Launched [founded] ← brandinfo_general.release_year
+6. Support languages [languages] ← brandinfo_general.customer_support.languages
+7. Currencies [currencies] ← brandinfo_general.currencies
+8. Payment methods [payment_methods] ← brandinfo_general.payment_methods.deposit
+9. Game types [other] ← brandinfo_games.game_types
+10. Game providers [other] ← brandinfo_games.providers
+11. Support [support] ← brandinfo_general.customer_support.email, brandinfo_general.customer_support.channels
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_general.licences[0]: {"jurisdiction": "Costa Rica", "operator": "Lumina", "registration_number": "000-039123-R-319326-001"}
+- brandinfo_general.welcome_bonus_summary: 188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings.
+- brandinfo_promotions.other_bonuses[9].reward: Up to 10% of weekly net casino losses, capped at €6,988
+- brandinfo_privacy_policy.privacy_policy.data_controller.company_name: Lumina
+- brandinfo_general.release_year: 2026
+- brandinfo_general.customer_support.languages: ["English", "Malay", "Simplified Chinese", "Thai", "Indonesian", "Vietnamese"]
+- brandinfo_general.currencies: ["EUR", "USD", "MYR", "THB", "SGD", "USDT"]
+- brandinfo_general.payment_methods.deposit: ["QRIS", "DANA", "OVO Wallet", "Mandiri", "BNI", "Bank Transfer", "Visa", "Mastercard", "USDT (TRC20)", "USDT (ERC20)", "USDT (BEP20)", "Bitcoin", "Ethereum", "Litecoin", "Ripple", "USDC", "Bitcoin Cash", "Cardano", "Touch'n Go", "GrabPay", "DuitNow", "Online Banking", "DBS Bank", "OCBC Bank", "PromptPay QR", "MoMo", "Zalo", "ViettelPay", "VietQR", "Sofort", "Giropay", "PayNow QR", "BCA", "PayNow", "Neteller", "Skrill"]
+- brandinfo_games.game_types: ["Slots", "Live dealer games", "Table games", "Jackpots", "Fishing", "P2P games", "Fast games", "Lottery", "Crash & instant games"]
+- brandinfo_games.providers: ["Evolution", "Red Tiger", "NetEnt", "Big Time Gaming", "Pragmatic Play", "Yggdrasil", "SA Gaming", "Skywind", "Betsoft", "Hacksaw Gaming"]
+- brandinfo_general.customer_support.email: support@longfu88.com
+- brandinfo_general.customer_support.channels: ["24/7 live chat", "Email"]
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×1
+
+---
+
+<!-- b03 -->
+## Game Lobby
+
+Word Count: 385-486 words total including subsections / 90-113 words for this heading
+
+Entities to cover: Game Categories [10], Slots [7], Live Dealer Games [7], Jackpots [5], Crash Games [5]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu88 casino ×1
+
+Summary: Lobby size measured in categories: fast games, P2P, fishing, jackpots, lottery, crash and instant games, table games, live dealer and slots.
+
+Visual Elements: Bulleted/numbered list — 1 of 8 lists on the page
+
+Copywriter Notes: Nine bullets make up the lobby overview, one for each category in the Brand Information, a few words per bullet. Finish by sending readers on to the sub-sections for slots, live casino and the other categories; their facts are not restated. No totals: the data has no number of games and no number of providers. Stay short. Use "Longfu88" exactly once and "Longfu88 casino" (written as the name Longfu88 Casino) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Online Casino → holds → fishing, P2P, jackpots, lottery, slots, live dealer games, table games, fast games and crash games [8]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_games.game_types: ["Slots", "Live dealer games", "Table games", "Jackpots", "Fishing", "P2P games", "Fast games", "Lottery", "Crash & instant games"]
+
+---
+
+<!-- b04 -->
+### Slot Games
+
+Word Count: 109-138 words
+
+Entities to cover: Slots [10], Gates of Olympus [7], Sweet Bonanza [7], Wanted Dead or a Wild [7], RTP [6], Volatility [5]
+
+Keywords (exact count in body): none
+
+Summary: Three sample slots with provider, RTP, volatility and top multiplier.
+
+Visual Elements: None specified
+
+Copywriter Notes: Showcase three slots; their numbers must be copied unchanged. Wanted Dead or a Wild (Hacksaw Gaming): volatility very high, RTP 96.38%, 12,500x. Gates of Olympus (Pragmatic Play): volatility high, RTP 96.50%, 5,000x. Sweet Bonanza (Pragmatic Play): volatility high, RTP 96.48%, 21,175x. Include a one-sentence primer for newcomers on RTP and volatility. These three are illustrations, neither the full catalogue nor a top list, and no other game is named. Use no tracked keyword in the body of this block.
+
+Entity Connections:
+- Gates of Olympus → offers → an RTP of 96.50% and a maximum multiplier of 5,000x [7]
+- Hacksaw Gaming → developed → Wanted Dead or a Wild [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_games.game_examples: [{"name": "Gates of Olympus", "provider": "Pragmatic Play", "rtp": "96.50%", "volatility": "High", "maximum_multiplier": "5,000x"}, {"name": "Sweet Bonanza", "provider": "Pragmatic Play", "rtp": "96.48%", "volatility": "High", "maximum_multiplier": "21,175x"}, {"name": "Wanted Dead or a Wild", "provider": "Hacksaw Gaming", "rtp": "96.38%", "volatility": "Very high", "maximum_multiplier": "12,500x"}]
+
+---
+
+<!-- b05 -->
+### Live Dealer Games
+
+Word Count: 96-122 words
+
+Entities to cover: Live Dealer Games [10], Evolution [7], SA Gaming [6], Longfu88 Baccarat [6]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu 88 casino ×1
+
+Summary: Live dealer corner: what players find there, the house baccarat table and the studios behind live play.
+
+Visual Elements: None specified
+
+Copywriter Notes: Live dealer gets its own corner of the lobby. Highlight the in-house table, written exactly "Longfu88 Baccarat" - a game exclusive to this casino that plays like baccarat. If it reads as plain fact, credit Evolution and SA Gaming as live studios; since they both appear in the provider list, no specific live title may be linked to them. Skip every other live game and show. The table's name embeds the keyword "Longfu88", so it spends part of the keyword budget of this block. Use "Longfu88" exactly once and "Longfu 88 casino" (written as the name Longfu 88 Casino, with a space) exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Live Casino → includes → the in-house Longfu88 Baccarat table [7]
+- Live Casino → runs on studio content from → Evolution and SA Gaming, among others [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_games.original_games: [{"name": "Longfu88 Baccarat", "category": "Exclusive live/table game", "features": ["Baccarat gameplay"]}]
+- brandinfo_games.providers[0]: Evolution
+- brandinfo_games.providers[6]: SA Gaming
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×1
+
+---
+
+<!-- b06 -->
+### Table, Fishing, P2P and Lottery Games
+
+Word Count: 90-113 words
+
+Entities to cover: Table Games [8], Fishing Games [6], P2P Games [6], Fast Games [6], Lottery [6], Crash Games [5]
+
+Keywords (exact count in body): none
+
+Summary: Whatever remains of the lobby in one block: P2P, fishing, lottery, table games, fast games, crash and instant titles.
+
+Visual Elements: None specified
+
+Copywriter Notes: Start with fishing, then P2P (players compete with each other), lottery, table games, fast games, and crash and instant games, one sentence each, saying what the player does. Don't name titles or providers for any category, and don't use numbers; the data has none. Keep it practical. Use no tracked keyword in the body of this block.
+
+Entity Connections:
+- Online Casino → adds on top → lottery, crash games, fast games, P2P and fishing [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_games.game_types: ["Slots", "Live dealer games", "Table games", "Jackpots", "Fishing", "P2P games", "Fast games", "Lottery", "Crash & instant games"]
+
+---
+
+<!-- b07 -->
+## Game Providers
+
+Word Count: 57-73 words
+
+Entities to cover: Game Providers [10], Evolution [7], Pragmatic Play [7], Hacksaw Gaming [6], Red Tiger [5], NetEnt [5]
+
+Keywords (exact count in body): Longfu 88 ×1
+
+Summary: The studios behind the games, as named in the provider list.
+
+Visual Elements: Bulleted/numbered list — 2 of 8 lists on the page
+
+Copywriter Notes: Bullet the studios listed in the Brand Information - ten of them - using the data's own spelling for each name: SA Gaming, Hacksaw Gaming, NetEnt, Evolution, Skywind, Betsoft, Yggdrasil, Big Time Gaming, Red Tiger, Pragmatic Play. Do not total the studios. Only titles that the slots section has tied to a studio may be tied to one here. Use "Longfu 88" (written with a space) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Game Providers → stand behind → the slots, live tables and table games of the casino [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_games.providers: ["Evolution", "Red Tiger", "NetEnt", "Big Time Gaming", "Pragmatic Play", "Yggdrasil", "SA Gaming", "Skywind", "Betsoft", "Hacksaw Gaming"]
+
+---
+
+<!-- b08 -->
+## Welcome Bonus for Casino Players
+
+Word Count: 243-308 words total including subsections / 141-178 words for this heading
+
+Entities to cover: Casino Welcome Bonus [10], Deposit Bonus [8], Free Spins [7], Minimum Deposit [6], My Bonuses [5]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu88 bonus ×1, Longfu88 promo code ×1
+
+Summary: Casino Welcome Bonus in detail: percentage, cap, free spins, qualifying deposit, eligibility and the four claim steps, followed by the remaining pair of opening-deposit offers.
+
+Visual Elements: Bulleted/numbered list — 3 of 8 lists on the page
+
+Copywriter Notes: Name: "Casino Welcome Bonus". Top line: 188% up to €2,088, with 18 Free Spins attached; copy the figures as stored in the Brand Information. Who qualifies: newly registered players whose first deposit meets the requirement, with a single welcome offer per account. The qualifying minimum deposit tied to this offer alone is €50; it must stay separate from the casino-wide minimum of €10. Claim steps as short bullets: sign-up; qualifying first deposit; activation in My Bonuses prior to any wager; eligible games played until the wagering requirement is met within the validity period. PROMO CODE: the steps include no code. Each time "Longfu88 promo code" is printed, the same sentence should say that the offer is claimed by activating it in My Bonuses after the qualifying deposit and that the process has no promo-code step. Never make up or hint at a code. Mention in one sentence the other two offers: Live Casino Welcome Bonus at 125% up to €888 with a €30 minimum deposit, and Casino Crypto Welcome Bonus at 188% up to 2,888 USDT with a 50 USDT minimum deposit. Make clear that Casino Welcome Bonus and Crypto Welcome Bonus are either-or choices for the first deposit. Place "Longfu88 bonus" in whichever sentence quotes the percentage and the cap. The conditions (wagering, maximum bet, validity) come in the next sub-section. Use "Longfu88" exactly once, "Longfu88 bonus" exactly once and "Longfu88 promo code" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Casino Welcome Bonus → is made up of → a 188% bonus up to €2,088 together with 18 free spins [9]
+- Casino Welcome Bonus → needs activating → inside My Bonuses before betting begins [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_welcome.welcome_bonus.name: Casino Welcome Bonus
+- brandinfo_welcome.welcome_bonus.type: First deposit casino bonus
+- brandinfo_welcome.welcome_bonus.bonus_percentage: 188
+- brandinfo_welcome.welcome_bonus.maximum_bonus: €2,088
+- brandinfo_welcome.welcome_bonus.free_spins: 18
+- brandinfo_welcome.welcome_bonus.minimum_deposit: €50
+- brandinfo_welcome.welcome_bonus.eligibility: New registered players on their first qualifying deposit; one welcome offer per account.
+- brandinfo_welcome.welcome_bonus.claiming_procedure: ["Register an account and complete the required personal details.", "Make the first qualifying deposit.", "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.", "Play eligible casino games and complete the wagering before expiry."]
+- brandinfo_promotions.other_bonuses[0]: {"name": "Live Casino Welcome Bonus", "type": "Live casino welcome", "reward": "125% up to €888", "minimum_deposit": "€30", "wagering_requirement": "30x the deposit plus bonus", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["New players only; first qualifying deposit.", "Maximum bet: €25.", "Neteller and Skrill excluded.", "Must activate before wagering; cannot combine with another active bonus."]}
+- brandinfo_promotions.other_bonuses[1]: {"name": "Casino Crypto Welcome Bonus", "type": "Crypto casino welcome", "reward": "188% up to 2,888 USDT", "minimum_deposit": "50 USDT", "wagering_requirement": "40x deposit plus bonus", "validity": "10 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["First qualifying crypto deposit only.", "Maximum bonus wager: 5 USDT per spin.", "Casino Welcome Bonus and Crypto Welcome Bonus are alternative first-deposit offers."], "eligible_cryptocurrencies": ["USDT", "BTC", "BCH", "LTC", "ETH", "XRP", "USDC"]}
+
+---
+
+<!-- b09 -->
+### Welcome Bonus Terms
+
+Word Count: 102-130 words
+
+Entities to cover: Wagering Requirement [10], Maximum Bet [7], Maximum Cashout [7], Bonus Validity [6], Free Spins Winnings [6]
+
+Keywords (exact count in body): none
+
+Summary: The Casino Welcome Bonus conditions in tabular form, with the exclusions explained in practical terms after the table.
+
+Visual Elements: Table — 2 of 6 tables on the page
+
+Copywriter Notes: Begin with a one-sentence lead-in, then give a Markdown table headed Condition | Value with these rows: wagering of 40x on Free Spins winnings; maximum cashout (5x the initial bonus amount); general wagering at 25x of the deposit and bonus combined; validity (10 days from activation); maximum bet (€22.5 per spin). After that come the exclusions in a sentence or two: Skrill and Neteller deposits are not eligible; a second promotional bonus cannot be active alongside the first; requesting a withdrawal before claiming, or mid-bonus, can forfeit eligibility; cancelling means losing the bonus funds and any winnings not yet converted; ID verification can be asked for before bonus winnings are paid out. No tracked keywords go in table cells. Use no tracked keyword in the body of this block.
+
+Entity Connections:
+- Wagering Requirement → requires turnover of 25x on → deposit and bonus added together [9]
+- Bonus → expires → 10 days following its activation [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_welcome.welcome_bonus.wagering_requirement: 25x the deposit plus bonus amount
+- brandinfo_welcome.welcome_bonus.free_spins_wagering: 40x Free Spins winnings
+- brandinfo_welcome.welcome_bonus.validity: 10 days from activation
+- brandinfo_welcome.welcome_bonus.maximum_bet: €22.5 per spin
+- brandinfo_welcome.welcome_bonus.maximum_cashout: 5x the initial bonus amount
+- brandinfo_welcome.welcome_bonus.important_terms: ["Neteller and Skrill deposits are excluded from this promotion.", "Free Spins winnings have separate wagering requirements.", "Only one promotional bonus may be active at a time.", "A withdrawal request before claiming or while the bonus is active can void promotional eligibility.", "Cancelling the promotion forfeits bonus funds and unconverted promotional winnings.", "Account verification may be required before payment of promotional winnings."]
+
+---
+
+<!-- b10 -->
+## Reloads and Cashback
+
+Word Count: 255-325 words total including subsections / 178-228 words for this heading
+
+Entities to cover: Weekly Reload [9], Weekend Reload [8], Crypto Reload [7], One-Day Reload Special [5], Seasonal Promotion [5], Free Spins [5], Weekly Cashback [10], Live Casino Cashback [8], Unlimited Rebate [7], VIP Cashback Rates [6]
+
+Keywords (exact count in body): Longfu88 ×1
+
+Summary: Table with seven reload and seasonal promotions, after which come weekly cashback (rates by VIP tier), the live casino cashback and the daily rebates.
+
+Visual Elements: Table — 3 of 6 tables on the page
+
+Copywriter Notes: Write it as one continuous section without sub-headings and with two parts, the first getting space according to weight. Part (1), Reloads and Seasonal Promotions: lead in with a sentence, then a Markdown table whose columns are Offer, Reward, Validity, Min. deposit, Wagering. Seven rows, values as supplied: Casino Double Fortune (one-day reload special), Casino Weekend Crypto Reload, Casino Dragon Quest (reward for verification), Casino Weekly Reload, Casino Trick or Treat Pumpkin Bonanza, Casino Weekly Crypto Reload, Casino Weekend Reload. Under the table, state the shared rules once: every offer is activated in My Bonuses; each promotional period allows one claim; no offer combines with another live casino bonus; the stake limit is €5 per spin while bonus funds are wagered. Part (2), Cashback and Rebates: Casino Weekly Cashback is worth at most 10% of the net casino losses of the week, with a €6,988 cap. Calendar: Monday 00:00 UTC opens the week and Sunday 23:59 UTC ends it; opt-in covers a four-week cycle; the payout lands in My Bonuses on Monday; wagering on the cashback is 10x. The rate depends on VIP tier: Silver 4%, Bronze 2%, Gold 6%, Diamond 10% and Platinum 8%; show tier, percentage and maximum in a small table. Live Casino Cashback adds a separate 25% up to €850. The four daily rebates fit in one sentence: P2P 0.8%, casino 0.9%, lottery 1.0% and live casino 1.0%, each at 1x wagering. Only stakes made with real money count; stakes from bonus funds do not. The tier percentages belong solely to the weekly cashback; they are distinct from the VIP level percentages. Use "Longfu88" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Weekly Reload → credits players with → 50 free spins [7]
+- Promotions → is incompatible with → another casino bonus already in progress [8]
+- Weekly Cashback → returns → no more than 10% of net casino losses accumulated during the week [9]
+- Rebates → arrive → every day [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_promotions.other_bonuses[2]: {"name": "Casino Weekly Reload", "type": "Weekly free spins", "reward": "50 Free Spins", "minimum_deposit": "€30", "wagering_requirement": "40x winnings from Free Spins", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[3]: {"name": "Casino Weekly Crypto Reload", "type": "Crypto weekly reload", "reward": "60% up to 1,000 USDT", "minimum_deposit": "20 USDT", "wagering_requirement": "30x deposit plus bonus", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[4]: {"name": "Casino Weekend Reload", "type": "Weekend deposit bonus", "reward": "Up to €3,360 + 50 Free Spins", "minimum_deposit": "€50", "wagering_requirement": "30x deposit plus bonus; 40x Free Spins winnings", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[5]: {"name": "Casino Weekend Crypto Reload", "type": "Weekend crypto bonus", "reward": "75% up to 750 USDT + 100 Free Spins", "minimum_deposit": "20 USDT", "wagering_requirement": "30x deposit plus bonus; 40x Free Spins winnings", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[6]: {"name": "Casino Double Fortune: One-Day Reload Special", "type": "One-day reload", "reward": "50% up to €500", "minimum_deposit": "€30", "wagering_requirement": "30x deposit plus bonus", "validity": "24 hours", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[7]: {"name": "Casino Trick or Treat Pumpkin Bonanza", "type": "Seasonal casino promotion", "reward": "Up to 100 Free Spins", "minimum_deposit": "€20", "wagering_requirement": "40x Free Spins winnings", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Registered players meeting the offer-specific qualification rules.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[8]: {"name": "Casino Dragon Quest: Get Verified and Get Extra!", "type": "Verification reward", "reward": "€10 bonus credit", "minimum_deposit": "€20", "wagering_requirement": "30x promotional credit", "validity": "7 days", "claiming_method": "Activate the offer in My Bonuses after meeting its eligibility and deposit conditions.", "eligibility": "Players who complete requested account verification during the campaign.", "important_terms": ["One claim per promotional period unless otherwise stated.", "Cannot be combined with another active casino bonus.", "Maximum stake while wagering bonus funds: €5 per spin."]}
+- brandinfo_promotions.other_bonuses[9]: {"name": "Casino Weekly Cashback", "type": "Casino cashback", "reward": "Up to 10% of weekly net casino losses, capped at €6,988", "calculation_period": "Monday 00:00 UTC through Sunday 23:59 UTC", "minimum_cashback": "€4.5", "opt_in": "Opt in for a four-week cycle; active accounts can renew automatically.", "crediting": "Credited to My Bonuses on Monday; activation required.", "wagering_requirement": "10x cashback before withdrawal", "cashback_by_vip": [{"level": "VIP Bronze", "percentage": 2, "maximum": "€1,888"}, {"level": "VIP Silver", "percentage": 4, "maximum": "€2,388"}, {"level": "VIP Gold", "percentage": 6, "maximum": "€2,988"}, {"level": "VIP Platinum", "percentage": 8, "maximum": "€3,988"}, {"level": "VIP Diamond", "percentage": 10, "maximum": "€6,988"}], "important_terms": ["Only real-money casino bets and winnings count; bonus funds excluded.", "Weekly cashback expires if it is not activated within its claim window."]}
+- brandinfo_promotions.other_bonuses[10]: {"name": "Live Casino Cashback", "type": "Live casino cashback", "reward": "25% up to €850", "minimum_cashback": "€4.5", "calculation_period": "Monday 00:00 UTC through Sunday 23:59 UTC", "crediting": "Credited to My Bonuses on Monday; opt-in and activation required.", "wagering_requirement": "10x credited cashback", "important_terms": ["Based on real-money stakes less winnings in eligible Live Casino games.", "Bonus balances are excluded from cashback calculations."]}
+- brandinfo_promotions.other_bonuses[11]: {"name": "Unlimited Casino Rebate", "type": "Rebate", "rebate_percentage": 0.9, "calculation": "Qualifying settled real-money wagering on the relevant game category.", "crediting": "Rebate credited daily to the rewards balance.", "wagering_requirement": "1x credited rebate", "eligibility": "Registered players with qualifying settled wagers."}
+- brandinfo_promotions.other_bonuses[12]: {"name": "Unlimited Live Casino Rebate", "type": "Rebate", "rebate_percentage": 1.0, "calculation": "Qualifying settled real-money wagering on the relevant game category.", "crediting": "Rebate credited daily to the rewards balance.", "wagering_requirement": "1x credited rebate", "eligibility": "Registered players with qualifying settled wagers."}
+- brandinfo_promotions.other_bonuses[13]: {"name": "Unlimited P2P Rebate", "type": "Rebate", "rebate_percentage": 0.8, "calculation": "Qualifying settled real-money wagering on the relevant game category.", "crediting": "Rebate credited daily to the rewards balance.", "wagering_requirement": "1x credited rebate", "eligibility": "Registered players with qualifying settled wagers."}
+- brandinfo_promotions.other_bonuses[14]: {"name": "Unlimited Lottery Rebate", "type": "Rebate", "rebate_percentage": 1.0, "calculation": "Qualifying settled real-money wagering on the relevant game category.", "crediting": "Rebate credited daily to the rewards balance.", "wagering_requirement": "1x credited rebate", "eligibility": "Registered players with qualifying settled wagers."}
+
+---
+
+<!-- b11 -->
+### Rewards Area
+
+Word Count: 77-97 words
+
+Entities to cover: Bonus Crab [8], Wheel of Fortune [7], Challenges [6], Collections [5], Coin Shop [6]
+
+Keywords (exact count in body): none
+
+Summary: Game-style extras inside the rewards area: the Coin Shop, Collections, Challenges, Wheel of Fortune and Bonus Crab.
+
+Visual Elements: None specified
+
+Copywriter Notes: Treat five features briefly, with one or two short sentences for each. Coin Shop: spend Coins on rewards, bonus credits worth as much as €4,500 among them; every item has its own price and extra wagering might attach. Wheel of Fortune: an eligible spin or Coins required, 7 days, 30x. Bonus Crab: picks that you claim reveal a crab reward; valid 7 days; 30x wagering on bonus credit, 40x on free spin winnings. Challenges and Collections are in the Rewards area. Mention that rewards can have separate wagering terms. Use no tracked keyword in the body of this block.
+
+Entity Connections:
+- Coins → go towards purchases in → the Coin Shop [7]
+- Challenges → bring in → Coins, free spins or bonus credits [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_promotions.gamification_features: [{"name": "Bonus Crab", "mechanics": "Claim qualifying picks to open a crab reward and reveal a casino prize.", "access": "Rewards area; qualifying activity may grant free picks.", "rewards": ["Bonus credits", "Free Spins", "Coins"], "validity": "7 days after reward assignment", "wagering_requirement": "30x awarded bonus credit; 40x winnings from Free Spins"}, {"name": "Wheel of Fortune", "mechanics": "Spend an eligible spin or Coins to rotate a prize wheel.", "access": "Rewards area", "rewards": ["Bonus credits", "Free Spins", "Coins"], "validity": "7 days", "wagering_requirement": "30x bonus awards"}, {"name": "Challenges", "mechanics": "Complete qualifying gambling tasks to unlock listed rewards.", "access": "Rewards > Challenges", "rewards": ["Coins", "Free Spins", "Bonus credits"], "validity": "As shown for each challenge"}, {"name": "Collections", "mechanics": "Collect campaign items by completing qualifying activity; redeem completed sets.", "access": "Rewards > Collections", "rewards": ["Coins", "Bonus rewards"], "validity": "Campaign-specific"}, {"name": "Coin Shop", "mechanics": "Exchange earned Coins for rewards in the Shop.", "access": "Rewards > Shop", "rewards": ["Reward items and bonus credits up to €4,500"], "important_terms": ["Coin prices and prize availability vary by item.", "Rewards may carry separate wagering requirements."]}]
+
+---
+
+<!-- b12 -->
+## VIP Programme
+
+Word Count: 109-138 words
+
+Entities to cover: VIP Programme [10], VIP Points [8], VIP Levels [8], Withdrawal Limits [6], Personal VIP Manager [5]
+
+Keywords (exact count in body): Longfu88 ×1
+
+Summary: How the VIP scheme works: points from eligible real-money play, 25 reward levels grouped into five tiers, and the benefits that expand at each stage.
+
+Visual Elements: Table — 4 of 6 tables on the page
+
+Copywriter Notes: Explain first how it works. Eligible real-money play earns points; the points lift a player through 25 numbered reward levels, collected under five tiers (Diamond and Platinum on top, Gold, Silver and Bronze below). Add a table whose first two columns are Level and Points, followed by Reward, Cashback and Withdrawal limit; fill six rows - the levels 1 and 25 plus 5, 10, 15 and 20 - from the Brand Information. Sample values: level 25 has a limit of €147,000, cashback 10%, reward €980 and 5,500 points; level 1 has a limit of €9,800, cashback 1%, reward €9.8 and 1 point. Higher levels bring a personal VIP manager (from level 4), tailor-made offers, better cashback and bigger withdrawal limits. Rewards and withdrawal limits depend on the level and the currency, and the terms are open to change. The name "Longfu88 VIP Program" has the keyword "Longfu88" inside, so typing the whole name uses up this block's allowance of that keyword. Do not include the weekly cashback tier table; the cashback section is its home. Use "Longfu88" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- VIP Points → unlock → each numbered reward level in turn [8]
+- Higher VIP Levels → increase → the cashback percentage together with withdrawal caps [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_loyalty.loyalty_vip_program.name: Longfu88 VIP Program
+- brandinfo_loyalty.loyalty_vip_program.tiers: ["Bronze", "Silver", "Gold", "Platinum", "Diamond"]
+- brandinfo_loyalty.loyalty_vip_program.progression: Earn VIP points through eligible real-money gameplay; points unlock numbered reward levels.
+- brandinfo_loyalty.loyalty_vip_program.levels[0]: {"level": 1, "points_required": 1, "level_reward": "€9.8", "cashback_percentage": 1, "withdrawal_limit": "€9,800", "benefits": ["On-site promotions", "24/7 Live Chat"]}
+- brandinfo_loyalty.loyalty_vip_program.levels[3]: {"level": 4, "points_required": 50, "level_reward": "€19.6", "cashback_percentage": 1.5, "withdrawal_limit": "€29,400", "benefits": ["On-site promotions", "24/7 Live Chat", "Personalised offers", "Higher withdrawal limits", "Cashback", "Personal VIP Manager"]}
+- brandinfo_loyalty.loyalty_vip_program.levels[4]: {"level": 5, "points_required": 70, "level_reward": "€24.5", "cashback_percentage": 2, "withdrawal_limit": "€34,300", "benefits": ["On-site promotions", "24/7 Live Chat", "Personalised offers", "Higher withdrawal limits", "Cashback", "Personal VIP Manager"]}
+- brandinfo_loyalty.loyalty_vip_program.levels[9]: {"level": 10, "points_required": 700, "level_reward": "€147", "cashback_percentage": 4, "withdrawal_limit": "€63,700", "benefits": ["On-site promotions", "24/7 Live Chat", "Personalised offers", "Higher withdrawal limits", "Cashback", "Personal VIP Manager"]}
+- brandinfo_loyalty.loyalty_vip_program.levels[14]: {"level": 15, "points_required": 2100, "level_reward": "€392", "cashback_percentage": 6, "withdrawal_limit": "€88,200", "benefits": ["On-site promotions", "24/7 Live Chat", "Personalised offers", "Higher withdrawal limits", "Cashback", "Personal VIP Manager"]}
+- brandinfo_loyalty.loyalty_vip_program.levels[19]: {"level": 20, "points_required": 3600, "level_reward": "€637", "cashback_percentage": 8, "withdrawal_limit": "€117,600", "benefits": ["On-site promotions", "24/7 Live Chat", "Personalised offers", "Higher withdrawal limits", "Cashback", "Personal VIP Manager"]}
+- brandinfo_loyalty.loyalty_vip_program.levels[24]: {"level": 25, "points_required": 5500, "level_reward": "€980", "cashback_percentage": 10, "withdrawal_limit": "€147,000", "benefits": ["On-site promotions", "24/7 Live Chat", "Personalised offers", "Higher withdrawal limits", "Cashback", "Personal VIP Manager"]}
+- brandinfo_loyalty.loyalty_vip_program.additional_benefits: ["Personalised offers", "VIP cashback", "Higher withdrawal limits", "Personal VIP manager for eligible high tiers"]
+- brandinfo_loyalty.loyalty_vip_program.important_terms: ["Different reward and withdrawal limits may apply to VIP levels and currencies.", "Level-based benefits and promotion eligibility may change under program rules."]
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×1
+
+---
+
+<!-- b13 -->
+## Sports Betting
+
+Word Count: 179-227 words total including subsections / 102-130 words for this heading
+
+Entities to cover: Sportsbook [10], Football [7], Esports [6], Live Betting [7], Bet Builder [5], Accumulator [5]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu sports ×1
+
+Summary: Sportsbook snapshot: which sports and esports can be bet on, the bet formats, and live betting.
+
+Visual Elements: None specified
+
+Copywriter Notes: Mention nine sports and esports in flowing text rather than a list: basketball, badminton, football, esports, cricket, tennis, table tennis, virtual football and volleyball. Seven bet types are to be named: handicap, accumulator, Bet Builder, single, outrights, live and totals. Close with live betting, meaning in-play markets and live odds. Slip "Longfu sports" naturally into the sportsbook passage. Events and markets can differ by jurisdiction. Leave out leagues, specific events and any sportsbook platform. Use "Longfu88" exactly once and "Longfu sports" exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Sportsbook → takes bets on → basketball, volleyball, esports, badminton, cricket, football, virtual football, table tennis and tennis [8]
+- Live Betting → adds → in-play markets with live odds [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_sportsbook.sportsbook.sports_available: ["Football", "Basketball", "Tennis", "Badminton", "Cricket", "Table tennis", "Volleyball", "Esports", "Virtual football"]
+- brandinfo_sportsbook.sportsbook.bet_types: ["Single", "Accumulator", "Live", "Handicap", "Totals", "Outrights", "Bet Builder"]
+- brandinfo_sportsbook.sportsbook.live_betting: {"available": true, "features": ["Live odds", "In-play markets"]}
+- brandinfo_sportsbook.sportsbook.important_terms: ["Event availability and market selection can vary by jurisdiction."]
+
+---
+
+<!-- b14 -->
+### Sports Bonuses
+
+Word Count: 77-97 words
+
+Entities to cover: Sport First Deposit Bonus [10], Sports Cashback [7], Parlay Boost [6], Bet Builder Risk Free [5], Minimum Odds [6]
+
+Keywords (exact count in body): none
+
+Summary: Sports betting promotions: reloads weekly and on weekends, the first deposit bonus, cashback, a risk-free Bet Builder, parlay boost and early payout, and the minimum odds rule they all follow.
+
+Visual Elements: Table — 5 of 6 tables on the page
+
+Copywriter Notes: Open with a table: Offer | Min. deposit | Wagering | Reward. Rows: Sport Weekly Reload Bonus (minimum €50, 50% up to €2,500, 8x); Sport First Deposit Bonus (minimum €50, 100% up to €1,888, 8x, 30 days); Sport Weekend Reload Bonus (minimum €50, 50% up to €3,750, 8x). Cover the rest in prose, crypto equivalents included: Bet Builder Risk Free refunds half the stake (50%), limit €250; Parlay Boost requires three legs minimum and boosts winnings by as much as 100%; 2 Goals Ahead pays out early; Unlimited Sports Rebate is 0.70%; weekly Sports Cashback returns 10% of net losses on eligible sports, ceiling €2,500. Qualifying bets must be settled; the minimum odds are 2.00 for singles and 1.50 for each accumulator selection; voided or cashed-out bets do not count. These stay apart from the casino bonuses. Use no tracked keyword in the body of this block.
+
+Entity Connections:
+- Sport First Deposit Bonus → is worth → 100% up to €1,888 [8]
+- Qualifying Bets → need → singles priced at 2.00 or higher [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_sportsbook.sportsbook.sports_bonuses: [{"name": "Sport First Deposit Bonus", "reward": "100% up to €1,888", "minimum_deposit": "€50", "wagering_requirement": "8x deposit plus bonus", "validity": "30 days", "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.", "important_terms": ["Only settled qualifying sports bets contribute to wagering.", "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.", "Voided and cashed-out bets do not qualify.", "One claim per stated promotional period."]}, {"name": "Sport Crypto Welcome Bonus", "reward": "100% up to 200 USDT", "minimum_deposit": "20 USDT", "wagering_requirement": "8x deposit plus bonus", "validity": "30 days", "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.", "important_terms": ["Only settled qualifying sports bets contribute to wagering.", "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.", "Voided and cashed-out bets do not qualify.", "One claim per stated promotional period."]}, {"name": "Sport Weekly Reload Bonus", "reward": "50% up to €2,500", "minimum_deposit": "€50", "wagering_requirement": "8x deposit plus bonus", "validity": "30 days", "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.", "important_terms": ["Only settled qualifying sports bets contribute to wagering.", "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.", "Voided and cashed-out bets do not qualify.", "One claim per stated promotional period."]}, {"name": "Sport Weekend Reload Bonus", "reward": "50% up to €3,750", "minimum_deposit": "€50", "wagering_requirement": "8x deposit plus bonus", "validity": "30 days", "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.", "important_terms": ["Only settled qualifying sports bets contribute to wagering.", "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.", "Voided and cashed-out bets do not qualify.", "One claim per stated promotional period."]}, {"name": "Sport Crypto Weekly Reload", "reward": "50% up to 500 USDT", "minimum_deposit": "20 USDT", "wagering_requirement": "8x deposit plus bonus", "validity": "30 days", "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.", "important_terms": ["Only settled qualifying sports bets contribute to wagering.", "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.", "Voided and cashed-out bets do not qualify.", "One claim per stated promotional period."]}, {"name": "Sport Crypto Weekend Reload", "reward": "50% up to 1,000 USDT", "minimum_deposit": "20 USDT", "wagering_requirement": "8x deposit plus bonus", "validity": "30 days", "claiming_method": "Select the offer before the qualifying sports deposit or from My Bonuses.", "important_terms": ["Only settled qualifying sports bets contribute to wagering.", "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50.", "Voided and cashed-out bets do not qualify.", "One claim per stated promotional period."]}, {"name": "Unlimited Sports Rebate", "reward": "0.70% of qualifying settled sports wagers", "wagering_requirement": "1x credited rebate", "crediting": "Daily"}, {"name": "Sports Cashback", "reward": "10% up to €2,500 of eligible sports net losses", "calculation_period": "Weekly", "wagering_requirement": "1x cashback", "eligibility": "Registered players with eligible real-money losing bets"}, {"name": "2 Goals Ahead - Early Payout", "reward": "Early settlement of eligible football bets when the selected team leads by two goals", "important_terms": ["Only participating pre-match match-winner markets qualify.", "Settlement is subject to published event eligibility."]}, {"name": "Parlay Boost", "reward": "Up to 100% extra winnings on qualifying accumulators", "minimum_legs": 3, "wagering_requirement": "No additional bonus wagering on settled enhanced winnings", "important_terms": ["Boost depends on the number of qualifying selections."]}, {"name": "Bet Builder Risk Free", "reward": "50% risk-free stake return up to €250", "eligibility": "Qualifying pre-match Bet Builder selections", "wagering_requirement": "1x credited free-bet stake", "validity": "7 days"}]
+
+---
+
+<!-- b15 -->
+## Payments: Deposits and Withdrawals
+
+Word Count: 242-309 words
+
+Entities to cover: Payment Methods [10], Bank Transfer [7], Cryptocurrency [7], E-wallets [6], Deposit Limits [7], Processing Speed [6], Withdrawal Time [10], Withdrawal Methods [8], Minimum Withdrawal [7], Withdrawal Fees [7]
+
+Keywords (exact count in body): Longfu88 ×1, Lngfu88 withdrawal time ×1
+
+Summary: Deposit method types with limits and credit speed in a table, followed by the deposit route; then payouts: which methods, what steps, how long and at what cost.
+
+Visual Elements: Bulleted/numbered list — 4 of 8 lists on the page; Table — 6 of 6 tables on the page
+
+Copywriter Notes: Single continuous section, no sub-headings, two parts with space according to weight. First part - Deposit Methods and Limits (1): a one-line opener, then a Markdown table with the columns Method type | Examples | Currencies. Row groups: cryptocurrencies (Ethereum, Bitcoin, USDC, Litecoin and the other listed coins; USDT in its TRC20, ERC20 and BEP20 variants), European methods (Sofort, Giropay), e-wallets (Neteller, Skrill), cards (Visa, Mastercard), bank transfer, local bank and wallet options. Singapore readers should see DBS Bank, PayNow QR, OCBC Bank (SGD) and PayNow highlighted, with values as supplied. Universal for all methods: transactions between €10 and €5,000 each, credit within 1-2 minutes, and no processing fee from the casino (provider or network fees may still occur). Omit limit figures quoted per currency or per market for individual methods, as those lines place euro symbols next to local-currency sums. Limits are not fixed: they depend on the player's country, the currency and the method. Deposits through Skrill or Neteller are not eligible for the welcome bonus. Give the six deposit steps one or two sentences at most, after the table. Keep brand keywords out of the table. Second part - Withdrawals and Payout Times (2): methods to list are wallets and banking (Touch'n Go, MoMo, DANA, Online Banking, DBS Bank), crypto (USDT over three networks, Litecoin, Ethereum, Bitcoin), cards (Mastercard, Visa) and bank transfer. Withdrawal limits: €20 at the low end, €5,000 at the top; then the six steps as a NUMBERED list. Payouts to cards, crypto addresses and wallets arrive after one to three business days. A bank transfer works in two steps in sequence: the casino processes for as long as 3 business days, then the bank adds 3 to 5 business days on top. In general a withdrawal request is settled within three working days. Spelling trap: the sentence giving the processing time must contain "Lngfu88 withdrawal time" verbatim, typo included. Fees: the casino itself does not apply a standard withdrawal fee, yet fees from the blockchain or the provider may come up. If the player has wagered less than the deposit, a 10% commission with a €2.25 minimum may be charged, which is why 1x deposit turnover can be required before cashing out. A 15% rate hits certain transactions that were funded by card or bank transfer. Skip minimums quoted per market for particular methods - they, too, set euro symbols beside local currency. Refer to the verification section for ID checks that can delay a payout. Use "Longfu88" exactly once and "Lngfu88 withdrawal time" (verbatim, with this spelling) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Deposits → show up → after 1-2 minutes [8]
+- Casino → does not apply → any processing fee to deposits, but providers or networks might still add theirs [7]
+- Withdrawal → wraps up in → 3 business days or less [9]
+- Bank Transfer → may need → 3-5 more business days before the funds reach the account [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_deposit.deposit_methods: [{"method": "BCA", "currencies": ["IDR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €10, maximum €5,000 per transaction"]}, {"method": "BNI", "currencies": ["IDR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €20, maximum €40,000 per transaction"]}, {"method": "Bank Transfer", "currencies": ["IDR", "MYR", "VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €25, maximum €82,000 per transaction", "MYR: minimum €50, maximum €50,000 per transaction", "VND: minimum €100, maximum €500,000 per transaction"]}, {"method": "Bitcoin", "currencies": ["BTC"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €590, maximum €98,490 per transaction", "MYR: minimum €145, maximum €23,840 per transaction", "SGD: minimum €45, maximum €7,560 per transaction", "THB: minimum €1,100, maximum €182,910 per transaction", "VND: minimum €929, maximum €154,949 per transaction"]}, {"method": "Bitcoin Cash", "currencies": ["BCH"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"]}, {"method": "Cardano", "currencies": ["ADA"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"]}, {"method": "DANA", "currencies": ["IDR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €10, maximum €5,000 per transaction"]}, {"method": "DBS Bank", "currencies": ["SGD"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["SGD: minimum €50, maximum €5,000 per transaction"]}, {"method": "DuitNow", "currencies": ["MYR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["MYR: minimum €30, maximum €50,000 per transaction"]}, {"method": "Ethereum", "currencies": ["ETH"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"]}, {"method": "Giropay", "currencies": ["EUR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["EUR: minimum €10, maximum €5,000 per transaction"]}, {"method": "GrabPay", "currencies": ["MYR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["MYR: minimum €30, maximum €5,000 per transaction"]}, {"method": "Litecoin", "currencies": ["LTC"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"]}, {"method": "Mandiri", "currencies": ["IDR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €20, maximum €40,000 per transaction"]}, {"method": "Mastercard", "currencies": ["IDR", "MYR", "SGD", "VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €200, maximum €30,000 per transaction", "MYR: minimum €50, maximum €9,000 per transaction", "SGD: minimum €18, maximum €3,000 per transaction", "VND: minimum €320, maximum €50,000 per transaction"]}, {"method": "MoMo", "currencies": ["VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["VND: minimum €50, maximum €30,000 per transaction"]}, {"method": "Neteller", "currencies": ["EUR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["EUR: minimum €10, maximum €5,000 per transaction"]}, {"method": "OCBC Bank", "currencies": ["SGD"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["SGD: minimum €50, maximum €5,000 per transaction"]}, {"method": "OVO Wallet", "currencies": ["IDR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €10, maximum €2,000 per transaction"]}, {"method": "Online Banking", "currencies": ["MYR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["MYR: minimum €30, maximum €10,000 per transaction"]}, {"method": "PayNow", "currencies": ["SGD"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["SGD: minimum €10, maximum €5,000 per transaction"]}, {"method": "PayNow QR", "currencies": ["SGD"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["SGD: minimum €10, maximum €5,000 per transaction"]}, {"method": "PromptPay QR", "currencies": ["THB"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["THB: minimum €300, maximum €200,000 per transaction"]}, {"method": "QRIS", "currencies": ["IDR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €10, maximum €50,000 per transaction"]}, {"method": "Ripple", "currencies": ["XRP"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"]}, {"method": "Skrill", "currencies": ["EUR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["EUR: minimum €10, maximum €5,000 per transaction"]}, {"method": "Sofort", "currencies": ["EUR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["EUR: minimum €10, maximum €5,000 per transaction"]}, {"method": "Touch'n Go", "currencies": ["MYR"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["MYR: minimum €30, maximum €5,000 per transaction"]}, {"method": "USDC", "currencies": ["USDC"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"]}, {"method": "USDT (BEP20)", "currencies": ["USDT"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"], "network": "BEP20"}, {"method": "USDT (ERC20)", "currencies": ["USDT"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"], "network": "ERC20"}, {"method": "USDT (TRC20)", "currencies": ["USDT"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €196, maximum €98,490 per transaction", "MYR: minimum €50, maximum €23,840 per transaction", "SGD: minimum €15, maximum €7,560 per transaction", "THB: minimum €370, maximum €182,910 per transaction", "VND: minimum €309, maximum €154,949 per transaction"], "network": "TRC20"}, {"method": "VietQR", "currencies": ["VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["VND: minimum €50, maximum €300,000 per transaction"]}, {"method": "ViettelPay", "currencies": ["VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["VND: minimum €50, maximum €20,000 per transaction"]}, {"method": "Visa", "currencies": ["IDR", "MYR", "SGD", "VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["IDR: minimum €200, maximum €30,000 per transaction", "MYR: minimum €50, maximum €9,000 per transaction", "SGD: minimum €18, maximum €3,000 per transaction", "VND: minimum €320, maximum €50,000 per transaction"]}, {"method": "Zalo", "currencies": ["VND"], "minimum": "€10", "maximum": "€5,000", "fee": "No casino processing fee; payment provider or blockchain network fees may apply", "transaction_speed": "1–2 minutes", "important_terms": ["VND: minimum €50, maximum €100,000 per transaction"]}]
+- brandinfo_deposit.deposit_guide: ["Log in to the Longfu88 account.", "Open the cashier and select Deposit.", "Choose an available payment method and its supported currency or blockchain network.", "Enter the amount and payment information.", "Confirm and authorize the transaction using the provider instructions.", "Wait for the funds to be credited to the playable balance."]
+- brandinfo_general.minimum_deposit: €10
+- brandinfo_general.currencies: ["EUR", "USD", "MYR", "THB", "SGD", "USDT"]
+- brandinfo_withdrawal.withdrawal_methods: [{"method": "Bank Transfer", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days", "currencies": ["IDR", "MYR", "VND"], "important_terms": ["Indonesia: minimum €25,000 (IDR market)", "Malaysia: minimum €50 (MYR market)", "Singapore: minimum €80 (SGD market)", "Thailand: minimum €1,945 (THB market)", "Vietnam: minimum €10,000 (VND market)"]}, {"method": "Visa", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["IDR", "MYR", "SGD", "VND"], "important_terms": ["Indonesia: minimum €25,000 (IDR market)", "Malaysia: minimum €50 (MYR market)", "Singapore: minimum €80 (SGD market)", "Thailand: minimum €1,945 (THB market)", "Vietnam: minimum €10,000 (VND market)"]}, {"method": "Mastercard", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["IDR", "MYR", "SGD", "VND"], "important_terms": ["Indonesia: minimum €25,000 (IDR market)", "Malaysia: minimum €50 (MYR market)", "Singapore: minimum €80 (SGD market)", "Thailand: minimum €1,945 (THB market)", "Vietnam: minimum €10,000 (VND market)"]}, {"method": "Bitcoin", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["BTC"], "important_terms": ["Singapore: minimum €15 (SGD market)", "Thailand: minimum €375 (THB market)", "Vietnam: minimum €308,000 (VND market)"]}, {"method": "Ethereum", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["ETH"], "important_terms": ["Singapore: minimum €15 (SGD market)", "Thailand: minimum €375 (THB market)", "Vietnam: minimum €308,000 (VND market)"]}, {"method": "Litecoin", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["LTC"], "important_terms": ["Singapore: minimum €15 (SGD market)", "Thailand: minimum €375 (THB market)", "Vietnam: minimum €308,000 (VND market)"]}, {"method": "USDT (TRC20)", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["USDT"], "important_terms": ["Singapore: minimum €15 (SGD market)", "Thailand: minimum €375 (THB market)", "Vietnam: minimum €308,000 (VND market)"]}, {"method": "USDT (ERC20)", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["USDT"], "important_terms": ["Singapore: minimum €15 (SGD market)", "Thailand: minimum €375 (THB market)", "Vietnam: minimum €308,000 (VND market)"]}, {"method": "USDT (BEP20)", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["USDT"], "important_terms": ["Singapore: minimum €15 (SGD market)", "Thailand: minimum €375 (THB market)", "Vietnam: minimum €308,000 (VND market)"]}, {"method": "Touch'n Go", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["MYR"], "important_terms": ["Indonesia: minimum €10,000 (IDR market)", "Malaysia: minimum €100 (MYR market)"]}, {"method": "DANA", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["IDR"], "important_terms": ["Indonesia: minimum €10,000 (IDR market)", "Malaysia: minimum €100 (MYR market)"]}, {"method": "MoMo", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "1–3 business days", "currencies": ["VND"], "important_terms": ["Indonesia: minimum €10,000 (IDR market)", "Malaysia: minimum €100 (MYR market)"]}, {"method": "DBS Bank", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days", "currencies": ["SGD"], "important_terms": ["Indonesia: minimum €25,000 (IDR market)", "Malaysia: minimum €50 (MYR market)", "Singapore: minimum €80 (SGD market)", "Thailand: minimum €1,945 (THB market)", "Vietnam: minimum €10,000 (VND market)"]}, {"method": "Online Banking", "minimum": "€20", "maximum": "€5,000", "fee": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.", "transaction_speed": "Up to 3 business days for casino processing; bank delivery may require 3–5 additional business days", "currencies": ["MYR"], "important_terms": ["Indonesia: minimum €25,000 (IDR market)", "Malaysia: minimum €50 (MYR market)", "Singapore: minimum €80 (SGD market)", "Thailand: minimum €1,945 (THB market)", "Vietnam: minimum €10,000 (VND market)"]}]
+- brandinfo_withdrawal.withdrawal_guide: ["Log in to Longfu88 and open the cashier.", "Select Withdrawal and choose a supported destination or payment method.", "Enter the amount and the receiving bank, wallet, or blockchain address.", "Complete identity and payment-method verification if prompted.", "Review the request and confirm submission.", "Wait for casino processing and any bank or network settlement before receiving funds."]
+- brandinfo_privacy_policy.terms_conditions.withdrawal_terms: ["A minimum 1x deposit turnover can apply before a withdrawal.", "Withdrawal requests are generally processed within three working days.", "Bank transfers may need another 3–5 business days for settlement.", "The operator may request KYC documents before processing payments."]
+- brandinfo_privacy_policy.terms_conditions.conditional_fees: ["Where qualifying turnover is below the deposited amount, a 10% commission may apply with minimum €2.25.", "A 15% charge can apply to some card or bank transfer funded transactions under the casino rules."]
+- brandinfo_general.payment_methods.withdrawal: ["Bank Transfer", "Visa", "Mastercard", "Bitcoin", "Ethereum", "Litecoin", "USDT (TRC20)", "USDT (ERC20)", "USDT (BEP20)", "Touch'n Go", "DANA", "MoMo", "DBS Bank", "Online Banking"]
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×2
+
+---
+
+<!-- b16 -->
+## Registration and Verification
+
+Word Count: 173-219 words
+
+Entities to cover: Registration [10], Login [8], Password Recovery [6], Two Accounts Rule [5], Email Confirmation [5], KYC Verification [10], Identity Documents [8], Proof of Address [6], Source of Funds [5]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu88 login ×1
+
+Summary: Five numbered registration steps, how to log in and recover a password, followed by when documents are requested, what kinds, and how long review takes.
+
+Visual Elements: Bulleted/numbered list — 5 of 8 lists on the page
+
+Copywriter Notes: A single run of text with two parts. Give each space in proportion to weight. Part (1) deals with Registration and Login: one opening sentence, then the five registration steps as a NUMBERED list that mirrors the sequence in the Brand Information. Straight after the list, a short paragraph about signing in (choose Login, type the registration e-mail and password, finish the security check if shown) and about a forgotten password (the login screen carries a Forgot Password option, which sends a reset link to the e-mail). Registration requires residential address, date of birth, legal name, e-mail and password. Players hold one personal account each. Put "Longfu88 login" in the paragraph on signing in. Brand keywords must not appear in list items unless a stored step names the brand. Part (2) is about Identity Verification Before Withdrawals; it is triggered by a withdrawal request, by high-value or unusual transactions and by any change of account or payment details. Documents as short bullets: ID (passport, national ID card or driving licence); address (bank statement or utility bill); proof that the payment method is the player's own; source of funds when requested. Players get 30 days to send documents and, once the set is complete, up to 10 days for review. Warn that payouts may wait until checks finish and that failed checks may mean refused transactions or account restrictions. Use "Longfu88" exactly once and "Longfu88 login" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Registration → requires → email and password, a legal name, date of birth and residential address [8]
+- Player → holds → one personal account per player [7]
+- Verification → can be asked for → prior to any withdrawal [8]
+- Complete Document Set → is told the outcome within → 10 days or fewer [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_account.registration: {"methods": ["Email registration"], "required_details": ["Email", "Password", "Legal name", "Date of birth", "Residential address"], "steps": ["Open Longfu88 and select Register.", "Enter email and create a password.", "Confirm age and acceptance of Terms and Conditions and Privacy Policy.", "Complete the additional personal details and residential address.", "Select Create Account and complete any requested email confirmation."], "eligibility": ["18+ and of legal gambling age in the relevant jurisdiction.", "Only one personal account per player."]}
+- brandinfo_account.login: {"method": "Email and password", "steps": ["Select Login on the website.", "Enter registered email and password.", "Complete any security check and access the account."], "password_recovery": ["Choose Forgot Password on the login screen.", "Request a reset link using the registered email.", "Follow the emailed instructions to set a new password."]}
+- brandinfo_account.verification: {"triggers": ["Account review", "Before withdrawal", "Unusual or high-value transactions", "Changes to account or payment details"], "documents": ["Government-issued photo ID or passport", "Proof of residential address", "Proof of ownership of a payment method", "Source of funds or wealth documents when requested"], "procedure": ["Access the verification request in the account or follow the support instructions.", "Upload legible current documents matching the account profile.", "Complete additional telephone or face verification if requested.", "Wait for approval before withdrawal or other restricted activity."], "document_submission_window": "Up to 30 days when requested", "typical_review_time": "Up to 10 days after a complete document set is received"}
+- brandinfo_privacy_policy.kyc_aml.required_documents: {"identity": ["Passport", "National identity card", "Driving licence"], "address": ["Utility bill", "Bank statement"], "payment_method": ["Bank or card ownership evidence", "Digital wallet ownership evidence"], "source_of_funds": ["Proof of income", "Bank statements", "Other supporting financial documents"]}
+- brandinfo_privacy_policy.kyc_aml.processing_time: Normally within 10 days of receipt of a complete document set
+- brandinfo_privacy_policy.kyc_aml.failure_consequences: ["Transaction refusal", "Account restrictions", "Withholding of withdrawals pending compliance"]
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×1
+
+---
+
+<!-- b17 -->
+## Mobile Gaming
+
+Word Count: 96-122 words
+
+Entities to cover: Mobile Access [10], Add to Home Screen [8], Android [6], iOS [6], Responsive Website [7]
+
+Keywords (exact count in body): Longfu88 ×2
+
+Summary: Using the casino on a phone: Android, iOS and mobile web, the responsive layout, the shortcut on the home screen and what an account can do from there.
+
+Visual Elements: Bulleted/numbered list — 6 of 8 lists on the page
+
+Copywriter Notes: Present the casino as a responsive website for phone and tablet browsers (mobile web, Android, iOS) that can also be saved on the home screen as a shortcut. Include two numbered lists, each with a single sentence before it. Android steps: open Chrome, use the menu, choose Add to Home screen, then confirm. iOS steps: open Safari, tap Share, pick Add to Home Screen, tap Add. Functions to cover: bonuses and deposits, withdrawals, the casino, the sportsbook and account access. If the phrase "Longfu88 app" is used, explain in that sentence that it means the website saved to the home screen. Do not imply that an APK or app-store download exists; the data mentions neither. In each of the two lists, step one contains the brand name, worded as in the Brand Information. These two "Longfu88" mentions use up part of this block's keyword total; remaining mentions go into the body text. Use "Longfu88" exactly twice, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.
+
+Entity Connections:
+- Responsive Website → displays properly in → browsers on handsets and tablets [8]
+- Home Screen Shortcut → lands players in → casino games and sports betting [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_app.app_information: {"platforms": ["Android", "iOS", "Mobile web"], "mobile_access": "Responsive Longfu88 website usable on smartphone and tablet browsers.", "android_installation": ["Open Longfu88 in Chrome.", "Open browser menu and choose Add to Home screen.", "Confirm the shortcut."], "ios_installation": ["Open Longfu88 in Safari.", "Tap Share and choose Add to Home Screen.", "Confirm Add."], "features": ["Casino", "Sportsbook", "Account access", "Deposits", "Withdrawals", "Bonuses"]}
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×3
+
+---
+
+<!-- b18 -->
+## Licence and Security
+
+Word Count: 173-219 words
+
+Entities to cover: Online Casino [10], Official Website [7], Account Currencies [5], Player Eligibility [6], Gambling Licence [10], Operator [8], Data Protection [8], Data Controller [6], Account Security [6]
+
+Keywords (exact count in body): Longfu88 ×1, casino Longfu88 ×1, Longfu 88 Official Site ×1
+
+Summary: Launch year, currencies and who may play first; then the licence, the operating company and the protection of personal data and accounts.
+
+Visual Elements: None specified
+
+Copywriter Notes: Cover two parts, run together without a break and with weight deciding the space. First, About the Casino (1): state the launch year as 2026; list the account currencies named in the Brand Information, SGD among them; mention "Longfu 88 Official Site" within a natural remark, such as advising readers to key in the genuine address of the Longfu 88 Official Site instead of following imitation pages (this is a tip, not a statement on domains); eligibility means being 18+, legally allowed to gamble in the player's place of residence, not using third-party payment methods and holding a single personal account. Singapore must never be described as licensing, legalising or approving the casino, and no licence claim goes beyond what the Brand Information says. Second, Licence, Operator, Data Protection (2): begin with the licence - jurisdiction Costa Rica, operator Lumina and the registration number as given in the Brand Information. The same operator acts as data controller. You may print the data protection officer's contact (the e-mail from the privacy policy) if space permits; it holds the keyword "Longfu88" and would be counted. Personal data can go to technology providers, identity verification providers, payment service providers and, when required, regulators and law enforcement. Player rights: consent withdrawal, access, rectification, erasure (where permitted by law), restriction, objection and portability. Account holders look after their own login credentials. "casino Longfu88" fits best into a plain sentence on the licence. Never mention or hint at Singapore licensing, legality or approval; certification claims (eCOGRA, RNG certificate, SSL, audit and the like) are off the table because the data supplies none; identity checks are covered in their own section. Use "Longfu88" exactly once, "casino Longfu88" exactly once and "Longfu 88 Official Site" exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Online Casino → started operating → in 2026 [7]
+- Players → should be → legally entitled to gamble in the country where they live [6]
+- Gambling Licence → was granted to → the operator [8]
+- Operator → safeguards → accounts, payments and personal data using technical and organisational measures [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_general.release_year: 2026
+- brandinfo_general.currencies: ["EUR", "USD", "MYR", "THB", "SGD", "USDT"]
+- brandinfo_privacy_policy.terms_conditions.eligibility: {"minimum_age": 18, "residency_requirements": "Players must be legally permitted to gamble in their place of residence.", "player_requirements": ["Register with accurate information", "Use only one personal account", "Do not use third-party payment methods"]}
+- brandinfo_general.licences[0]: {"jurisdiction": "Costa Rica", "operator": "Lumina", "registration_number": "000-039123-R-319326-001"}
+- brandinfo_privacy_policy.privacy_policy.data_controller: {"company_name": "Lumina", "contact_email": "dpo@longfu88.com", "contact_details": "support@longfu88.com"}
+- brandinfo_privacy_policy.privacy_policy.security: Technical and organizational safeguards protect accounts, payments and personal information.
+- brandinfo_privacy_policy.privacy_policy.data_sharing: ["Payment service providers", "Identity verification providers", "Technology providers", "Regulators and law enforcement when required"]
+- brandinfo_privacy_policy.privacy_policy.data_subject_rights: ["Access", "Rectification", "Erasure where legally permitted", "Restriction", "Objection", "Portability where applicable", "Withdrawal of consent"]
+- brandinfo_privacy_policy.terms_conditions.account_terms: ["The account holder is responsible for safeguarding credentials.", "The operator may suspend activity for verification or suspected abuse."]
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×2
+
+---
+
+<!-- b19 -->
+## Responsible Gambling
+
+Word Count: 96-122 words
+
+Entities to cover: Responsible Gambling [10], Self-Exclusion [8], Account Closure [6], Self-Assessment [5], GamCare [5], Gambling Therapy [5]
+
+Keywords (exact count in body): none
+
+Summary: Minimum age, how to self-exclude or close an account by e-mail, self-assessment questions and where to find help.
+
+Visual Elements: Bulleted/numbered list — 7 of 8 lists on the page
+
+Copywriter Notes: Mention the age limit of 18 or older and that gambling is legal only where local law permits it. Self-exclusion: e-mail support to request it; during the agreed period, access to the account and gambling are blocked; once the request is processed, it takes effect inside 24 hours. Account closure is likewise a request to customer support - sum up the four steps. Add self-assessment questions that can reveal harmful play. Bullet list of organisations: GamCare, Gambling Therapy, Gamblers Anonymous. Make it clear that this page does not substitute for independent help. About the support e-mail: its address contains the keyword "Longfu88"; if printed (for instance in the self-exclusion sentence) it counts as the one allowed use here. Use no tracked keyword in the body of this block.
+
+Entity Connections:
+- Self-Exclusion → is set up → by writing to customer support [8]
+- Players → can seek help from → Gambling Therapy, Gamblers Anonymous and GamCare [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_responsible_gaming.responsible_gaming: {"policy": "Players must be at least 18 years old and gamble only where lawful.", "self_exclusion": {"request_method": "Email support@longfu88.com", "processing_time": "Within 24 hours after the self-exclusion request is processed", "effect": "Account access and gambling may be restricted for the agreed period."}, "account_closure": "Request account closure through customer support.", "self_assessment": "Self-assessment questions help players identify possible gambling-related harm.", "support_organizations": ["GamCare", "Gamblers Anonymous", "Gambling Therapy"], "contact": "support@longfu88.com", "procedure": ["Contact support and request self-exclusion or account closure.", "Confirm your account details and preferred exclusion terms.", "Allow the casino to restrict or close access.", "Seek independent support where appropriate."]}
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×2
+
+---
+
+<!-- b20 -->
+## Support
+
+Word Count: 70-90 words
+
+Entities to cover: Customer Support [10], Live Chat [8], Email Support [7], Support Languages [6]
+
+Keywords (exact count in body): Longfu88 ×1
+
+Summary: Ways to contact support, the hours, and the languages covered.
+
+Visual Elements: None specified
+
+Copywriter Notes: Support has two channels: live chat available around the clock (24/7) and e-mail. The e-mail must be printed as given, and since it holds the keyword "Longfu88" it takes this block's one permitted occurrence. Languages (six): Indonesian, Thai, Simplified Chinese, English, Vietnamese, Malay. Do not write about phone numbers, ticket systems, typical waiting times or social media - the data is silent on these. Use "Longfu88" exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Live Chat → stays reachable → around the clock [8]
+- Customer Support → replies in → Simplified Chinese, English, Malay, Vietnamese, Thai and Indonesian [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_general.customer_support: {"channels": ["24/7 live chat", "Email"], "email": "support@longfu88.com", "languages": ["English", "Malay", "Simplified Chinese", "Thai", "Indonesian", "Vietnamese"]}
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×1
+
+---
+
+<!-- b21 -->
+## Game and Account Questions
+
+Word Count: 158-202 words
+
+Entities to cover: Frequently Asked Questions [8], Minimum deposit [6], Claiming the bonus [6], Cryptocurrencies [6], The app question [6]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu88 app ×1
+
+Summary: Brief answers about the minimum deposit, bonus claiming, crypto options, the app question and account currencies.
+
+Visual Elements: Bulleted/numbered list — 8 of 8 lists on the page
+
+Copywriter Notes: Exactly five bullets. Each has a bold question followed by a 20-30 word answer. (1) Minimum deposit: €10 in general, €50 for the Casino Welcome Bonus. (2) Claiming the Casino Welcome Bonus: activate it in My Bonuses after the first qualifying deposit of €50; the procedure contains no promo-code stage. (3) Cryptocurrencies for deposits: Ripple, Cardano, USDC, Bitcoin Cash, Litecoin, Ethereum, Bitcoin and USDT on three networks; in this answer "Longfu88" appears verbatim once. (4) Is there an app: the data lists no download, only a responsive website that players save to the home screen (Android or iOS); this question has to hold "Longfu88 app" exactly once, verbatim. (5) Currencies an account supports: SGD, USD, EUR, THB, MYR and USDT. Questions never contain the bare brand name "Longfu88"; answers may. Besides these five there are no questions on the page; question format is permitted only in this block. Use "Longfu88" exactly once and "Longfu88 app" exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Frequently Asked Questions → touch on → the minimum deposit, bonus claiming, crypto options, the app question and currencies [6]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_general.minimum_deposit: €10
+- brandinfo_welcome.welcome_bonus.claiming_procedure: ["Register an account and complete the required personal details.", "Make the first qualifying deposit.", "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.", "Play eligible casino games and complete the wagering before expiry."]
+- brandinfo_welcome.welcome_bonus.minimum_deposit: €50
+- brandinfo_general.payment_methods.deposit: ["QRIS", "DANA", "OVO Wallet", "Mandiri", "BNI", "Bank Transfer", "Visa", "Mastercard", "USDT (TRC20)", "USDT (ERC20)", "USDT (BEP20)", "Bitcoin", "Ethereum", "Litecoin", "Ripple", "USDC", "Bitcoin Cash", "Cardano", "Touch'n Go", "GrabPay", "DuitNow", "Online Banking", "DBS Bank", "OCBC Bank", "PromptPay QR", "MoMo", "Zalo", "ViettelPay", "VietQR", "Sofort", "Giropay", "PayNow QR", "BCA", "PayNow", "Neteller", "Skrill"]
+- brandinfo_app.app_information.platforms: ["Android", "iOS", "Mobile web"]
+- brandinfo_app.app_information.mobile_access: Responsive Longfu88 website usable on smartphone and tablet browsers.
+- brandinfo_general.currencies: ["EUR", "USD", "MYR", "THB", "SGD", "USDT"]
+Counting hazard (the facts above contain tracked keywords): Longfu88 ×1
+
+---
+
+<!-- b22 -->
+## Verdict on the Casino
+
+Word Count: 90-113 words
+
+Entities to cover: Verdict [10], Welcome Bonus Terms [6], Responsible Gambling [6], Minimum Age [5]
+
+Keywords (exact count in body): Longfu88 ×1, Longfu ×1
+
+Summary: Final verdict: which readers the casino suits, what deserves a second look before the first deposit, plus a responsible-gambling note.
+
+Visual Elements: None specified
+
+Copywriter Notes: Four sentences at most and three at least; hype stays out. Sentence one should say whom the facts suit - players looking for casino games, live dealer tables and sports betting under a single login, paying by local methods or crypto - and it must feature "Longfu88 casino" in the capitalised form Longfu88 Casino. Then the pre-deposit checklist: the €50 qualifying deposit, 25x wagering, verification and the withdrawal turnover rule. Close on the 18+ limit and the reminders: gambling is no way to make money, never chase losses, set a budget and take regular breaks. "Longfu" serves as the nickname. Do not repeat figures or promise winnings. No claim or hint of Singapore licensing, legality or approval - the only licence statement is whatever the Brand Information says. Use "Longfu88" exactly once and "Longfu" exactly once, and no other tracked keyword.
+
+Entity Connections:
+- Player → would do well to read → bonus conditions and payment limits first [7]
+
+Brand Information (verbatim from the knowledge base; the writer gets it as a fact card in the step 2 request: never copy its sentences into a text):
+- brandinfo_general.minimum_age: 18
+- brandinfo_responsible_gaming.responsible_gaming.policy: Players must be at least 18 years old and gamble only where lawful.
+
+---

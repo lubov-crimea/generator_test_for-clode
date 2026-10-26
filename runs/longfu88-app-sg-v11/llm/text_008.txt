@@ -1,0 +1,8 @@
+Account verification, a routine identity check, may be requested during an account review, before a withdrawal, after unusual or high-value transactions and when account or payment details change. The identity documents in question are these:
+
+- Government-issued photo ID or passport
+- Proof of residential address
+- Proof of ownership of a payment method
+- Source of funds or wealth documents when requested
+
+Documents are submitted within up to 30 days when requested.

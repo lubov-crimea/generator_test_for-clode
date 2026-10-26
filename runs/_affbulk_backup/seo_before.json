@@ -1,0 +1,82 @@
+{
+ "15279": {
+  "id": 15279,
+  "slug": "index",
+  "seo": {
+   "id": 35179,
+   "title": "Longfu88 Casino | Live Casino, Crash Games & Slots",
+   "description": "Try Longfu88 for casino fun with top providers, VIP rewards, and cashback 🎰 Safe deposits and smooth withdrawals 🔥 Join now and get started",
+   "customCanonical": "https://longfu-88.sg/en-sg",
+   "customPageLang": null,
+   "index": true,
+   "customOgUrl": null
+  },
+  "customHeadHTML": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://longfu-88.sg/\" /><link rel=\"alternate\" hreflang=\"en\" href=\"https://longfu-88.sg/\" /><link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-88.sg/en-sg\" />",
+  "keywords": {
+   "id": 12511,
+   "mainKeywords": "Longfu88",
+   "additionalKeywords": "casino, online casino, crypto casino, play, gambling, slots, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+  },
+  "blocks": 20
+ },
+ "15299": {
+  "id": 15299,
+  "slug": "index",
+  "seo": {
+   "id": 35177,
+   "title": "Longfu88 Casino | Fast Registration & Verification",
+   "description": "Discover Longfu88 with 95+ providers, smooth payments, and VIP rewards 🎰 Enjoy online casino variety plus 24/7 live chat 🔥 Join now",
+   "customCanonical": "https://longfu-88.live/en-my",
+   "customPageLang": null,
+   "index": true,
+   "customOgUrl": null
+  },
+  "customHeadHTML": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://longfu-88.live/\" /><link rel=\"alternate\" hreflang=\"en-MY\" href=\"https://longfu-88.live/en-my\" />",
+  "keywords": {
+   "id": 12531,
+   "mainKeywords": "Longfu88",
+   "additionalKeywords": "casino, online casino, crypto casino, play, gambling, slots, register, login, KYC, app, payments, bonuses, welcome bonus, Malaysia, MY, Malaysian"
+  },
+  "blocks": 21
+ },
+ "16383": {
+  "id": 16383,
+  "slug": "en-sg",
+  "seo": {
+   "id": 35104,
+   "title": "Longfu88 Casino | Live Casino, Crash Games & Slots",
+   "description": "Try Longfu88 for casino fun with top providers, VIP rewards, and cashback 🎰 Safe deposits and smooth withdrawals 🔥 Join now and get started",
+   "customCanonical": "https://longfu-88.sg/en-sg",
+   "customPageLang": null,
+   "index": true,
+   "customOgUrl": null
+  },
+  "customHeadHTML": "<link rel=\"alternate\" hreflang=\"x-default\" href=\"https://longfu-88.sg/\" /><link rel=\"alternate\" hreflang=\"en\" href=\"https://longfu-88.sg/\" /><link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-88.sg/en-sg\" />",
+  "keywords": {
+   "id": 13509,
+   "mainKeywords": "Longfu88",
+   "additionalKeywords": "casino, online casino, crypto casino, play, gambling, slots, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+  },
+  "blocks": 20
+ },
+ "16402": {
+  "id": 16402,
+  "slug": "en-my",
+  "seo": {
+   "id": 35174,
+   "title": "Longfu88 Casino | Fast Registration & Verification",
+   "description": "Discover Longfu88 with 95+ providers, smooth payments, and VIP rewards 🎰 Enjoy online casino variety plus 24/7 live chat 🔥 Join now",
+   "customCanonical": "https://longfu-88.live/en-my",
+   "customPageLang": null,
+   "index": true,
+   "customOgUrl": null
+  },
+  "customHeadHTML": "<link rel=\"alternate\" hreflang=\"en\" href=\"https://longfu-88.live/\" /><link rel=\"alternate\" hreflang=\"en-MY\" href=\"https://longfu-88.live/en-my\" />",
+  "keywords": {
+   "id": 13528,
+   "mainKeywords": "Longfu88",
+   "additionalKeywords": "casino, online casino, crypto casino, play, gambling, slots, register, login, KYC, app, payments, bonuses, welcome bonus, Malaysia, MY, Malaysian"
+  },
+  "blocks": 21
+ }
+}

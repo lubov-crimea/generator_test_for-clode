@@ -1,0 +1,5 @@
+{"issues": [
+{"block_id": "b08", "problem": "The sentence 'Accurate details matter because they are what the verification step later compares against the documents' asserts a mechanism that the Brand Information does not give.", "fix": "Remove or replace it with a neutral sentence that does not describe how verification works, keeping the currencies, the three requirements and the residency sentence."},
+{"block_id": "b07", "problem": "The closing clause 'which covers the two checks that matter most before the payment is released' is an unsupported claim about which checks matter most and when the payment is released.", "fix": "End the paragraph after the practical tip (identity documents ready, payment method in the player's own name) without ranking the checks or describing release of the payment."},
+{"block_id": "b10", "problem": "The clause 'before any answer is expected' reads as a response-time hint and is clumsy.", "fix": "Finish the sentence after the language list with a plain clause about describing the problem in a familiar language, with no timing implication."}
+], "missing_data": []}

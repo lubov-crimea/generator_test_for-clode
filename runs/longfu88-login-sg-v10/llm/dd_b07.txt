@@ -1,0 +1,4 @@
+Because the site is responsive, Longfu88 needs nothing but a smartphone or tablet browser for mobile access, where signing in works as it does on a desktop. Home-screen shortcuts then give one-tap entry, set up in three moves per system.
+
+- Android: open the site in Chrome, then use the browser menu to reach Add to Home screen, and finish by confirming the shortcut.
+- iOS: in Safari, once the site is open, Share, then the Add to Home Screen choice, and a press on Add completes the setup.

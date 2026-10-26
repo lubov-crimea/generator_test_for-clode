@@ -1,0 +1,45 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1069,
+    "max_body_words": 1235,
+    "target_body_words": 961,
+    "keywords_total": {
+      "Longfu88": 17,
+      "Longfu bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 17,
+      "Longfu bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [
+      {
+        "check": "consistency",
+        "problem": "The clause 'so there is nothing to type in during registration or at the cashier' implies that no code is needed anywhere, which the notes forbid (do not say that no code is required elsewhere).",
+        "fix": "Remove that clause; state only that the casino lists no promo code for its offers and that the offers are activated in My Bonuses (welcome bonus before the first wager, other offers once eligibility and deposit conditions are met)."
+      }
+    ],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,169 @@
+{
+  "competitors": [
+    {
+      "url": "https://longfu88-sg.com/login/",
+      "word_count": 947,
+      "body_words": 844,
+      "body": {
+        "Longfu88": 12,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "Longfu88": 1,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "2": {
+          "Longfu88": 2,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "3": {
+          "Longfu88": 1,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "4": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "5": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "6": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        }
+      },
+      "headings_total": {
+        "Longfu88": 4,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "total": {
+        "Longfu88": 16,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    },
+    {
+      "url": "https://longfu88-play.my/login/",
+      "word_count": 1839,
+      "body_words": 1754,
+      "body": {
+        "Longfu88": 29,
+        "Longfu88 login": 0,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "Longfu88": 0,
+          "Longfu88 login": 1,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "2": {
+          "Longfu88": 3,
+          "Longfu88 login": 1,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "3": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "4": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "5": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        },
+        "6": {
+          "Longfu88": 0,
+          "Longfu88 login": 0,
+          "Longfu login": 0,
+          "Longfu88 register": 0,
+          "Longfu88 casino login": 0
+        }
+      },
+      "headings_total": {
+        "Longfu88": 3,
+        "Longfu88 login": 2,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      },
+      "total": {
+        "Longfu88": 32,
+        "Longfu88 login": 2,
+        "Longfu login": 0,
+        "Longfu88 register": 0,
+        "Longfu88 casino login": 0
+      }
+    }
+  ],
+  "aggregate": {
+    "competitors_ok": 2,
+    "median_body_words": 1299,
+    "median_total": {
+      "Longfu88": 24,
+      "Longfu88 login": 1,
+      "Longfu login": 0,
+      "Longfu88 register": 0,
+      "Longfu88 casino login": 0
+    },
+    "median_headings_total": {
+      "Longfu88": 4,
+      "Longfu88 login": 1,
+      "Longfu login": 0,
+      "Longfu88 register": 0,
+      "Longfu88 casino login": 0
+    },
+    "median_h1": {
+      "Longfu88": 0,
+      "Longfu88 login": 0,
+      "Longfu login": 0,
+      "Longfu88 register": 0,
+      "Longfu88 casino login": 0
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1168,
+    "max_body_words": 1559,
+    "target_body_words": 1240,
+    "keywords_total": {
+      "Longfu88": 11,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 11,
+      "Longfu88 login": 1,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [
+      {
+        "check": "consistency",
+        "problem": "Wording 'are the platforms named for it' refers to where the fact comes from; 'opens from there in one step' is an unsupported detail; the closing 'exactly as on a computer' repeats the 'just as ... computer' phrasing of b02 and b09.",
+        "fix": "State directly that the site works on Android, iOS and in mobile web browsers; drop 'in one step'; end the block without the 'as on a computer' comparison."
+      }
+    ],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [
+      {
+        "check": "consistency",
+        "problem": "'just as on a computer' repeats the comparison used in b02 and b04.",
+        "fix": "Rewrite the cookie sentence without a computer comparison, keeping the cookie types and their function."
+      }
+    ],
+    "b10": [],
+    "b11": []
+  },
+  "missing_data": []
+}

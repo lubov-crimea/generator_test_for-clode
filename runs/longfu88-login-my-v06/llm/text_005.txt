@@ -1,0 +1,9 @@
+The Longfu88 register process uses e-mail registration, the only method given, and takes five steps in a fixed order:
+
+1. Open the website and select Register.
+2. Enter e-mail and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested e-mail confirmation.
+
+Registration requires e-mail, password, legal name, date of birth and residential address. Eligibility means age 18+ and legal gambling age in the relevant jurisdiction, and each player may hold only one personal account, so a second profile for the same player is not allowed.

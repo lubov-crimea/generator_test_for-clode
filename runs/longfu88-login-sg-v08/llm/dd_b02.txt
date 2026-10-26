@@ -1,0 +1,7 @@
+A Longfu login follows one routine on every device and calls for two items only, the registration e-mail and its password, whatever the size of the screen. The Longfu88 website opens in a phone browser as readily as on a computer, and the Longfu88 login form requests both items in either case. Access to the account takes three steps:
+
+1. Head for the website's Login button.
+2. Enter the e-mail with its password, both set during registration.
+3. Clear any security check that is displayed, after which the account is accessible.
+
+Where a security check appears, the account stays closed until that check is passed.

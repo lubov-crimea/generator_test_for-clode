@@ -1,0 +1,258 @@
+{
+ "website_id": 108,
+ "domain": "longfu88.mobi",
+ "page_id": 139,
+ "slug": "my",
+ "locale": "ms",
+ "seo": {
+  "title": "Longfu88 Casino Malaysia: Permainan dan Tawaran",
+  "description": "Teroka lobi Longfu88 di Malaysia: slot, kasino langsung, permainan pantas, penyedia permainan, serta tawaran alu-aluan, VIP, deposit dan pengeluaran.",
+  "customCanonical": "https://longfu88.mobi/my",
+  "customPageLang": "ms"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu88.mobi/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu88.mobi/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu88.mobi/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu88.mobi/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu88.mobi/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "kasino, kasino dalam talian, kasino kripto, main, perjudian, slot, kasino langsung, pertaruhan sukan, daftar, log masuk, KYC, aplikasi, pembayaran, bonus, bonus alu-aluan, Malaysia, MY"
+ },
+ "hero": {
+  "label": "Bonus deposit pertama: 188% sehingga €2,088 + 18 Putaran Percuma",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Daftar"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "Book of Dead",
+    109
+   ],
+   [
+    "Book of Ra",
+    85
+   ],
+   [
+    "Buffalo King Megaways",
+    91
+   ],
+   [
+    "Dead or Alive",
+    93
+   ],
+   [
+    "Eye of Horus",
+    96
+   ],
+   [
+    "Joker Stoker",
+    227
+   ],
+   [
+    "Le Bandit",
+    231
+   ],
+   [
+    "Le Fisherman",
+    228
+   ],
+   [
+    "Maya Gold",
+    103
+   ],
+   [
+    "Sugar Rush",
+    87
+   ],
+   [
+    "Sun of Egypt",
+    98
+   ],
+   [
+    "Zeus vs Hades",
+    80
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviator",
+    89
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Ballonix",
+    81
+   ],
+   [
+    "Big Bass Crash",
+    88
+   ],
+   [
+    "Chicken Road",
+    97
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Lucky Jet",
+    104
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "Reactoonz",
+    76
+   ],
+   [
+    "SpaceMan",
+    75
+   ],
+   [
+    "Squid Game",
+    101
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Tawaran Terkini Longfu88",
+  "items": [
+   {
+    "image": 4655,
+    "button": "Tuntut Sekarang"
+   },
+   {
+    "image": 4652,
+    "button": "Dapatkan Bonus"
+   },
+   {
+    "image": 4653,
+    "button": "Tuntut Bonus"
+   },
+   {
+    "image": 4654,
+    "button": "Lihat Tawaran"
+   },
+   {
+    "image": 4657,
+    "button": "Tuntut Sekarang"
+   },
+   {
+    "image": 4656,
+    "button": "Dapatkan Bonus"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Ulasan daripada Pemain",
+  "items": [
+   {
+    "username": "Syazwan",
+    "review": "Satu akaun untuk buku sukan dan kasino menjimatkan saya daripada menguruskan dua log masuk. Tidak mewah, tetapi berfungsi seperti yang diterangkan.",
+    "date": "2026-10-23",
+    "avatar": 3853,
+    "rating": 5
+   },
+   {
+    "username": "Mei Chen",
+    "review": "Program VIP diterangkan dengan baik, dan mudah melihat cara tahapnya berfungsi. Secara keseluruhan laman ini kemas dan mudah digunakan.",
+    "date": "2026-10-23",
+    "avatar": 3854,
+    "rating": 5
+   },
+   {
+    "username": "Zafri",
+    "review": "Saya menggunakan laman ini di telefon setiap hari, dan selepas ditambah ke skrin utama ia terasa seperti aplikasi biasa. Secara keseluruhan laman ini kemas dan mudah digunakan.",
+    "date": "2026-10-17",
+    "avatar": 3862,
+    "rating": 5
+   },
+   {
+    "username": "Izzat",
+    "review": "Menenangkan apabila sembang langsung tersedia sepanjang masa, dan saya mendapat balasan yang berguna ketika perlu. Buat masa ini saya akan terus menggunakannya.",
+    "date": "2026-10-15",
+    "avatar": 3855,
+    "rating": 5
+   },
+   {
+    "username": "Farah Nadia",
+    "review": "Halaman pembayaran tidak menyembunyikan apa-apa, dan saya dapat melihat kaedah yang tersedia sebelum memilih. Selepas seketika, senang untuk mencari semua yang diperlukan.",
+    "date": "2026-10-14",
+    "avatar": 3861,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Bonus Alu-aluan Kasino",
+  "description": "188% sehingga €2,088 + 18 Putaran Percuma",
+  "disclaimer": "Pemain mesti berumur 18+. Syarat tawaran terpakai. Bermain dengan bertanggungjawab.",
+  "button": "Tuntut Tawaran"
+ },
+ "cta_texts": [
+  "Semak Bonus",
+  "Daftar",
+  "Main Sekarang",
+  "Dapatkan Bonus",
+  "Mula Bermain"
+ ]
+}

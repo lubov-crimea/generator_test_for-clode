@@ -1,0 +1,8 @@
+The cashier is part of the mobile website, so a player pays from the same phone screen that opens the casino. Deposits in Singapore dollars can be made with PayNow, PayNow QR, DBS Bank or OCBC Bank, and the table gives the speed of each method. All four use the same currency, which leaves the choice to whichever method the player already uses.
+
+| Method | Currency | Deposit speed |
+|---|---|---|
+| PayNow | SGD | 1–2 minutes |
+| PayNow QR | SGD | 1–2 minutes |
+| DBS Bank | SGD | 1–2 minutes |
+| OCBC Bank | SGD | 1–2 minutes |

@@ -1,0 +1,3 @@
+Withdrawals are where identity and payment checks may come into play. A payout can be held until the player's identity is established, proof is given that the payment method is theirs and any source-of-funds checks that are required are done. In practice, a Longfu88 withdrawal request may pause until they are done. Ordinary handling of a withdrawal request takes three working days in general, and that figure is not a promise of speed.
+
+Every request is subject to one rule: the player must own the payment method, so third-party methods are excluded. Anyone planning a cash-out is therefore covered with identity documents at hand and a payment method in their own name.

@@ -1,0 +1,3 @@
+The currency of a Longfu88 account is one of six: THB, EUR, SGD, USD, MYR or the digital token USDT. Five of these are national currencies, and each player has one personal account in a single supported currency.
+
+Every player faces three requirements. Registration has to be completed with accurate information, and that counts because verification later asks for documents. A second personal account must not be used. Third parties' payment methods are off limits.

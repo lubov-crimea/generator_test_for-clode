@@ -1,0 +1,11 @@
+The games in the casino section of the mobile website are sorted into nine categories, which are listed below, and a player selects a category to see the games it holds.
+
+- Slots
+- Lottery
+- Live dealer games
+- Fishing
+- Jackpots
+- Crash & instant games
+- Table games
+- Fast games
+- P2P games

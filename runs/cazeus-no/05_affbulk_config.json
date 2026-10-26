@@ -1,0 +1,51 @@
+{
+  "website_id": 5408,
+  "locale": "no",
+  "slug": "index",
+  "seo": {
+    "title": "Cazeus casino i Norge: opptil 1 750 euro + 150 gratisspinn",
+    "description": "Cazeus casino for norske spillere: spilleautomater, live casino, sportsbetting, velkomstpakke opptil 1 750 euro og 150 gratisspinn og support 24/7."
+  },
+  "keywords": {
+    "main": "Cazeus",
+    "additional": "casino, nettcasino, spilleautomater, live casino, sportsbetting, registrering, innlogging, KYC, mobil, betaling, bonuser, velkomstbonus, cashback, Norge, NO"
+  },
+  "hero": {
+    "background": 2455,
+    "label": "Velkomstpakke opptil 1 750 euro + 150 gratisspinn for nye spillere"
+  },
+  "preview": {
+    "title": "Cazeus-bonuser",
+    "items": [
+      {"image": 2452, "title": "Velkomstpakke", "text": "Opptil 1 750 euro + 150 gratisspinn"},
+      {"image": 2451, "title": "Sportsbonus for første innskudd", "text": "100 % opptil 100 euro"},
+      {"image": 2450, "title": "Weekly Reload", "text": "60 gratisspinn (mandag til torsdag, fra 20 euro)"},
+      {"image": 2449, "title": "Build Your Bet", "text": "50 % risikofritt opptil 50 euro"}
+    ]
+  },
+  "reviews": {
+    "title": "Spillernes meninger",
+    "items": [
+      {"username": "Henrik", "review": "Registreringen gikk greit, og trinnene var forklart tydelig. Jeg visste på forhånd hvilke dokumenter som kunne trengs ved uttak.", "date": "2026-10-16", "avatar": 3862, "rating": 5},
+      {"username": "Ingrid", "review": "Lobbyen er ryddig, og det er lett å finne både spilleautomater og live casino. Kategoriene er oversiktlige.", "date": "2026-10-17", "avatar": 3859, "rating": 5},
+      {"username": "Magnus", "review": "Jeg spiller mest på mobilen i nettleseren, og det fungerer fint. Kassen er enkel å bruke selv på en liten skjerm.", "date": "2026-10-18", "avatar": 3856, "rating": 4},
+      {"username": "Silje", "review": "Live chat svarte raskt og viste meg til riktige vilkår for bonusen. Jeg leste omsetningskravene før jeg satte inn penger.", "date": "2026-10-19", "avatar": 3854, "rating": 4},
+      {"username": "Lars", "review": "Fornøyd med utvalget av betalingsmetoder og at alt står samlet på ett sted. Det lønner seg å sjekke vilkårene før innskudd.", "date": "2026-10-21", "avatar": 3855, "rating": 5}
+    ]
+  },
+  "faq": {
+    "title": "Ofte stilte spørsmål",
+    "items": [
+      {"question": "Trenger jeg en bonuskode for velkomstpakken?", "answer": "Nei, det kreves ingen bonuskode. Pakken gir opptil 1 750 euro og 150 gratisspinn, krever et kvalifiserende innskudd på minst 20 euro og har et omsetningskrav på 35 ganger summen av innskudd og bonus."},
+      {"question": "Hva er minimumsinnskuddet?", "answer": "Et innskudd kan starte fra 10 euro, men velkomstpakken krever minst 20 euro. Hver betalingsmetode har i tillegg egne grenser."},
+      {"question": "Hvor lang tid tar et uttak?", "answer": "Forespørselen behandles innen 3 virkedager når kravene og kontrollene er oppfylt, og utbetalingen hos betalingsleverandøren kan ta ekstra tid. Minste uttak er 10 euro, og høyeste beløp er 10 000 euro per transaksjon."},
+      {"question": "Finnes det en egen app?", "answer": "Nei, det finnes ingen egen app. Nettstedet er tilpasset mobile nettlesere, så du kan spille uten å installere noe."},
+      {"question": "Har casinoet en norsk lisens?", "answer": "Nei. Casinoet er oppført med en PAGCOR-lisens, men oppføringen er historisk og gyldigheten i dag er ikke bekreftet. Lisensen er ikke en norsk lisens, så sjekk statusen før du setter inn penger."},
+      {"question": "Hvordan kontakter jeg kundestøtten?", "answer": "Via live chat eller e-post på support@cazeus.com. Begge kanalene er åpne 24/7."}
+    ]
+  },
+  "promo": {
+    "title": "Velkomstpakke hos Cazeus",
+    "description": "Opptil 1 750 euro + 150 gratisspinn"
+  }
+}

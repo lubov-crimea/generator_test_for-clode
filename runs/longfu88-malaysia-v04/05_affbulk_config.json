@@ -1,0 +1,265 @@
+{
+ "website_id": 107,
+ "domain": "longfu-888.com",
+ "page_id": null,
+ "slug": "my",
+ "locale": "ms",
+ "seo": {
+  "title": "Longfu88 Malaysia: Pembayaran dan Pengeluaran",
+  "description": "Aliran wang di Longfu88 untuk pemain Malaysia: kaedah deposit dan had, semakan ID sebelum pengeluaran, tawaran alu-aluan, cashback dan program VIP.",
+  "customCanonical": "https://longfu-888.com/my",
+  "customPageLang": "ms"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-888.com/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-888.com/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-888.com/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-888.com/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-888.com/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "kasino, kasino dalam talian, kasino kripto, main, perjudian, slot, kasino langsung, pertaruhan sukan, daftar, log masuk, KYC, aplikasi, pembayaran, bonus, bonus alu-aluan, Malaysia, MY"
+ },
+ "hero": {
+  "label": "Bonus Alu-aluan Kasino: 188% sehingga €2,088 + 18 Putaran Percuma",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Daftar"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "3 Hot Chilli Peppers",
+    107
+   ],
+   [
+    "Big Bass Bonanza",
+    72
+   ],
+   [
+    "Book of Dead",
+    109
+   ],
+   [
+    "Dead or Alive",
+    93
+   ],
+   [
+    "Eye of Horus",
+    96
+   ],
+   [
+    "Joker Stoker",
+    227
+   ],
+   [
+    "StarBurst",
+    73
+   ],
+   [
+    "Sugar Rush",
+    87
+   ],
+   [
+    "Sun of Egypt",
+    98
+   ],
+   [
+    "Sweet Bonanza",
+    100
+   ],
+   [
+    "The Dog House",
+    92
+   ],
+   [
+    "Wild Clusters",
+    229
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviator",
+    89
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Big Bass Crash",
+    88
+   ],
+   [
+    "Chicken Road",
+    97
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Lucky Jet",
+    104
+   ],
+   [
+    "Penalty Shoot Out",
+    90
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "Plinko",
+    74
+   ],
+   [
+    "Squid Game",
+    101
+   ],
+   [
+    "Tower Rush",
+    232
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Bonus Longfu88",
+  "items": [
+   {
+    "image": 4652,
+    "button": "Dapatkan Bonus"
+   },
+   {
+    "image": 4653,
+    "button": "Tuntut Bonus"
+   },
+   {
+    "image": 4654,
+    "button": "Lihat Tawaran"
+   },
+   {
+    "image": 4657,
+    "button": "Tuntut Sekarang"
+   },
+   {
+    "image": 4656,
+    "button": "Dapatkan Bonus"
+   },
+   {
+    "image": 4655,
+    "button": "Tuntut Bonus"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Ulasan daripada Pemain",
+  "items": [
+   {
+    "username": "Amirul",
+    "review": "Pertaruhan langsung berjalan lancar di telefon, dan pasaran dikemas kini tanpa kelewatan yang ketara. Berbaloi dicuba oleh yang ingin tahu.",
+    "date": "2026-10-22",
+    "avatar": 3862,
+    "rating": 5
+   },
+   {
+    "username": "Syazwan",
+    "review": "Pasukan sokongan bersabar menjawab soalan susulan dan menerangkan langkah dengan jelas. Pilihan sesuai untuk yang suka reka letak bersih.",
+    "date": "2026-10-20",
+    "avatar": 3858,
+    "rating": 5
+   },
+   {
+    "username": "Izzat",
+    "review": "Versi mudah alihnya responsif, dan kaunter bayaran serta lobi permainan dipaparkan dengan baik pada skrin kecil. Pilihan sesuai untuk yang suka reka letak bersih.",
+    "date": "2026-10-19",
+    "avatar": 3853,
+    "rating": 4
+   },
+   {
+    "username": "Siti Hajar",
+    "review": "Pengesahan umur dan terma ada di halaman pendaftaran, jadi semuanya jelas dari awal. Pengalamannya terasa tersusun dengan baik.",
+    "date": "2026-10-16",
+    "avatar": 3854,
+    "rating": 5
+   },
+   {
+    "username": "Hui Ying",
+    "review": "Deposit melalui kaedah tempatan yang biasa saya guna berjalan mudah, dan setiap langkah dipaparkan dengan jelas. Pengalamannya terasa tersusun dengan baik.",
+    "date": "2026-10-15",
+    "avatar": 3859,
+    "rating": 5
+   },
+   {
+    "username": "Suhana",
+    "review": "Syarat bonus ditulis dengan jelas, jadi saya tahu apa yang dijangka sebelum menyertai. Tidak mewah, tetapi berfungsi seperti yang diterangkan.",
+    "date": "2026-10-15",
+    "avatar": 3857,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Bonus Alu-aluan Kasino",
+  "description": "188% sehingga €2,088 + 18 Putaran Percuma",
+  "disclaimer": "18+. Terma dan syarat terpakai. Bermain secara bertanggungjawab.",
+  "button": "Tuntut Tawaran"
+ },
+ "cta_texts": [
+  "Cuba Kasino Langsung",
+  "Dapatkan Bonus",
+  "Mula Bermain",
+  "Main Sekarang",
+  "Lihat Tawaran"
+ ]
+}

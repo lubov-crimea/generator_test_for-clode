@@ -1,0 +1,120 @@
+{
+  "id": "v01",
+  "name": "Quick steps (small, flat)",
+  "tier": "small",
+  "angle": "A returning player who wants to get in within a minute.",
+  "intent_summary": "Short brand-subpage for the small size group of the competitors: logging in to the Longfu88 account for players from Malaysia in the fewest words: the login steps with the password reset, registration for those without an account, the documents with the account security, support and a very short FAQ. Page voice: short, dense paragraphs of two sentences, sentences of about 14 words, imperative where a step is described, no scene-setting, no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login: Sign In Step by Step",
+      "words": 40,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, support)",
+          "(login steps, password reset, registration, verification and security, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03",
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Log In and Reset a Forgotten Password",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu login": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "edit": [
+        [
+          "Do not explain password reset here (next sub-section).",
+          ""
+        ],
+        [
+          "One lead-in sentence, then a NUMBERED list with the three recovery steps in the order of the Brand Information",
+          "One short paragraph with the three recovery steps in the order of the Brand Information"
+        ]
+      ],
+      "extra": "The three login steps as a numbered list, then the password reset in one short paragraph.",
+      "summary": "The three login steps in order, followed by the password reset through the e-mailed link."
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Register: Open an Account",
+      "words": 70,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b06",
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Verification Documents and Account Security",
+      "words": 70,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "Which documents the casino may ask for and who protects the account.",
+      "notes": "A TABLE with two columns, document type | accepted documents, one row each for identity (passport, national identity card, driving licence), address (utility bill, bank statement), payment method (bank or card ownership evidence, digital wallet ownership evidence) and source of funds (proof of income, bank statements, other supporting financial documents); the source-of-funds row applies only when requested. Before the table one sentence says that the casino may ask for these documents; then, after the table, one sentence: a complete document set is normally reviewed within up to 10 days. Do not say that verification is needed at registration or for login. Close the block with one sentence: the account holder is responsible for safeguarding the login credentials, and technical and organisational safeguards protect accounts, payments and personal information. No certificate, encryption or two-factor claims.",
+      "refs_drop": [
+        "brandinfo_account.verification.triggers",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_privacy_policy.terms_conditions.account_terms"
+      ],
+      "refs_add": [
+        "brandinfo_privacy_policy.terms_conditions.account_terms[0]"
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Get Help",
+      "words": 35,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Login FAQ",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "4 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 4 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how to log in (with the registered e-mail and password, as the page explains); (2) what to do after a forgotten password (request a reset link with the registered e-mail); (3) how long verification takes (a complete document set is normally reviewed within up to 10 days); (4) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [],
+      "refs_drop": [
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

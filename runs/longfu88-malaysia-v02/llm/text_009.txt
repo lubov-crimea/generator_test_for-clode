@@ -1,0 +1,34 @@
+=== b14 ===
+Pemain aktif di Longfu88 menerima tujuh tawaran berulang dan khas, dan Casino Weekly Reload memberikan 50 putaran percuma.
+
+| Tawaran | Ganjaran | Deposit minimum | Pertaruhan wajib | Tempoh sah |
+|---|---|---|---|---|
+| Casino Weekly Reload | 50 putaran percuma | €30 | 40x kemenangan putaran percuma | 7 hari |
+| Casino Weekly Crypto Reload | 60% sehingga 1,000 USDT | 20 USDT | 30x deposit + bonus | 7 hari |
+| Casino Weekend Reload | Sehingga €3,360 + 50 putaran percuma | €50 | 30x deposit + bonus, 40x kemenangan putaran percuma | 7 hari |
+| Casino Weekend Crypto Reload | 75% sehingga 750 USDT + 100 putaran percuma | 20 USDT | 30x deposit + bonus, 40x kemenangan putaran percuma | 7 hari |
+| Casino Double Fortune (tawaran sehari) | 50% sehingga €500 | €30 | 30x deposit + bonus | 24 jam |
+| Promosi bermusim yang dinamakan Casino Trick or Treat Pumpkin Bonanza | Sehingga 100 putaran percuma | €20 | 40x kemenangan putaran percuma | 7 hari |
+| Casino Dragon Quest (ganjaran pengesahan) | Kredit bonus €10 | €20 | 30x kredit promosi | 7 hari |
+
+Semua tawaran diaktifkan di My Bonuses, dengan satu tuntutan bagi setiap tempoh promosi, dan tidak boleh digabungkan dengan bonus kasino aktif lain. Pertaruhan maksimum ialah €5 setiap putaran semasa menyelesaikan pertaruhan wajib dana bonus.
+
+=== b15 ===
+Casino Weekly Cashback mengembalikan sehingga 10% kerugian kasino bersih mingguan, dihadkan kepada €6,988, bagi tempoh Isnin 00:00 hingga Ahad 23:59 UTC. Pemain mendaftar untuk kitaran empat minggu, dan cashback dikreditkan ke My Bonuses pada hari Isnin dengan pertaruhan wajib 10x. Kadarnya mengikut tahap VIP seperti dalam jadual. Live Casino Cashback pula memberi 25% sehingga €850. Rebat harian ialah kasino 0.9%, kasino langsung 1.0%, P2P 0.8% dan loteri 1.0%, masing-masing dengan pertaruhan wajib 1x. Hanya pertaruhan wang sebenar dikira, bukan dana bonus.
+
+| Tahap VIP | Peratusan | Maksimum |
+|---|---|---|
+| Bronze | 2% | €1,888 |
+| Silver | 4% | €2,388 |
+| Gold | 6% | €2,988 |
+| Platinum | 8% | €3,988 |
+| Diamond | 10% | €6,988 |
+
+=== b16 ===
+Ganjaran di bawah Rewards boleh mempunyai syarat pertaruhan sendiri, dan lima ciri berikut membentuk bahagian ini:
+
+- **Bonus Crab:** tuntut pilihan untuk membuka ganjaran ketam, sah 7 hari, dengan pertaruhan wajib 30x pada kredit bonus dan 40x pada kemenangan putaran percuma.
+- **Wheel of Fortune:** gunakan satu putaran layak atau Coins, sah 7 hari, dengan pertaruhan wajib 30x.
+- **Challenges:** tugasan yang membuka coins, putaran percuma dan kredit bonus.
+- **Collections:** kumpulkan item kempen dan tebus set yang lengkap.
+- **Coin Shop:** tukar Coins kepada ganjaran dan kredit bonus sehingga €4,500, dengan harga yang berbeza mengikut item dan pertaruhan wajib berasingan yang mungkin dikenakan.

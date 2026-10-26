@@ -1,0 +1,148 @@
+{
+  "competitors": [
+    {
+      "url": "https://vegashunter-au.com/",
+      "word_count": 2364,
+      "body_words": 2121,
+      "body": {
+        "VegasHunter": 19,
+        "Vegas Hunter": 6,
+        "VegasHunter casino": 1,
+        "Vegas Hunter casino": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 1,
+          "Vegas Hunter casino": 0
+        },
+        "2": {
+          "VegasHunter": 6,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 2
+        },
+        "3": {
+          "VegasHunter": 12,
+          "Vegas Hunter": 1,
+          "VegasHunter casino": 8,
+          "Vegas Hunter casino": 1
+        },
+        "4": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        },
+        "5": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        },
+        "6": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        }
+      },
+      "headings_total": {
+        "VegasHunter": 18,
+        "Vegas Hunter": 1,
+        "VegasHunter casino": 9,
+        "Vegas Hunter casino": 3
+      },
+      "total": {
+        "VegasHunter": 37,
+        "Vegas Hunter": 7,
+        "VegasHunter casino": 10,
+        "Vegas Hunter casino": 3
+      }
+    },
+    {
+      "url": "https://vegashunter-nz.com/",
+      "word_count": 1809,
+      "body_words": 1607,
+      "body": {
+        "VegasHunter": 28,
+        "Vegas Hunter": 1,
+        "VegasHunter casino": 2,
+        "Vegas Hunter casino": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 1,
+          "Vegas Hunter casino": 0
+        },
+        "2": {
+          "VegasHunter": 6,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        },
+        "3": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        },
+        "4": {
+          "VegasHunter": 1,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 3,
+          "Vegas Hunter casino": 0
+        },
+        "5": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        },
+        "6": {
+          "VegasHunter": 0,
+          "Vegas Hunter": 0,
+          "VegasHunter casino": 0,
+          "Vegas Hunter casino": 0
+        }
+      },
+      "headings_total": {
+        "VegasHunter": 7,
+        "Vegas Hunter": 0,
+        "VegasHunter casino": 4,
+        "Vegas Hunter casino": 0
+      },
+      "total": {
+        "VegasHunter": 35,
+        "Vegas Hunter": 1,
+        "VegasHunter casino": 6,
+        "Vegas Hunter casino": 0
+      }
+    }
+  ],
+  "aggregate": {
+    "competitors_ok": 2,
+    "median_body_words": 1864,
+    "median_total": {
+      "VegasHunter": 36,
+      "Vegas Hunter": 4,
+      "VegasHunter casino": 8,
+      "Vegas Hunter casino": 2
+    },
+    "median_headings_total": {
+      "VegasHunter": 12,
+      "Vegas Hunter": 0,
+      "VegasHunter casino": 6,
+      "Vegas Hunter casino": 2
+    },
+    "median_h1": {
+      "VegasHunter": 0,
+      "Vegas Hunter": 0,
+      "VegasHunter casino": 1,
+      "Vegas Hunter casino": 0
+    }
+  }
+}

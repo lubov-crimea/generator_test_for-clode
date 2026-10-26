@@ -1,0 +1,7 @@
+The Longfu88 layout adapts to smartphone and tablet screens, so the supported platforms include Android, iOS and the mobile web. Any phone or tablet browser opens the site, while Chrome and Safari are used for the shortcut.
+
+| Platform | Browser | How it opens |
+|---|---|---|
+| Android | Chrome | Add to Home screen from the browser menu |
+| iOS | Safari | Add to Home Screen from the Share menu |
+| Mobile web | The browser of a smartphone or tablet | The responsive website opens directly |

@@ -1,0 +1,48 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 889,
+    "max_body_words": 1175,
+    "target_body_words": 880,
+    "keywords_total": {
+      "Longfu88": 12,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 12,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [
+      {
+        "check": "consistency",
+        "problem": "The second sentence ('it then opens the same website as a browser tab') repeats the idea and nearly the wording of the first sentence of b08 ('opens the same responsive Longfu88 website as a browser tab').",
+        "fix": "Rewrite the second sentence so it only says that the shortcut is added once and then lets the casino be started from the home screen; leave the comparison with a browser tab to b08. Keep all keywords (Longfu88 x1, Longfu88 apk x1) and the word range."
+      }
+    ],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": []
+  },
+  "missing_data": []
+}

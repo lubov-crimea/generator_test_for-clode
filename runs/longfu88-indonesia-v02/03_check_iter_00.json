@@ -1,0 +1,91 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3265,
+    "target_body_words": 3160,
+    "keywords_total": {
+      "Longfu88": 18,
+      "Longfu 88": 2,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 2,
+      "Longfu88 casino": 2,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [
+      {
+        "check": "consistency",
+        "problem": "Kalimat 'dan hanya itu yang tercatat tentang lisensi' mengacu pada catatan internal/sumber data, bukan fakta merek, dan terdengar seperti meta-teks.",
+        "fix": "Hapus frasa 'dan hanya itu yang tercatat tentang lisensi' sehingga kalimat berhenti setelah nomor registrasi 000-039123-R-319326-001. Jangan ubah jumlah kata kunci: 'Longfu88', 'casino Longfu88' dan 'Longfu 88 Official Site' tetap masing-masing satu kali."
+      }
+    ],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "Nama istilah tidak konsisten: b07 memakai 'deposit minimum', sedangkan b10 memakai 'minimum deposit' dan 'setoran minimum' untuk hal yang sama.",
+        "fix": "Ganti semua 'minimum deposit' dan 'setoran minimum' di b10 menjadi 'deposit minimum' (dua kata, urutan seperti di b07). Fakta dan angka tidak berubah; tidak ada kata kunci terlacak yang boleh ditambahkan."
+      }
+    ],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [
+      {
+        "check": "consistency",
+        "problem": "Catatan blok meminta agar padanan kripto disebut namanya (Sport Crypto Welcome Bonus, Sport Crypto Weekly Reload, Sport Crypto Weekend Reload), tetapi teks hanya menulis 'Versi kripto tersedia sebagai padanannya' tanpa nama atau angka.",
+        "fix": "Ganti kalimat 'Versi kripto tersedia sebagai padanannya.' dengan kalimat yang menyebut ketiga nama padanan kripto beserta angkanya sesuai brand_info: Sport Crypto Welcome Bonus 100% hingga 200 USDT (deposit minimum 20 USDT), Sport Crypto Weekly Reload 50% hingga 500 USDT, Sport Crypto Weekend Reload 50% hingga 1.000 USDT. Ringkas bagian lain (misalnya kurung '(pembayaran lebih awal)' dan pengulangan wagering 8x) agar blok tetap di bawah batas atas 132 kata. Tanpa kata kunci terlacak."
+      }
+    ],
+    "b21": [],
+    "b22": [],
+    "b23": [
+      {
+        "check": "consistency",
+        "problem": "Kalimat 'Penarikan dapat ditahan sampai pemeriksaan selesai.' di jawaban kelima sama persis dengan kalimat di b05 (pengulangan kalimat antarblok).",
+        "fix": "Hapus kalimat 'Penarikan dapat ditahan sampai pemeriksaan selesai.' dari jawaban kelima dan ganti dengan informasi lain dari fakta blok, misalnya 'Waktu 10 hari dihitung sejak seluruh dokumen diterima, bukan sejak permintaan dikirim.' Pertahankan 'Longfu 88' satu kali di pertanyaan kelima dan 'Longfu88' satu kali di jawaban kedua; jawaban tetap 20-30 kata."
+      }
+    ],
+    "b24": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,87 @@
+## CONTEXT
+Brand: {{ brandName }}
+Domain: {{ domain }}
+Language: {{ language }}
+Country: {{ country }}
+Page slug: {{ slug }}
+Main keyword(s): {{ mainKeywords }}
+Additional keyword(s): {{ additionalKeywords }}
+Information about brand to use: {{ brandinfo }}
+
+## PAGE STRUCTURE FOR CONTEXT
+Introduction
+Casino Info
+Advantages and Disadvantages
+Welcome Bonus and Promotions at {{ brandName }}
+Welcome Package Bonus
+Exclusive Promo Code
+Reload Bonuses
+Cashback Program at {{ brandName }}
+Loyalty System at {{ brandName }}
+Register at {{ brandName }}
+{{ brandName }} Online Casino Games
+Slots
+Roulette
+Baccarat
+Blackjack
+Live Casino
+Providers
+Featured Original Games
+Payment Options at {{ brandName }}
+Withdrawal Process Time
+{{ brandName }} Mobile App and Mobile Experience
+Player Experience and Win Rate at {{ brandName }}
+Customer Support
+Conclusion
+FAQ
+
+## GLOBAL PAGE REQUIREMENTS
+Write in {{ language }} for {{ country }}.
+The complete page target is 2200-2500 words, closer to 2500.
+This prompt generates only one block, so follow the SECTION WORD TARGET below.
+Use natural keywords evenly across the full page.
+Use around 2 keyword instances per 100 words across the full page, including headings, but avoid keyword stuffing.
+Rewrite headings naturally while keeping the required keywords.
+Always use full descriptive SEO names when relevant: First Deposit Bonus, Second Deposit Bonus, Third Deposit Bonus, Fourth Deposit Bonus, Free Spins, Minimum, Maximum, Live Casino, Random Number Generator.
+Use simple and short sentences.
+Keep Grade Level 7-8.
+Use a neutral, positive, official brand tone.
+Do not use filler.
+Do not repeat the same idea.
+Do not invent facts.
+If exact facts are missing, use safe general wording without inventing data, or write “Not specified” in table cells.
+Only use these template variables: {{ brandName }}, {{ domain }}, {{ language }}, {{ country }}, {{ slug }}, {{ mainKeywords }}, {{ additionalKeywords }}.
+Do not create or use any other template variables.
+
+## SECTION WORD TARGET
+This block must contain approximately 70 visible words.
+A natural deviation of 5-10 words is allowed if needed for clean wording.
+If exact facts are missing, use safe general wording without inventing data.
+Do not exceed the target by more than 10 words.
+The word target includes headings, paragraphs, list items, and table text where present.
+
+## BLOCK INSTRUCTIONS
+Write only the Introduction block.
+Start with one <h2> heading.
+Rewrite the heading naturally while keeping the introduction meaning.
+After the heading, write one introductory paragraph.
+Start with a strong hook.
+Introduce {{ brandName }} and its appeal for players in {{ country }}.
+Emphasize trust, game variety, and player-focused experience.
+Use exactly 2 keyword instances in this block.
+Use {{ mainKeywords }} once.
+Use one relevant keyword from {{ additionalKeywords }} once.
+Do not describe bonus terms, payment limits, registration steps, game categories, mobile app details, support, or FAQ details here.
+
+## STYLE REQUIREMENTS
+Use clear, practical, human wording.
+Avoid hype and exaggerated claims.
+Do not promise winnings.
+Do not say the casino is risk-free.
+Do not use these phrases: meticulous, navigating, complexities, realm, bespoke, tailored, underpins, ever-changing, the world of, not only, designed to enhance, it is advisable, unlock the secrets, robust.
+
+## OUTPUT FORMAT
+Return only final HTML:
+<h2>...</h2>
+<p>...</p>
+Do not include comments, notes, explanations, or content references.

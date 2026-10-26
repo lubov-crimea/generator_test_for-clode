@@ -1,0 +1,548 @@
+{
+  "id": "v12",
+  "name": "Complete bonus handbook B (large)",
+  "tier": "large",
+  "angle": "A reader who compares the offers: terms tables, wagering and validity side by side, with sports extras and the Bonus Crab detail.",
+  "skipped_clusters": [],
+  "intent_summary": "Complete brand-subpage for the large size group, organised around comparison: the offer families as a table, the three welcome offers compared, the claiming steps, the terms, the wagering and the validity of the offers side by side, the promo code question, the reloads, free spins, crypto, live and seasonal offers, the cashback and rebates, the VIP program, the rewards area with Bonus Crab as a detail section, the sports bonuses with the extras, verification, responsible use, a checklist and a long FAQ. Page voice: analytical and even, the comparison first and the explanation after it, sentences of about 17 words, no calls to action. Every section is written only from the facts of its Brand Information. H2 sections with H3 details. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore. Never write \"Longfu88 bonuses\", \"Longfu bonuses\" or \"Longfu88 promo codes\": such forms count as tracked keywords.",
+  "blocks": [
+    {
+      "topic": "B01",
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Bonus Guide: Every Offer, Rule and Reward",
+      "words": 70,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1,
+        "Longfu88 promotions": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promotions\" is used it stands in the sentence that signposts the topics.",
+      "summary": "What the page covers: the welcome offers compared, the terms and the wagering side by side, the reloads, the cashback, the VIP program and the sports bonuses.",
+      "notes": "Open with \"Longfu88\" as the subject of the first sentence: the casino runs a set of bonuses that start with the Casino Welcome Bonus. The phrase \"Longfu bonus\" stands once in a sentence that says that players looking for the Longfu bonus find the welcome offers compared, the terms and the wagering side by side, the reloads, the cashback, the VIP program and the sports bonuses on this page. Quote the welcome bonus summary of the Brand Information once, character for character (188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings). State once that the bonuses are for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics in one sentence without detail. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Neutral tone, no promises."
+    },
+    {
+      "topic": "OV",
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Offers at a Glance",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "A two-column table that names every casino offer with its type.",
+      "refs_drop": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_promotions.gamification_features[0].name"
+      ],
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.type",
+        "brandinfo_promotions.other_bonuses[0].type",
+        "brandinfo_promotions.other_bonuses[1].type",
+        "brandinfo_promotions.other_bonuses[2].type",
+        "brandinfo_promotions.other_bonuses[4].type",
+        "brandinfo_promotions.other_bonuses[9].type",
+        "brandinfo_promotions.other_bonuses[10].type",
+        "brandinfo_promotions.other_bonuses[11].type"
+      ],
+      "notes": "One lead-in sentence that says that the offers fall into families, then a TABLE with two columns, offer | type, and eight rows in this order (name, then the type exactly as in the Brand Information in brackets here): Casino Welcome Bonus (First deposit casino bonus); Live Casino Welcome Bonus (Live casino welcome); Casino Crypto Welcome Bonus (Crypto casino welcome); Casino Weekly Reload (Weekly free spins); Casino Weekend Reload (Weekend deposit bonus); Casino Weekly Cashback (Casino cashback); Live Casino Cashback (Live casino cashback); Unlimited Casino Rebate (Rebate). One closing sentence: every offer is activated in My Bonuses. No amounts here. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "WB",
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Welcome Bonus Compared With Its Alternatives",
+      "words": 100,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The three welcome offers side by side: the Casino Welcome Bonus, the Live Casino Welcome Bonus and the Casino Crypto Welcome Bonus with reward, minimum deposit and validity.",
+      "refs_add": [
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].validity",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].validity"
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[1].important_terms[2]"
+      ],
+      "notes": "Lead-in of two sentences: the Casino Welcome Bonus is the main offer, a first-deposit casino bonus of 188% up to €2,088 plus 18 Free Spins for new registered players on the first qualifying deposit, one welcome offer per account; the Casino Welcome Bonus and the Casino Crypto Welcome Bonus are alternative first-deposit offers. Then a TABLE with four columns, offer | reward | minimum deposit | validity, and three rows in this order: Casino Welcome Bonus (188% up to €2,088 + 18 Free Spins | €50 | 10 days from activation), Live Casino Welcome Bonus (125% up to €888 | €30 | 7 days), Casino Crypto Welcome Bonus (188% up to 2,888 USDT | 50 USDT | 10 days). Use the €50 of the bonus, do NOT mention the general minimum deposit of €10. No wagering numbers here (the terms section gives them). Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "CL",
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Four Steps to Claim the Main Offer",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "TM",
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Terms of the Main Offer",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "N4",
+      "from": [],
+      "level": 2,
+      "heading": "Wagering of Nine Offers",
+      "words": 110,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The wagering of nine offers side by side, from 40x on crypto and Free Spins winnings down to 1x on rebates and 8x on the sports first deposit.",
+      "entities": [
+        [
+          "Wagering Requirement",
+          10
+        ],
+        [
+          "Bonus Offers",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Wagering Requirement",
+          "differs by",
+          "offer and by bonus type",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[2].name",
+        "brandinfo_promotions.other_bonuses[2].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[3].name",
+        "brandinfo_promotions.other_bonuses[3].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[4].name",
+        "brandinfo_promotions.other_bonuses[4].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[9].name",
+        "brandinfo_promotions.other_bonuses[9].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[11].name",
+        "brandinfo_promotions.other_bonuses[11].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].wagering_requirement"
+      ],
+      "notes": "One lead-in sentence that says that the wagering differs by offer, then a TABLE with two columns, offer | wagering, and nine rows in this order: Casino Welcome Bonus (25x the deposit plus bonus amount; 40x Free Spins winnings), Live Casino Welcome Bonus (30x the deposit plus bonus), Casino Crypto Welcome Bonus (40x deposit plus bonus), Casino Weekly Reload (40x winnings from Free Spins), Casino Weekly Crypto Reload (30x deposit plus bonus), Casino Weekend Reload (30x deposit plus bonus; 40x Free Spins winnings), Casino Weekly Cashback (10x cashback), Unlimited Casino Rebate (1x credited rebate), Sport First Deposit Bonus (8x deposit plus bonus). One closing sentence: the base of the wagering differs (deposit plus bonus, winnings, credited cashback), so the player reads the line of the offer. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "covers_clusters": [
+        "k04"
+      ]
+    },
+    {
+      "topic": "N3",
+      "from": [],
+      "level": 2,
+      "heading": "Validity of Six Casino Offers and One Sports Offer",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "How long each offer stays valid: 10 days for the Casino Welcome Bonus, 7 days for most live, crypto and reload offers, 24 hours for the Double Fortune special and 30 days for the first sports deposit bonus.",
+      "entities": [
+        [
+          "Bonus Validity",
+          10
+        ],
+        [
+          "Expiry",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Bonus Validity",
+          "starts at",
+          "the activation of the offer",
+          7
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].validity",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].validity",
+        "brandinfo_promotions.other_bonuses[2].name",
+        "brandinfo_promotions.other_bonuses[2].validity",
+        "brandinfo_promotions.other_bonuses[4].name",
+        "brandinfo_promotions.other_bonuses[4].validity",
+        "brandinfo_promotions.other_bonuses[6].name",
+        "brandinfo_promotions.other_bonuses[6].validity",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].validity"
+      ],
+      "notes": "One lead-in sentence that says that every offer has its own validity and that it counts from the activation, then a TABLE with two columns, offer | validity, and seven rows in this order: Casino Welcome Bonus (10 days from activation), Live Casino Welcome Bonus (7 days), Casino Crypto Welcome Bonus (10 days), Casino Weekly Reload (7 days), Casino Weekend Reload (7 days), Casino Double Fortune: One-Day Reload Special (24 hours), Sport First Deposit Bonus (30 days). One closing sentence: the unused part of an offer is lost when the validity ends is NOT in the Brand Information, so say only that the player completes the wagering inside the period. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "covers_clusters": [
+        "k18"
+      ]
+    },
+    {
+      "topic": "PC",
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Promo Code and Activation",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 promo code": 1
+      },
+      "extra": "Where the phrase \"Longfu88 promo code\" is used it stands in the first sentence, which says that the Brand Information of the casino lists no Longfu88 promo code for its offers."
+    },
+    {
+      "topic": "RL",
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Reloads Compared",
+      "words": 120,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "4 reload offers with reward, minimum deposit and wagering.",
+      "refs_drop": [],
+      "notes": "One lead-in sentence that says that the reload offers reward repeat deposits, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and 4 rows in this order: Casino Weekly Crypto Reload, Casino Weekend Reload, Casino Weekend Crypto Reload, Casino Double Fortune: One-Day Reload Special (values exactly as in the Brand Information). After the table two sentences: the weekly and weekend offers are valid for 7 days; the Double Fortune special for 24 hours; the stake while wagering bonus funds is limited to €5 per spin, and a reload cannot be combined with another active casino bonus. The Casino Weekly Reload (50 Free Spins) belongs to the free spins topic: do not describe it here. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "FS",
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Free Spins Compared",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "CR",
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Crypto Offers",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "LV",
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Live Casino Offers Compared",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "SE",
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Limited Campaigns",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "CB",
+      "from": [
+        "b13"
+      ],
+      "level": 2,
+      "heading": "Cashback and Its VIP Rates",
+      "words": 120,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "RB",
+      "from": [
+        "b14"
+      ],
+      "level": 3,
+      "heading": "Rebates Compared",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "VP",
+      "from": [
+        "b15"
+      ],
+      "level": 2,
+      "heading": "VIP Program in Brief",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "summary": "The VIP program in three sentences: five tiers, VIP points from real-money play and numbered reward levels.",
+      "refs_drop": [
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[0].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[4].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[9].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[14].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].level",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].points_required",
+        "brandinfo_loyalty.loyalty_vip_program.levels[24].level_reward",
+        "brandinfo_loyalty.loyalty_vip_program.additional_benefits"
+      ],
+      "notes": "Three sentences, no table: the VIP program has five tiers (Bronze, Silver, Gold, Platinum, Diamond); the player earns VIP points through eligible real-money gameplay and the points unlock numbered reward levels; reward and withdrawal limits may differ by level and currency, and level-based benefits can change under the program rules. Call it \"the VIP Program\" without the brand name. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies."
+    },
+    {
+      "topic": "RW",
+      "from": [
+        "b16"
+      ],
+      "level": 2,
+      "heading": "Rewards Area",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "N6",
+      "from": [],
+      "level": 3,
+      "heading": "Bonus Crab in Detail",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "How Bonus Crab works: qualifying picks open a crab reward of bonus credits, Free Spins or Coins, valid 7 days with 30x and 40x wagering.",
+      "entities": [
+        [
+          "Bonus Crab",
+          10
+        ],
+        [
+          "Crab Reward",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Bonus Crab",
+          "awards",
+          "bonus credits, Free Spins or Coins",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.gamification_features[0].mechanics",
+        "brandinfo_promotions.gamification_features[0].access",
+        "brandinfo_promotions.gamification_features[0].rewards",
+        "brandinfo_promotions.gamification_features[0].validity",
+        "brandinfo_promotions.gamification_features[0].wagering_requirement"
+      ],
+      "notes": "Say first how the feature works: the player claims qualifying picks to open a crab reward and reveal a casino prize; free picks may come from qualifying activity in the rewards area. Then the rewards (bonus credits, Free Spins, Coins) as a bulleted list of three items, then one sentence with the validity (7 days after the reward is assigned) and one with the wagering (30x the awarded bonus credit; 40x the winnings from Free Spins). No prize sizes, no odds. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "covers_clusters": [
+        "k09"
+      ]
+    },
+    {
+      "topic": "SP",
+      "from": [
+        "b17"
+      ],
+      "level": 2,
+      "heading": "Sports Bonuses Compared",
+      "words": 150,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "N7",
+      "from": [],
+      "level": 3,
+      "heading": "Sports Extras Beyond Match Bonuses",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "Three sports extras that are not deposit bonuses: the early payout when a team leads by two goals, the Parlay Boost on accumulators and the Bet Builder risk-free stake.",
+      "entities": [
+        [
+          "Parlay Boost",
+          8
+        ],
+        [
+          "Early Payout",
+          7
+        ],
+        [
+          "Risk-Free Bet",
+          7
+        ]
+      ],
+      "connections": [
+        [
+          "Parlay Boost",
+          "adds",
+          "extra winnings to qualifying accumulators",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[8].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[8].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[8].important_terms[0]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].minimum_legs",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[10].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[10].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[10].eligibility",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[10].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[10].validity"
+      ],
+      "notes": "One lead-in sentence that says that the sportsbook has extras apart from the deposit bonuses, then a bulleted list of three items: 2 Goals Ahead - Early Payout (early settlement of eligible football bets when the selected team leads by two goals; only participating pre-match match-winner markets qualify); Parlay Boost (up to 100% extra winnings on qualifying accumulators of at least 3 legs; no additional bonus wagering on settled enhanced winnings); Bet Builder Risk Free (50% risk-free stake return up to €250 on qualifying pre-match Bet Builder selections; wagering 1x the credited free-bet stake; valid 7 days). Each item one or two clauses. No tips, no odds of events. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "covers_clusters": [
+        "k11"
+      ]
+    },
+    {
+      "topic": "VF",
+      "from": [
+        "b18"
+      ],
+      "level": 2,
+      "heading": "Verification Documents",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "RG",
+      "from": [
+        "b19"
+      ],
+      "level": 2,
+      "heading": "Responsible Use of Offers",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "CK",
+      "from": [
+        "b21"
+      ],
+      "level": 2,
+      "heading": "Seven Checks Before Claiming",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "topic": "FQ",
+      "from": [
+        "b22"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers: Last Questions Answered",
+      "words": 140,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "8 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 8 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what is the minimum first deposit for the welcome bonus (€50); (2) whether a deposit is needed for the welcome bonus (yes, a first qualifying deposit of at least €50; the Brand Information lists no bonus without a deposit); (3) how long the welcome bonus is valid (10 days from activation); (4) how much of the welcome bonus can be cashed out (up to 5x the initial bonus amount); (5) what the maximum bet is while the welcome bonus is wagered (€22.5 per spin); (6) when the unlimited rebates are credited (daily to the rewards balance); (7) what Bonus Crab does (the player claims qualifying picks to open a crab reward and reveal a casino prize); (8) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies.",
+      "kw_lists_ok": true,
+      "refs_add": [
+        "brandinfo_welcome.welcome_bonus.eligibility",
+        "brandinfo_welcome.welcome_bonus.maximum_cashout",
+        "brandinfo_welcome.welcome_bonus.maximum_bet",
+        "brandinfo_promotions.other_bonuses[11].crediting",
+        "brandinfo_promotions.gamification_features[0].mechanics"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.important_terms[2]",
+        "brandinfo_promotions.other_bonuses[9].opt_in",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]"
+      ]
+    }
+  ]
+}

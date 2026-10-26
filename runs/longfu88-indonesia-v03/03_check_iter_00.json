@@ -1,0 +1,79 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2967,
+    "target_body_words": 2852,
+    "keywords_total": {
+      "Longfu88": 18,
+      "Longfu 88": 1,
+      "Longfu88 casino": 1,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 1,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [
+      {
+        "check": "consistency",
+        "problem": "The lead-in says 'Dua reload mingguan' but the list bullets cover the first deposit bonus plus a weekly and a weekend reload.",
+        "fix": "Reword the lead-in clause to 'Dua reload, mingguan dan akhir pekan, mengikuti polanya:' without changing any figure or the rest of the block."
+      }
+    ],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The opening sentence is ungrammatical ('datang terbagi ke tujuh penawaran').",
+        "fix": "Write it as 'Reload di Longfu88 dan promosi musiman terbagi ke tujuh penawaran.' keeping every other fact, keyword count and the table unchanged."
+      }
+    ],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [
+      {
+        "check": "consistency",
+        "problem": "The answer about support languages repeats the clause from the Contact Options block ('pemain dari Indonesia dapat menulis dalam bahasa sendiri').",
+        "fix": "Drop that clause from the support-language answer and keep only the six languages and the channels (live chat 24/7 and email); keep the other four items and the keyword counts unchanged and the word count within the range."
+      }
+    ],
+    "b18": []
+  },
+  "missing_data": []
+}

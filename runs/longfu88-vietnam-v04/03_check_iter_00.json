@@ -1,0 +1,67 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3323,
+    "target_body_words": 2852,
+    "keywords_total": {
+      "Longfu88": 17,
+      "Longfu 88": 1,
+      "Longfu88 casino": 1,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 1,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [
+      {
+        "check": "consistency",
+        "problem": "The introduction says the lobby has nine groups, but lists nine items without live dealer games and then adds the live dealer part separately, so the count reads as ten and does not match the nine categories of the Brand Information (b11 names nine including live dealer games).",
+        "fix": "List the nine categories in one sentence exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games) and drop the extra 'plus the live dealer part'. Keep the keyword Longfu88 once, the launch year 2026, the 18+ limit and the Vietnam audience."
+      }
+    ],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": []
+  },
+  "missing_data": []
+}

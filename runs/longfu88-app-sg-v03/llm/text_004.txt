@@ -1,0 +1,7 @@
+Registration at Longfu88 is by e-mail only, and the form asks for e-mail, password, legal name, date of birth and residential address. Login works on a phone as on a computer: the method is e-mail and password, in three steps from the login page.
+
+- Select Login on the website.
+- Enter the registered e-mail and password.
+- Access the account.
+
+A player who forgot the password chooses Forgot Password on the login screen.

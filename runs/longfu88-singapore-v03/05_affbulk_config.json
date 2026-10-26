@@ -1,0 +1,265 @@
+{
+ "website_id": 108,
+ "domain": "longfu88.mobi",
+ "page_id": 138,
+ "slug": "sg",
+ "locale": "en",
+ "seo": {
+  "title": "Longfu88 Casino Review for Singapore: Q&A",
+  "description": "Balanced Longfu88 overview for Singapore: pros and cons, licence and privacy, registration steps, welcome offer, VIP, games, studios, deposits and mobile use.",
+  "customCanonical": "https://longfu88.mobi/sg",
+  "customPageLang": "en"
+ },
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu88.mobi/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu88.mobi/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu88.mobi/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu88.mobi/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu88.mobi/vn\" />",
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, online casino, crypto casino, play, gambling, slots, live casino, sports betting, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+ },
+ "hero": {
+  "label": "First deposit bonus: 188% up to €2,088 + 18 Free Spins",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "swipers": {
+  "slots": [
+   [
+    "3 Hot Chilli Peppers",
+    107
+   ],
+   [
+    "Book of Dead",
+    109
+   ],
+   [
+    "Book of Ra",
+    85
+   ],
+   [
+    "Buffalo King Megaways",
+    91
+   ],
+   [
+    "Gates Of Olympus 1000",
+    84
+   ],
+   [
+    "Joker Stoker",
+    227
+   ],
+   [
+    "Legacy of Dead",
+    71
+   ],
+   [
+    "Razor Shark",
+    83
+   ],
+   [
+    "Sweet Bonanza",
+    100
+   ],
+   [
+    "Thunder Coins",
+    230
+   ],
+   [
+    "Wild Clusters",
+    229
+   ],
+   [
+    "Zeus vs Hades",
+    80
+   ]
+  ],
+  "crash": [
+   [
+    "Aviamasters",
+    78
+   ],
+   [
+    "Aviatrix",
+    77
+   ],
+   [
+    "Ballonix",
+    81
+   ],
+   [
+    "F777 Fighters",
+    108
+   ],
+   [
+    "JetX",
+    70
+   ],
+   [
+    "Lucky Jet",
+    104
+   ],
+   [
+    "Penalty Shoot Out",
+    90
+   ],
+   [
+    "Piggy Tap",
+    82
+   ],
+   [
+    "Plinko",
+    74
+   ],
+   [
+    "Reactoonz",
+    76
+   ],
+   [
+    "Squid Game",
+    101
+   ],
+   [
+    "Tower Rush",
+    232
+   ]
+  ],
+  "live": [
+   [
+    "American Roulette",
+    2628
+   ],
+   [
+    "Crazy Balls",
+    2630
+   ],
+   [
+    "Crazy Time",
+    2208
+   ],
+   [
+    "Ice Fishing",
+    102
+   ],
+   [
+    "Infinite Blackjack",
+    2626
+   ],
+   [
+    "Lightning Dragon Tiger",
+    2629
+   ],
+   [
+    "Lightning Roulette",
+    79
+   ],
+   [
+    "Marble Race",
+    2627
+   ],
+   [
+    "Money Time",
+    233
+   ],
+   [
+    "Monopoly Live",
+    234
+   ],
+   [
+    "Race Track",
+    2625
+   ],
+   [
+    "Sweet Bonanza Candyland",
+    235
+   ]
+  ]
+ },
+ "preview": {
+  "title": "Current Longfu88 Offers",
+  "items": [
+   {
+    "image": 4655,
+    "button": "See Offer"
+   },
+   {
+    "image": 4652,
+    "button": "Claim Now"
+   },
+   {
+    "image": 4653,
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4654,
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4657,
+    "button": "Get Offer"
+   },
+   {
+    "image": 4656,
+    "button": "See Offer"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Real Player Reviews",
+  "items": [
+   {
+    "username": "Ethan Wong",
+    "review": "The sports section covers the games I care about, including esports, and the layout is simple. A solid choice if you like a clean layout.",
+    "date": "2026-10-23",
+    "avatar": 3856,
+    "rating": 5
+   },
+   {
+    "username": "Daniel Ng",
+    "review": "It is helpful that the offers explain their conditions in plain words, so nothing feels hidden. Nothing flashy, just a site that works as described.",
+    "date": "2026-10-19",
+    "avatar": 3855,
+    "rating": 5
+   },
+   {
+    "username": "Zhi Hao",
+    "review": "I wrote to support by email and received a clear, polite answer that covered everything I asked. The whole experience felt well organised to me.",
+    "date": "2026-10-18",
+    "avatar": 3862,
+    "rating": 5
+   },
+   {
+    "username": "Sarah Goh",
+    "review": "I signed up from my phone and the confirmation email arrived almost at once. A straightforward site that respects my time.",
+    "date": "2026-10-16",
+    "avatar": 3854,
+    "rating": 4
+   },
+   {
+    "username": "Hui Min",
+    "review": "The cashier lists many payment methods, and I could choose the one I normally use without hunting for it. It is a comfortable place to spend an evening.",
+    "date": "2026-10-14",
+    "avatar": 3857,
+    "rating": 5
+   },
+   {
+    "username": "Kumar",
+    "review": "The site runs fine on both my phone and my laptop, so I can switch devices without losing my place. Overall it is a tidy site that is easy to use.",
+    "date": "2026-10-14",
+    "avatar": 3853,
+    "rating": 5
+   }
+  ]
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "disclaimer": "Players must be 18+. Offer terms apply. Gamble responsibly.",
+  "button": "Get Bonus"
+ },
+ "cta_texts": [
+  "Get Your Bonus",
+  "Play Now",
+  "Join Now",
+  "See the Offer",
+  "Try Live Casino"
+ ]
+}

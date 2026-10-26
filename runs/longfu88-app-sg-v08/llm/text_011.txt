@@ -1,0 +1,6 @@
+Most phone problems with Longfu88 fall into four cases, and each has a plain first fix before support is needed:
+
+- Shortcut missing: repeat the steps in Chrome on Android or in Safari on iOS.
+- Page not loading: reload it and check the internet connection.
+- Login failing: check the e-mail address and use Forgot Password on the login screen.
+- Problem remaining: contact customer support through the 24/7 live chat or by e-mail.

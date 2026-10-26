@@ -1,0 +1,148 @@
+{
+  "competitors": [
+    {
+      "url": "https://cardmates.ua/bc_game",
+      "word_count": 1646,
+      "body_words": 1574,
+      "body": {
+        "BC Game": 9,
+        "BCGame": 1,
+        "BC Games": 0,
+        "BC Game казино": 2
+      },
+      "headings_by_level": {
+        "1": {
+          "BC Game": 1,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "2": {
+          "BC Game": 4,
+          "BCGame": 1,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "3": {
+          "BC Game": 2,
+          "BCGame": 1,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "4": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "5": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "6": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        }
+      },
+      "headings_total": {
+        "BC Game": 7,
+        "BCGame": 2,
+        "BC Games": 0,
+        "BC Game казино": 0
+      },
+      "total": {
+        "BC Game": 16,
+        "BCGame": 3,
+        "BC Games": 0,
+        "BC Game казино": 2
+      }
+    },
+    {
+      "url": "https://www.bitcoin.com/ru/gambling/reviews/bc-game/",
+      "word_count": 251,
+      "body_words": 222,
+      "body": {
+        "BC Game": 0,
+        "BCGame": 0,
+        "BC Games": 0,
+        "BC Game казино": 0
+      },
+      "headings_by_level": {
+        "1": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "2": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "3": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "4": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "5": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        },
+        "6": {
+          "BC Game": 0,
+          "BCGame": 0,
+          "BC Games": 0,
+          "BC Game казино": 0
+        }
+      },
+      "headings_total": {
+        "BC Game": 0,
+        "BCGame": 0,
+        "BC Games": 0,
+        "BC Game казино": 0
+      },
+      "total": {
+        "BC Game": 0,
+        "BCGame": 0,
+        "BC Games": 0,
+        "BC Game казино": 0
+      }
+    }
+  ],
+  "aggregate": {
+    "competitors_ok": 2,
+    "median_body_words": 898,
+    "median_total": {
+      "BC Game": 8,
+      "BCGame": 2,
+      "BC Games": 0,
+      "BC Game казино": 1
+    },
+    "median_headings_total": {
+      "BC Game": 4,
+      "BCGame": 1,
+      "BC Games": 0,
+      "BC Game казино": 0
+    },
+    "median_h1": {
+      "BC Game": 0,
+      "BCGame": 0,
+      "BC Games": 0,
+      "BC Game казино": 0
+    }
+  }
+}

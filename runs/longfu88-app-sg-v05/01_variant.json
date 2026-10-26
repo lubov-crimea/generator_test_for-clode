@@ -1,0 +1,247 @@
+{
+  "id": "v05",
+  "name": "Decision-led: app or mobile site",
+  "tier": "medium",
+  "angle": "A player who is deciding between an app and the mobile site.",
+  "intent_summary": "Decision-led brand-subpage about the Longfu88 mobile casino in Singapore for a player who expects an app and wants to know what is offered instead: the shortcut versus the browser tab, which phones and browsers work (a table), the shortcut steps for Android and iOS, what the mobile site gives access to, how an account is opened and used, how to withdraw from the cashier, fixes and account protection; no separate support section. Page voice: calm and comparative, the choice first and the steps after it, sentences of about 16 words, a short consequence after each point; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu App or Mobile Site? Using Longfu88 on a Phone",
+      "words": 65,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 mobile casino": 1
+      },
+      "notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence: the casino is used on a smartphone or tablet through its responsive website, on Android and iOS. The phrase \"Longfu88 mobile casino\" stands once, in a sentence that says what the Longfu88 mobile casino is (the responsive website in the phone browser). State once that the casino is for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (shortcut or browser tab, devices, shortcut steps for Android and iOS, features, account, withdrawals, fixes, protection) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Neutral tone, no promises."
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Shortcut or Browser Tab: Pick Your Route",
+      "words": 95,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Which Phones and Browsers Work",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "notes": "One lead-in sentence that says that the layout adapts to smartphone and tablet screens, then a TABLE with three columns, platform | browser | how it opens, and three rows as given in the Brand Information: Android | Chrome | Add to Home screen from the browser menu; iOS | Safari | Add to Home Screen from the Share menu; mobile web | the browser of a smartphone or tablet | the responsive website opens directly. Do not state OS versions, device models, storage, memory or connection speed: none are given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut."
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Download Is Not Needed: Add the Shortcut Once",
+      "words": 70,
+      "kw": {
+        "Longfu88 apk": 1,
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Route",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Route",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Features Available on Mobile",
+      "words": 90,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "edit": [
+        [
+          "then a bulleted list with the six items of the Brand Information in the order given (casino, sportsbook, account access, deposits, withdrawals, bonuses), each item a short phrase of 3-6 words saying what the player can do, then one closing sentence.",
+          "then one flowing paragraph that names the six items of the Brand Information in the order given (casino, sportsbook, account access, deposits, withdrawals, bonuses) and says what the player can do with each, in a few words."
+        ]
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Opening an Account: Registration Steps on a Phone",
+      "words": 75,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The five steps of the registration form with the details it asks for.",
+      "entities": [
+        [
+          "Registration",
+          10
+        ],
+        [
+          "Required Details",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "registers",
+          "with an e-mail address and a password on the registration form",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration.steps",
+        "brandinfo_account.registration.required_details"
+      ],
+      "notes": "One lead-in sentence, then a NUMBERED list with the five steps of the Brand Information in order (write \"the website\" where a step names the brand), then one sentence with the required details (e-mail, password, legal name, date of birth, residential address). Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k03"
+      ]
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Sign In from a Phone",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Cashing Out from a Phone",
+      "words": 85,
+      "kw": {},
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "summary": "The six steps of a withdrawal request from the cashier and how long processing takes.",
+      "entities": [
+        [
+          "Withdrawal",
+          10
+        ],
+        [
+          "Cashier",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Player",
+          "submits",
+          "a withdrawal request in the cashier and waits for casino processing",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_guide",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]"
+      ],
+      "notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a NUMBERED list with the six steps of the withdrawal guide in the order of the Brand Information (write \"the casino\" or \"the cashier\" where a step names the brand). After the list one sentence: requests are generally processed within three working days. Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. No fees, no limits, no speed promises beyond those sentences. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "covers_clusters": [
+        "k10"
+      ]
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Fixing Phone Problems Before Contacting Support",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph"
+      ],
+      "edit": [
+        [
+          "then a bulleted list of four items \"problem: fix\":",
+          "then one short paragraph with four problems and the plain fix for each, in this order:"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Protecting the Account on a Phone",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b12"
+      ],
+      "level": 2,
+      "heading": "Longfu88 App FAQ: Route and Setup",
+      "words": 100,
+      "kw": {
+        "Longfu88": 2
+      },
+      "summary": "6 short questions and answers on the mobile version of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) whether the shortcut is required (no: the same website opens in a browser tab); (3) which phones work (Android, iOS and the mobile web of smartphones and tablets); (4) whether a tablet works too (yes: the website is usable in smartphone and tablet browsers); (5) how a player opens an account on a phone (by e-mail, with the registration form of the website); (6) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut.",
+      "refs_add": [
+        "brandinfo_account.registration.methods"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.method",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ],
+  "skipped_clusters": [
+    {
+      "id": "k08",
+      "reason": "the games overview belongs to the games pages of the site; the app page names the casino as one feature of the mobile website"
+    },
+    {
+      "id": "k09",
+      "reason": "the payment methods belong to the payments page of the site; the app page names deposits and withdrawals as features of the mobile website"
+    }
+  ]
+}

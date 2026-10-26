@@ -1,0 +1,135 @@
+{
+  "id": "v06",
+  "name": "Security-conscious",
+  "tier": "medium",
+  "angle": "A cautious player who wants to know what protects the account before logging in.",
+  "intent_summary": "Security-conscious brand-subpage about the Longfu88 login in Malaysia for a cautious reader: how to sign in safely, what protects the account and the data, why the casino asks for documents, the registration details, the welcome offer in brief and support. Page voice: sober and exact, every claim tied to a stated fact, sentences of about 18 words with a few shorter ones, no reassurance beyond the facts; no calls to action. H2 sections with two H3. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Casino Login: Secure Access to Your Account",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      },
+      "edit": [
+        [
+          "(login, password reset, registration, verification, security, support)",
+          "(login, password reset, why a login is blocked, account protection, verification documents, registration, support)"
+        ]
+      ]
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Signing In Safely",
+      "words": 70,
+      "kw": {
+        "Longfu login": 1
+      }
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 3,
+      "heading": "Replacing a Lost Password",
+      "words": 55,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 3,
+      "heading": "Spotting Why Access Is Blocked",
+      "words": 60,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "What Protects the Account",
+      "words": 100,
+      "kw": {},
+      "extra": "Add with whom data may be shared and which rights the player has, as short lists inside the paragraph.",
+      "refs_add": [
+        "brandinfo_privacy_policy.privacy_policy.data_sharing",
+        "brandinfo_privacy_policy.privacy_policy.data_subject_rights"
+      ]
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Why the Casino Asks for Documents",
+      "words": 115,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b02"
+      ],
+      "level": 2,
+      "heading": "Registration Details and Eligibility",
+      "words": 105,
+      "kw": {
+        "Longfu88 register": 1
+      },
+      "formats": [
+        "paragraph",
+        "list"
+      ]
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "The Welcome Offer in Brief",
+      "words": 70,
+      "kw": {}
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Who to Contact",
+      "words": 50,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b10"
+      ],
+      "level": 2,
+      "heading": "Account Safety Questions",
+      "words": 85,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 casino login": 1
+      },
+      "summary": "5 short questions and answers on the login and the account.",
+      "notes": "A bulleted list of 5 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) how to log in (with the registered e-mail and password, as the page explains); (2) how long verification takes (a complete document set is normally reviewed within up to 10 days); (3) which identity document is accepted (passport, national identity card or driving licence); (4) whether a player may hold more than one account (no: one personal account per player); (5) where to turn when the login still fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not answer questions about multiple devices, lockouts or login limits: no data.",
+      "refs_add": [
+        "brandinfo_privacy_policy.kyc_aml.required_documents.identity",
+        "brandinfo_account.registration.eligibility[1]"
+      ],
+      "refs_drop": [
+        "brandinfo_account.login.password_recovery[1]",
+        "brandinfo_general.minimum_age"
+      ]
+    }
+  ]
+}

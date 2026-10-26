@@ -1,0 +1,6 @@
+- **Does a store app exist for download?** No store download is needed. The browser serves as the entrance, and the only extra is a home-screen shortcut.
+- **Does the shortcut have to be made?** No, Longfu88 can equally be opened in a browser tab, and the website is the same.
+- **Which phones are supported?** Android and iOS devices, and phones or tablets on the mobile web.
+- **Can a tablet be used as well?** Yes, since the Longfu88 site is usable in both smartphone and tablet browsers.
+- **How is an account opened from a phone?** By e-mail, using the registration form on the website.
+- **Who answers when a problem occurs?** Customer support, reachable through live chat running 24/7 and through e-mail.

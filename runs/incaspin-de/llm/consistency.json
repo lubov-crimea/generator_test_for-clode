@@ -1,0 +1,20 @@
+{
+ "issues": [
+  {
+   "block_id": "b02",
+   "problem": "The first sentence repeats the opening of the H1 block b01 (\"Incaspin ist ein Online-Casino, das ...\"); two consecutive blocks start with the same sentence pattern.",
+   "fix": "Rewrite the first sentence of b02 so that it does not start with \"Incaspin ist ein Online-Casino, das\": start with a different construction (for example the launch year or the operator), keep the tracked keyword \"Incaspin\" exactly once and \"Inca Spin\" exactly once, keep the launch year 2025 and all other facts unchanged."
+  },
+  {
+   "block_id": "b09",
+   "problem": "The clause \"das Casino schreibt die Boni des Pakets automatisch gut\" is copied word for word from b07 (Welcome Bonus).",
+   "fix": "In b09 express the automatic crediting with different wording (for example: the bonuses of the package appear in the account without any further step), keep all facts (no promo code needed, an additionally entered code can cost the claim to that bonus) and do not use any tracked keyword."
+  },
+  {
+   "block_id": "b25",
+   "problem": "The answer to the withdrawal question repeats the sentence of b17 almost word for word (\"Die interne Bearbeitung dauert bis zu 72 Stunden, danach folgt die Abwicklung durch den Zahlungsanbieter\").",
+   "fix": "Rephrase the withdrawal answer in b25 in new words (keep up to 72 hours of internal processing, then the payment provider's time, and the dependence on the payment method) and keep \"Incaspin Casino\" exactly once in the block."
+  }
+ ],
+ "missing_data": []
+}

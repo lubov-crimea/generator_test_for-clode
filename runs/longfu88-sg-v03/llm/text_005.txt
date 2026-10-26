@@ -1,0 +1,12 @@
+Longfu88 sorts its deposit options by type, and the table below shows which currencies each group handles.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Local banks and wallets | OCBC Bank, DBS Bank, PayNow, PayNow QR | SGD |
+| Cards | Mastercard, Visa | SGD, IDR, MYR, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| European methods | Giropay, Sofort | EUR |
+| E-wallets | Skrill, Neteller | EUR |
+| Cryptocurrencies | USDC, Litecoin, Ethereum, Bitcoin, USDT (BEP20, ERC20, TRC20) | USDC, LTC, ETH, BTC, USDT |
+
+Funds arrive within 1-2 minutes on every route, and one transaction runs from €10 to €5,000, though limits shift with country, currency and payment method. The casino charges nothing for handling deposits, but the provider or the blockchain network can levy a charge. Neteller and Skrill are excluded from the welcome bonus. The sequence is: log in, open the cashier and choose Deposit, pick a method with its network or currency, enter payment information and the amount, confirm with the provider, then wait for the balance to update.

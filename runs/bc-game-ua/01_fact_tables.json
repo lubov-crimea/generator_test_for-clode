@@ -1,0 +1,188 @@
+{
+  "tables": [
+    {
+      "competitor": 1,
+      "url": "https://cardmates.ua/bc_game",
+      "heading": "BC Game великий огляд онлайн казино",
+      "rows": [
+        [
+          "ℹ️ Назва",
+          "BC Game"
+        ],
+        [
+          "🎂 Рік заснування",
+          "2017"
+        ],
+        [
+          "📝 Ліцензія",
+          "Curacao, Crypto Gambling Foundation"
+        ],
+        [
+          "🎲 Доступні ігри",
+          "ігрові автомати, рулетка, блекджек, бакара, ігри з живими дилерами, ТБ-ігри, краш-ігри"
+        ],
+        [
+          "∑ Кількість ігор",
+          "понад 7 500"
+        ],
+        [
+          "🔄 Виплата (RTP)",
+          "98"
+        ],
+        [
+          "⚙️ Провайдери",
+          "Pragmatic Play, Evolution Gaming, Evoplay"
+        ],
+        [
+          "📱 Сумісні пристрої",
+          "Android, iOS, Mac OS, Windows"
+        ],
+        [
+          "💳 Методи депозиту",
+          "BTC, B.C.D., ETH, X.R.P., USDT, DOGE, T.R.X., L.T.C., та 40+ інших"
+        ],
+        [
+          "🚀 Швидкість виведення",
+          "залежіть від обраного блокчейну"
+        ],
+        [
+          "🚧 Ліміт на виведення",
+          "відсутній"
+        ],
+        [
+          "💲 Валюта",
+          "криптовалюти"
+        ],
+        [
+          "🌎 Мови",
+          "англійська, німецька, французька, іспанська, португальська, в'єтнамська, індонезійська, філіппінська, японська, корейськ"
+        ],
+        [
+          "💬 Онлайн-чат",
+          "доступний 24/7"
+        ],
+        [
+          "😎 Власник",
+          "BlockDance B.V."
+        ],
+        [
+          "🤝 Партнерська програма",
+          "BC.Game Affiliates"
+        ]
+      ]
+    },
+    {
+      "competitor": 1,
+      "url": "https://cardmates.ua/bc_game",
+      "heading": "Виведення коштів",
+      "rows": [
+        [
+          "BTC",
+          "0.000915"
+        ],
+        [
+          "ETH",
+          "0.014"
+        ],
+        [
+          "UDST",
+          "11"
+        ],
+        [
+          "XRP",
+          "22.25"
+        ],
+        [
+          "DOGE",
+          "100"
+        ]
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "label": "btc",
+      "competitors": 1
+    },
+    {
+      "label": "doge",
+      "competitors": 1
+    },
+    {
+      "label": "eth",
+      "competitors": 1
+    },
+    {
+      "label": "udst",
+      "competitors": 1
+    },
+    {
+      "label": "xrp",
+      "competitors": 1
+    },
+    {
+      "label": "ℹ️ назва",
+      "competitors": 1
+    },
+    {
+      "label": "∑ кількість ігор",
+      "competitors": 1
+    },
+    {
+      "label": "⚙️ провайдери",
+      "competitors": 1
+    },
+    {
+      "label": "🌎 мови",
+      "competitors": 1
+    },
+    {
+      "label": "🎂 рік заснування",
+      "competitors": 1
+    },
+    {
+      "label": "🎲 доступні ігри",
+      "competitors": 1
+    },
+    {
+      "label": "💬 онлайн-чат",
+      "competitors": 1
+    },
+    {
+      "label": "💲 валюта",
+      "competitors": 1
+    },
+    {
+      "label": "💳 методи депозиту",
+      "competitors": 1
+    },
+    {
+      "label": "📝 ліцензія",
+      "competitors": 1
+    },
+    {
+      "label": "📱 сумісні пристрої",
+      "competitors": 1
+    },
+    {
+      "label": "🔄 виплата (rtp)",
+      "competitors": 1
+    },
+    {
+      "label": "😎 власник",
+      "competitors": 1
+    },
+    {
+      "label": "🚀 швидкість виведення",
+      "competitors": 1
+    },
+    {
+      "label": "🚧 ліміт на виведення",
+      "competitors": 1
+    },
+    {
+      "label": "🤝 партнерська програма",
+      "competitors": 1
+    }
+  ]
+}

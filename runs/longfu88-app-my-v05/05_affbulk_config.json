@@ -1,0 +1,36 @@
+{
+ "website_id": 4974,
+ "domain": "longfu88-my.live",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu App or Mobile Site? Longfu88 on a Phone",
+  "description": "Longfu88 on a phone: the home-screen shortcut or a browser tab, which phones and browsers work, the Android and iOS steps, sign-in and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Shortcut or browser tab: pick your route",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Play Now"
+ },
+ "cta_texts": [
+  "Play Now",
+  "Register",
+  "Log In",
+  "Join Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

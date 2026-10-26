@@ -1,0 +1,22 @@
+{
+  "clusters": [
+    {"topic": "Welcome bonus: size, percentage, free spins", "canonical_title": "Welcome Bonus", "member_ids": ["c2h1", "c2h2", "c2h3", "c2h4", "c2h5", "c3h3", "c4h1", "c4h2"]},
+    {"topic": "How to claim the welcome bonus step by step", "canonical_title": "How to Claim the Welcome Bonus", "member_ids": ["c2h21", "c3h4"]},
+    {"topic": "Wagering requirements and bonus terms", "canonical_title": "Wagering and Bonus Terms", "member_ids": ["c3h5", "c3h12", "c4h8", "c4h9"]},
+    {"topic": "Reload bonuses and recurring weekly or weekend offers", "canonical_title": "Reload Bonuses", "member_ids": ["c2h6", "c2h7", "c2h8", "c2h9", "c2h10", "c3h8", "c4h3"]},
+    {"topic": "Cashback offers", "canonical_title": "Cashback Offers", "member_ids": ["c2h11", "c2h12", "c2h13", "c3h11", "c4h4"]},
+    {"topic": "Free spins offers", "canonical_title": "Free Spins", "member_ids": ["c2h20", "c3h9"]},
+    {"topic": "VIP program and loyalty rewards", "canonical_title": "VIP Program and Loyalty", "member_ids": ["c3h6", "c3h7", "c4h6"]},
+    {"topic": "Coin exchange, tournaments and seasonal promotions", "canonical_title": "Coins, Tournaments and Seasonal Promotions", "member_ids": ["c4h5", "c4h7"]},
+    {"topic": "Promo codes and coupon codes", "canonical_title": "Promo Codes", "member_ids": ["c2h18", "c2h22"]},
+    {"topic": "No deposit bonuses", "canonical_title": "No Deposit Bonuses", "member_ids": ["c2h19"]},
+    {"topic": "Expired and archived promotions", "canonical_title": "Expired Promotions", "member_ids": ["c2h14", "c2h15", "c2h16"]},
+    {"topic": "Sports betting bonuses", "canonical_title": "Sports Betting Bonuses", "member_ids": ["c3h10"]},
+    {"topic": "Payment methods and bonus compatibility", "canonical_title": "Payment Methods and Bonuses", "member_ids": ["c3h14"]},
+    {"topic": "Bonuses on mobile", "canonical_title": "Mobile Bonus Access", "member_ids": ["c3h15"]},
+    {"topic": "Strategy and verdict on whether to take the bonuses", "canonical_title": "Getting the Most from Bonuses", "member_ids": ["c3h16", "c3h18"]},
+    {"topic": "Overview of the bonus types and the casino", "canonical_title": "Bonus Overview", "member_ids": ["c2h23", "c3h1", "c3h2", "c3h13"]},
+    {"topic": "Frequently asked questions about bonuses", "canonical_title": "Bonus FAQ", "member_ids": ["c2h25", "c3h17", "c4h10", "c4h11", "c4h12", "c4h13", "c4h14", "c4h15"]},
+    {"topic": "Page furniture: contents, reviews, author, list of other casinos", "canonical_title": "Page Furniture", "member_ids": ["c2h17", "c2h24", "c2h26", "c2h27"]}
+  ]
+}

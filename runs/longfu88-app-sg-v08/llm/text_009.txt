@@ -1,0 +1,9 @@
+The player account is the entry point to everything else on a phone. Registration is by e-mail only, and the form asks for these details:
+
+- E-mail
+- Password
+- Legal name
+- Date of birth
+- Residential address
+
+Login on Longfu88 is the same as on a computer: select Login, then enter the registered e-mail and password. Anyone who forgot the password uses Forgot Password on the login screen, as the login page explains.

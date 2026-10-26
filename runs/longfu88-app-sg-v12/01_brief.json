@@ -1,0 +1,1738 @@
+{
+  "geo": "SG",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu88 app",
+    "Longfu app",
+    "Longfu88 iOS",
+    "Longfu88 Android",
+    "Longfu88 apk",
+    "Longfu88 download",
+    "Longfu88 mobile casino"
+  ],
+  "targets": {
+    "target_body_words": 1135,
+    "competitor_body_words": 1456,
+    "max_body_words": 1456,
+    "tier": "large",
+    "tiers": {
+      "competitors": [
+        759,
+        975,
+        983,
+        1372,
+        1539
+      ],
+      "base": "medium",
+      "tiers": {
+        "small": {
+          "competitors": [
+            759
+          ],
+          "mean": 759,
+          "multiplier": 1.2,
+          "target": 759,
+          "limit": 911
+        },
+        "medium": {
+          "competitors": [
+            975,
+            983
+          ],
+          "mean": 979,
+          "multiplier": 1.2,
+          "target": 979,
+          "limit": 1175
+        },
+        "large": {
+          "competitors": [
+            1372,
+            1539
+          ],
+          "mean": 1456,
+          "multiplier": 1.0,
+          "target": 1456,
+          "limit": 1456,
+          "outlier": false
+        }
+      }
+    },
+    "keyword_targets": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "base_body_words": 1125
+  },
+  "brand": "Longfu88",
+  "knowledge_base": {
+    "id": 576,
+    "title": "longfu88-new"
+  },
+  "intent_summary": "Large brand-subpage written as a reference sheet about the Longfu88 mobile casino in Singapore: the shortcut for Android and iOS, the features in a table, the shortcut versus the browser tab, registration, withdrawals, protection, technical data, the sportsbook, game categories, deposit methods, currencies and languages, fixes, support and a FAQ; no device section and no login section (the registration section carries both). Page voice: compact reference style, a one-line purpose per section, sentences of about 14 words, nouns over verbs; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 App Reference: Mobile Casino Facts for Singapore",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_app.app_information.mobile_access",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 53,
+      "words_max": 67,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 1,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 1
+      },
+      "entities": [
+        {
+          "name": "Mobile Casino",
+          "priority": 10
+        },
+        {
+          "name": "Home Screen Shortcut",
+          "priority": 8
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the browser of a smartphone or tablet on Android and iOS",
+          "priority": 8,
+          "relation": "runs in",
+          "subject": "Mobile Casino"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What the page covers: how the casino is used on a phone or a tablet, how to add it to the home screen on Android and iOS, what works on mobile, account access, safety, troubleshooting and support.",
+      "copywriter_notes": "Open with the keyword \"Longfu88\" as the subject of the first sentence: the casino is used on a smartphone or tablet through its responsive website, on Android and iOS. The phrase \"Longfu88 mobile casino\" stands once, in a sentence that says what the Longfu88 mobile casino is (the responsive website in the phone browser). The phrase \"Longfu app\" stands once, in a sentence that says that players who look for the Longfu app will find the mobile version of the website with a home-screen shortcut (not a store app). State once that the casino is for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics of the page in one sentence (the shortcut, features, shortcut or browser tab, registration, withdrawals, protection, data, sports, currencies, fixes, support) without detail. Do not say or imply that the casino is licensed, legal or approved in Singapore, and do not discuss the licence on this page. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Neutral tone, no promises. Use \"Longfu88\" exactly once, \"Longfu app\" exactly once and \"Longfu88 mobile casino\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b01"
+      ],
+      "words": 60,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 1,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.platforms",
+          "value": [
+            "Android",
+            "iOS",
+            "Mobile web"
+          ]
+        },
+        {
+          "path": "brandinfo_app.app_information.mobile_access",
+          "value": "Responsive Longfu88 website usable on smartphone and tablet browsers."
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_words": {
+        "facts": 19,
+        "connections": 15,
+        "need": 34
+      },
+      "words_base": [
+        53,
+        67
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Mobile Features Reference",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.mobile_access",
+        "brandinfo_app.app_information.features"
+      ],
+      "words_min": 70,
+      "words_max": 90,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Mobile Features",
+          "priority": 10
+        },
+        {
+          "name": "Responsive Website",
+          "priority": 7
+        },
+        {
+          "name": "Sportsbook",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the casino, the sportsbook, the account, deposits, withdrawals and bonuses",
+          "priority": 8,
+          "relation": "gives access to",
+          "subject": "Responsive Website"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What a player reaches from a phone or a tablet: the casino, the sportsbook, account access, deposits, withdrawals and bonuses on a responsive website.",
+      "copywriter_notes": "One lead-in sentence that says the website adapts to smartphone and tablet browsers (responsive), then a TABLE with two columns, feature | what the player can do, and six rows in the order of the Brand Information (casino, sportsbook, account access, deposits, withdrawals, bonuses), each cell a short phrase of 3-6 words. No game names, providers, RTP values, payment method names or bonus amounts here (other sections cover them). Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b02"
+      ],
+      "words": 80,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.mobile_access",
+          "value": "Responsive Longfu88 website usable on smartphone and tablet browsers."
+        },
+        {
+          "path": "brandinfo_app.app_information.features",
+          "value": [
+            "Casino",
+            "Sportsbook",
+            "Account access",
+            "Deposits",
+            "Withdrawals",
+            "Bonuses"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 18,
+        "connections": 15,
+        "need": 33
+      },
+      "words_base": [
+        70,
+        90
+      ],
+      "internal_links": [
+        {
+          "slug": "bonuses",
+          "href": "/bonuses",
+          "label": "Bonuses",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "Longfu88 Download Reference: Shortcut, Not a File",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.mobile_access"
+      ],
+      "words_min": 57,
+      "words_max": 73,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 1,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Home Screen Shortcut",
+          "priority": 10
+        },
+        {
+          "name": "Mobile Browser",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a shortcut of the casino website to the home screen once",
+          "priority": 8,
+          "relation": "adds",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How the casino gets onto a phone: the website opens in the mobile browser and a home-screen shortcut is added in three steps, with no file to install.",
+      "copywriter_notes": "Three or four sentences before the two sub-sections. Say that the casino works in the browser of a smartphone or tablet and that a home-screen shortcut is added once. One sentence says that nobody needs an installation file or an APK because the casino opens in the mobile browser and is added to the home screen as a shortcut (no file and no store listing); where the phrase \"Longfu88 apk\" is used it stands in that sentence. Say that the next two sub-sections give the steps for Android (Chrome) and for iOS (Safari). Do not give a download link, file size or version number. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use \"Longfu88\" exactly once and \"Longfu88 apk\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b03"
+      ],
+      "words": 65,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 1,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.mobile_access",
+          "value": "Responsive Longfu88 website usable on smartphone and tablet browsers."
+        }
+      ],
+      "coverage_words": {
+        "facts": 11,
+        "connections": 15,
+        "need": 26
+      },
+      "words_base": [
+        57,
+        73
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 3,
+      "heading": "Longfu88 Android: Chrome Reference",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.android_installation"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Android",
+          "priority": 10
+        },
+        {
+          "name": "Chrome",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a shortcut of the casino website to the Android home screen",
+          "priority": 8,
+          "relation": "adds",
+          "subject": "Chrome"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The three Android steps: open the site in Chrome, choose Add to Home screen in the browser menu, confirm the shortcut.",
+      "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the three steps in the order of the Brand Information (open the casino website in Chrome; open the browser menu and choose Add to Home screen; confirm the shortcut). Write \"the site\" or \"the casino website\" in the steps instead of the brand name. One closing clause may say that the shortcut then appears among the apps of the phone. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b04"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 1,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.android_installation",
+          "value": [
+            "Open Longfu88 in Chrome.",
+            "Open browser menu and choose Add to Home screen.",
+            "Confirm the shortcut."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 16,
+        "connections": 15,
+        "need": 31
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 3,
+      "heading": "Longfu88 iOS: Safari Reference",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.ios_installation"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "iOS",
+          "priority": 10
+        },
+        {
+          "name": "Safari",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a shortcut of the casino website to the iPhone or iPad home screen",
+          "priority": 8,
+          "relation": "adds",
+          "subject": "Safari"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The three iOS steps: open the site in Safari, tap Share and choose Add to Home Screen, confirm Add.",
+      "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the three steps in the order of the Brand Information (open the casino website in Safari; tap Share and choose Add to Home Screen; confirm Add). Write \"the site\" or \"the casino website\" in the steps instead of the brand name. The lead-in must not repeat the wording of the Android sub-section. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b05"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 1,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.ios_installation",
+          "value": [
+            "Open Longfu88 in Safari.",
+            "Tap Share and choose Add to Home Screen.",
+            "Confirm Add."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 14,
+        "connections": 15,
+        "need": 29
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 2,
+      "heading": "Home Screen Icon Versus Browser Tab",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.mobile_access",
+        "brandinfo_app.app_information.features"
+      ],
+      "words_min": 62,
+      "words_max": 78,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Home Screen Shortcut",
+          "priority": 10
+        },
+        {
+          "name": "Browser Tab",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the same responsive website as the browser tab",
+          "priority": 8,
+          "relation": "opens",
+          "subject": "Home Screen Shortcut"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How the two ways of opening the casino on a phone differ: a one-tap icon from the home screen or a tab in the browser, both on the same website.",
+      "copywriter_notes": "Compare only what the facts allow: both ways open the same responsive website, so the account, deposits, withdrawals and bonuses are the same in both; the shortcut is set up once and gives an icon on the home screen; the browser tab needs no setup. Add one practical tip (the shortcut suits a phone that is used often, the tab suits a device that is used rarely). Do NOT compare speed, battery, storage, notifications, offline use or login convenience: no such data. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b07"
+      ],
+      "words": 70,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.mobile_access",
+          "value": "Responsive Longfu88 website usable on smartphone and tablet browsers."
+        },
+        {
+          "path": "brandinfo_app.app_information.features",
+          "value": [
+            "Casino",
+            "Sportsbook",
+            "Account access",
+            "Deposits",
+            "Withdrawals",
+            "Bonuses"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 19,
+        "connections": 15,
+        "need": 34
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Account Opening and Login Reference",
+      "source": "unique",
+      "covers_clusters": [
+        "k03"
+      ],
+      "kb_refs": [
+        "brandinfo_account.registration.steps",
+        "brandinfo_account.registration.required_details",
+        "brandinfo_account.registration.eligibility"
+      ],
+      "words_min": 75,
+      "words_max": 95,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Registration",
+          "priority": 10
+        },
+        {
+          "name": "Required Details",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Player",
+          "relation": "registers",
+          "object": "with an e-mail address and a password on the registration form",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The five steps of the registration form with the details it asks for.",
+      "copywriter_notes": "One lead-in sentence, then a NUMBERED list with the five steps of the Brand Information in order (write \"the website\" where a step names the brand), then one sentence with the required details (e-mail, password, legal name, date of birth, residential address) and one with the eligibility rules: 18 or over, legally permitted to gamble where the player lives, one personal account per player. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 85,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.registration.steps",
+          "value": [
+            "Open Longfu88 and select Register.",
+            "Enter email and create a password.",
+            "Confirm age and acceptance of Terms and Conditions and Privacy Policy.",
+            "Complete the additional personal details and residential address.",
+            "Select Create Account and complete any requested email confirmation."
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.required_details",
+          "value": [
+            "Email",
+            "Password",
+            "Legal name",
+            "Date of birth",
+            "Residential address"
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.eligibility",
+          "value": [
+            "18+ and of legal gambling age in the relevant jurisdiction.",
+            "Only one personal account per player."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 64,
+        "connections": 15,
+        "need": 79
+      },
+      "words_base": [
+        75,
+        95
+      ],
+      "internal_links": [
+        {
+          "slug": "login",
+          "href": "/login",
+          "label": "Login",
+          "required": false
+        }
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 2,
+      "heading": "Cash-Out Reference for Mobile Players",
+      "source": "unique",
+      "covers_clusters": [
+        "k10"
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.withdrawal_guide",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[2]",
+        "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[3]"
+      ],
+      "words_min": 79,
+      "words_max": 101,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Withdrawal",
+          "priority": 10
+        },
+        {
+          "name": "Cashier",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Player",
+          "relation": "submits",
+          "object": "a withdrawal request in the cashier and waits for casino processing",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The six steps of a withdrawal request from the cashier and how long processing takes.",
+      "copywriter_notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a NUMBERED list with the six steps of the withdrawal guide in the order of the Brand Information (write \"the casino\" or \"the cashier\" where a step names the brand). After the list two sentences: requests are generally processed within three working days; bank transfers may need another 3-5 business days; the operator may request KYC documents before processing. Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. No fees, no limits, no speed promises beyond those sentences. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 90,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_withdrawal.withdrawal_guide",
+          "value": [
+            "Log in to Longfu88 and open the cashier.",
+            "Select Withdrawal and choose a supported destination or payment method.",
+            "Enter the amount and the receiving bank, wallet, or blockchain address.",
+            "Complete identity and payment-method verification if prompted.",
+            "Review the request and confirm submission.",
+            "Wait for casino processing and any bank or network settlement before receiving funds."
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[1]",
+          "value": "Withdrawal requests are generally processed within three working days."
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[2]",
+          "value": "Bank transfers may need another 3–5 business days for settlement."
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.withdrawal_terms[3]",
+          "value": "The operator may request KYC documents before processing payments."
+        }
+      ],
+      "coverage_words": {
+        "facts": 75,
+        "connections": 15,
+        "need": 90
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b09",
+      "level": 2,
+      "heading": "Account Security Reference",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k07"
+      ],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.security",
+        "brandinfo_privacy_policy.terms_conditions.account_terms"
+      ],
+      "words_min": 62,
+      "words_max": 78,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Account Security",
+          "priority": 10
+        },
+        {
+          "name": "Login Credentials",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the login credentials on every device",
+          "priority": 8,
+          "relation": "safeguards",
+          "subject": "Account Holder"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Who protects the account on a phone: the holder keeps the credentials safe, the operator applies technical and organisational safeguards and may suspend activity for verification.",
+      "copywriter_notes": "Lead with the player's own part: the account holder is responsible for safeguarding the login credentials, also on a phone or a tablet. One general tip is allowed (do not share the device unlocked with others). Then the operator's part exactly at the level of detail of the Brand Information: technical and organisational safeguards protect accounts, payments and personal information, and the casino may suspend activity for verification or suspected abuse. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Do not print the contact addresses of the privacy policy. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b09"
+      ],
+      "words": 70,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.security",
+          "value": "Technical and organizational safeguards protect accounts, payments and personal information."
+        },
+        {
+          "path": "brandinfo_privacy_policy.terms_conditions.account_terms",
+          "value": [
+            "The account holder is responsible for safeguarding credentials.",
+            "The operator may suspend activity for verification or suspected abuse."
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 34,
+        "connections": 15,
+        "need": 49
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    },
+    {
+      "id": "b10",
+      "level": 2,
+      "heading": "Technical Data Reference",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_privacy_policy.privacy_policy.data_collected.technical_data",
+        "brandinfo_privacy_policy.privacy_policy.cookies",
+        "brandinfo_privacy_policy.privacy_policy.data_sharing"
+      ],
+      "words_min": 57,
+      "words_max": 73,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Technical Data",
+          "priority": 10
+        },
+        {
+          "name": "Cookies",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Mobile Website",
+          "relation": "collects",
+          "object": "technical data such as the IP address, device data, browser information and cookies",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which technical data the website collects from a phone and what the cookies are for.",
+      "copywriter_notes": "The technical data collected by the website: IP address, device data, browser information and cookies; the cookies are necessary, preference, analytics and marketing cookies that support website functions and measurement; the data may be shared with payment service providers, identity verification providers, technology providers and, when required, regulators and law enforcement. Do not print the contact addresses of the privacy policy. Do not mention two-factor authentication, SMS codes, CAPTCHA, SSL, TLS, encryption, code signing, biometric login or an audit: no such protection is given. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 65,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_collected.technical_data",
+          "value": [
+            "IP address",
+            "Device data",
+            "Browser information",
+            "Cookies"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.cookies",
+          "value": "Necessary, preference, analytics and marketing cookies support website functions and measurement."
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_policy.data_sharing",
+          "value": [
+            "Payment service providers",
+            "Identity verification providers",
+            "Technology providers",
+            "Regulators and law enforcement when required"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 38,
+        "connections": 15,
+        "need": 53
+      },
+      "words_base": [
+        57,
+        73
+      ]
+    },
+    {
+      "id": "b11",
+      "level": 2,
+      "heading": "Sportsbook Reference",
+      "source": "unique",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.live_betting"
+      ],
+      "words_min": 53,
+      "words_max": 67,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Sportsbook",
+          "priority": 10
+        },
+        {
+          "name": "Live Betting",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Live Betting",
+          "relation": "offers",
+          "object": "live odds and in-play markets",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which sports the sportsbook offers and that live betting has live odds and in-play markets.",
+      "copywriter_notes": "The sportsbook is one of the features of the mobile website. One lead-in sentence, then a bulleted list of the sports as given (football, basketball, tennis, badminton, cricket, table tennis, volleyball, esports, virtual football). and one with live betting: live odds and in-play markets. No odds, bonuses, limits or promises of winnings. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 60,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_available",
+          "value": [
+            "Football",
+            "Basketball",
+            "Tennis",
+            "Badminton",
+            "Cricket",
+            "Table tennis",
+            "Volleyball",
+            "Esports",
+            "Virtual football"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.live_betting",
+          "value": {
+            "available": true,
+            "features": [
+              "Live odds",
+              "In-play markets"
+            ]
+          }
+        }
+      ],
+      "coverage_words": {
+        "facts": 16,
+        "connections": 15,
+        "need": 31
+      },
+      "words_base": [
+        53,
+        67
+      ]
+    },
+    {
+      "id": "b12",
+      "level": 2,
+      "heading": "Game Category Reference",
+      "source": "unique",
+      "covers_clusters": [
+        "k08"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Casino Games",
+          "priority": 10
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Player",
+          "relation": "chooses",
+          "object": "among slots, live dealer games, table games, jackpots and other categories in the casino",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Which game categories the casino section of the mobile website offers.",
+      "copywriter_notes": "One lead-in sentence that says that the casino section of the mobile website offers these game categories, then a bulleted list of the categories exactly as in the Brand Information (slots, live dealer games, table games, jackpots, fishing, P2P games, fast games, lottery, crash and instant games). No game names, RTP values, volatility, maximum multipliers or claims that a particular game works on a phone. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_types",
+          "value": [
+            "Slots",
+            "Live dealer games",
+            "Table games",
+            "Jackpots",
+            "Fishing",
+            "P2P games",
+            "Fast games",
+            "Lottery",
+            "Crash & instant games"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 16,
+        "connections": 15,
+        "need": 31
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b13",
+      "level": 2,
+      "heading": "Deposit Method Reference",
+      "source": "unique",
+      "covers_clusters": [
+        "k09"
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.deposit_methods[20].method",
+        "brandinfo_deposit.deposit_methods[20].currencies",
+        "brandinfo_deposit.deposit_methods[20].transaction_speed",
+        "brandinfo_deposit.deposit_methods[21].method",
+        "brandinfo_deposit.deposit_methods[21].currencies",
+        "brandinfo_deposit.deposit_methods[21].transaction_speed",
+        "brandinfo_deposit.deposit_methods[7].method",
+        "brandinfo_deposit.deposit_methods[7].currencies",
+        "brandinfo_deposit.deposit_methods[7].transaction_speed"
+      ],
+      "words_min": 70,
+      "words_max": 90,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Payment Methods",
+          "priority": 10
+        },
+        {
+          "name": "Deposits",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Player",
+          "relation": "pays",
+          "object": "with PayNow, PayNow QR, DBS Bank in Singapore dollars",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "3 payment methods in Singapore dollars with their deposit speed.",
+      "copywriter_notes": "One lead-in sentence that says that the cashier is part of the mobile website, then a TABLE with three columns, method | currency | deposit speed, and 3 rows in this order: PayNow, PayNow QR, DBS Bank (currency SGD and the speed exactly as in the Brand Information). Do not quote any limit, minimum or maximum amount of a payment method and do not convert amounts. Name no other payment methods and no fees. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 80,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_deposit.deposit_methods[20].method",
+          "value": "PayNow"
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[20].currencies",
+          "value": [
+            "SGD"
+          ]
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[20].transaction_speed",
+          "value": "1–2 minutes"
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[21].method",
+          "value": "PayNow QR"
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[21].currencies",
+          "value": [
+            "SGD"
+          ]
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[21].transaction_speed",
+          "value": "1–2 minutes"
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[7].method",
+          "value": "DBS Bank"
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[7].currencies",
+          "value": [
+            "SGD"
+          ]
+        },
+        {
+          "path": "brandinfo_deposit.deposit_methods[7].transaction_speed",
+          "value": "1–2 minutes"
+        }
+      ],
+      "coverage_words": {
+        "facts": 30,
+        "connections": 15,
+        "need": 45
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b14",
+      "level": 2,
+      "heading": "Currency and Language Reference",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.currencies",
+        "brandinfo_general.customer_support.languages"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Currencies",
+          "priority": 10
+        },
+        {
+          "name": "Support Languages",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Casino",
+          "relation": "accepts",
+          "object": "EUR, USD, MYR, THB, SGD and USDT",
+          "priority": 8
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The currencies of the casino and the languages of the support team.",
+      "copywriter_notes": "Name the six currencies exactly as given (EUR, USD, MYR, THB, SGD, USDT) in one sentence and the six support languages (English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese) in another. Do not convert amounts and do not say which currency a player should choose. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use no tracked keyword in the body of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "new"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "MYR",
+            "THB",
+            "SGD",
+            "USDT"
+          ]
+        },
+        {
+          "path": "brandinfo_general.customer_support.languages",
+          "value": [
+            "English",
+            "Malay",
+            "Simplified Chinese",
+            "Thai",
+            "Indonesian",
+            "Vietnamese"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 15,
+        "connections": 15,
+        "need": 30
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b15",
+      "level": 2,
+      "heading": "Problem and Fix Reference",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_general.customer_support.channels"
+      ],
+      "words_min": 62,
+      "words_max": 78,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Mobile Troubleshooting",
+          "priority": 10
+        },
+        {
+          "name": "Customer Support",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "problems that the checks on this page do not solve",
+          "priority": 7,
+          "relation": "helps with",
+          "subject": "Customer Support"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Four common phone problems and the plain fix for each: shortcut missing, page not loading, login failing, still stuck.",
+      "copywriter_notes": "One lead-in sentence, then a bulleted list of four items \"problem: fix\": the shortcut does not appear (repeat the steps in Chrome on Android or in Safari on iOS); the page does not load (reload it and check the internet connection); the login fails (check the e-mail address and use Forgot Password on the login screen); the problem remains (contact support through live chat, 24/7, or by e-mail; do not print the e-mail address here). General wording only, no error codes and no browser-setting instructions presented as casino facts. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b10"
+      ],
+      "words": 70,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.login.password_recovery",
+          "value": [
+            "Choose Forgot Password on the login screen.",
+            "Request a reset link using the registered email.",
+            "Follow the emailed instructions to set a new password."
+          ]
+        },
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 28,
+        "connections": 15,
+        "need": 43
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    },
+    {
+      "id": "b16",
+      "level": 2,
+      "heading": "Support Reference",
+      "source": "unique",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Customer Support",
+          "priority": 10
+        },
+        {
+          "name": "Live Chat",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "mobile and account questions through live chat and e-mail",
+          "priority": 8,
+          "relation": "answers",
+          "subject": "Customer Support"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "How to reach support from a phone: live chat around the clock, e-mail and the languages of the support team.",
+      "copywriter_notes": "Support channels: 24/7 live chat and e-mail. Print the e-mail address exactly as given in the Brand Information. Support languages: English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese. Say which questions go here (the shortcut that does not appear, the page that does not load, login, documents) without response-time promises. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use \"Longfu88\" exactly once, and no other tracked keyword. The e-mail address contains the tracked keyword \"Longfu88\"; it is part of the exact count of this block.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b11"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support",
+          "value": {
+            "channels": [
+              "24/7 live chat",
+              "Email"
+            ],
+            "email": "support@longfu88.com",
+            "languages": [
+              "English",
+              "Malay",
+              "Simplified Chinese",
+              "Thai",
+              "Indonesian",
+              "Vietnamese"
+            ]
+          }
+        }
+      ],
+      "coverage_words": {
+        "facts": 16,
+        "connections": 15,
+        "need": 31
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b17",
+      "level": 2,
+      "heading": "Reference FAQ",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k06"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.platforms",
+        "brandinfo_app.app_information.mobile_access",
+        "brandinfo_general.customer_support.channels",
+        "brandinfo_account.registration.methods",
+        "brandinfo_general.customer_support.languages"
+      ],
+      "words_min": 79,
+      "words_max": 101,
+      "keywords": {
+        "Longfu88": 2,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "entities": [
+        {
+          "name": "Frequently Asked Questions",
+          "priority": 10
+        },
+        {
+          "name": "Mobile Access",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "short answers to the most frequent questions about the casino on a phone",
+          "priority": 6,
+          "relation": "finds",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "6 short questions and answers on the mobile version of the casino.",
+      "copywriter_notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) is there a store app to download (no: the casino opens in the browser and is added to the home screen as a shortcut); (2) which phones work (Android, iOS and the mobile web of smartphones and tablets); (3) whether the shortcut is required (no: the same website opens in a browser tab); (4) how a player opens an account on a phone (by e-mail, with the registration form of the website); (5) which languages support speaks (English, Malay, Simplified Chinese, Thai, Indonesian, Vietnamese); (6) where to turn when something fails (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections of the page in other words and add nothing new. Do not say or imply that a native app, an APK or IPA file, a file download, an app-store listing (Google Play, App Store), a version number, push notifications, fingerprint or Face ID login, an offline mode, an in-app chat, or system requirements (OS versions, storage, memory, internet speed) exist: none of them is given. Mobile access is the responsive website in the browser of a smartphone or a tablet, plus a home-screen shortcut. Use \"Longfu88\" exactly twice, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "list"
+      ],
+      "variant_origin": [
+        "b12"
+      ],
+      "words": 90,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu88 app": 0,
+        "Longfu app": 0,
+        "Longfu88 iOS": 0,
+        "Longfu88 Android": 0,
+        "Longfu88 apk": 0,
+        "Longfu88 download": 0,
+        "Longfu88 mobile casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.platforms",
+          "value": [
+            "Android",
+            "iOS",
+            "Mobile web"
+          ]
+        },
+        {
+          "path": "brandinfo_app.app_information.mobile_access",
+          "value": "Responsive Longfu88 website usable on smartphone and tablet browsers."
+        },
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email"
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.methods",
+          "value": [
+            "Email registration"
+          ]
+        },
+        {
+          "path": "brandinfo_general.customer_support.languages",
+          "value": [
+            "English",
+            "Malay",
+            "Simplified Chinese",
+            "Thai",
+            "Indonesian",
+            "Vietnamese"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 27,
+        "connections": 15,
+        "need": 42
+      },
+      "words_base": [
+        79,
+        101
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [
+    {
+      "id": "b08",
+      "heading": "Cash-Out Reference for Mobile Players",
+      "facts": 75,
+      "connections": 15,
+      "need": 90,
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        79,
+        101
+      ]
+    }
+  ],
+  "page_type": "brand-subpage",
+  "skipped_clusters": [],
+  "variant": {
+    "id": "v12",
+    "name": "Reference sheet (large, tables)",
+    "base_run": "longfu88-app-sg",
+    "angle": "A reader who wants a compact reference with tables and short sections.",
+    "tier": "large"
+  },
+  "site_pages": [
+    "bonuses",
+    "login"
+  ]
+}

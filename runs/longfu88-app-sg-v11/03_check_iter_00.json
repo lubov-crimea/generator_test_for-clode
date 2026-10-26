@@ -1,0 +1,54 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1067,
+    "max_body_words": 1456,
+    "target_body_words": 1090,
+    "keywords_total": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": [
+      {
+        "check": "consistency",
+        "problem": "The sentence 'Replies come in English, Malay, ... whichever suits the player' goes beyond the Brand Information: the knowledge base only lists the support languages of the team and does not promise replies in the language of the player.",
+        "fix": "State only that the support team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese; keep the e-mail address, 24/7 live chat and the question types, add no response promise."
+      }
+    ]
+  },
+  "missing_data": []
+}

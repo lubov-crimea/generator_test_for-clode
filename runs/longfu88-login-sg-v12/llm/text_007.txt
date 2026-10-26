@@ -1,0 +1,6 @@
+Mobile access works through the browser. Longfu88 is a responsive website that adapts to smartphone and tablet screens, and the login on a phone is the same as on a computer: the registered e-mail and password. A home screen shortcut puts the site among the other icons of the device, and each platform has its own short route:
+
+- Android: open the site in Chrome, open the browser menu, choose Add to Home screen and confirm the shortcut.
+- iOS: open the site in Safari, tap Share, choose Add to Home Screen and confirm Add.
+
+Both routes take three steps, and the shortcut leads to the same website as the browser does.

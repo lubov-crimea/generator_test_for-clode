@@ -1,0 +1,62 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Login and Account Guide for Malaysia",
+      "text": "Longfu88 lets a player log in to the player account with the e-mail address and password chosen at registration. The casino is for players aged 18 or over, and this page is for players from Malaysia. It covers registration, login, password reset, documents and support.",
+      "version": 1,
+      "history": []
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Open the Account First",
+      "text": "The Longfu88 register process is done by e-mail, in five steps:\n\n1. Open the website and select Register.\n2. Enter the e-mail and create a password.\n3. Confirm age and accept the Terms and Conditions and Privacy Policy.\n4. Complete the additional personal details and residential address.\n5. Select Create Account and complete any requested e-mail confirmation.\n\nRegistration requires an e-mail, password, legal name, date of birth and residential address. Players must be 18 or over and of legal gambling age in the relevant jurisdiction, with one personal account per player.",
+      "version": 1,
+      "history": []
+    },
+    "b03": {
+      "id": "b03",
+      "level": 2,
+      "heading": "Then Log In",
+      "text": "The Longfu login works with the registered e-mail and password only, and the account holder is responsible for safeguarding these credentials. Access takes three steps:\n\n1. Select Login on the website.\n2. Enter the registered e-mail and password on the login screen.\n3. Complete any security check and access the account.\n\nA forgotten password is covered right after the steps.",
+      "version": 1,
+      "history": []
+    },
+    "b04": {
+      "id": "b04",
+      "level": 3,
+      "heading": "Lost Password",
+      "text": "A player who forgot the password requests a reset link to the registered e-mail, in three steps:\n\n1. Choose Forgot Password on the login screen.\n2. Request a reset link using the registered e-mail.\n3. Follow the e-mailed instructions to set a new password.\n\nWithout access to that mailbox, contact support.",
+      "version": 1,
+      "history": []
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Documents the Casino May Ask For",
+      "text": "The casino may ask for account verification before a withdrawal, during an account review and for unusual or high-value transactions.\n\n| Type | Accepted documents |\n|---|---|\n| Identity | Passport, national identity card, driving licence |\n| Address | Utility bill, bank statement |\n| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |\n| Source of funds (when requested) | Proof of income, bank statements, other supporting financial documents |\n\nReview of a complete document set normally takes up to 10 days.",
+      "version": 1,
+      "history": []
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Where to Get Help",
+      "text": "Customer support answers account questions such as login failures, reset e-mails that do not arrive and document uploads through 24/7 live chat and e-mail at support@longfu88.com. The team works in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.",
+      "version": 1,
+      "history": []
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Beginner FAQ",
+      "text": "- **What does registration ask for?** E-mail, password, legal name, date of birth and residential address.\n- **How to log in?** A Longfu88 casino login takes the registered e-mail and password.\n- **Forgot the password?** Request a reset link with the registered e-mail.\n- **Can a player hold two accounts?** No, one personal account per player.\n- **Where to turn if login fails?** Customer support at Longfu88, via 24/7 live chat or e-mail.",
+      "version": 1,
+      "history": []
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Program lojalnościowy Boomerang nagradza grę o prawdziwe pieniądze na slotach punktami Boomerang Points (BP). Liczą się dwa osobne wskaźniki: suma wszystkich zdobytych punktów decyduje o randze, a punkty do wydania gracz przeznacza na otwieranie skrzyń z nagrodami, co nie obniża rangi. Im wyższa ranga, tym więcej BP gracz otrzymuje za każde 10 € stawki na slotach:
+
+| Ranga | Wymagane BP | BP za 10 € stawki na slotach |
+|---|---|---|
+| Scout | 0 | 100 |
+| Shaman | 25 000 | 150 |
+| Chief | 150 000 | 200 |
+| Emperor | 1 500 000 | 300 |
+| Legend | 10 000 000 | 400 |
+| Inca | 60 000 000 | 500 |
+
+Punkty to jednak nie wszystko. W Incaspin działają też elementy grywalizacji: Wheel of Fortune z losowanymi nagrodami, Points Store, w którym zdobyte BP można wymienić na nagrody, oraz misje dzienne, tygodniowe i bezterminowe, a za te ostatnie można zdobyć do 100 000 BP. Skrzynie z nagrodami zawierają premie gotówkowe, darmowe spiny i punkty BP. Co ważne dla wypłat, ranga lojalnościowa może zwiększać limity wypłat, więc program Incaspin ma znaczenie także poza samym zbieraniem punktów.

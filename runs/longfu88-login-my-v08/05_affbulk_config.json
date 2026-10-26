@@ -1,0 +1,36 @@
+{
+ "website_id": 4971,
+ "domain": "longfu88-casino.live",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Account Handbook: Login, Register, Verify",
+  "description": "Longfu88 account handbook for Malaysian players: login, registration, password reset, verification, security, settings, mobile access and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Malaysia, MY, Malaysian players"
+ },
+ "hero": {
+  "label": "Everything about the Longfu88 account in one handbook",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Log In",
+  "Join Now",
+  "Play Now",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

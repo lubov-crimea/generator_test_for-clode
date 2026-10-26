@@ -1,0 +1,25 @@
+=== b12 ===
+Bagi pemain dari Indonesia, QRIS, DANA, OVO Wallet, Mandiri, BNI, dan BCA dalam IDR menjadi pilihan lokal, di samping kartu, transfer bank, kripto, e-wallet, dan metode Eropa.
+
+| Jenis metode | Contoh | Mata uang |
+|---|---|---|
+| Bank dan dompet lokal | QRIS, DANA, OVO Wallet, Mandiri, BNI, BCA | IDR |
+| Kartu | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Transfer bank | Bank Transfer | IDR, MYR, VND |
+| Kripto | Bitcoin, Ethereum, Litecoin, USDT di jaringan TRC20, ERC20, dan BEP20, USDC, serta aset kripto lain | BTC, ETH, LTC, USDT, USDC, BCH, XRP, ADA |
+| E-wallet | Neteller, Skrill | EUR |
+| Metode Eropa | Sofort, Giropay | EUR |
+
+Batas umum untuk setiap metode adalah minimum €10 dan maksimum €5.000 per transaksi, dengan kredit masuk dalam 1-2 menit. Kasino tidak memungut biaya pemrosesan, tetapi penyedia pembayaran atau jaringan blockchain dapat mengenakan biaya, dan batas dapat berbeda menurut negara, mata uang, dan metode. Deposit lewat Neteller dan Skrill dikecualikan dari bonus selamat datang. Alurnya enam langkah: masuk ke akun Longfu88, buka kasir dan pilih Deposit, pilih metode beserta mata uang atau jaringan blockchain yang didukung, isi jumlah dan data pembayaran, konfirmasi serta otorisasi transaksi sesuai petunjuk penyedia, lalu tunggu dana masuk ke saldo yang dapat dimainkan.
+
+=== b13 ===
+Penarikan di Longfu88 tersedia lewat Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT di tiga jaringan (TRC20, ERC20, BEP20), Touch'n Go, DANA, MoMo, DBS Bank, dan Online Banking, dengan minimum €20 dan maksimum €5.000. Untuk Lngfu88 withdrawal time, penarikan kartu, kripto, dan dompet digital memerlukan 1 sampai 3 hari kerja. Transfer bank memerlukan hingga 3 hari kerja untuk pemrosesan kasino, ditambah 3 sampai 5 hari kerja untuk pengiriman bank, dan permintaan umumnya diproses dalam tiga hari kerja.
+
+Kasino tidak memungut biaya penarikan standar, tetapi biaya penyedia dan blockchain dapat berlaku. Komisi 10% (minimum €2,25) dapat dikenakan bila turnover di bawah jumlah deposit, karena turnover minimum 1x deposit dapat berlaku sebelum penarikan. Sebagian transaksi yang didanai kartu atau transfer bank dapat dikenai 15%. Pemeriksaan identitas dapat menunda pembayaran. Langkah penarikan:
+
+1. Masuk ke akun dan buka kasir.
+2. Pilih Withdrawal dan metode atau tujuan yang didukung.
+3. Isi jumlah serta rekening bank, dompet, atau alamat blockchain penerima.
+4. Selesaikan verifikasi identitas dan metode pembayaran bila diminta.
+5. Periksa permintaan dan konfirmasikan pengiriman.
+6. Tunggu pemrosesan kasino serta penyelesaian bank atau jaringan sebelum dana diterima.

@@ -1,0 +1,14 @@
+=== b09 ===
+Documents are requested only when a trigger occurs: account verification is requested before a withdrawal, during an account review, for unusual or high-value transactions and after changes to account or payment details. Longfu88 accepts documents in four groups:
+
+| Document type | Accepted documents |
+|---|---|
+| Identity | Passport, national identity card, driving licence |
+| Address | Utility bill, bank statement |
+| Payment method | Bank or card ownership evidence, digital wallet ownership evidence |
+| Source of funds (only when requested) | Proof of income, bank statements, other supporting financial documents |
+
+Documents are due up to 30 days after the request, and a complete set is normally reviewed within up to 10 days. The procedure is to upload legible, current documents that match the account profile, complete a telephone or face verification if one is requested, and wait for approval before a withdrawal.
+
+=== b10 ===
+A withdrawal is the point at which the account is checked in practice, because identity and payment checks may be required for access to withdrawals. Payments may be held until identification, payment ownership and any required source-of-funds checks are complete, so the checks come before the money, not after it. Withdrawal requests are generally processed within three working days. At Longfu88 the payment method used must also belong to the player, since the terms do not allow third-party payment methods.

@@ -1,0 +1,96 @@
+# Longfu88 Offers for Crypto and Live Casino Players
+
+Longfu88 runs bonuses that start with the Casino Welcome Bonus for new players: 188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings. Players looking for the Longfu bonus find the welcome offer, weekly and weekend reloads, cashback and a rewards area here, and the Longfu88 promotions follow topic by topic. The bonuses are for players aged 18 or over at Longfu88, and the page is written for Malaysia.
+
+## Offer Families Compared
+
+=== b02 ===
+Longfu88 sorts its casino bonuses into four families, and each family answers a different way of playing, from a first deposit to regular rewards for ongoing activity.
+
+- Welcome offers: Casino Welcome Bonus, Live Casino Welcome Bonus, Casino Crypto Welcome Bonus
+- Reload offers: Casino Weekend Reload, Casino Weekly Reload
+- Cashback: Casino Weekly Cashback, Live Casino Cashback
+- Rebates: Unlimited Casino Rebate, plus the rebates for other game categories
+
+Every offer has its own terms and is activated in My Bonuses, so the sections below give the amounts and conditions family by family.
+
+## Welcome Bonus Options: Casino, Live and Crypto
+
+=== b03 ===
+The Longfu88 welcome bonus is the Casino Welcome Bonus, a first-deposit offer of 188% up to €2,088 plus 18 Free Spins for new registered players, limited to one welcome offer per account. At Longfu88 it rewards the first qualifying deposit with a match bonus and free spins, while the Casino Crypto Welcome Bonus is an alternative first-deposit offer for crypto.
+
+| Offer | Reward | Minimum deposit | Validity |
+|---|---|---|---|
+| Casino Welcome Bonus | 188% up to €2,088 + 18 Free Spins | €50 | 10 days from activation |
+| Live Casino Welcome Bonus | 125% up to €888 | €30 | 7 days |
+| Casino Crypto Welcome Bonus | 188% up to 2,888 USDT | 50 USDT | 10 days |
+
+## Claiming a Welcome Offer
+
+=== b04 ===
+Claiming the Casino Welcome Bonus at Longfu88 follows four steps, and the order matters because the activation comes before the first wager.
+
+1. Register an account and complete the required personal details.
+2. Make the first qualifying deposit.
+3. Activate the Casino Welcome Bonus in My Bonuses before placing any wagers.
+4. Play eligible casino games and complete the wagering before expiry.
+
+No Longfu88 promo code is listed for this offer, so the player activates it in My Bonuses, and the 10 days of validity run from activation.
+
+## Crypto Bonuses and Eligible Coins
+
+=== b05 ===
+The crypto side of Longfu88 starts with the Casino Crypto Welcome Bonus, which accepts a first qualifying crypto deposit of at least 50 USDT and rewards it with 188% up to 2,888 USDT. Wagering is 40x deposit plus bonus, the offer is valid 10 days, and the maximum bonus wager is 5 USDT per spin. It is an alternative to the Casino Welcome Bonus.
+
+| Offer | Reward | Minimum deposit | Wagering |
+|---|---|---|---|
+| Casino Weekly Crypto Reload | 60% up to 1,000 USDT | 20 USDT | 30x deposit plus bonus |
+| Casino Weekend Crypto Reload | 75% up to 750 USDT + 100 Free Spins | 20 USDT | 30x deposit plus bonus; 40x Free Spins winnings |
+
+The eligible cryptocurrencies are USDT, BTC, BCH, LTC, ETH, XRP and USDC.
+
+## Live Casino Bonuses
+
+=== b06 ===
+The Live Casino Welcome Bonus suits new players who start with live casino games. At Longfu88 it gives 125% up to €888 on the first qualifying deposit, with a minimum deposit of €30, wagering of 30x the deposit plus bonus, a validity of 7 days and a maximum bet of €25. The Live Casino Cashback returns 25% up to €850, with wagering of 10x the credited cashback, and is based on real-money stakes less winnings in eligible Live Casino games. Alongside it, the Unlimited Live Casino Rebate adds 1.0%, credited daily.
+
+## Wagering and Terms of the Main Offer
+
+=== b07 ===
+| Term | Value |
+|---|---|
+| Wagering | 25x the deposit plus bonus amount |
+| Free Spins wagering | 40x Free Spins winnings |
+| Validity | 10 days from activation |
+| Maximum bet | €22.5 per spin |
+| Maximum cashout | 5x the initial bonus amount |
+
+These terms belong to the Casino Welcome Bonus at Longfu88, where the wagering requirement applies to the deposit plus the bonus amount and separately to Free Spins winnings. Four rules can cost the bonus: Neteller and Skrill deposits are excluded, only one promotional bonus may be active at a time, and a withdrawal request before claiming or during the bonus can void eligibility. Longfu88 may also ask for verification before promotional winnings are paid.
+
+## Reload and Free Spin Offers in Euro
+
+=== b08 ===
+The euro offers at Longfu88 reward repeat deposits during the week or at the weekend, and the Weekly Reload pays in Free Spins that carry their own wagering on the winnings.
+
+| Offer | Reward | Minimum deposit | Wagering |
+|---|---|---|---|
+| Casino Weekly Reload | 50 Free Spins | €30 | 40x winnings from Free Spins |
+| Casino Weekend Reload | Up to €3,360 + 50 Free Spins | €50 | 30x deposit plus bonus; 40x Free Spins winnings |
+| Casino Double Fortune: One-Day Reload Special | 50% up to €500 | €30 | 30x deposit plus bonus |
+
+The weekly and weekend offers are valid for 7 days, while the Double Fortune special lasts 24 hours. The stake while wagering bonus funds is limited to €5 per spin.
+
+## Weekly Cashback and Rebates
+
+=== b09 ===
+The Casino Weekly Cashback returns up to 10% of weekly net casino losses, capped at €6,988. Net losses are calculated from Monday 00:00 UTC through Sunday 23:59 UTC, and the minimum cashback is €4.5. Players opt in for a four-week cycle, and the cashback carries wagering of 10x before withdrawal. At Longfu88, the Unlimited Casino Rebate of 0.9% is credited daily with 1x wagering on the credited rebate. Only real-money bets count towards both, while bonus funds are excluded, which keeps the calculation tied to the player's own stakes.
+
+## Crypto and Live Offers FAQ
+
+=== b10 ===
+- **Do crypto deposits have a welcome offer?** Yes, the Casino Crypto Welcome Bonus gives 188% up to 2,888 USDT.
+- **Does live casino have its own welcome offer?** Yes, the Live Casino Welcome Bonus gives 125% up to €888.
+- **Which payment methods are excluded from the welcome bonus?** Deposits made with Neteller and Skrill are excluded.
+- **What is the minimum first deposit for the welcome bonus?** The minimum first deposit is €50.
+- **How is the weekly cashback claimed?** The player opts in for a four-week cycle, then activates the credited cashback in My Bonuses.
+- **Where can a bonus question go?** Customer support at Longfu88 answers through 24/7 live chat or e-mail.

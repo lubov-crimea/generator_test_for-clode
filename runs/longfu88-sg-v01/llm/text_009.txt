@@ -1,0 +1,23 @@
+Deposit methods form six groups:
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| European banking | Sofort, Giropay | EUR |
+| Electronic wallets | Neteller, Skrill | EUR |
+| Crypto | Bitcoin, Litecoin, Ethereum, USDC, USDT on TRC20, ERC20 and BEP20 | USDT, USDC, ETH, BTC, LTC |
+| Bank transfer | Bank Transfer | MYR, IDR, VND |
+| Cards | Visa, Mastercard | IDR, SGD, VND, MYR |
+| Singapore spotlight | OCBC Bank, DBS Bank, PayNow QR, PayNow | SGD |
+
+Every method accepts at least €10 and at most €5,000 per transaction, and deposits credit in 1-2 minutes. The casino adds no processing fee, though providers and blockchain networks might. Exact limits depend on country, currency and method. The route runs through the cashier: choose Deposit, pick a method, enter the amount and follow the provider's confirmation. Neteller and Skrill deposits are shut out of the welcome bonus.
+
+Withdrawals start at €20 and top out at €5,000. Destinations include Mastercard, Visa, MoMo, Touch'n Go, DANA, Online Banking, DBS Bank, Bank Transfer, Bitcoin, Ethereum, Litecoin and USDT over three networks. The process runs in six numbered steps:
+
+1. Begin on Longfu88 by signing in, then enter the cashier.
+2. Select Withdrawal and a supported route.
+3. Key in the sum, plus the account, wallet or chain address to receive it.
+4. Prove who owns the account and the payment method, where the casino asks.
+5. Wait while the request is reviewed.
+6. Receive the funds after the casino, bank or network settles the request.
+
+Lngfu88 withdrawal time runs from 1 to 3 business days for cards, crypto and wallets, and requests are generally cleared within three working days. A bank transfer is handled by the casino in at most 3 business days, after which the bank adds 3 to 5 more. The casino charges no standard withdrawal fee, although provider and blockchain fees may be added. Turnover smaller than the sum deposited brings a 10% commission, minimum €2.25, and a prior 1x turnover on the deposit can be a condition. Certain transactions funded through a card or Bank Transfer can cost 15%. Pending ID checks can delay a payout.

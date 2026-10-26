@@ -1,0 +1,451 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Casino Login and the Life of Your Account",
+      "text": "Longfu88 accounts open with two choices made at sign-up, a password and an address for e-mail, and both are typed again on each return. This guide is written with readers in Singapore in mind, and admission to the casino starts at age 18. Sections follow the order in which an account is met: sign-up, identity checks, logging in, mobile access, terms of the casino, VIP tiers, time away and support. All of it builds on one action, a registered member signing in with the pair.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "intro-diversify",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Stage 1: Longfu88 Register and Open the Account",
+      "text": "Registration is the first stage, and Longfu88 takes new players through e-mail sign-up alone. Five steps lead to a finished account:\n\n1. Begin on the homepage with the Register button.\n2. Supply an e-mail address and invent a password.\n3. Confirm age, then accept the Terms and Conditions together with the Privacy Policy.\n4. Fill in the rest of the personal details and the street address.\n5. Finish with Create Account and confirm the e-mail if asked.\n\nFive items fill the form: a name as it appears legally, a birth date, the e-mail, a password and a home address. Admission is for adults only, 18 or over and old enough to gamble legally in the player's jurisdiction, and each person may open just one personal account. Signing up also unlocks the welcome offer. Named the Casino Welcome Bonus, it gives 188% on deposits up to €2,088 along with 18 free spins, with €50 as the smallest first deposit, and the terms are set out on the bonus page.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b03": {
+      "id": "b03",
+      "level": 2,
+      "heading": "Stage 2: Proving Who You Are",
+      "text": "Longfu88 asks for proof of identity only when something triggers it: a withdrawal, an account review, a transaction out of the ordinary in size or kind, or an update to the profile or the payment details. Four groups of documents are used:\n\n- Identity: a national identity card is accepted, and so are a driving licence and a passport.\n- Address: a bank statement stands in for a utility bill, and either will do.\n- Payment method: documents showing that the player owns the bank account, card or digital wallet used.\n- Source of funds: income proof, bank statements or other financial papers, on request only.\n\nUp to 30 days are given for sending the documents from the date of the request, while a full set normally needs up to 10 days for review. Four steps follow:\n\n1. Find the request in the account, or follow the instructions from support.\n2. Upload readable, recent documents that fit the account profile.\n3. Complete a telephone or face verification too, if asked.\n4. Wait for approval before attempting a withdrawal or anything else restricted.\n\nDeposits, withdrawals and ongoing account monitoring can all trigger a check. A failed one can mean a refused transaction, a restricted account or withdrawals held pending compliance. Each check is thus tied to an event.",
+      "version": 6,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Replace the closing sentence with a differently built short summary, for example 'So the checks are tied to specific events on the account.' Keep everything else."
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b04": {
+      "id": "b04",
+      "level": 2,
+      "heading": "Stage 3: Logging In",
+      "text": "Longfu88 gives one way into the account: e-mail plus password. The login screen is where the Longfu88 login happens, and a Longfu login passes through three steps:\n\n1. The website's Login option is chosen first.\n2. Second, the password is typed in beside the e-mail given at registration.\n3. Any security check that appears is cleared, and the account opens.\n\nOnly the details set at sign-up are needed to log in, nothing more at all, and any security check that is requested appears before the account itself is shown.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "Change the opening to a different construction ('With the account open, Longfu88 offers a single way in: e-mail and password.') and end with 'The details set at registration are all that logging in requires.' Keep keyword counts."
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b05": {
+      "id": "b05",
+      "level": 3,
+      "heading": "Recovering a Forgotten Password",
+      "text": "Losing a password does not end access, because Longfu88 lets a new one be set by e-mail:\n\n1. First pick Forgot Password, an option of the login screen.\n2. A reset link addressed to the registered mailbox is requested.\n3. Follow the instructions in the e-mail to set a new password.\n\nThe link goes to that address, so the mailbox is the key to the process. When it cannot be opened, support is the contact, whose channels are listed lower down.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b06": {
+      "id": "b06",
+      "level": 3,
+      "heading": "When Access Fails",
+      "text": "Trouble signing in typically traces back to ordinary causes. Typos come first: the e-mail must be entered precisely as it was registered, and the keyboard layout and the Caps Lock key deserve a look. Where the password is lost, the reset described above applies. Another possibility is an account review, since Longfu88 is allowed to suspend activity pending verification or over suspected abuse, so access may wait until verification is done. Support is the right contact then, by e-mail or through its round-the-clock live chat (24/7).",
+      "version": 7,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Protecting the Credentials and the Account",
+      "text": "Guarding the login details is the job of the account holder, because the only things that open the account are the password chosen at registration and the matching e-mail address. Longfu88 adds technical and organisational measures of its own, protecting accounts, payments and personal information. The operator can also place activity on pause wherever abuse is suspected or a verification has not yet been completed, and an account may stay paused until that is resolved. Protection is a joint effort: the player looks after the credentials, the operator runs the safeguards.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "End with 'The work of protection is thus shared between the player and the operator.'"
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "Stage 4: The First Payout",
+      "text": "A payout request changes how closely the account is examined. Withdrawals and promotional winnings may stay out of reach until identity and payment checks are passed, and a payment may be held until the player is identified, the method of payment is confirmed to be in the player's name and, if required, the source of funds is confirmed. A Longfu88 withdrawal therefore waits for those steps. As a rule, requests are processed in three working days, and bank transfers settle after another 3–5 business days. Before any payment is processed, KYC documents can additionally be asked for. Another rule is ownership: only the player's own payment methods may be used, and a method of a third party is not allowed. So a payout depends on finished checks and a method held in the player's name.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "End with 'The payout therefore rests on completed checks and on a payment method in the player's own name.'"
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "Using the Account on a Phone",
+      "text": "Phone use goes through the browser. Longfu88 runs as a responsive website adjusting to smartphone and tablet screens, so signing in from a handset takes the same registered e-mail and password as on a desktop. A home-screen shortcut is the extra: it places the site beside the other icons, and each platform has its own route:\n\n- Android: Chrome opens the site, then the browser menu lists Add to Home screen as an entry, and approving the shortcut completes the setup.\n- iOS: Safari opens the site, Share gets tapped, then the entry named Add to Home Screen is selected and Add confirms it.\n\nBoth routes lead to the same website that the browser opens.",
+      "version": 7,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b10": {
+      "id": "b10",
+      "level": 2,
+      "heading": "Stage 5: Inactivity, Complaints and Changes of the Terms",
+      "text": "Once the account is in regular use, three rules of the terms start to matter. The first concerns inactivity: prolonged inactivity may trigger an account review or closure under the applicable terms. The second concerns disagreements, since a player who wants a dispute or an account decision reviewed contacts customer support and asks for that review. Last, Longfu88 may modify promotional and contractual terms and publish updates to the site, so the terms are worth rereading from time to time. Together, the three rules cover a quiet account, a disagreement and a revised term.",
+      "version": 1,
+      "history": []
+    },
+    "b11": {
+      "id": "b11",
+      "level": 2,
+      "heading": "Stage 6: Moving Up the VIP Levels",
+      "text": "Regular play with real money lifts the account up a ladder. The five tiers of the VIP programme at Longfu88 run from Bronze up through Silver and Gold to Platinum and Diamond. VIP points accrue from eligible play for real money, and they open numbered reward levels. High tiers that qualify get a personal VIP manager, along with raised withdrawal limits, VIP cashback and personalised offers. How big a reward or a withdrawal limit is depends on the currency as well as on VIP level, and benefits based on level and eligibility may be changed by the programme rules. The ladder thus tracks eligible play, and its details can change.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "End with 'The scale, then, follows eligible play, and its details can change.'"
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b12": {
+      "id": "b12",
+      "level": 2,
+      "heading": "Stage 7: Pausing or Closing the Account",
+      "text": "Stopping is the final stage of an account's life. The age minimum is 18, and play is meant only where gambling is lawful. A player who needs time away or wants the account ended turns to customer support, where the request is either self-exclusion or closing the account, and Longfu88 may then restrict access and gambling for the period agreed. Four steps make up the process:\n\n1. Message support and name the request, whether self-exclusion or closure.\n2. Check the account details with support and agree the exclusion terms preferred.\n3. Let the casino limit or shut down access.\n4. Look for independent help where suitable.\n\nIndependent organisations also help: Gamblers Anonymous, along with GamCare and Gambling Therapy. A player can use self-assessment questions to check whether gambling-related harm may be present, and that is a practical first step before contacting support. In short, a single message to support starts the whole process.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": 1,
+          "fixes": [
+            "End with 'Stopping, then, begins with a single contact to support.'"
+          ]
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b13": {
+      "id": "b13",
+      "level": 2,
+      "heading": "Support at Every Stage",
+      "text": "Support is the next stop if any earlier stage stalls. A live chat is on duty 24/7, and the mailbox for e-mail is support@longfu88.com. Questions on accounts, logins and verification are handled by both channels, such as a login that fails, a missing reset e-mail or a document upload. The team communicates in Thai, English, Malay, Vietnamese, Simplified Chinese and Indonesian.",
+      "version": 3,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b14": {
+      "id": "b14",
+      "level": 2,
+      "heading": "Account Lifecycle FAQ",
+      "text": "- **What does registration ask for?** Registration at Longfu88 needs the pair of e-mail address and password, plus a legal name, a residential address and a birth date.\n- **How is a login done?** The login screen takes the registered e-mail together with the password.\n- **What should be done after forgetting the password?** The registered e-mail receives a reset link once it is requested.\n- **Which documents prove identity?** A national identity card, a driving licence or a passport.\n- **How quickly are withdrawals handled?** Processing generally takes three working days from the request.\n- **What does long inactivity lead to?** To an account review or closure, as the applicable terms provide.\n- **How does account closure work?** Closure is requested by the player through customer support.\n- **Where can help be found if login keeps failing?** Customer support, through the live chat open 24/7 or through e-mail.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    }
+  }
+}

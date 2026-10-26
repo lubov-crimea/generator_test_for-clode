@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-25T15:33:52",
+    "blocks": 8,
+    "variant": "v03"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-25T15:48:53",
+    "iteration": 0,
+    "regenerated": 8
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-25T15:50:03",
+    "iteration": 1,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-25T17:36:47",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-app-sg-v03.txt"
+  }
+}

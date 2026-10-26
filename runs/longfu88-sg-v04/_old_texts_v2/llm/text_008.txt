@@ -1,0 +1,12 @@
+The VIP programme runs on points. VIP points come from eligible real-money play and unlock numbered reward levels, 25 in total, which are grouped into the tiers Bronze, Silver, Gold, Platinum and Diamond. Each level carries its own reward, cashback percentage and withdrawal limit, as the selected levels show:
+
+| Level | Points | Reward | Cashback | Withdrawal limit |
+|---|---|---|---|---|
+| 1 | 1 | €9.8 | 1% | €9,800 |
+| 5 | 70 | €24.5 | 2% | €34,300 |
+| 10 | 700 | €147 | 4% | €63,700 |
+| 15 | 2,100 | €392 | 6% | €88,200 |
+| 20 | 3,600 | €637 | 8% | €117,600 |
+| 25 | 5,500 | €980 | 10% | €147,000 |
+
+Higher levels raise withdrawal limits and cashback, and they add personalised offers and, from level 4, a personal VIP manager. The cashback percentages in the table belong to the VIP levels and differ from the tier rates of the weekly cashback. Reward and withdrawal limits may differ by VIP level and currency, and the rules can change, so the current terms are worth checking before a player aims for a particular level.

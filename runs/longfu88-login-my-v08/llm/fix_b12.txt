@@ -1,0 +1,11 @@
+Once a player has logged in, the account gives access to the casino, the sportsbook, account access itself, deposits, withdrawals and bonuses. A short pointer is enough here: the casino side is organised into these game categories:
+
+- Slots
+- Live dealer games
+- Table games
+- Jackpots
+- Fishing
+- P2P games
+- Fast games
+- Lottery
+- Crash & instant games

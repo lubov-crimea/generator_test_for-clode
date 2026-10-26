@@ -1,0 +1,13 @@
+=== b04 ===
+La registrazione su Incaspin richiede soltanto un indirizzo e-mail. Il giocatore apre il conto con l'e-mail e una password e dichiara di avere almeno 18 anni, in cinque passaggi che seguono quest'ordine:
+
+1. Aprire incaspin.com e selezionare l'opzione di registrazione.
+2. Inserire un indirizzo e-mail.
+3. Creare una password.
+4. Confermare di avere almeno 18 anni.
+5. Inviare il modulo di registrazione.
+
+Conviene usare un indirizzo e-mail a cui si ha accesso stabile, perché la procedura di recupero della password passa da lì. Ogni persona può avere un solo conto, e il vincolo vale anche per nucleo familiare, indirizzo IP e computer: due iscrizioni dalla stessa casa o dallo stesso dispositivo non sono ammesse. Se Incaspin individua un account doppio, può sospenderlo o chiuderlo e annullare le puntate, i bonus e le vincite collegati. Il limite di età è 18 anni, perciò la conferma al quarto passaggio è una condizione per aprire il conto e non una semplice formalità.
+
+=== b05 ===
+Per entrare nel conto Incaspin servono l'e-mail e la password scelte in fase di iscrizione. Chi dimentica la password usa il link Password dimenticata nella schermata di accesso e segue le istruzioni di reimpostazione ricevute per e-mail. Per proteggere meglio il conto, nelle impostazioni dell'account si può attivare l'autenticazione a due fattori, che affianca alla password un secondo controllo. Una volta dentro, l'area personale raccoglie i dati del profilo e le preferenze di valuta, i metodi di pagamento, la cronologia di gioco e di scommessa, lo stato dei bonus e i limiti di gioco responsabile.

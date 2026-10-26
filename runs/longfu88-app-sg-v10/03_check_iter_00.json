@@ -1,0 +1,54 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1134,
+    "max_body_words": 1456,
+    "target_body_words": 1100,
+    "keywords_total": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [
+      {
+        "check": "consistency",
+        "problem": "The opening sentence repeats the opening of b11 ('The cashier is part of the mobile website, ...').",
+        "fix": "Open b12 with a different sentence, for example one on the withdrawal request itself, keeping the six steps, the processing times and the KYC sentence unchanged."
+      }
+    ],
+    "b13": [],
+    "b14": [],
+    "b15": [],
+    "b16": []
+  },
+  "missing_data": []
+}

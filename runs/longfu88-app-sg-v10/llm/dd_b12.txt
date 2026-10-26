@@ -1,0 +1,10 @@
+Cashing out begins in the cashier on the phone site, and six steps follow the login:
+
+1. Sign in, then go to the cashier.
+2. In Withdrawal, select a supported payment method as the destination.
+3. Specify the amount and the receiving wallet, bank or blockchain address.
+4. Identity verification and payment-method verification follow when requested.
+5. Review the details, then submit.
+6. The player gets the money once the casino has finished with the request and any bank or network involved has settled it.
+
+Requests normally finish within three working days, though bank transfers can take a further 3–5 business days to settle. KYC documents can be requested by the operator before processing.

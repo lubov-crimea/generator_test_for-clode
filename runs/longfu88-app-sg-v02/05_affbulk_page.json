@@ -1,0 +1,122 @@
+{
+ "website": 4967,
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 on Android: Add the Casino Shortcut in Chrome",
+  "description": "How Longfu88 works on Android and iOS: Chrome and Safari home screen steps, shortcut or browser tab, account safety, data collected and support contacts.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Android Casino: Add It to Your Phone in Chrome",
+   "label": "Android first: Chrome steps, iOS steps right below",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Singapore players can open <a href=\"/\">Longfu88</a> on Android and iOS without installing anything, as the site resizes itself to fit the screen. That responsive site, once opened in a phone browser, is the Longfu88 mobile casino. Searches for the Longfu app lead to this same site, plus a home-screen icon as the sole extra. The minimum age is 18. Shortcut steps, safety, data and support follow.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Download: Android Home Screen Shortcut</h2>\n<p>No installation file is part of this process: reaching Longfu88 takes only a smartphone or tablet with a working browser. Since the layout is responsive, phones and tablets share one address and each gets a page that fits its screen. Anyone wondering about a Longfu88 apk can skip the search, because a home-screen icon pointing at the site does the job that a file or store listing would do elsewhere. The icon is only a faster entrance to the pages already online, never a standalone program.</p>\n<p>Android needs just Chrome, and the shortcut is created once, in three steps. After that, one tap on the icon brings up the casino website with no address typing.</p>\n<ol>\n<li>Open Chrome and head to the casino website.</li>\n<li>Use the browser menu to tap Add to Home screen.</li>\n<li>Allow the shortcut to be added.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Longfu88 iOS: Safari Steps for iPhone Owners</h3>\n<p>On iPhone and iPad, Safari takes care of the job. Its Share option creates a shortcut icon leading to the casino, and the sequence mirrors Android with Share instead of the browser menu.</p>\n<ol>\n<li>Open the site with Safari.</li>\n<li>Under Share, pick Add to Home Screen.</li>\n<li>Press Add to complete the shortcut.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Shortcut or Browser Tab</h2>\n<p>Setup is the only real difference between the two ways of opening the casino, since each of them lands on one responsive Longfu88 website, where everything from the casino to the sportsbook, account access, <a href=\"/bonuses\">bonuses</a>, deposits and withdrawals works identically. One round of setup is all a shortcut requires, and its icon then stays put, whereas a plain browser tab can be opened immediately without any preparation at all. Practical advice for choosing: a phone that plays here often suits the shortcut, and a rarely touched device gets by with a tab.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>How the Account Stays Safe</h2>\n<p>At the first layer stands the account holder, whose duty is to keep the login credentials safe and private on every device, a phone or tablet included. One general habit helps: an unlocked phone should not be handed to other people. The operator covers its side too, since Longfu88 applies safeguards that are both technical and organisational to personal information, payments and accounts. Verification checks and suspected abuse are both reasons for which account activity may be suspended. Everyday entry goes through the <a href=\"/login\">login page</a>, which behaves the same from a shortcut as from a browser tab.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Data the Mobile Website Collects</h2>\n<p>Each visit from a phone or tablet leaves some technical data on the site. Browser information, device data, cookies and the IP address are the items collected. Cookies are of four types: analytics, marketing, necessary and preference. They keep website functions running and allow measurement, meaning how pages perform and how visits are counted. Since a shortcut and a browser tab open one and the same website, the same data practices cover both.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Contact Support</h2>\n<p>Customer support deals with questions about the phone version and the account, via e-mail at support@longfu88.com or a live chat open 24/7. Common topics here are a missing shortcut, pages that do not load, login problems and documents. Quick questions fit the chat, longer explanations the e-mail. Support speaks Thai, Vietnamese, Indonesian, Malay, Simplified Chinese and English.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Longfu88 App Questions: Chrome and Safari",
+   "faqs": [
+    {
+     "question": "Is there an app to get from a store?",
+     "answer": "None exists. Players enter through a mobile browser, with an optional home-screen icon as the only addition."
+    },
+    {
+     "question": "What are the steps on Android?",
+     "answer": "In Chrome, the casino website is loaded, the menu entry Add to Home screen gets chosen and the shortcut is confirmed."
+    },
+    {
+     "question": "What are the steps on iOS?",
+     "answer": "In Safari, the site is opened, Share is tapped, the Add to Home Screen entry follows, and Add completes the job."
+    },
+    {
+     "question": "Is the shortcut a must?",
+     "answer": "Not at all, because the same Longfu88 website is reachable from any normal browser tab."
+    },
+    {
+     "question": "Where does help come from?",
+     "answer": "Customer support, reachable around the clock through live chat and also by e-mail."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Get Offer",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

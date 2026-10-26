@@ -1,0 +1,25 @@
+=== b13 ===
+Deposit dikelompokkan menurut jenis metode, dan Indonesia punya jalur lokal sendiri lewat bank dan dompet digital. Batas umum berlaku untuk semua metode: deposit minimum €10, maksimum €5.000 per transaksi, dan dana masuk dalam 1-2 menit.
+
+| Jenis metode | Contoh | Mata uang |
+|---|---|---|
+| Bank dan dompet digital lokal | QRIS, DANA, OVO Wallet, Mandiri, BNI, BCA | IDR |
+| Kartu | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Transfer bank | Transfer bank antarrekening | IDR, MYR, VND |
+| Mata uang kripto | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC, dan lainnya | BTC, ETH, LTC, USDT, USDC |
+| Dompet elektronik | Neteller, Skrill | EUR |
+| Metode Eropa | Sofort, Giropay | EUR |
+
+Kasino tidak memungut biaya pemrosesan deposit, tetapi biaya dari penyedia pembayaran atau jaringan blockchain mungkin berlaku. Batas dapat berbeda menurut negara, mata uang, dan metode, sehingga angka di kasir sebaiknya dicek sebelum transfer. Deposit lewat Neteller dan Skrill tidak ikut dalam bonus selamat datang. Alurnya enam langkah: masuk ke akun Longfu88, buka kasir dan pilih Deposit, pilih metode serta mata uang atau jaringan blockchain yang didukung, isi jumlah dan data pembayaran, setujui transaksi sesuai petunjuk penyedia, lalu tunggu dana tercatat di saldo yang bisa dimainkan.
+
+=== b14 ===
+Penarikan tersedia lewat transfer bank, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT di tiga jaringan (TRC20, ERC20, BEP20), Touch'n Go, DANA, MoMo, DBS Bank, dan Online Banking, dengan minimum €20 dan maksimum €5.000. Prosesnya enam langkah:
+
+1. Masuk ke Longfu88 dan buka kasir.
+2. Pilih Penarikan dan tentukan tujuan atau metode pembayaran.
+3. Isi jumlah serta rekening bank, dompet, atau alamat blockchain penerima.
+4. Selesaikan verifikasi identitas dan metode pembayaran bila diminta.
+5. Periksa permintaan dan konfirmasi pengajuan.
+6. Tunggu pemrosesan kasino dan penyelesaian bank atau jaringan.
+
+Soal waktu proses, penarikan lewat kartu, kripto, dan dompet digital memakan 1 sampai 3 hari kerja, sedangkan transfer bank diproses kasino hingga 3 hari kerja ditambah 3 sampai 5 hari kerja untuk pengiriman bank. Kasino tidak menarik biaya penarikan standar, tetapi biaya penyedia dan blockchain dapat berlaku. Komisi 10% (minimum €2,25) dapat dikenakan bila perputaran lebih kecil dari jumlah deposit, karena perputaran minimal 1x deposit bisa disyaratkan sebelum penarikan, dan 15% pada sebagian transaksi yang didanai kartu atau transfer bank. Pemeriksaan identitas dapat menunda pembayaran.

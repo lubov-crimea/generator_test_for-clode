@@ -1,0 +1,20 @@
+=== b04 ===
+The Longfu login method is e-mail and password, so access depends on the address given at registration. Three steps lead from the website to the account:
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password on the login screen.
+3. Complete any security check and access the account.
+
+A security check, when one is requested, precedes access to the account, so entry follows only once it is completed. A mismatch in the address or the password stops the sign-in at the second step, and the next two sub-sections cover that case.
+
+=== b05 ===
+A player who has forgotten the password can set a new one through the e-mail address registered with the account:
+
+1. Choose Forgot Password on the login screen.
+2. Request a reset link using the registered e-mail.
+3. Follow the e-mailed instructions to set a new password.
+
+A player who no longer has access to the registered mailbox should contact support, whose details are in the support section.
+
+=== b06 ===
+A failed login usually comes from a small mismatch, so the first checks are simple: the e-mail address must be typed exactly as registered, and the keyboard layout and caps lock must be right. If the password is lost, a reset link can be requested with the registered e-mail. The casino may also suspend activity for verification or suspected abuse, and an account review of this kind may delay access until verification is complete. In that case support is available through 24/7 live chat and by e-mail.

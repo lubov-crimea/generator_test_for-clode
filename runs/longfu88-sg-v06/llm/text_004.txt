@@ -1,0 +1,14 @@
+Mobile play works on Android, iOS and mobile web, because the site is responsive and loads in phone and tablet browsers. The Longfu88 app is simply the site version pinned to the home screen, with no app-store listing or APK file behind it. That shortcut launches the casino and sportsbook with one tap, and bonuses, deposits, withdrawals and account access stay within reach.
+
+On Android, Chrome needs four steps:
+
+1. Open Longfu88 in Chrome.
+2. Tap the browser menu button.
+3. Choose Add to Home screen.
+4. Confirm the shortcut.
+
+On iOS, Safari takes three steps:
+
+1. Open Longfu88 in Safari.
+2. Tap Share and select Add to Home Screen.
+3. Confirm with Add.

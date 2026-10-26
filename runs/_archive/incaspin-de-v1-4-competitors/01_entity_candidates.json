@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Android",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "Visa",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "Freispiele",
+    "competitors": 2,
+    "count": 15
+  },
+  {
+    "entity": "Auszahlungen",
+    "competitors": 2,
+    "count": 15
+  },
+  {
+    "entity": "Spiele",
+    "competitors": 2,
+    "count": 14
+  },
+  {
+    "entity": "Spielen",
+    "competitors": 2,
+    "count": 13
+  },
+  {
+    "entity": "Bonus",
+    "competitors": 2,
+    "count": 13
+  },
+  {
+    "entity": "Spieler",
+    "competitors": 2,
+    "count": 11
+  },
+  {
+    "entity": "Slots",
+    "competitors": 2,
+    "count": 10
+  },
+  {
+    "entity": "Willkommenspaket",
+    "competitors": 2,
+    "count": 10
+  },
+  {
+    "entity": "Konto",
+    "competitors": 2,
+    "count": 10
+  },
+  {
+    "entity": "Einzahlungen",
+    "competitors": 2,
+    "count": 9
+  },
+  {
+    "entity": "Aktionen",
+    "competitors": 2,
+    "count": 8
+  },
+  {
+    "entity": "Spiel",
+    "competitors": 2,
+    "count": 8
+  },
+  {
+    "entity": "Auswahl",
+    "competitors": 2,
+    "count": 8
+  },
+  {
+    "entity": "Browser",
+    "competitors": 2,
+    "count": 8
+  },
+  {
+    "entity": "Tobique Gaming Commission",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Freispielen",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Support",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Daten",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Einzahlung",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Evolution",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Verfügung",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Überblick",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Umsatzbedingungen",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Regel",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Jahren",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "E-Mail",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "E-Mail-Adresse",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Limits",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Lobby",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "BTC",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "LTC",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Skrill",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Live-Chat",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Passwort",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Bedingungen",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Boni",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Kassenbereich",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "NetEnt",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Titel",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Multiplikatoren",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Dealer",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Guthaben",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Angebote",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Willkommensbonus",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Crazy Time",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Legasta Technologies SRL",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Name",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Geburtsdatum",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Gewinne",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Woche",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Teil",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Jackpots",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Runden",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Ziel",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Zahlungsmethoden",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Betrag",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Zahlung",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Zeit",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Tablet",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Geld",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Neteller",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Bitcoin",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Chicken Road",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Sicherheitsstandards",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Bonusbedingungen",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Costa Rica",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "CAD",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "CZK",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "AUD",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Die Registrierung",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "AGB",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Adresse",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Jahre",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Einstieg",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Umsatzbedingung",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Red Tiger",
+    "competitors": 2,
+    "count": 2
+  }
+]

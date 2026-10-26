@@ -1,0 +1,201 @@
+{
+ "site": 4964,
+ "domain": "longfu88casino-sg.com",
+ "header_old": [
+  {
+   "id": 19318,
+   "link": "{{rezerv_casino}}",
+   "text": "Promotions",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19319,
+   "link": "{{rezerv_casino}}",
+   "text": "Casino",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19322,
+   "link": "{{rezerv_casino}}",
+   "text": "Live Casino",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19321,
+   "link": "{{rezerv_casino}}",
+   "text": "Sports",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19320,
+   "link": "{{rezerv_casino}}",
+   "text": "Live Betting",
+   "linkStatus": "affiliate",
+   "submenu": []
+  }
+ ],
+ "footer_old": [
+  {
+   "id": 19324,
+   "link": "{{rezerv_casino}}",
+   "text": "Casino",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19323,
+   "link": "{{rezerv_casino}}",
+   "text": "Slots",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19326,
+   "link": "{{rezerv_casino}}",
+   "text": "Live Casino",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19328,
+   "link": "{{rezerv_casino}}",
+   "text": "Promotions",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19325,
+   "link": "{{rezerv_casino}}",
+   "text": "Terms and Conditions",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19329,
+   "link": "{{rezerv_casino}}",
+   "text": "About Us",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19330,
+   "link": "{{rezerv_casino}}",
+   "text": "Help Centre",
+   "linkStatus": "affiliate",
+   "submenu": []
+  },
+  {
+   "id": 19327,
+   "link": "{{rezerv_casino}}",
+   "text": "Responsible Gaming",
+   "linkStatus": "affiliate",
+   "submenu": []
+  }
+ ],
+ "buttons": [
+  {
+   "id": 633423,
+   "variant": "main",
+   "link": "{{rezerv_casino}}",
+   "text": "Register",
+   "linkStatus": "affiliate"
+  },
+  {
+   "id": 633424,
+   "variant": "secondary",
+   "link": "{{rezerv_casino}}",
+   "text": "Login",
+   "linkStatus": "affiliate"
+  }
+ ],
+ "navLinks": [
+  {
+   "text": "Bonuses",
+   "link": "/bonuses",
+   "linkStatus": "internal"
+  },
+  {
+   "text": "Casino",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Live Casino",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Sports",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Login",
+   "link": "/login",
+   "linkStatus": "internal"
+  },
+  {
+   "text": "App",
+   "link": "/app",
+   "linkStatus": "internal"
+  }
+ ],
+ "footer_links": [
+  {
+   "text": "Casino",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Slots",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Live Casino",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Bonuses",
+   "link": "/bonuses",
+   "linkStatus": "internal"
+  },
+  {
+   "text": "Terms and Conditions",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "About Us",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Help Centre",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Responsible Gaming",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  },
+  {
+   "text": "Live Betting",
+   "link": "{{rezerv_casino}}",
+   "linkStatus": "affiliate"
+  }
+ ],
+ "footer_text": "Copyright {{year}} © {{brandName}}",
+ "log": [
+  "header: 'Promotions' -> 'Bonuses'",
+  "footer: 'Promotions' -> 'Bonuses'",
+  "header: added 'Login'",
+  "header: full, 'Live Betting' moved to the footer, added 'App'"
+ ]
+}

@@ -1,0 +1,1 @@
+The supported platforms are Android, iOS and the mobile web, which covers phones and tablets alike. Longfu88 uses one responsive layout that adapts to smartphone and tablet screens. Chrome is the browser of the Android shortcut route and Safari that of the iOS route, and none of these platforms needs an installation file.

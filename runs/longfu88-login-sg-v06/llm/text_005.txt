@@ -1,0 +1,8 @@
+Verification is requested on specific triggers rather than at every login. Longfu88 asks for documents in four situations: during an account review, before a withdrawal, for unusual or high-value transactions, and after changes to account or payment details. The documents that count depend on what is being checked:
+
+- Identity: passport, national identity card or driving licence.
+- Address: utility bill or bank statement.
+- Payment method: bank or card ownership evidence, or digital wallet ownership evidence.
+- Source of funds: proof of income, bank statements or other supporting financial documents, needed only when requested.
+
+Documents are due up to 30 days after the request, so a player who has been asked for them gains little by waiting until the last day. A complete set is normally reviewed within up to 10 days, and until that review ends an account under check may stay on hold, so access can be delayed until the review is finished.

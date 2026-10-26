@@ -1,0 +1,39 @@
+{
+  "iteration": 1,
+  "passed": true,
+  "summary": {
+    "body_words": 1067,
+    "max_body_words": 1235,
+    "target_body_words": 961,
+    "keywords_total": {
+      "Longfu88": 17,
+      "Longfu bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 17,
+      "Longfu bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": []
+  },
+  "missing_data": []
+}

@@ -1,0 +1,1026 @@
+{
+  "geo": "SG",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu bonus",
+    "Longfu88 bonus",
+    "Longfu88 welcome bonus",
+    "Longfu88 promo code",
+    "Longfu88 offers",
+    "Longfu88 promotions"
+  ],
+  "targets": {
+    "target_body_words": 610,
+    "competitor_body_words": 657,
+    "max_body_words": 788,
+    "tier": "small",
+    "tiers": {
+      "competitors": [
+        631,
+        683,
+        2544,
+        2634
+      ],
+      "base": "medium",
+      "tiers": {
+        "small": {
+          "competitors": [
+            631,
+            683
+          ],
+          "mean": 657,
+          "multiplier": 1.2,
+          "target": 657,
+          "limit": 788
+        },
+        "medium": {
+          "competitors": [
+            2544
+          ],
+          "mean": 2544,
+          "multiplier": 1.2,
+          "target": 2544,
+          "limit": 3053
+        },
+        "large": {
+          "competitors": [
+            2634
+          ],
+          "mean": 2634,
+          "multiplier": 1.0,
+          "target": 2634,
+          "limit": 2634,
+          "outlier": true
+        }
+      }
+    },
+    "keyword_targets": {
+      "Longfu88": 10,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "base_body_words": 605
+  },
+  "brand": "Longfu88",
+  "knowledge_base": {
+    "id": 576,
+    "title": "longfu88-new"
+  },
+  "intent_summary": "Short brand-subpage for the small size group: the Longfu88 welcome bonus first, the minimum deposit that each offer asks for in one table, the crypto welcome offer, the terms, the promo code answer and a short checklist, for a player from Singapore. Page voice: practical and comparative, a one-line verdict after each section, sentences of about 15 words, no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore. Never write \"Longfu88 bonuses\", \"Longfu bonuses\" or \"Longfu88 promo codes\": such forms count as tracked keywords.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Welcome Bonus: Deposits, Crypto Offer and Terms",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.welcome_bonus_summary",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 1,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 1
+      },
+      "entities": [
+        {
+          "name": "Casino Bonuses",
+          "priority": 10
+        },
+        {
+          "name": "Welcome Bonus",
+          "priority": 8
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the Casino Welcome Bonus for new players",
+          "priority": 8,
+          "relation": "start with",
+          "subject": "Casino Bonuses"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What the page covers: the welcome offer, the minimum deposit of each offer, the crypto welcome offer, the terms and a short checklist.",
+      "copywriter_notes": "Open with \"Longfu88\" as the subject of the first sentence: the casino runs a set of bonuses that start with the Casino Welcome Bonus. The phrase \"Longfu bonus\" stands once in a sentence that says that players looking for the Longfu bonus find the welcome offer, the minimum deposit of each offer, the crypto welcome offer, the terms and a short checklist on this page. Quote the welcome bonus summary of the Brand Information once, character for character (188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings). State once that the bonuses are for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics in one sentence without detail. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Neutral tone, no promises. Variant direction: Where the phrase \"Longfu88 promotions\" is used it stands in the sentence that signposts the topics. Use \"Longfu88\" exactly once, \"Longfu bonus\" exactly once and \"Longfu88 promotions\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b01"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 1,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.welcome_bonus_summary",
+          "value": "188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings."
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_words": {
+        "facts": 21,
+        "connections": 15,
+        "need": 36
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Casino Welcome Bonus in Short",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.eligibility"
+      ],
+      "words_min": 48,
+      "words_max": 62,
+      "keywords": {
+        "Longfu88": 2,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Casino Welcome Bonus",
+          "priority": 10
+        },
+        {
+          "name": "First Deposit",
+          "priority": 8
+        },
+        {
+          "name": "Free Spins",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the first qualifying deposit with a match bonus and free spins",
+          "priority": 8,
+          "relation": "rewards",
+          "subject": "Casino Welcome Bonus"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The Casino Welcome Bonus of 188% up to €2,088 plus 18 Free Spins for a first deposit of €50, in two or three sentences.",
+      "copywriter_notes": "Two or three sentences about the Casino Welcome Bonus only: a first-deposit casino bonus of 188% up to €2,088 plus 18 Free Spins; the minimum first deposit of the bonus is €50 (use the €50 of the bonus, do NOT mention the general minimum deposit of €10); it is for new registered players on the first qualifying deposit, one welcome offer per account. Do not name the other welcome offers and give no wagering numbers. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly twice, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b03"
+      ],
+      "words": 55,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.bonus_percentage",
+          "value": 188
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bonus",
+          "value": "€2,088"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.eligibility",
+          "value": "New registered players on their first qualifying deposit; one welcome offer per account."
+        }
+      ],
+      "coverage_words": {
+        "facts": 32,
+        "connections": 15,
+        "need": 47
+      },
+      "words_base": [
+        48,
+        62
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "Minimum Deposit by Offer",
+      "source": "unique",
+      "covers_clusters": [
+        "k12"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[2].name",
+        "brandinfo_promotions.other_bonuses[2].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[4].name",
+        "brandinfo_promotions.other_bonuses[4].minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]"
+      ],
+      "words_min": 75,
+      "words_max": 95,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Minimum Deposit",
+          "priority": 10
+        },
+        {
+          "name": "Bonus Offers",
+          "priority": 7
+        },
+        {
+          "name": "Excluded Payment Methods",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "offer and by currency of the deposit",
+          "priority": 8,
+          "relation": "differs by",
+          "subject": "Minimum Deposit"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The minimum deposit that 5 listed offers ask for, offer by offer, and the payment methods excluded from the welcome offers.",
+      "copywriter_notes": "One lead-in sentence that says that the minimum deposit depends on the offer, then a TABLE with two columns, offer | minimum deposit, and one row per offer in this order: Casino Welcome Bonus, Live Casino Welcome Bonus, Casino Crypto Welcome Bonus, Casino Weekly Reload, Casino Weekend Reload (names and values exactly as in the Brand Information; crypto offers in USDT). One closing sentence: Neteller and Skrill deposits are excluded from the Casino Welcome Bonus; the general minimum deposit of the casino is not the minimum of an offer, so the player checks the offer first. Do NOT state the general minimum deposit amount and do not list payment methods. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b07"
+      ],
+      "words": 85,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[0].name",
+          "value": "Live Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[0].minimum_deposit",
+          "value": "€30"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].name",
+          "value": "Casino Crypto Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+          "value": "50 USDT"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].name",
+          "value": "Casino Weekly Reload"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].minimum_deposit",
+          "value": "€30"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[4].name",
+          "value": "Casino Weekend Reload"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[4].minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[0]",
+          "value": "Neteller and Skrill deposits are excluded from this promotion."
+        }
+      ],
+      "coverage_words": {
+        "facts": 48,
+        "connections": 15,
+        "need": 63
+      },
+      "words_base": [
+        75,
+        95
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 2,
+      "heading": "Crypto Welcome Offer",
+      "source": "unique",
+      "covers_clusters": [
+        "k02",
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].reward",
+        "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+        "brandinfo_promotions.other_bonuses[1].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[1].validity",
+        "brandinfo_promotions.other_bonuses[1].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[1].eligible_cryptocurrencies"
+      ],
+      "words_min": 62,
+      "words_max": 78,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Crypto Bonuses",
+          "priority": 10
+        },
+        {
+          "name": "USDT",
+          "priority": 7
+        },
+        {
+          "name": "Eligible Cryptocurrencies",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a first qualifying crypto deposit",
+          "priority": 8,
+          "relation": "accepts",
+          "subject": "Casino Crypto Welcome Bonus"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The Casino Crypto Welcome Bonus of 188% up to 2,888 USDT and the eligible coins.",
+      "copywriter_notes": "Three sentences: the Casino Crypto Welcome Bonus is 188% up to 2,888 USDT for a first qualifying crypto deposit of at least 50 USDT, wagering 40x deposit plus bonus, valid 10 days, maximum bonus wager 5 USDT per spin; the eligible cryptocurrencies are USDT, BTC, BCH, LTC, ETH, XRP and USDC; the Casino Welcome Bonus and the Crypto Welcome Bonus are alternative first-deposit offers. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b10"
+      ],
+      "words": 70,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].name",
+          "value": "Casino Crypto Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].reward",
+          "value": "188% up to 2,888 USDT"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].minimum_deposit",
+          "value": "50 USDT"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].wagering_requirement",
+          "value": "40x deposit plus bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].validity",
+          "value": "10 days"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].important_terms[1]",
+          "value": "Maximum bonus wager: 5 USDT per spin."
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].eligible_cryptocurrencies",
+          "value": [
+            "USDT",
+            "BTC",
+            "BCH",
+            "LTC",
+            "ETH",
+            "XRP",
+            "USDC"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 38,
+        "connections": 15,
+        "need": 53
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 2,
+      "heading": "Longfu88 Bonus Wagering and Limits",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k04"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.maximum_bet",
+        "brandinfo_welcome.welcome_bonus.maximum_cashout"
+      ],
+      "words_min": 70,
+      "words_max": 90,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Wagering Requirement",
+          "priority": 10
+        },
+        {
+          "name": "Maximum Bet",
+          "priority": 7
+        },
+        {
+          "name": "Maximum Cashout",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the deposit plus the bonus amount, and separately to Free Spins winnings",
+          "priority": 9,
+          "relation": "applies to",
+          "subject": "Wagering Requirement"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The main terms of the Casino Welcome Bonus in three sentences: wagering, validity, maximum bet and maximum cashout.",
+      "copywriter_notes": "Three sentences, no table: wagering 25x the deposit plus bonus amount and 40x Free Spins winnings; validity 10 days from activation; maximum bet €22.5 per spin and maximum cashout 5x the initial bonus amount. These terms belong to the Casino Welcome Bonus: say so. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b05"
+      ],
+      "words": 80,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 1,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.wagering_requirement",
+          "value": "25x the deposit plus bonus amount"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins_wagering",
+          "value": "40x Free Spins winnings"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.validity",
+          "value": "10 days from activation"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bet",
+          "value": "€22.5 per spin"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_cashout",
+          "value": "5x the initial bonus amount"
+        }
+      ],
+      "coverage_words": {
+        "facts": 27,
+        "connections": 15,
+        "need": 42
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 2,
+      "heading": "Longfu88 Promo Code: Is One Listed?",
+      "source": "unique",
+      "covers_clusters": [
+        "k08"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]"
+      ],
+      "words_min": 40,
+      "words_max": 50,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Promo Code",
+          "priority": 10
+        },
+        {
+          "name": "My Bonuses",
+          "priority": 8
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "every listed offer once the deposit conditions are met",
+          "priority": 8,
+          "relation": "activates",
+          "subject": "My Bonuses"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The Brand Information lists no promo code; the Casino Welcome Bonus is activated in My Bonuses.",
+      "copywriter_notes": "Answer the question in 2 sentences: the Brand Information of the casino lists no promo code for its offers, and the Casino Welcome Bonus is activated in My Bonuses before the first wager. Do NOT claim that codes never exist and do not mention coupons or codes of other sites. Do not invent a promo code, a coupon or a bonus code, and do not name any. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b06"
+      ],
+      "words": 45,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 1,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+          "value": "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers."
+        }
+      ],
+      "coverage_words": {
+        "facts": 14,
+        "connections": 15,
+        "need": 29
+      },
+      "words_base": [
+        40,
+        50
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Verification Before Payout",
+      "source": "unique",
+      "covers_clusters": [
+        "k04"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.important_terms[5]",
+        "brandinfo_welcome.welcome_bonus.important_terms[3]",
+        "brandinfo_account.verification.document_submission_window",
+        "brandinfo_account.verification.typical_review_time"
+      ],
+      "words_min": 57,
+      "words_max": 73,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Account Verification",
+          "priority": 10
+        },
+        {
+          "name": "Promotional Winnings",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the payment of promotional winnings",
+          "priority": 8,
+          "relation": "can precede",
+          "subject": "Account Verification"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Verification can be required before promotional winnings are paid: the submission window of 30 days and the review time of up to 10 days.",
+      "copywriter_notes": "Three sentences: account verification may be required before promotional winnings are paid; a withdrawal request before claiming a bonus or while it is active can void the promotional eligibility; the documents are requested when needed, with a submission window of up to 30 days and a review time of up to 10 days after a complete document set is received. No list of documents, no promise of speed. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b18"
+      ],
+      "words": 65,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[5]",
+          "value": "Account verification may be required before payment of promotional winnings."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[3]",
+          "value": "A withdrawal request before claiming or while the bonus is active can void promotional eligibility."
+        },
+        {
+          "path": "brandinfo_account.verification.document_submission_window",
+          "value": "Up to 30 days when requested"
+        },
+        {
+          "path": "brandinfo_account.verification.typical_review_time",
+          "value": "Up to 10 days after a complete document set is received"
+        }
+      ],
+      "coverage_words": {
+        "facts": 50,
+        "connections": 15,
+        "need": 65
+      },
+      "words_base": [
+        53,
+        67
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 2,
+      "heading": "Four Checks Before the First Deposit",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k21"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.eligibility",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_welcome.welcome_bonus.important_terms[2]"
+      ],
+      "words_min": 62,
+      "words_max": 78,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Bonus Checklist",
+          "priority": 10
+        },
+        {
+          "name": "My Bonuses",
+          "priority": 7
+        },
+        {
+          "name": "Eligibility",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "eligibility, deposit and active bonus before claiming",
+          "priority": 7,
+          "relation": "checks",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Four checks before claiming the Casino Welcome Bonus: new player, first deposit of €50, Neteller and Skrill excluded, one active bonus.",
+      "copywriter_notes": "The competitors close with a verdict; this block gives a neutral checklist and no recommendation. One lead-in sentence, then a bulleted list of four short checks in this order: the player is a new registered player (one welcome offer per account); the first qualifying deposit is at least €50; the deposit is not made with Neteller or Skrill; no other promotional bonus is active. Each item one clause of up to 14 words. No verdict, no rating, no advice to take an offer. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "variant_origin": [
+        "b21"
+      ],
+      "words": 70,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.eligibility",
+          "value": "New registered players on their first qualifying deposit; one welcome offer per account."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[0]",
+          "value": "Neteller and Skrill deposits are excluded from this promotion."
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[2]",
+          "value": "Only one promotional bonus may be active at a time."
+        }
+      ],
+      "coverage_words": {
+        "facts": 42,
+        "connections": 15,
+        "need": 57
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    },
+    {
+      "id": "b09",
+      "level": 2,
+      "heading": "Longfu88 Offers: Welcome Questions",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k20"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_general.customer_support.channels",
+        "brandinfo_welcome.welcome_bonus.important_terms[0]",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[1].reward"
+      ],
+      "words_min": 79,
+      "words_max": 101,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Frequently Asked Questions",
+          "priority": 10
+        },
+        {
+          "name": "Bonus Terms",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "short answers to the most frequent questions about the bonuses",
+          "priority": 6,
+          "relation": "finds",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "5 short questions and answers on the bonuses of the casino.",
+      "copywriter_notes": "A bulleted list of 5 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what is the minimum first deposit for the welcome bonus (€50); (2) which payment methods are excluded from the welcome bonus (Neteller and Skrill); (3) whether crypto deposits have a welcome offer (yes: the Casino Crypto Welcome Bonus, 188% up to 2,888 USDT); (4) how long the welcome bonus is valid (10 days from activation); (5) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "list"
+      ],
+      "variant_origin": [
+        "b22"
+      ],
+      "words": 90,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 1,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.validity",
+          "value": "10 days from activation"
+        },
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email"
+          ]
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.important_terms[0]",
+          "value": "Neteller and Skrill deposits are excluded from this promotion."
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].name",
+          "value": "Casino Crypto Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].reward",
+          "value": "188% up to 2,888 USDT"
+        }
+      ],
+      "coverage_words": {
+        "facts": 29,
+        "connections": 15,
+        "need": 44
+      },
+      "words_base": [
+        79,
+        101
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [
+    {
+      "id": "b07",
+      "heading": "Verification Before Payout",
+      "facts": 50,
+      "connections": 15,
+      "need": 65,
+      "from": [
+        53,
+        67
+      ],
+      "to": [
+        57,
+        73
+      ]
+    }
+  ],
+  "page_type": "brand-subpage",
+  "skipped_clusters": [
+    {
+      "id": "k01",
+      "reason": "left out of the short text; the offers are named in the deposit table"
+    },
+    {
+      "id": "k03",
+      "reason": "the claiming steps are left out of the short text; the activation in My Bonuses is named in the checks"
+    },
+    {
+      "id": "k06",
+      "reason": "cashback is left out of the short text; the page keeps to the first deposit offers"
+    }
+  ],
+  "variant": {
+    "id": "v02",
+    "name": "Deposit table and crypto (small)",
+    "base_run": "longfu88-bonus-sg",
+    "angle": "A new player who compares what each offer asks for the first deposit and who pays in crypto.",
+    "tier": "small"
+  },
+  "site_pages": [
+    "login",
+    "app"
+  ]
+}

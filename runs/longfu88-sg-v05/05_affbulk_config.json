@@ -1,0 +1,134 @@
+{
+ "website_id": 4962,
+ "domain": "longfu88-sg.games",
+ "locale": "en",
+ "seo": {
+  "title": "Longfu88 Casino Games: Slots, Live and Providers",
+  "description": "See what Longfu88 offers players in Singapore: slots, live dealer tables, fishing, P2P and fast games, ten providers, plus bonuses and payments."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "casino, online casino, crypto casino, play, gambling, slots, live casino, sports betting, register, login, KYC, app, payments, bonuses, welcome bonus, Singapore, SG, Singaporean"
+ },
+ "hero": {
+  "label": "Our qualifying first-deposit welcome package: 188% up to €2,088 + 18 Free Spins",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Join Now"
+ },
+ "preview": {
+  "title": "Longfu88 Bonuses",
+  "items": [
+   {
+    "image": 4653,
+    "title": "Bonus Crab",
+    "text": "Qualifying picks reveal bonus credits, free spins or coins",
+    "button": "Get Bonus"
+   },
+   {
+    "image": 4654,
+    "title": "Casino Crypto Welcome Bonus",
+    "text": "188% up to 2,888 USDT",
+    "button": "Claim Bonus"
+   },
+   {
+    "image": 4657,
+    "title": "Live Casino Welcome Bonus",
+    "text": "125% up to €888",
+    "button": "Get Offer"
+   },
+   {
+    "image": 4656,
+    "title": "Sport First Deposit Bonus",
+    "text": "100% up to €1,888",
+    "button": "See Offer"
+   },
+   {
+    "image": 4655,
+    "title": "Casino Weekend Crypto Reload",
+    "text": "75% up to 750 USDT + 100 Free Spins",
+    "button": "Claim Now"
+   },
+   {
+    "image": 4652,
+    "title": "Casino Weekly Cashback",
+    "text": "Up to 10% of weekly net casino losses",
+    "button": "Get Bonus"
+   }
+  ]
+ },
+ "reviews": {
+  "title": "Real Player Reviews",
+  "items": [
+   {
+    "username": "Nurul Huda",
+    "review": "Switching between casino games and sport takes a single touch from the top bar, which matches how I like to play.",
+    "date": "2026-10-22",
+    "avatar": 3854,
+    "rating": 5
+   },
+   {
+    "username": "Pei Shan",
+    "review": "Each promotion has its own card on the offers page, complete with the conditions I need to read.",
+    "date": "2026-10-21",
+    "avatar": 3857,
+    "rating": 5
+   },
+   {
+    "username": "Sarah Goh",
+    "review": "Buttons are chunky enough for my thumbs, and the account panel sits exactly where I expect it on a small screen.",
+    "date": "2026-10-20",
+    "avatar": 3861,
+    "rating": 5
+   },
+   {
+    "username": "Darren Chua",
+    "review": "The support agents answered in English and stayed patient when I came back with a follow-up question.",
+    "date": "2026-10-20",
+    "avatar": 3862,
+    "rating": 5
+   },
+   {
+    "username": "Zhi Hao",
+    "review": "I registered from my handset and the confirmation message landed in my inbox straight away.",
+    "date": "2026-10-18",
+    "avatar": 3858,
+    "rating": 5
+   },
+   {
+    "username": "Ahmad Faiz",
+    "review": "Browsing by game category is quick, and the big developers' titles are simple to locate in the lobby.",
+    "date": "2026-10-17",
+    "avatar": 3853,
+    "rating": 4
+   }
+  ]
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "disclaimer": "This page is meant for adults over 18. Offer conditions apply in full. Gambling should stay a pastime.",
+  "button": "Claim Offer"
+ },
+ "cta_texts": [
+  "Get Your Bonus",
+  "Try Live Casino",
+  "Join Now",
+  "Check the Bonus",
+  "Register"
+ ],
+ "internal_links": [
+  {
+   "anchor": "Longfu88 bonus",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "Longfu88 login",
+   "href": "/login"
+  },
+  {
+   "anchor": "mobile play",
+   "href": "/app"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+Choose a deposit method in the cashier, and use the table to see them grouped by type, with the Singapore options first.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore banks and wallets | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Other local bank and wallet methods | QRIS, DANA, GrabPay, DuitNow, PromptPay QR, MoMo | IDR, MYR, THB, VND |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Every method takes deposits from €10 to €5,000 per transaction and credits them within 1-2 minutes. The casino charges no processing fee, but provider or blockchain network fees may apply. Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus.
+
+To deposit, log in to the Longfu88 account, open the cashier and select Deposit. Choose a method with its currency or network, enter the amount and payment details, and confirm using the provider instructions. Then wait for the funds to reach the playable balance.

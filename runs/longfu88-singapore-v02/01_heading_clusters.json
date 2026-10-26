@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "k08",
+    "topic": "Bonuses and welcome offers",
+    "canonical_title": "Bonuses and Welcome Offers",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 101,
+    "avg_position": 0.45,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Bonuses & promotions"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Bonus offers and promotions"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Welcome bonus"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Other promotions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Longfu88 Bonuses – Four Welcome Offers, One Account"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "What is the longfu88 welcome bonus?"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Check the Promo Board for What's Running This Week"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Bonuses – Boost Your Play with Generous Offers"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Games overview",
+    "canonical_title": "Games Overview",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Casino games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Selection of casino games"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "What games does longfu88 casino have?"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "How to Open Your Account and Reach the Games"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Available Games at Longfu88"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Casino Games"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "What games can I play at Longfu88?"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Deposit methods and payments",
+    "canonical_title": "Payment Methods",
+    "frequency": 5,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 57,
+    "avg_position": 0.55,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposit methods"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Payment methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit and withdrawal limits in Singapore"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Deposit and withdrawal limits in Thailand"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Minimum / maximum deposits"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Minimum / maximum deposits"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Payments – Local Methods for Malaysian Players"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Live casino",
+    "canonical_title": "Live Casino",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 81,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live Dealer Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live dealer games"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Live Casino"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Longfu 88 Live Casino"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Licence, security and fair play",
+    "canonical_title": "Safety and Fair Play",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 88,
+    "avg_position": 0.58,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Licensing & security"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Licensing & security information"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Is Longfu88 Safe? Security and Fair Play"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Is longfu88 casino safe to play at?"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Fast Account Verification"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "How We Protect Your Account and Ensure Fair Results"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Keeping Your longfu88 Account Safe"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Sports betting and esports",
+    "canonical_title": "Sports Betting",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 54,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sportsbook"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Sports betting overview"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Sports coverage (20+)"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Sports odds"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Live betting and streaming"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Betting markets"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Esports betting overview"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Esports coverage"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 4,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 63,
+    "avg_position": 0.74,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Customer support"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Customer service"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Three Ways to Reach Our Support Team"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "24-Hour Support Coverage"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Customer Support"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Slots",
+    "canonical_title": "Slots",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.1,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Slots"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Fan-Favourite Slots You Can Open Right Now"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Fishing, P2P, fast and free games",
+    "canonical_title": "Instant and Specialty Games",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 78,
+    "avg_position": 0.36,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Free games"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Crash X, Aviator and Fast-Round Arcade Titles"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Thunder Fishing, Fish Rooms and Sportsbook Markets"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Slot Themes, Live Rooms and Arcade Formats ‚Äî All in One Place"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Dive into Fishing"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "P2P – Play Against Other Players"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Fast Games – Quick, Instant Wins"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "Platform overview / about the casino",
+    "canonical_title": "About the Casino",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 65,
+    "avg_position": 0.47,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "About LongFu88"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "LongFu88 overview"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Usability and user experience"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Navigation"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Design"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Casino overview"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "What We Hold Ourselves to on This Platform"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Mobile access and app",
+    "canonical_title": "Mobile Access",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 59,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Mobile & app experience"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "LongFu88 App"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Games and Providers – 7,500 Titles from 50+ Studios"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Mobile Access"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Does longfu88 have a mobile app?"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Withdrawals and payout speed",
+    "canonical_title": "Withdrawals",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 61,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Deposits & withdrawals"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Withdrawal methods"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Withdrawal methods"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Withdrawal Audit Trail"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Consistent Payout Processing"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Registration and login",
+    "canonical_title": "Registration and Login",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 46,
+    "avg_position": 0.74,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Registration at LongFu88"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Encrypted Login"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "Easy Registration and Seamless Login – Getting Started at Longfu88"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Steps to Register:"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "How do I register at Longfu88?"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "FAQ",
+    "canonical_title": "Frequently Asked Questions",
+    "frequency": 3,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 13,
+    "avg_position": 0.85,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "FAQ"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Frequently Asked Questions About longfu88"
+      },
+      {
+        "competitor": 5,
+        "level": 2,
+        "text": "FAQs – Your Questions Answered"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "VIP programme and loyalty",
+    "canonical_title": "VIP Programme",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 92,
+    "avg_position": 0.21,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Rewards and loyalty programs at LongFu88"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "VIP Programme – Bronze to Diamond"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Table games and video poker",
+    "canonical_title": "Table Games",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 43,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Table games"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Classic Blackjack"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "French Roulette"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Baccarat, Roulette and Dragon Tiger ‚Äî Streamed Live"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Classic Table Games With Multiple Bet Ranges"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Classic Blackjack"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "French Roulette"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Playing longfu88 on Your Phone or Tablet"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Lottery",
+    "canonical_title": "Lottery",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 48,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Sports, E-sports and Lottery"
+      },
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Lottery"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Responsible gambling",
+    "canonical_title": "Responsible Gambling",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 84,
+    "avg_position": 0.77,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Responsible gambling tools"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Responsible Gambling"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Verdict and conclusion",
+    "canonical_title": "Verdict",
+    "frequency": 2,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 146,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Our verdict on LongFu88"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Conclusion"
+      }
+    ]
+  },
+  {
+    "id": "k27",
+    "topic": "Other: What You Find When You Open longfu88",
+    "canonical_title": "What You Find When You Open longfu88",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 123,
+    "avg_position": 0.02,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "What You Find When You Open longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k28",
+    "topic": "Other: Ocean Fortune",
+    "canonical_title": "Ocean Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.12,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Ocean Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k29",
+    "topic": "Other: Halloween Fortune",
+    "canonical_title": "Halloween Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.14,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Halloween Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k30",
+    "topic": "Other: Wild Walker",
+    "canonical_title": "Wild Walker",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.16,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Wild Walker"
+      }
+    ]
+  },
+  {
+    "id": "k31",
+    "topic": "Other: Fortune Mouse",
+    "canonical_title": "Fortune Mouse",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.19,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Fortune Mouse"
+      }
+    ]
+  },
+  {
+    "id": "k32",
+    "topic": "Other: Ocean Fortune",
+    "canonical_title": "Ocean Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 22,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Ocean Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k33",
+    "topic": "Other: Halloween Fortune",
+    "canonical_title": "Halloween Fortune",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Halloween Fortune"
+      }
+    ]
+  },
+  {
+    "id": "k34",
+    "topic": "Other: Wild Walker",
+    "canonical_title": "Wild Walker",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Wild Walker"
+      }
+    ]
+  },
+  {
+    "id": "k35",
+    "topic": "Other: Fortune Mouse",
+    "canonical_title": "Fortune Mouse",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 30,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Fortune Mouse"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "Pros and cons",
+    "canonical_title": "Pros and Cons",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 36,
+    "avg_position": 0.47,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Longfu88 Review – What Works and What to Know"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Strengths"
+      }
+    ]
+  },
+  {
+    "id": "k36",
+    "topic": "Other: Four Reasons Your Account Works Better Here",
+    "canonical_title": "Four Reasons Your Account Works Better Here",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 26,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Four Reasons Your Account Works Better Here"
+      }
+    ]
+  },
+  {
+    "id": "k37",
+    "topic": "Other: Continuous Live Streams",
+    "canonical_title": "Continuous Live Streams",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.53,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Continuous Live Streams"
+      }
+    ]
+  },
+  {
+    "id": "k38",
+    "topic": "Other: Single Account Balance",
+    "canonical_title": "Single Account Balance",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 27,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Single Account Balance"
+      }
+    ]
+  },
+  {
+    "id": "k24",
+    "topic": "Other: Limits",
+    "canonical_title": "Limits",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Limits"
+      }
+    ]
+  },
+  {
+    "id": "k26",
+    "topic": "Other: Quick Links",
+    "canonical_title": "Quick Links",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 48,
+    "avg_position": 0.65,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Quick Links"
+      }
+    ]
+  },
+  {
+    "id": "k39",
+    "topic": "Other: RNG Certification",
+    "canonical_title": "RNG Certification",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 17,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "RNG Certification"
+      }
+    ]
+  },
+  {
+    "id": "k40",
+    "topic": "Other: Two-Factor Option",
+    "canonical_title": "Two-Factor Option",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 10,
+    "avg_position": 0.72,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Two-Factor Option"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Software providers",
+    "canonical_title": "Game Providers",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Software providers"
+      }
+    ]
+  },
+  {
+    "id": "k41",
+    "topic": "Other: longfu88 in Malaysia ‚Äî Availability and Access",
+    "canonical_title": "longfu88 in Malaysia ‚Äî Availability and Access",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 141,
+    "avg_position": 0.84,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "longfu88 in Malaysia ‚Äî Availability and Access"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "Cryptocurrency payments",
+    "canonical_title": "Crypto Payments",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 11,
+    "avg_position": 0.9,
+    "examples": [
+      {
+        "competitor": 5,
+        "level": 3,
+        "text": "Can I use cryptocurrency to deposit?"
+      }
+    ]
+  },
+  {
+    "id": "k42",
+    "topic": "Other: No Wallet Lock-In",
+    "canonical_title": "No Wallet Lock-In",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 31,
+    "avg_position": 0.93,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "No Wallet Lock-In"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "Other: User Reviews",
+    "canonical_title": "User Reviews",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 66,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "User Reviews"
+      }
+    ]
+  },
+  {
+    "id": "k25",
+    "topic": "Other: User Reviews",
+    "canonical_title": "User Reviews",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 270,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "User Reviews"
+      }
+    ]
+  }
+]

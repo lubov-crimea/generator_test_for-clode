@@ -1,0 +1,7 @@
+Longfu88 groups several game-style features in its rewards area, with a Coin Shop where the Coins gathered can be put to use.
+
+- **Bonus Crab:** qualifying picks open a crab that holds a reward.
+- **Wheel of Fortune:** the prize wheel turns after an eligible spin or a number of Coins is used.
+- **Challenges:** qualifying gambling tasks, once finished, earn the rewards listed.
+- **Collections:** campaign items are gathered through qualifying activity.
+- **Coin Shop:** reward items are on offer, and so are bonus credits reaching €4,500, all paid for with earned Coins.

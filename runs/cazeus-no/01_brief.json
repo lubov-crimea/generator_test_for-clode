@@ -1,0 +1,3191 @@
+{
+  "geo": "NO",
+  "language": "no",
+  "keywords": [
+    "Cazeus",
+    "Cazues casino"
+  ],
+  "targets": {
+    "target_body_words": 3237,
+    "keyword_targets": {
+      "Cazeus": 24,
+      "Cazues casino": 1
+    },
+    "base_body_words": 2503
+  },
+  "brand": "Cazeus",
+  "knowledge_base": {
+    "id": 572,
+    "title": "Cazeus-upd"
+  },
+  "intent_summary": "Brand-related (navigational and informational) review page about the Cazeus online casino for players from Norway: what the casino is, the welcome package and other promotions, games and providers, live casino, sports betting, registration and login, verification, deposits and withdrawals, VIP Club, mobile access, licence and data protection, support, responsible gambling, strengths and weaknesses. All brand-specific facts come from the AffBulk knowledge base Cazeus-upd.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Cazeus Casino Norway: Review of Bonuses, Games and Payments",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.overview.casino_games",
+        "brandinfo_general.overview.casino_welcome_package",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 100,
+      "words_max": 125,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Players from Norway",
+          "priority": 7
+        },
+        {
+          "name": "Welcome Package",
+          "priority": 6
+        },
+        {
+          "name": "Game Categories",
+          "priority": 5
+        },
+        {
+          "name": "Sportsbook",
+          "priority": 4
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Online Casino",
+          "relation": "offers",
+          "object": "Game Categories and a Sportsbook",
+          "priority": 7
+        },
+        {
+          "subject": "Online Casino",
+          "relation": "welcomes new players with",
+          "object": "the Welcome Package",
+          "priority": 6
+        }
+      ],
+      "summary": "Short introduction: what the online casino offers to players from Norway (game categories, sportsbook, welcome package, 18+ age limit) and what the page covers.",
+      "copywriter_notes": "The first sentence must begin with 'Cazeus' and name the central entity Online Casino in the same sentence. Then name the game categories briefly as given in the Brand Information, mention the sportsbook and state the welcome package exactly as given (amount and number of free spins). State the 18+ age limit. Close with a half-sentence that the page covers bonuses, games, payments and safety. Do not claim that the casino is licensed in, legal in or approved for Norway. No promises about winnings, no exclamation marks, neutral-positive tone. Use 'Cazeus' exactly once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 112,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.overview.casino_games",
+          "value": [
+            "Slots",
+            "Table Games",
+            "Live Casino",
+            "Live Game Shows",
+            "Jackpots",
+            "Instant Games"
+          ]
+        },
+        {
+          "path": "brandinfo_general.overview.casino_welcome_package",
+          "value": "Up to €1,750 + 150 Free Spins"
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": "18+"
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 5
+      },
+      "words_base": [
+        80,
+        100
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Casino Facts at a Glance",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.licences[0]",
+        "brandinfo_general.licences[0].operator",
+        "brandinfo_general.release_year",
+        "brandinfo_general.customer_support.live_chat",
+        "brandinfo_general.currencies",
+        "brandinfo_general.overview.deposit_methods",
+        "brandinfo_welcome.welcome_bonus.casino_offer",
+        "brandinfo_promotions.other_bonuses[2].bonus_percentage",
+        "brandinfo_promotions.other_bonuses[2].maximum_bonus",
+        "brandinfo_promotions.other_bonuses[2].eligible_vip_levels",
+        "brandinfo_general.overview.minimum_deposit",
+        "brandinfo_general.customer_support.email",
+        "brandinfo_general.customer_support.availability"
+      ],
+      "words_min": 80,
+      "words_max": 100,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Gambling Licence",
+          "priority": 8
+        },
+        {
+          "name": "Welcome Package",
+          "priority": 7
+        },
+        {
+          "name": "Payment Methods",
+          "priority": 6
+        },
+        {
+          "name": "Currencies",
+          "priority": 5
+        },
+        {
+          "name": "Customer Support",
+          "priority": 5
+        }
+      ],
+      "listed_entities": [
+        "Operator",
+        "Gambling Licence",
+        "Welcome Package",
+        "Payment Methods",
+        "Currencies",
+        "Customer Support"
+      ],
+      "entity_connections": [
+        {
+          "subject": "Operator",
+          "relation": "runs",
+          "object": "the Online Casino",
+          "priority": 7
+        },
+        {
+          "subject": "Gambling Licence",
+          "relation": "is recorded for",
+          "object": "the Operator",
+          "priority": 6
+        }
+      ],
+      "fact_table": [
+        {
+          "key": "company",
+          "label": "Operator",
+          "kb_refs": [
+            "brandinfo_general.licences[0].operator"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.licences[0].operator",
+              "value": "Liernin Enterprises Ltd"
+            }
+          ]
+        },
+        {
+          "key": "licence",
+          "label": "Licence",
+          "kb_refs": [
+            "brandinfo_general.licences[0]"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.licences[0]",
+              "value": {
+                "regulator": "PAGCOR",
+                "licence_number": "IGL-24-0021",
+                "operator": "Liernin Enterprises Ltd",
+                "status": "Historical record; current validity is unconfirmed"
+              }
+            }
+          ]
+        },
+        {
+          "key": "founded",
+          "label": "Launched",
+          "kb_refs": [
+            "brandinfo_general.release_year"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.release_year",
+              "value": 2020
+            }
+          ]
+        },
+        {
+          "key": "languages",
+          "label": "Languages",
+          "kb_refs": [
+            "brandinfo_general.customer_support.live_chat"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.customer_support.live_chat",
+              "value": true
+            }
+          ]
+        },
+        {
+          "key": "currencies",
+          "label": "Currencies",
+          "kb_refs": [
+            "brandinfo_general.currencies"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.currencies",
+              "value": [
+                "EUR",
+                "USD",
+                "CAD",
+                "NOK",
+                "HUF",
+                "PLN"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "payment_methods",
+          "label": "Payment methods",
+          "kb_refs": [
+            "brandinfo_general.overview.deposit_methods"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.overview.deposit_methods",
+              "value": [
+                "Interac",
+                "Visa",
+                "Mastercard",
+                "Paysafecard",
+                "Neteller",
+                "Cash2Code",
+                "MiFinity",
+                "Bitcoin",
+                "Dogecoin",
+                "Tether USDT",
+                "Ethereum",
+                "Litecoin",
+                "Tron",
+                "USD Coin",
+                "BNB",
+                "Solana",
+                "Cardano"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "welcome_bonus",
+          "label": "Welcome bonus",
+          "kb_refs": [
+            "brandinfo_welcome.welcome_bonus.casino_offer"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_welcome.welcome_bonus.casino_offer",
+              "value": "Up to €1,750 + 150 Free Spins"
+            }
+          ]
+        },
+        {
+          "key": "cashback",
+          "label": "Cashback",
+          "kb_refs": [
+            "brandinfo_promotions.other_bonuses[2].bonus_percentage",
+            "brandinfo_promotions.other_bonuses[2].maximum_bonus",
+            "brandinfo_promotions.other_bonuses[2].eligible_vip_levels"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_promotions.other_bonuses[2].bonus_percentage",
+              "value": "3%–15%"
+            },
+            {
+              "path": "brandinfo_promotions.other_bonuses[2].maximum_bonus",
+              "value": "€400"
+            },
+            {
+              "path": "brandinfo_promotions.other_bonuses[2].eligible_vip_levels",
+              "value": [
+                "Level 2",
+                "Level 3",
+                "Level 4",
+                "Level 5"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "min_deposit",
+          "label": "Minimum deposit",
+          "kb_refs": [
+            "brandinfo_general.overview.minimum_deposit"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.overview.minimum_deposit",
+              "value": "€10"
+            }
+          ]
+        },
+        {
+          "key": "support",
+          "label": "Support",
+          "kb_refs": [
+            "brandinfo_general.customer_support.email",
+            "brandinfo_general.customer_support.availability"
+          ],
+          "values": [
+            {
+              "path": "brandinfo_general.customer_support.email",
+              "value": "support@cazeus.com"
+            },
+            {
+              "path": "brandinfo_general.customer_support.availability",
+              "value": "24/7"
+            }
+          ]
+        }
+      ],
+      "summary": "A compact fact sheet of the casino: operator, licence record, launch year, languages, currencies, payment methods, welcome bonus, cashback, minimum deposit and support contact.",
+      "copywriter_notes": "The table has exactly the rows of the Fact Table list, in this order, nothing else, with a header row (parameter and value in the page language); the left cell is the row label in the page language, the right cell a short fact (a figure, a name or a comma-separated list, at most 20 words), no sentences. Operator = company name only. Licence = regulator, licence number and the note that it is a historical record whose current validity is unconfirmed (do not present it as a currently valid licence). Launched = the year only. Languages: the knowledge base names no site or support languages, so this cell says in the page language that the languages are not specified; never name a language. Currencies = the codes as given. Payment methods = names only; shorten to the first eight names plus a word for 'and more'. Welcome bonus = the amount and the number of free spins as given. Cashback = Daily Cashback, the percentage range, the maximum and the VIP levels it applies to. Minimum deposit = the general minimum of the amount only (the higher minimum of the welcome package belongs to the bonus section). Support = the e-mail address exactly as given and the 24/7 availability; the e-mail contains the tracked keyword 'Cazeus', which is the one occurrence this block allows, so no other 'Cazeus' here. Do not add a lead-in sentence.",
+      "formats": [
+        "table"
+      ],
+      "words": 90,
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.licences[0]",
+          "value": {
+            "regulator": "PAGCOR",
+            "licence_number": "IGL-24-0021",
+            "operator": "Liernin Enterprises Ltd",
+            "status": "Historical record; current validity is unconfirmed"
+          }
+        },
+        {
+          "path": "brandinfo_general.licences[0].operator",
+          "value": "Liernin Enterprises Ltd"
+        },
+        {
+          "path": "brandinfo_general.release_year",
+          "value": 2020
+        },
+        {
+          "path": "brandinfo_general.customer_support.live_chat",
+          "value": true
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "CAD",
+            "NOK",
+            "HUF",
+            "PLN"
+          ]
+        },
+        {
+          "path": "brandinfo_general.overview.deposit_methods",
+          "value": [
+            "Interac",
+            "Visa",
+            "Mastercard",
+            "Paysafecard",
+            "Neteller",
+            "Cash2Code",
+            "MiFinity",
+            "Bitcoin",
+            "Dogecoin",
+            "Tether USDT",
+            "Ethereum",
+            "Litecoin",
+            "Tron",
+            "USD Coin",
+            "BNB",
+            "Solana",
+            "Cardano"
+          ]
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.casino_offer",
+          "value": "Up to €1,750 + 150 Free Spins"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].bonus_percentage",
+          "value": "3%–15%"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].maximum_bonus",
+          "value": "€400"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].eligible_vip_levels",
+          "value": [
+            "Level 2",
+            "Level 3",
+            "Level 4",
+            "Level 5"
+          ]
+        },
+        {
+          "path": "brandinfo_general.overview.minimum_deposit",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_general.customer_support.email",
+          "value": "support@cazeus.com"
+        },
+        {
+          "path": "brandinfo_general.customer_support.availability",
+          "value": "24/7"
+        }
+      ],
+      "coverage_units": {
+        "facts": 13,
+        "entities": 1
+      },
+      "words_base": [
+        80,
+        100
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "About Cazeus Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_general.release_year",
+        "brandinfo_general.licences[0].operator",
+        "brandinfo_general.currencies"
+      ],
+      "words_min": 158,
+      "words_max": 202,
+      "keywords": {
+        "Cazeus": 2,
+        "Cazues casino": 1
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Operator",
+          "priority": 8
+        },
+        {
+          "name": "Currencies",
+          "priority": 6
+        },
+        {
+          "name": "Players from Norway",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Operator",
+          "relation": "runs",
+          "object": "the Online Casino",
+          "priority": 8
+        },
+        {
+          "subject": "Online Casino",
+          "relation": "accepts",
+          "object": "Norwegian Krone among several Currencies",
+          "priority": 6
+        }
+      ],
+      "summary": "Overview of the platform: launch year, the operator company and the currencies, including the Norwegian krone.",
+      "copywriter_notes": "Open with a definition of the platform (Online Casino), then the launch year and the operator company exactly as given in the Brand Information. The operator chain (Operator runs Online Casino) is a priority 8 connection, so give it a short passage of two to four sentences with the launch year and the company name. Then list all six currencies as given and point out that NOK is among them, which matters for Norwegian players. Use 'Cazeus' twice and 'Cazues casino' once, each in a natural sentence (for example how the casino is written or searched for in queries); do not use the construction 'X (also known as Y)' and do not put the keyword in quotes or brackets. Do not discuss licence details here (they belong to the licence and security section) and never claim that the casino is licensed or approved in Norway. Neutral tone, no praise.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 180,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.release_year",
+          "value": 2020
+        },
+        {
+          "path": "brandinfo_general.licences[0].operator",
+          "value": "Liernin Enterprises Ltd"
+        },
+        {
+          "path": "brandinfo_general.currencies",
+          "value": [
+            "EUR",
+            "USD",
+            "CAD",
+            "NOK",
+            "HUF",
+            "PLN"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 4
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 2,
+      "heading": "Cazeus Welcome Package and Bonuses",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k08",
+        "k09",
+        "k10"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.casino_offer",
+        "brandinfo_welcome.welcome_bonus.minimum_qualifying_deposit",
+        "brandinfo_welcome.welcome_bonus.wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.free_spins_wagering_requirement",
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_welcome.welcome_bonus.maximum_bet_during_wagering",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus_cashout",
+        "brandinfo_welcome.welcome_bonus.game_contribution",
+        "brandinfo_welcome.welcome_bonus.promo_code_required"
+      ],
+      "words_min": 220,
+      "words_max": 280,
+      "keywords": {
+        "Cazeus": 2,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Welcome Package",
+          "priority": 10
+        },
+        {
+          "name": "Wagering Requirement",
+          "priority": 8
+        },
+        {
+          "name": "Free Spins",
+          "priority": 7
+        },
+        {
+          "name": "Minimum Deposit",
+          "priority": 6
+        },
+        {
+          "name": "Game Contribution",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Welcome Package",
+          "relation": "requires",
+          "object": "a Qualifying Deposit",
+          "priority": 7
+        },
+        {
+          "subject": "Wagering Requirement",
+          "relation": "applies to",
+          "object": "Deposit plus Bonus",
+          "priority": 7
+        },
+        {
+          "subject": "Slots",
+          "relation": "contribute fully to",
+          "object": "Wagering",
+          "priority": 6
+        }
+      ],
+      "summary": "The casino welcome package: amount and free spins, the qualifying deposit, the wagering requirements, validity, bet and cashout limits, game contribution and the fact that no promo code is needed.",
+      "copywriter_notes": "Lead with the Welcome Package in its given form (up to the maximum amount plus the number of free spins), then the minimum qualifying deposit of the package (this is the package minimum; the lower general minimum deposit belongs to the payments section, do not mix them). Then the wagering: the deposit plus bonus multiplied by the given factor, the free spins winnings with their own factor, the validity period, the maximum bet while wagering and the maximum cashout. Explain wagering in a clause the first time. Contribution: slots, live games and table games with the exact percentages, and the consequence for the player (the bonus is cleared mainly on slots). State that no promo code is required. Do not state anything about a bonus code for Norway beyond that. Use 'Cazeus' exactly twice (the Brand Information contains no brand name, so place both naturally, for example when introducing the package). Calm tone: describe the advantages in some detail, the limits matter-of-factly. End with a short practical hint to read the full terms before claiming.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 250,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.casino_offer",
+          "value": "Up to €1,750 + 150 Free Spins"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_qualifying_deposit",
+          "value": "€20"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.wagering_requirement",
+          "value": "(Deposit + bonus) x35"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins_wagering_requirement",
+          "value": "Free Spins winnings x40"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.validity",
+          "value": "10 days from activation for each bonus wagering requirement"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bet_during_wagering",
+          "value": "€5 per bet"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bonus_cashout",
+          "value": "10x the credited bonus amount"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.game_contribution",
+          "value": {
+            "slots": "100%",
+            "live_games": "10%",
+            "table_games": "0%",
+            "video_poker": "10%",
+            "plinko": "10%"
+          }
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.promo_code_required",
+          "value": false
+        }
+      ],
+      "coverage_units": {
+        "facts": 12,
+        "entities": 5
+      },
+      "words_base": [
+        176,
+        224
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 3,
+      "heading": "Reload Bonuses and Cashback",
+      "source": "unique",
+      "covers_clusters": [
+        "k08"
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[0]",
+        "brandinfo_promotions.other_bonuses[1]",
+        "brandinfo_promotions.other_bonuses[2]",
+        "brandinfo_promotions.other_bonuses[3]"
+      ],
+      "words_min": 150,
+      "words_max": 190,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Weekly Reload",
+          "priority": 8
+        },
+        {
+          "name": "Weekend Reload Bonus",
+          "priority": 8
+        },
+        {
+          "name": "Daily Cashback",
+          "priority": 8
+        },
+        {
+          "name": "Live Cashback",
+          "priority": 7
+        },
+        {
+          "name": "VIP Levels",
+          "priority": 5
+        }
+      ],
+      "listed_entities": [
+        "Weekly Reload",
+        "Weekend Reload Bonus",
+        "Daily Cashback",
+        "Live Cashback"
+      ],
+      "entity_connections": [
+        {
+          "subject": "Daily Cashback",
+          "relation": "is available from",
+          "object": "VIP Level 2",
+          "priority": 7
+        },
+        {
+          "subject": "Live Cashback",
+          "relation": "returns a share of",
+          "object": "Live Casino losses",
+          "priority": 6
+        }
+      ],
+      "summary": "Recurring promotions after the welcome package: Weekly Reload, Weekend Reload Bonus, Daily Cashback and Live Cashback with rewards, minimum deposits and availability, plus their wagering rules.",
+      "copywriter_notes": "One lead-in sentence that carries a fact, then a table with the columns promotion, reward, minimum deposit and availability, one row for each of the four promotions: Weekly Reload (60 free spins, minimum 20 euro, Monday to Thursday), Weekend Reload Bonus (50 % up to 800 euro plus 80 free spins; minimum 20 euro, 50 euro for the free spins; Friday to Sunday), Daily Cashback (3 % to 15 % up to 400 euro, VIP levels 2 to 5, credited daily; use a dash where there is no minimum deposit), Live Cashback (25 % up to 200 euro, weekly, all VIP levels). Promotion names stay as given. After the table add a short passage: wagering of the Weekend Reload Bonus (deposit plus bonus x35, free spins winnings x40, 10 days), free spins of the Weekly Reload (x40, 7 days to use), cashback wagered once (x1) and activated in My Bonuses, the 5 euro maximum bet while wagering and that only one casino bonus can be active at a time. Do not repeat the welcome package. The Brand Information of this block carries no brand name; use no 'Cazeus' here.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "words": 170,
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses[0]",
+          "value": {
+            "name": "Weekly Reload",
+            "type": "Casino Free Spins",
+            "amount": "60 Free Spins",
+            "minimum_deposit": "€20",
+            "availability": "Monday to Thursday",
+            "claiming_method": [
+              "Opt in to the promotion each week.",
+              "Make the first qualifying weekly deposit of at least €20 between Monday and Thursday.",
+              "Activate the Free Spins in the My Bonuses section if required."
+            ],
+            "wagering_requirement": "Free Spins winnings x40",
+            "validity": "Free Spins must be used within 7 days; wagering must be completed within 10 days",
+            "maximum_cashout": "€100",
+            "maximum_bet_during_wagering": "€5",
+            "eligible_games": "A slot selected by the casino",
+            "promo_code_required": false,
+            "important_terms": [
+              "The qualifying deposit must be made before placing bets with the deposited funds.",
+              "Free Spins cannot be exchanged for another bonus or transferred to another game.",
+              "Uncompleted wagering requirements result in cancellation of the bonus and associated winnings.",
+              "The promotion cannot be combined with another active casino bonus."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1]",
+          "value": {
+            "name": "Weekend Reload Bonus",
+            "type": "Casino Deposit Bonus",
+            "bonus_percentage": "50%",
+            "maximum_bonus": "€800",
+            "additional_reward": "80 Free Spins",
+            "minimum_deposit": "€20",
+            "minimum_deposit_for_free_spins": "€50",
+            "availability": "Friday to Sunday",
+            "claiming_method": [
+              "Opt in to the promotion during the qualifying weekend.",
+              "Make the first qualifying weekly weekend deposit.",
+              "Activate the promotion through the My Bonuses section."
+            ],
+            "wagering_requirement": "(Deposit + bonus) x35",
+            "free_spins_wagering_requirement": "Free Spins winnings x40",
+            "validity": "10 days for bonus wagering; 7 days for Free Spins",
+            "maximum_bonus_cashout": "10x the credited bonus amount",
+            "maximum_free_spins_cashout": "€100",
+            "maximum_bet_during_wagering": "€5",
+            "promo_code_required": false,
+            "important_terms": [
+              "The 50% bonus is available from a qualifying deposit of €20.",
+              "The additional 80 Free Spins require a qualifying deposit of at least €50.",
+              "The Free Spins are assigned to a slot selected by the casino.",
+              "The wagering requirement must be completed within 10 days of activation.",
+              "Only one casino bonus can be active at a time.",
+              "Uncompleted wagering requirements result in forfeiture of the bonus and associated winnings."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2]",
+          "value": {
+            "name": "Daily Cashback",
+            "type": "Casino Cashback",
+            "bonus_percentage": "3%–15%",
+            "maximum_bonus": "€400",
+            "availability": "Daily",
+            "claiming_method": [
+              "Opt in to the promotion.",
+              "Play eligible casino games using real money.",
+              "Open My Bonuses and activate the credited cashback."
+            ],
+            "wagering_requirement": "Cashback x1",
+            "validity": "Cashback is credited daily; activation is required before expiry",
+            "eligible_vip_levels": [
+              "Level 2",
+              "Level 3",
+              "Level 4",
+              "Level 5"
+            ],
+            "level_rewards": {
+              "Level 2": {
+                "cashback_percentage": "3%",
+                "maximum_cashback": "€100"
+              },
+              "Level 3": {
+                "cashback_percentage": "5%",
+                "maximum_cashback": "€200"
+              },
+              "Level 4": {
+                "cashback_percentage": "10%",
+                "maximum_cashback": "€300"
+              },
+              "Level 5": {
+                "cashback_percentage": "15%",
+                "maximum_cashback": "€400"
+              }
+            },
+            "minimum_cashback": "€1",
+            "promo_code_required": false,
+            "important_terms": [
+              "Cashback is calculated from real-money casino bets minus real-money winnings.",
+              "Bonus funds are excluded from the cashback calculation.",
+              "The promotion applies to casino games only.",
+              "Cashback must be activated before expiry and wagered once before withdrawal."
+            ]
+          }
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[3]",
+          "value": {
+            "name": "Live Cashback",
+            "type": "Live Casino Cashback",
+            "bonus_percentage": "25%",
+            "maximum_bonus": "€200",
+            "availability": "Weekly, Monday to Sunday",
+            "claiming_method": [
+              "Opt in to the promotion.",
+              "Play eligible Live Casino games during the qualifying week.",
+              "Open My Bonuses on Monday and activate the credited cashback."
+            ],
+            "wagering_requirement": "Cashback x1",
+            "validity": "Weekly qualification period; credited rewards must be activated before expiry",
+            "eligible_vip_levels": [
+              "Level 1",
+              "Level 2",
+              "Level 3",
+              "Level 4",
+              "Level 5"
+            ],
+            "minimum_cashback": "€1",
+            "promo_code_required": false,
+            "important_terms": [
+              "Cashback is calculated from real-money Live Casino bets minus real-money winnings.",
+              "Bonus funds are excluded from the cashback calculation.",
+              "The reward is restricted to eligible Live Casino activity.",
+              "The cashback must be activated and wagered once before withdrawal."
+            ]
+          }
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 2
+      },
+      "words_base": [
+        150,
+        190
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 3,
+      "heading": "Challenges, Collections and Rewards Shop",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_promotions.gamification_features[0].how_it_works",
+        "brandinfo_promotions.gamification_features[1].availability",
+        "brandinfo_promotions.gamification_features[2].name",
+        "brandinfo_promotions.gamification_features[2].how_it_works",
+        "brandinfo_promotions.gamification_features[2].coin_earning_mechanics",
+        "brandinfo_promotions.gamification_features[3].spin_earning_mechanics"
+      ],
+      "words_min": 132,
+      "words_max": 168,
+      "keywords": {
+        "Cazeus": 2,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Rewards Shop",
+          "priority": 8
+        },
+        {
+          "name": "Coins",
+          "priority": 7
+        },
+        {
+          "name": "Wheel of Fortune",
+          "priority": 6
+        },
+        {
+          "name": "Challenges",
+          "priority": 5
+        },
+        {
+          "name": "Collections",
+          "priority": 4
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Coins",
+          "relation": "are exchanged in the shop for",
+          "object": "Bonus Money, Free Spins and Free Bets",
+          "priority": 7
+        },
+        {
+          "subject": "Casino Wagering",
+          "relation": "earns",
+          "object": "Wheel of Fortune Spins",
+          "priority": 6
+        }
+      ],
+      "summary": "Game-like reward features: challenges, collections, the coins shop and the Wheel of Fortune, with the rules for earning coins and spins.",
+      "copywriter_notes": "Start with the Rewards Shop: its name is 'Cazeus Shop' and its currency is 'Cazeus Coins' (both names contain the brand; use each of them exactly once, these are the two 'Cazeus' occurrences of this block; afterwards say 'coins' and 'the shop'). State how coins are earned (1 coin for every 10 euro wagered on eligible casino games, 5 % of each qualifying deposit as coins, tournament placements) and that they are exchanged for bonus money, bonus spins and sports free bets. Then the Wheel of Fortune in one compact passage: 1 spin per 100 euro wagered, at most 3 spins per day, wagering with an active bonus does not count. Then one sentence on Challenges (one-time and weekly tasks) and one on Collections (7 collections of 10 cards each). Keep the English product names Wheel of Fortune, Challenges and Collections as given. Do not invent reward amounts.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 150,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.gamification_features[0].how_it_works",
+          "value": "Players complete eligible tasks and progress through challenge objectives to earn coins and rewards."
+        },
+        {
+          "path": "brandinfo_promotions.gamification_features[1].availability",
+          "value": "7 collections, each containing 10 collectible cards"
+        },
+        {
+          "path": "brandinfo_promotions.gamification_features[2].name",
+          "value": "Cazeus Shop"
+        },
+        {
+          "path": "brandinfo_promotions.gamification_features[2].how_it_works",
+          "value": "Exchange accumulated Cazeus Coins for casino bonus money, bonus spins and sportsbook Free Bets."
+        },
+        {
+          "path": "brandinfo_promotions.gamification_features[2].coin_earning_mechanics",
+          "value": [
+            "Earn 1 Coin for every €10 wagered on eligible casino games.",
+            "Receive Coins equivalent to 5% of each qualifying deposit.",
+            "Coins may also be awarded for tournament participation and qualifying placements."
+          ]
+        },
+        {
+          "path": "brandinfo_promotions.gamification_features[3].spin_earning_mechanics",
+          "value": [
+            "Earn 1 spin for every €100 wagered on eligible casino games.",
+            "A maximum of 3 spins can be earned per day.",
+            "A maximum of 10 unused spins can be held at a time.",
+            "Wagering with an active bonus does not count toward Wheel of Fortune spins."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 8,
+        "entities": 5
+      },
+      "words_base": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Casino Games",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types"
+      ],
+      "words_min": 141,
+      "words_max": 179,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Game Categories",
+          "priority": 10
+        },
+        {
+          "name": "Slots",
+          "priority": 8
+        },
+        {
+          "name": "Table Games",
+          "priority": 6
+        },
+        {
+          "name": "Jackpots",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Game Categories",
+          "relation": "include",
+          "object": "Slots, Table Games, Jackpots and Instant Games",
+          "priority": 6
+        }
+      ],
+      "summary": "How the game lobby is organised: slots, table games, live casino, live game shows, jackpots, instant games, Megaways and bonus buy games.",
+      "copywriter_notes": "Describe how the lobby is organised (structure first): Slots, Table Games, Live Casino Games, Live Game Shows, Jackpots, Instant Games, Megaways and Bonus Buy Games, with a short explanation of Megaways and Bonus Buy in a clause each (general explanation, not brand claims). Mention that the sportsbook has its own section and that live casino and providers are described in the sub-sections below. Do not state any game count or provider here. Use 'Cazeus' exactly once. Link to the neighbouring topic with one fact-based sentence (for example that slots contribute 100 % to bonus wagering, as given in the bonus section) only if it fits naturally.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 160,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_types",
+          "value": [
+            "Slots",
+            "Table Games",
+            "Live Casino Games",
+            "Live Game Shows",
+            "Jackpots",
+            "Instant Games",
+            "Megaways",
+            "Bonus Buy Games",
+            "Sportsbook"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 4
+      },
+      "words_base": [
+        114,
+        146
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 3,
+      "heading": "Providers and Popular Slots",
+      "source": "unique",
+      "covers_clusters": [
+        "k03"
+      ],
+      "kb_refs": [
+        "brandinfo_games.providers",
+        "brandinfo_games.game_examples"
+      ],
+      "words_min": 106,
+      "words_max": 134,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Game Providers",
+          "priority": 9
+        },
+        {
+          "name": "Slots",
+          "priority": 7
+        },
+        {
+          "name": "RTP",
+          "priority": 6
+        },
+        {
+          "name": "Volatility",
+          "priority": 5
+        }
+      ],
+      "listed_entities": [
+        "Slots"
+      ],
+      "entity_connections": [
+        {
+          "subject": "Game Providers",
+          "relation": "supply",
+          "object": "the Slots of the Casino",
+          "priority": 7
+        },
+        {
+          "subject": "RTP",
+          "relation": "describes",
+          "object": "the Return to Player of a Slot",
+          "priority": 5
+        }
+      ],
+      "summary": "The studios behind the games and three example slots with provider, RTP, volatility and maximum multiplier.",
+      "copywriter_notes": "A short passage on the providers (put the three or four best-known ones into a sentence, the rest compactly; use only the provider names given in the Brand Information, Amusnet, BGaming, Play'n GO, Pragmatic Play, Spinomenal, Gamzix, Booongo, EGT, IGTech, Playson) followed by a table with the columns game, provider, RTP, volatility and maximum multiplier for the three example games, values exactly as given (keep 'Iron Dog Studio (1X2 Network)' and the several RTP values as listed). Add one general clause that several RTP values mean that different versions of a game exist, so the value is worth checking in the game info. Explain RTP and volatility in a clause each. Do not mention providers or games that are not in the Brand Information. The block carries no brand name; use no 'Cazeus' here.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "words": 120,
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.providers",
+          "value": [
+            "Amusnet",
+            "BGaming",
+            "Play’n GO",
+            "Pragmatic Play",
+            "Spinomenal",
+            "Gamzix",
+            "Booongo",
+            "EGT",
+            "IGTech",
+            "Playson"
+          ]
+        },
+        {
+          "path": "brandinfo_games.game_examples",
+          "value": [
+            {
+              "name": "Coin Spark",
+              "provider": "CROCO Games",
+              "RTP": "92% / 94% / 95% / 96%",
+              "volatility": "Medium",
+              "maximum_multiplier": "2,000x"
+            },
+            {
+              "name": "Piggy Party XL",
+              "provider": "CROCO Games",
+              "RTP": "96%",
+              "volatility": "High",
+              "maximum_multiplier": "5,000x"
+            },
+            {
+              "name": "3 Hot Chilli Peppers",
+              "provider": "Iron Dog Studio (1X2 Network)",
+              "RTP": "95% / 93% / 91%",
+              "volatility": "High",
+              "maximum_multiplier": "10,000x"
+            }
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 2,
+        "entities": 4
+      },
+      "words_base": [
+        97,
+        123
+      ]
+    },
+    {
+      "id": "b09",
+      "level": 3,
+      "heading": "Live Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k05"
+      ],
+      "kb_refs": [
+        "brandinfo_games.game_types[2]",
+        "brandinfo_games.game_types[3]",
+        "brandinfo_welcome.welcome_bonus.game_contribution.live_games",
+        "brandinfo_promotions.other_bonuses[3].bonus_percentage",
+        "brandinfo_promotions.other_bonuses[3].maximum_bonus",
+        "brandinfo_promotions.other_bonuses[3].important_terms[0]"
+      ],
+      "words_min": 110,
+      "words_max": 140,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Live Casino",
+          "priority": 10
+        },
+        {
+          "name": "Live Game Shows",
+          "priority": 6
+        },
+        {
+          "name": "Live Cashback",
+          "priority": 7
+        },
+        {
+          "name": "Wagering Contribution",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Live Cashback",
+          "relation": "returns a share of",
+          "object": "Live Casino losses",
+          "priority": 7
+        },
+        {
+          "subject": "Live Casino",
+          "relation": "contributes 10 percent to",
+          "object": "Bonus Wagering",
+          "priority": 6
+        }
+      ],
+      "summary": "The live casino: live casino games and live game shows, the weekly Live Cashback and the low contribution of live games to bonus wagering.",
+      "copywriter_notes": "Lead with the Live Casino and its two parts, live casino games and live game shows (explain in a clause that real dealers or hosts run the games, general knowledge). Then Live Cashback: 25 % up to 200 euro, calculated from real-money Live Casino bets minus real-money winnings. Then the consequence: live games contribute only 10 % to bonus wagering. Do not name live providers (none are given). Use 'Cazeus' exactly once. Do not repeat the full Live Cashback terms of the promotions table.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 125,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_games.game_types[2]",
+          "value": "Live Casino Games"
+        },
+        {
+          "path": "brandinfo_games.game_types[3]",
+          "value": "Live Game Shows"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.game_contribution.live_games",
+          "value": "10%"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[3].bonus_percentage",
+          "value": "25%"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[3].maximum_bonus",
+          "value": "€200"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[3].important_terms[0]",
+          "value": "Cashback is calculated from real-money Live Casino bets minus real-money winnings."
+        }
+      ],
+      "coverage_units": {
+        "facts": 6,
+        "entities": 4
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b10",
+      "level": 2,
+      "heading": "Sports Betting",
+      "source": "unique",
+      "covers_clusters": [
+        "k07"
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_available",
+        "brandinfo_sportsbook.sportsbook.minimum_bet",
+        "brandinfo_sportsbook.sportsbook.live_betting.features",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].bonus_percentage",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].maximum_bonus",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].country_specific_wagering.Norway"
+      ],
+      "words_min": 188,
+      "words_max": 238,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Sportsbook",
+          "priority": 10
+        },
+        {
+          "name": "Sports Welcome Bonus",
+          "priority": 8
+        },
+        {
+          "name": "Live Betting",
+          "priority": 7
+        },
+        {
+          "name": "Wagering Requirement",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Sportsbook",
+          "relation": "offers",
+          "object": "Live Betting with Cash Out",
+          "priority": 7
+        },
+        {
+          "subject": "Sports Welcome Bonus",
+          "relation": "carries",
+          "object": "a Wagering Requirement of 5 for Norway",
+          "priority": 7
+        }
+      ],
+      "summary": "The sportsbook: sports covered, minimum bet, live betting features and the sports welcome bonus with the wagering requirement valid for Norway.",
+      "copywriter_notes": "Structure first: the sportsbook with its sports (name the main ones, the rest compactly), the minimum bet of 1 euro and live betting with its features (in-play betting, Cash Out, Bet Builder, live markets, enhanced odds, early payout). Then the Sports Welcome Bonus for new customers: 100 % up to 100 euro. State the wagering that applies to Norway, (deposit + bonus) x5, as the figure for Norwegian players and do not mention the higher general figure. Explain wagering in a clause if it was not explained earlier on the page. Note that the sports bonus is separate from the casino package. Use 'Cazeus' exactly once. No promises, no 'best odds' claims.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 213,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_available",
+          "value": [
+            "Football",
+            "Basketball",
+            "Motorsports",
+            "Tennis",
+            "Baseball",
+            "Table Tennis",
+            "Ice Hockey",
+            "American Football",
+            "Esports",
+            "Virtual Sports",
+            "Other international sports"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.minimum_bet",
+          "value": "€1"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.live_betting.features",
+          "value": [
+            "In-play betting",
+            "Cash Out",
+            "Bet Builder",
+            "Live markets",
+            "Enhanced odds on selected events",
+            "Early payout on qualifying events"
+          ]
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].bonus_percentage",
+          "value": "100%"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].maximum_bonus",
+          "value": "€100"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].country_specific_wagering.Norway",
+          "value": "(Deposit + bonus) x5"
+        }
+      ],
+      "coverage_units": {
+        "facts": 11,
+        "entities": 4
+      },
+      "words_base": [
+        150,
+        190
+      ]
+    },
+    {
+      "id": "b11",
+      "level": 2,
+      "heading": "Cazeus Registration and Login",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.registration.steps",
+        "brandinfo_account.registration.required_information",
+        "brandinfo_account.login.steps",
+        "brandinfo_account.login.password_recovery",
+        "brandinfo_welcome.welcome_bonus.claiming_conditions[1]"
+      ],
+      "words_min": 142,
+      "words_max": 182,
+      "keywords": {
+        "Cazeus": 2,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Registration Form",
+          "priority": 10
+        },
+        {
+          "name": "Required Personal Information",
+          "priority": 7
+        },
+        {
+          "name": "Login",
+          "priority": 7
+        },
+        {
+          "name": "Password Recovery",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Registration",
+          "relation": "requires",
+          "object": "Personal Information",
+          "priority": 7
+        },
+        {
+          "subject": "Password Recovery",
+          "relation": "restores",
+          "object": "Account Access",
+          "priority": 5
+        }
+      ],
+      "summary": "How to create an account and log in: the six registration steps, the personal data requested, the choice of the welcome package and password recovery.",
+      "copywriter_notes": "One lead-in sentence, then a numbered list of the six registration steps in the given order (reworded for the page language, not copied word by word). After the list a short paragraph: the personal data requested (name, date of birth, e-mail, phone number, country, gender, username, postal code, ID number where required), that the welcome package is selected during registration or before the qualifying deposit, then login via the Log In option and password recovery via 'Forgot your password?'. The tracked keyword 'Cazeus' appears exactly twice in this block: once in the first registration step (the website) and once in the login passage. No other brand mention. Do not claim registration is possible for every country.",
+      "formats": [
+        "paragraph",
+        "list"
+      ],
+      "words": 162,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.registration.steps",
+          "value": [
+            "Open the Cazeus website and select Register.",
+            "Complete the registration form using accurate personal information.",
+            "Choose the applicable account and welcome-bonus preferences.",
+            "Submit the registration form.",
+            "Access the player profile and complete any requested account setup steps.",
+            "Make a qualifying deposit if required for the selected promotion."
+          ]
+        },
+        {
+          "path": "brandinfo_account.registration.required_information",
+          "value": [
+            "Full name",
+            "Date of birth",
+            "Email address",
+            "Phone number",
+            "Country",
+            "Gender",
+            "Username",
+            "Postal code",
+            "Social security or equivalent identification number where required"
+          ]
+        },
+        {
+          "path": "brandinfo_account.login.steps",
+          "value": [
+            "Open Cazeus.",
+            "Select Log In.",
+            "Enter the registered login credentials.",
+            "Submit the form to access the player account."
+          ]
+        },
+        {
+          "path": "brandinfo_account.login.password_recovery",
+          "value": [
+            "Open the login form.",
+            "Select Forgot your password?",
+            "Follow the password-reset instructions provided by the website.",
+            "Use the recovered or reset credentials to log in again."
+          ]
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming_conditions[1]",
+          "value": "Select the casino welcome package during registration or before making the qualifying deposit."
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 4
+      },
+      "words_base": [
+        114,
+        146
+      ]
+    },
+    {
+      "id": "b12",
+      "level": 3,
+      "heading": "Account Verification",
+      "source": "unique",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_account.verification.required_documents",
+        "brandinfo_account.verification.submission_deadline",
+        "brandinfo_account.verification.usual_processing_time",
+        "brandinfo_account.verification.important_terms[1]"
+      ],
+      "words_min": 110,
+      "words_max": 140,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Identity Verification",
+          "priority": 10
+        },
+        {
+          "name": "Required Documents",
+          "priority": 7
+        },
+        {
+          "name": "Processing Time",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Identity Verification",
+          "relation": "may precede",
+          "object": "Deposits and Withdrawals",
+          "priority": 7
+        },
+        {
+          "subject": "Player",
+          "relation": "submits",
+          "object": "Documents within 30 days",
+          "priority": 6
+        }
+      ],
+      "summary": "Verification: which documents may be requested, the 30-day submission deadline, the usual 10-day processing time and the effect of incomplete verification on payments.",
+      "copywriter_notes": "Explain KYC in a clause. Name the documents that may be requested (ID document, proof of address, proof of payment method ownership, source-of-funds evidence when requested) in a sentence, not as a list. State the deadline of 30 days from the request and the usual processing within 10 days after all information has been supplied, and that deposits or withdrawals may be blocked while verification is incomplete. Give a practical hint to prepare the documents early. No brand name is needed here; use no 'Cazeus'.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 125,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_account.verification.required_documents",
+          "value": [
+            "Passport, national identity card or driving licence",
+            "Proof of residential address",
+            "Proof of ownership of the payment method",
+            "Bank or payment-account statements",
+            "Transaction history",
+            "Source-of-funds or source-of-wealth evidence when requested"
+          ]
+        },
+        {
+          "path": "brandinfo_account.verification.submission_deadline",
+          "value": "Within 30 days of the verification request"
+        },
+        {
+          "path": "brandinfo_account.verification.usual_processing_time",
+          "value": "Within 10 days after all requested information has been supplied"
+        },
+        {
+          "path": "brandinfo_account.verification.important_terms[1]",
+          "value": "Deposits or withdrawals may be blocked while verification remains incomplete."
+        }
+      ],
+      "coverage_units": {
+        "facts": 6,
+        "entities": 3
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b13",
+      "level": 2,
+      "heading": "Deposits and Withdrawals",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k13"
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.additional_payment_data.minimum_deposit",
+        "brandinfo_deposit.additional_payment_data.maximum_deposit",
+        "brandinfo_deposit.additional_payment_data.general_conditions[0]",
+        "brandinfo_deposit.additional_payment_data.general_conditions[1]"
+      ],
+      "words_min": 78,
+      "words_max": 98,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Cashier",
+          "priority": 8
+        },
+        {
+          "name": "Payment Methods",
+          "priority": 7
+        },
+        {
+          "name": "Account Holder",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Cashier",
+          "relation": "handles",
+          "object": "Deposits and Withdrawals",
+          "priority": 6
+        }
+      ],
+      "summary": "Short introduction to payments: general deposit limits, dependence of the methods on country and currency, and the rule that the payment method must belong to the account holder.",
+      "copywriter_notes": "Introduction to the two sub-sections only. State the general deposit range (minimum 10 euro, maximum 10 000 euro per deposit; each method has its own limits, shown in the table below, and the welcome package has a higher minimum, which is described in the bonus section). Say that the available methods depend on the country, the account currency and the payment provider, and that the method must belong to the account holder. Lead into the sub-sections on deposit methods and withdrawals. No table and no list here. No brand name needed.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 88,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_deposit.additional_payment_data.minimum_deposit",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_deposit.additional_payment_data.maximum_deposit",
+          "value": "€10,000"
+        },
+        {
+          "path": "brandinfo_deposit.additional_payment_data.general_conditions[0]",
+          "value": "Available methods depend on the country, account currency and payment provider."
+        },
+        {
+          "path": "brandinfo_deposit.additional_payment_data.general_conditions[1]",
+          "value": "The payment method must belong to the account holder."
+        }
+      ],
+      "coverage_units": {
+        "facts": 4,
+        "entities": 3
+      },
+      "words_base": [
+        62,
+        78
+      ]
+    },
+    {
+      "id": "b14",
+      "level": 3,
+      "heading": "Deposit Methods",
+      "source": "unique",
+      "covers_clusters": [
+        "k14"
+      ],
+      "kb_refs": [
+        "brandinfo_deposit.deposit_methods",
+        "brandinfo_deposit.deposit_guide"
+      ],
+      "words_min": 114,
+      "words_max": 146,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Payment Methods",
+          "priority": 10
+        },
+        {
+          "name": "Bank Cards",
+          "priority": 6
+        },
+        {
+          "name": "E-wallets",
+          "priority": 6
+        },
+        {
+          "name": "Cryptocurrencies",
+          "priority": 6
+        },
+        {
+          "name": "Prepaid Vouchers",
+          "priority": 5
+        }
+      ],
+      "listed_entities": [
+        "Bank Cards",
+        "E-wallets",
+        "Cryptocurrencies",
+        "Prepaid Vouchers"
+      ],
+      "entity_connections": [
+        {
+          "subject": "Payment Methods",
+          "relation": "differ in",
+          "object": "Minimum and Maximum Amounts",
+          "priority": 7
+        },
+        {
+          "subject": "Cryptocurrency Deposits",
+          "relation": "are credited after",
+          "object": "Network Confirmation",
+          "priority": 6
+        }
+      ],
+      "summary": "Deposit methods with minimum, maximum and speed, and how a deposit is made in the cashier.",
+      "copywriter_notes": "One short paragraph first: the deposit steps in the cashier in one or two sentences (log in, open the Cashier, choose Deposit, pick a method, enter the amount, confirm) and the fee rule (no casino deposit fee; provider or blockchain fees may apply). Then a table with the columns method, minimum, maximum and speed for eight rows: Visa, Mastercard, Paysafecard, Neteller, MiFinity, Bitcoin, Ethereum and Tether USDT (take the first Tether USDT entry), values exactly as given in the Brand Information (card, wallet and voucher methods are instant; crypto is instant after network confirmation). Do not include Interac in the table. After the table one sentence that further crypto currencies (name them as given) and Cash2Code are available, subject to country. Do not use any brand name here.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "words": 130,
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_deposit.deposit_methods",
+          "value": [
+            {
+              "method": "Interac",
+              "minimum": "€10",
+              "maximum": "€10,000",
+              "fee": "No casino deposit fee; provider fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "CAD"
+              ]
+            },
+            {
+              "method": "Visa",
+              "minimum": "€20",
+              "maximum": "€4,000",
+              "fee": "No casino deposit fee; card issuer fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR",
+                "USD",
+                "CAD"
+              ]
+            },
+            {
+              "method": "Mastercard",
+              "minimum": "€20",
+              "maximum": "€4,000",
+              "fee": "No casino deposit fee; card issuer fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR",
+                "USD",
+                "CAD"
+              ]
+            },
+            {
+              "method": "Paysafecard",
+              "minimum": "€15",
+              "maximum": "€1,400",
+              "fee": "Provider fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR",
+                "USD"
+              ]
+            },
+            {
+              "method": "Neteller",
+              "minimum": "€20",
+              "maximum": "€7,800",
+              "fee": "No casino deposit fee; provider fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR",
+                "USD",
+                "CAD"
+              ]
+            },
+            {
+              "method": "Cash2Code",
+              "minimum": "€20",
+              "maximum": "€1,500",
+              "fee": "Provider fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR",
+                "USD"
+              ]
+            },
+            {
+              "method": "MiFinity",
+              "minimum": "€15",
+              "maximum": "€3,750",
+              "fee": "No casino deposit fee; provider fees may apply",
+              "transaction_speed": "Instant",
+              "currencies": [
+                "EUR",
+                "USD",
+                "CAD"
+              ]
+            },
+            {
+              "method": "Bitcoin",
+              "minimum": "€45",
+              "maximum": "€10,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "BTC"
+              ]
+            },
+            {
+              "method": "Dogecoin",
+              "minimum": "€20",
+              "maximum": "€7,800",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "DOGE"
+              ]
+            },
+            {
+              "method": "Tether USDT",
+              "network": "ERC20",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "USDT"
+              ]
+            },
+            {
+              "method": "Tether USDT",
+              "network": "Solana",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "USDT"
+              ]
+            },
+            {
+              "method": "Tether USDT",
+              "network": "BEP20",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "USDT"
+              ]
+            },
+            {
+              "method": "Tether USDT",
+              "network": "TRC20",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "USDT"
+              ]
+            },
+            {
+              "method": "Ethereum",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "ETH"
+              ]
+            },
+            {
+              "method": "Litecoin",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "LTC"
+              ]
+            },
+            {
+              "method": "Tron",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "TRX"
+              ]
+            },
+            {
+              "method": "USD Coin",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "USDC"
+              ]
+            },
+            {
+              "method": "BNB",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "BNB"
+              ]
+            },
+            {
+              "method": "Solana",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "SOL"
+              ]
+            },
+            {
+              "method": "USD Coin",
+              "network": "Solana",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "USDC"
+              ]
+            },
+            {
+              "method": "Cardano",
+              "minimum": "€20",
+              "maximum": "€8,000",
+              "fee": "Blockchain network fees may apply",
+              "transaction_speed": "Instant after network confirmation",
+              "currencies": [
+                "ADA"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_deposit.deposit_guide",
+          "value": [
+            "Log in to your Cazeus account.",
+            "Open the Cashier or Payments section.",
+            "Select Deposit.",
+            "Choose an available payment method.",
+            "Enter the deposit amount within the limits displayed for the selected method.",
+            "Enter the requested payment or wallet details.",
+            "Confirm the transaction through the payment provider.",
+            "Wait for the payment to be processed and the funds to appear in your account."
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 2,
+        "entities": 2
+      },
+      "words_base": [
+        114,
+        146
+      ]
+    },
+    {
+      "id": "b15",
+      "level": 3,
+      "heading": "Withdrawals",
+      "source": "unique",
+      "covers_clusters": [
+        "k15"
+      ],
+      "kb_refs": [
+        "brandinfo_withdrawal.additional_payment_data.minimum_withdrawal",
+        "brandinfo_withdrawal.additional_payment_data.maximum_withdrawal",
+        "brandinfo_withdrawal.additional_payment_data.withdrawal_speed",
+        "brandinfo_withdrawal.additional_payment_data.general_conditions[0]",
+        "brandinfo_withdrawal.additional_payment_data.general_conditions[2]",
+        "brandinfo_withdrawal.additional_payment_data.general_conditions[7]"
+      ],
+      "words_min": 165,
+      "words_max": 210,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Withdrawal Request",
+          "priority": 10
+        },
+        {
+          "name": "Processing Time",
+          "priority": 8
+        },
+        {
+          "name": "Withdrawal Limits",
+          "priority": 7
+        },
+        {
+          "name": "Payment Method",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Withdrawal Request",
+          "relation": "is reviewed by",
+          "object": "the Financial Department",
+          "priority": 7
+        },
+        {
+          "subject": "Verification",
+          "relation": "may precede",
+          "object": "the Payout",
+          "priority": 6
+        }
+      ],
+      "summary": "How withdrawals work: minimum and maximum amount, processing time, the preference for the deposit method, the deposit rollover and the VIP limits.",
+      "copywriter_notes": "Lead with the withdrawal request and the processing: the financial department processes requests within 3 business days when requirements and checks are complete, and payment delivery may take additional time. State the minimum of 10 euro and the maximum of 10 000 euro per transaction, subject to method and account limits. Resolve the apparent conflict like this: the 10 000 euro is the ceiling per transaction, but VIP daily and monthly limits apply and are lower at lower levels (details in the VIP Club section); never suggest that a player can withdraw 10 000 euro at once. Then: withdrawals go back to the deposit method where possible, a deposit rollover of x1 applies, and verification may be requested first (link to the verification sub-section). Do not use the competitors' claims of payout within one hour. Use 'Cazeus' exactly once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 188,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_withdrawal.additional_payment_data.minimum_withdrawal",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_withdrawal.additional_payment_data.maximum_withdrawal",
+          "value": "€10,000 per transaction, subject to method and account limits"
+        },
+        {
+          "path": "brandinfo_withdrawal.additional_payment_data.withdrawal_speed",
+          "value": "The financial department processes requests within 3 business days when requirements and checks are complete; payment delivery may take additional time."
+        },
+        {
+          "path": "brandinfo_withdrawal.additional_payment_data.general_conditions[0]",
+          "value": "Where possible, withdrawals are processed using the same payment method used for deposits."
+        },
+        {
+          "path": "brandinfo_withdrawal.additional_payment_data.general_conditions[2]",
+          "value": "A minimum deposit rollover of x1 applies before withdrawal."
+        },
+        {
+          "path": "brandinfo_withdrawal.additional_payment_data.general_conditions[7]",
+          "value": "VIP daily and monthly withdrawal limits apply."
+        }
+      ],
+      "coverage_units": {
+        "facts": 6,
+        "entities": 4
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b16",
+      "level": 2,
+      "heading": "VIP Club",
+      "source": "unique",
+      "covers_clusters": [
+        "k11"
+      ],
+      "kb_refs": [
+        "brandinfo_loyalty.loyalty_vip_program.name",
+        "brandinfo_loyalty.loyalty_vip_program.levels",
+        "brandinfo_loyalty.loyalty_vip_program.progression.evaluation_period",
+        "brandinfo_loyalty.loyalty_vip_program.progression.criteria",
+        "brandinfo_loyalty.loyalty_vip_program.progression.downgrade_rule"
+      ],
+      "words_min": 142,
+      "words_max": 182,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "VIP Club",
+          "priority": 10
+        },
+        {
+          "name": "VIP Levels",
+          "priority": 8
+        },
+        {
+          "name": "Withdrawal Limits",
+          "priority": 7
+        },
+        {
+          "name": "Cashback",
+          "priority": 6
+        },
+        {
+          "name": "Personal VIP Manager",
+          "priority": 4
+        }
+      ],
+      "listed_entities": [
+        "VIP Levels"
+      ],
+      "entity_connections": [
+        {
+          "subject": "VIP Level",
+          "relation": "determines",
+          "object": "Withdrawal Limits",
+          "priority": 7
+        },
+        {
+          "subject": "Higher VIP Levels",
+          "relation": "unlock",
+          "object": "higher Daily Cashback",
+          "priority": 6
+        }
+      ],
+      "summary": "The VIP Club with five levels: withdrawal limits and benefits by level, evaluation period, criteria and downgrade rule.",
+      "copywriter_notes": "One lead-in sentence on the VIP Club with 5 levels and how progression is judged (90 calendar days; deposit activity, withdrawal activity and bonuses received). Then a table with the columns level, daily withdrawal limit, monthly withdrawal limit and main benefits for all five levels, values exactly as given (levels 4 and 5 add personalised offers and a personal VIP manager; the Daily Cashback of levels 2 to 5 may be mentioned in one sentence with the figures of the benefits column: 3 % up to 100 euro, 5 % up to 200 euro, 10 % up to 300 euro, 15 % up to 400 euro). After the table one sentence on the downgrade rule: no active bets for one month leads to Level 1. Keep the name VIP Club. No brand name needed here.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "words": 162,
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.name",
+          "value": "VIP Club"
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.levels",
+          "value": [
+            {
+              "name": "Level 1",
+              "daily_withdrawal_limit": "€500",
+              "monthly_withdrawal_limit": "€7,000",
+              "benefits": [
+                "Access to on-site promotions",
+                "24/7 live chat support",
+                "Eligibility for Live Cashback"
+              ]
+            },
+            {
+              "name": "Level 2",
+              "daily_withdrawal_limit": "€500",
+              "monthly_withdrawal_limit": "€10,000",
+              "benefits": [
+                "Access to on-site promotions",
+                "24/7 live chat support",
+                "Eligibility for Daily Cashback at 3% up to €100",
+                "Eligibility for Live Cashback"
+              ]
+            },
+            {
+              "name": "Level 3",
+              "daily_withdrawal_limit": "€800",
+              "monthly_withdrawal_limit": "€12,000",
+              "benefits": [
+                "Higher withdrawal limits",
+                "Access to on-site promotions",
+                "24/7 live chat support",
+                "Eligibility for Daily Cashback at 5% up to €200",
+                "Eligibility for Live Cashback"
+              ]
+            },
+            {
+              "name": "Level 4",
+              "daily_withdrawal_limit": "€1,000",
+              "monthly_withdrawal_limit": "€15,000",
+              "benefits": [
+                "Personalized offers",
+                "Higher withdrawal limits",
+                "Personal VIP manager",
+                "Access to on-site promotions",
+                "Eligibility for Daily Cashback at 10% up to €300",
+                "Eligibility for Live Cashback"
+              ]
+            },
+            {
+              "name": "Level 5",
+              "daily_withdrawal_limit": "€1,500",
+              "monthly_withdrawal_limit": "€20,000",
+              "benefits": [
+                "Personalized offers",
+                "Highest VIP withdrawal limits",
+                "Personal VIP manager",
+                "Access to on-site promotions",
+                "Eligibility for Daily Cashback at 15% up to €400",
+                "Eligibility for Live Cashback"
+              ]
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.progression.evaluation_period",
+          "value": "90 calendar days"
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.progression.criteria",
+          "value": [
+            "Deposit activity",
+            "Withdrawal activity",
+            "Bonuses received"
+          ]
+        },
+        {
+          "path": "brandinfo_loyalty.loyalty_vip_program.progression.downgrade_rule",
+          "value": "A player who has not actively placed bets for one month is automatically downgraded to Level 1."
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 5
+      },
+      "words_base": [
+        114,
+        146
+      ]
+    },
+    {
+      "id": "b17",
+      "level": 2,
+      "heading": "Mobile Casino and App",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k16"
+      ],
+      "kb_refs": [
+        "brandinfo_app.app_information.mobile_app",
+        "brandinfo_app.app_information.access_method",
+        "brandinfo_app.app_information.features"
+      ],
+      "words_min": 99,
+      "words_max": 126,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Mobile Website",
+          "priority": 10
+        },
+        {
+          "name": "Browser Access",
+          "priority": 6
+        },
+        {
+          "name": "Dedicated App",
+          "priority": 6
+        },
+        {
+          "name": "Sportsbook",
+          "priority": 4
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Mobile Website",
+          "relation": "replaces",
+          "object": "a Dedicated App",
+          "priority": 7
+        }
+      ],
+      "summary": "Mobile play: there is no dedicated app, the casino is used through the mobile-optimised website in a browser, with the main functions available.",
+      "copywriter_notes": "State clearly that there is no dedicated native app and that the mobile-optimised website is used in the browser without installation (installation is not required: this is a general consequence of browser access). Access: open cazeus.com in a supported browser; print the domain exactly as 'cazeus.com' once, this is the one 'Cazeus' occurrence of this block, so no other brand mention. Name what is available on mobile (casino games, live casino, sportsbook with live betting, registration and login, promotions and VIP features, payments, support by live chat and e-mail), at a pace of a sentence or two, not as a list. Do not mention app stores, APK files or iOS/Android specifics.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 112,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_app.app_information.mobile_app",
+          "value": "No dedicated native mobile application"
+        },
+        {
+          "path": "brandinfo_app.app_information.access_method",
+          "value": "Open cazeus.com in a supported web browser."
+        },
+        {
+          "path": "brandinfo_app.app_information.features",
+          "value": [
+            "Access to casino games",
+            "Access to Live Casino",
+            "Sportsbook and live betting",
+            "Account registration and login",
+            "Promotions and VIP features",
+            "Deposits and withdrawals through supported payment methods",
+            "Customer support through live chat and email"
+          ]
+        }
+      ],
+      "coverage_units": {
+        "facts": 5,
+        "entities": 4
+      },
+      "words_base": [
+        79,
+        101
+      ]
+    },
+    {
+      "id": "b18",
+      "level": 2,
+      "heading": "Licence, Security and Data Protection",
+      "source": "unique",
+      "covers_clusters": [
+        "k17"
+      ],
+      "kb_refs": [
+        "brandinfo_general.licences[0]",
+        "brandinfo_privacy_policy.data_security.measures",
+        "brandinfo_privacy_policy.privacy_requests.data_protection_officer"
+      ],
+      "words_min": 165,
+      "words_max": 210,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Gambling Licence",
+          "priority": 10
+        },
+        {
+          "name": "Regulator",
+          "priority": 7
+        },
+        {
+          "name": "Security Measures",
+          "priority": 6
+        },
+        {
+          "name": "Data Protection Officer",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Regulator",
+          "relation": "issued",
+          "object": "the Gambling Licence",
+          "priority": 7
+        },
+        {
+          "subject": "Data Protection Officer",
+          "relation": "handles",
+          "object": "Privacy Requests",
+          "priority": 6
+        }
+      ],
+      "summary": "The licence record, the security and data-protection measures and the contact of the data protection officer.",
+      "copywriter_notes": "Licence: state exactly as given: regulator PAGCOR, licence number IGL-24-0021, operator Liernin Enterprises Ltd. The Brand Information marks it as a historical record whose current validity is unconfirmed: say so calmly in one sentence (historical record, current validity not confirmed) and advise the reader to verify the status with the regulator before depositing; never call the licence valid, active or current. PAGCOR may be described as the gaming regulator of the Philippines (general knowledge); say that this is not a Norwegian licence and never suggest that the casino is approved or legal in Norway. Then the security: administrative, technical and physical safeguards against unauthorised access, loss, theft and misuse (pace them in a sentence, not a list) and one calm sentence that absolute security of internet transmission cannot be guaranteed. Then privacy requests go to the data protection officer, whose address is printed exactly as dpo@cazeus.com; this address is the one 'Cazeus' occurrence of this block, so no other brand mention.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 188,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.licences[0]",
+          "value": {
+            "regulator": "PAGCOR",
+            "licence_number": "IGL-24-0021",
+            "operator": "Liernin Enterprises Ltd",
+            "status": "Historical record; current validity is unconfirmed"
+          }
+        },
+        {
+          "path": "brandinfo_privacy_policy.data_security.measures",
+          "value": [
+            "Administrative safeguards",
+            "Technical safeguards",
+            "Physical safeguards",
+            "Protection against unauthorized access",
+            "Protection against loss, theft and misuse",
+            "Measures to protect data from unauthorized disclosure, alteration and destruction",
+            "Ongoing assessment and improvement of security practices"
+          ]
+        },
+        {
+          "path": "brandinfo_privacy_policy.privacy_requests.data_protection_officer",
+          "value": "dpo@cazeus.com"
+        }
+      ],
+      "coverage_units": {
+        "facts": 8,
+        "entities": 4
+      },
+      "words_base": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b19",
+      "level": 2,
+      "heading": "Customer Support",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k18"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support.email",
+        "brandinfo_general.customer_support.live_chat",
+        "brandinfo_general.customer_support.availability"
+      ],
+      "words_min": 88,
+      "words_max": 112,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Customer Support",
+          "priority": 10
+        },
+        {
+          "name": "Live Chat",
+          "priority": 8
+        },
+        {
+          "name": "E-mail Support",
+          "priority": 7
+        },
+        {
+          "name": "24/7 Availability",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Customer Support",
+          "relation": "is reachable through",
+          "object": "Live Chat and E-mail",
+          "priority": 7
+        },
+        {
+          "subject": "Live Chat",
+          "relation": "operates",
+          "object": "24/7",
+          "priority": 6
+        }
+      ],
+      "summary": "Support channels: live chat and e-mail, available around the clock.",
+      "copywriter_notes": "Lead with the two channels, live chat and e-mail, and state the 24/7 availability. Print the e-mail address exactly as 'support@cazeus.com' once; it is the one 'Cazeus' occurrence of this block, so no other brand mention. Add what support is useful for in a clause or two, only from facts on the page (account access, verification, responsible gambling requests); do not claim response times, phone support or Norwegian-language support, none is given.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 100,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support.email",
+          "value": "support@cazeus.com"
+        },
+        {
+          "path": "brandinfo_general.customer_support.live_chat",
+          "value": true
+        },
+        {
+          "path": "brandinfo_general.customer_support.availability",
+          "value": "24/7"
+        }
+      ],
+      "coverage_units": {
+        "facts": 3,
+        "entities": 4
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    },
+    {
+      "id": "b20",
+      "level": 2,
+      "heading": "Responsible Gambling",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k19"
+      ],
+      "kb_refs": [
+        "brandinfo_responsible_gaming.responsible_gaming.general_principles",
+        "brandinfo_responsible_gaming.responsible_gaming.temporary_exclusion.availability",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.contact",
+        "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.processing",
+        "brandinfo_responsible_gaming.responsible_gaming.deposit_limits.availability",
+        "brandinfo_responsible_gaming.responsible_gaming.external_support[0].name",
+        "brandinfo_responsible_gaming.responsible_gaming.external_support[1].name",
+        "brandinfo_responsible_gaming.responsible_gaming.external_support[2].name"
+      ],
+      "words_min": 154,
+      "words_max": 196,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Self-Exclusion",
+          "priority": 10
+        },
+        {
+          "name": "Responsible Gambling Principles",
+          "priority": 7
+        },
+        {
+          "name": "External Support Organisations",
+          "priority": 7
+        },
+        {
+          "name": "Gambling Limits",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Self-Exclusion",
+          "relation": "leads to the closure of",
+          "object": "the Player Account",
+          "priority": 7
+        },
+        {
+          "subject": "Players",
+          "relation": "can turn to",
+          "object": "GamCare, Gamblers Anonymous and Gambling Therapy",
+          "priority": 6
+        }
+      ],
+      "summary": "Responsible gambling at the casino: principles, temporary break and self-exclusion by e-mail, the absence of deposit, loss and session limits, and external support organisations.",
+      "copywriter_notes": "Start with the principles (gambling is entertainment, not income; play only with money one can afford to lose; watch time and money; do not chase losses) in two sentences. Then the tools: a temporary break and self-exclusion are available on request to support, address printed exactly as support@cazeus.com (the one 'Cazeus' occurrence of this block, so no other brand mention), the account is closed as soon as practicable, and the player remains responsible for not opening new accounts. State calmly, once, that deposit limits, loss limits and session time limits are not offered, and what that means for the player (self-control and external help matter more). Then name GamCare, Gamblers Anonymous and Gambling Therapy as external support. Mention 18+ only if it fits. Serious, helpful tone; no moralising. Do not name other organisations.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 175,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.general_principles",
+          "value": [
+            "Gambling should be treated as entertainment rather than a source of income.",
+            "Players should gamble only with money they can afford to lose.",
+            "Players should monitor the time and money spent gambling.",
+            "Players should avoid chasing losses."
+          ]
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.temporary_exclusion.availability",
+          "value": true
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.contact",
+          "value": "support@cazeus.com"
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.self_exclusion.processing",
+          "value": "The account will be closed as soon as practicable."
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.deposit_limits.availability",
+          "value": false
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.external_support[0].name",
+          "value": "GamCare"
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.external_support[1].name",
+          "value": "Gamblers Anonymous"
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.external_support[2].name",
+          "value": "Gambling Therapy"
+        }
+      ],
+      "coverage_units": {
+        "facts": 9,
+        "entities": 4
+      },
+      "words_base": [
+        123,
+        157
+      ]
+    },
+    {
+      "id": "b21",
+      "level": 2,
+      "heading": "Player Experience: Pros and Cons",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k21"
+      ],
+      "kb_refs": [
+        "brandinfo_general.overview.casino_welcome_package",
+        "brandinfo_general.overview.mobile_app",
+        "brandinfo_general.overview.vip_program",
+        "brandinfo_general.customer_support.availability",
+        "brandinfo_responsible_gaming.responsible_gaming.deposit_limits.availability",
+        "brandinfo_general.licences[0].status"
+      ],
+      "words_min": 110,
+      "words_max": 140,
+      "keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Advantages",
+          "priority": 8
+        },
+        {
+          "name": "Disadvantages",
+          "priority": 8
+        },
+        {
+          "name": "Player Experience",
+          "priority": 6
+        }
+      ],
+      "listed_entities": [
+        "Advantages",
+        "Disadvantages"
+      ],
+      "entity_connections": [
+        {
+          "subject": "Welcome Package",
+          "relation": "is a strength of",
+          "object": "the Online Casino",
+          "priority": 6
+        },
+        {
+          "subject": "Missing Deposit Limits",
+          "relation": "is a weakness of",
+          "object": "Responsible Gambling Tools",
+          "priority": 6
+        }
+      ],
+      "summary": "A balanced summary of the strengths and weaknesses visible in the facts, as a pros and cons table, without quoting user reviews.",
+      "copywriter_notes": "One lead-in sentence, then a table with two columns, pros and cons, four rows. Pros: the welcome package as given, the VIP Club with 5 levels, 24/7 support, sportsbook and casino in one account. Cons: no dedicated app (mobile website only), no deposit, loss or session limits, wagering requirements that apply to bonuses, the licence is a historical record whose current validity is unconfirmed. Use only facts from the Brand Information; do not quote or invent user reviews, ratings or percentages. Cells are short phrases, no full sentences. No brand name needed; use no 'Cazeus'.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "words": 125,
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 0,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.overview.casino_welcome_package",
+          "value": "Up to €1,750 + 150 Free Spins"
+        },
+        {
+          "path": "brandinfo_general.overview.mobile_app",
+          "value": "No dedicated application; mobile-optimized website"
+        },
+        {
+          "path": "brandinfo_general.overview.vip_program",
+          "value": "VIP Club with 5 levels"
+        },
+        {
+          "path": "brandinfo_general.customer_support.availability",
+          "value": "24/7"
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.deposit_limits.availability",
+          "value": false
+        },
+        {
+          "path": "brandinfo_general.licences[0].status",
+          "value": "Historical record; current validity is unconfirmed"
+        }
+      ],
+      "coverage_units": {
+        "facts": 6,
+        "entities": 2
+      },
+      "words_base": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b22",
+      "level": 2,
+      "heading": "Verdict on Cazeus Casino",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k20"
+      ],
+      "kb_refs": [
+        "brandinfo_general.overview.minimum_deposit",
+        "brandinfo_general.overview.minimum_withdrawal",
+        "brandinfo_general.overview.live_betting"
+      ],
+      "words_min": 99,
+      "words_max": 126,
+      "keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "entities": [
+        {
+          "name": "Online Casino",
+          "priority": 10
+        },
+        {
+          "name": "Players from Norway",
+          "priority": 8
+        },
+        {
+          "name": "Welcome Package",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "subject": "Online Casino",
+          "relation": "suits",
+          "object": "Players who want Casino and Sportsbook in One Account",
+          "priority": 7
+        }
+      ],
+      "summary": "Closing assessment: who the casino suits, based on the minimum deposit and withdrawal, the sportsbook with live betting, and the points to check before playing.",
+      "copywriter_notes": "A modest, fact-based conclusion: the minimum deposit and the minimum withdrawal of 10 euro each, casino plus sportsbook with live betting in one account. Name the points to check before depositing: bonus wagering, the lack of a dedicated app, the unconfirmed licence status and the fact that the casino holds no Norwegian licence (never imply it does). One sentence that gambling is for adults and should stay within a budget. No rating score, no invented user verdict, no superlatives. Use 'Cazeus' exactly once.",
+      "formats": [
+        "paragraph"
+      ],
+      "words": 112,
+      "listed_entities": [],
+      "fact_table": [],
+      "heading_keywords": {
+        "Cazeus": 1,
+        "Cazues casino": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.overview.minimum_deposit",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_general.overview.minimum_withdrawal",
+          "value": "€10"
+        },
+        {
+          "path": "brandinfo_general.overview.live_betting",
+          "value": true
+        }
+      ],
+      "coverage_units": {
+        "facts": 3,
+        "entities": 3
+      },
+      "words_base": [
+        79,
+        101
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [
+    {
+      "id": "b01",
+      "heading": "Cazeus Casino Norway: Review of Bonuses, Games and Payments",
+      "facts": 5,
+      "entities": 5,
+      "from": [
+        80,
+        100
+      ],
+      "to": [
+        100,
+        125
+      ]
+    },
+    {
+      "id": "b03",
+      "heading": "About Cazeus Casino",
+      "facts": 5,
+      "entities": 4,
+      "from": [
+        132,
+        168
+      ],
+      "to": [
+        158,
+        202
+      ]
+    },
+    {
+      "id": "b04",
+      "heading": "Cazeus Welcome Package and Bonuses",
+      "facts": 12,
+      "entities": 5,
+      "from": [
+        176,
+        224
+      ],
+      "to": [
+        220,
+        280
+      ]
+    },
+    {
+      "id": "b06",
+      "heading": "Challenges, Collections and Rewards Shop",
+      "facts": 8,
+      "entities": 5,
+      "from": [
+        106,
+        134
+      ],
+      "to": [
+        132,
+        168
+      ]
+    },
+    {
+      "id": "b07",
+      "heading": "Casino Games",
+      "facts": 4,
+      "entities": 4,
+      "from": [
+        114,
+        146
+      ],
+      "to": [
+        141,
+        179
+      ]
+    },
+    {
+      "id": "b08",
+      "heading": "Providers and Popular Slots",
+      "facts": 2,
+      "entities": 4,
+      "from": [
+        97,
+        123
+      ],
+      "to": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b09",
+      "heading": "Live Casino",
+      "facts": 6,
+      "entities": 4,
+      "from": [
+        88,
+        112
+      ],
+      "to": [
+        110,
+        140
+      ]
+    },
+    {
+      "id": "b10",
+      "heading": "Sports Betting",
+      "facts": 11,
+      "entities": 4,
+      "from": [
+        150,
+        190
+      ],
+      "to": [
+        188,
+        238
+      ]
+    },
+    {
+      "id": "b11",
+      "heading": "Cazeus Registration and Login",
+      "facts": 5,
+      "entities": 4,
+      "from": [
+        114,
+        146
+      ],
+      "to": [
+        142,
+        182
+      ]
+    },
+    {
+      "id": "b12",
+      "heading": "Account Verification",
+      "facts": 6,
+      "entities": 3,
+      "from": [
+        88,
+        112
+      ],
+      "to": [
+        110,
+        140
+      ]
+    },
+    {
+      "id": "b13",
+      "heading": "Deposits and Withdrawals",
+      "facts": 4,
+      "entities": 3,
+      "from": [
+        62,
+        78
+      ],
+      "to": [
+        78,
+        98
+      ]
+    },
+    {
+      "id": "b15",
+      "heading": "Withdrawals",
+      "facts": 6,
+      "entities": 4,
+      "from": [
+        132,
+        168
+      ],
+      "to": [
+        165,
+        210
+      ]
+    },
+    {
+      "id": "b16",
+      "heading": "VIP Club",
+      "facts": 5,
+      "entities": 5,
+      "from": [
+        114,
+        146
+      ],
+      "to": [
+        142,
+        182
+      ]
+    },
+    {
+      "id": "b17",
+      "heading": "Mobile Casino and App",
+      "facts": 5,
+      "entities": 4,
+      "from": [
+        79,
+        101
+      ],
+      "to": [
+        99,
+        126
+      ]
+    },
+    {
+      "id": "b18",
+      "heading": "Licence, Security and Data Protection",
+      "facts": 8,
+      "entities": 4,
+      "from": [
+        132,
+        168
+      ],
+      "to": [
+        165,
+        210
+      ]
+    },
+    {
+      "id": "b19",
+      "heading": "Customer Support",
+      "facts": 3,
+      "entities": 4,
+      "from": [
+        70,
+        90
+      ],
+      "to": [
+        88,
+        112
+      ]
+    },
+    {
+      "id": "b20",
+      "heading": "Responsible Gambling",
+      "facts": 9,
+      "entities": 4,
+      "from": [
+        123,
+        157
+      ],
+      "to": [
+        154,
+        196
+      ]
+    },
+    {
+      "id": "b21",
+      "heading": "Player Experience: Pros and Cons",
+      "facts": 6,
+      "entities": 2,
+      "from": [
+        88,
+        112
+      ],
+      "to": [
+        110,
+        140
+      ]
+    },
+    {
+      "id": "b22",
+      "heading": "Verdict on Cazeus Casino",
+      "facts": 3,
+      "entities": 3,
+      "from": [
+        79,
+        101
+      ],
+      "to": [
+        99,
+        126
+      ]
+    }
+  ]
+}

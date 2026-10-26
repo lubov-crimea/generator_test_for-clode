@@ -1,0 +1,642 @@
+{
+ "website": 5405,
+ "slug": "index",
+ "seo": {
+  "title": "VegasHunter Casino NZ: Up to NZ$20,000 + 350 Free Spins",
+  "description": "VegasHunter casino for New Zealand players: pokies, live dealer tables, a welcome package up to NZ$20,000 + 350 Free Spins and 24/7 live chat support.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Vegas Hunter",
+  "additionalKeywords": "casino, online casino, crypto casino, play, gambling, slots, pokies, register, login, KYC, app, payments, bonuses, welcome bonus, New Zealand, NZ, Kiwi"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "VegasHunter Casino NZ: Bonus, Pokies, Payments and Withdrawals",
+   "label": "Welcome package up to NZ$20,000 + 350 Free Spins for new players",
+   "mainLabel": "",
+   "background": 1913,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Top Slots",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Mega Moolah",
+     "image": 99,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "StarBurst",
+     "image": 73,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 100,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Bonanza",
+     "image": 72,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Razor Shark",
+     "image": 83,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Dead",
+     "image": 109,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Buffalo King Megaways",
+     "image": 91,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sugar Rush",
+     "image": 87,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Wolf Gold",
+     "image": 106,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Gates Of Olympus 1000",
+     "image": 84,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "The Dog House",
+     "image": 92,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "3 Hot Chilli Peppers",
+     "image": 107,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Crash & Instant",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Aviamasters",
+     "image": 78,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviator",
+     "image": 89,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviatrix",
+     "image": 77,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ballonix",
+     "image": 81,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Balloon",
+     "image": 86,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Crash",
+     "image": 88,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Chicken Road",
+     "image": 97,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "F777 Fighters",
+     "image": 108,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "JetX",
+     "image": 70,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lucky Jet",
+     "image": 104,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Penalty Shoot Out",
+     "image": 90,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Piggy Tap",
+     "image": 82,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Live",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "American Roulette",
+     "image": 2628,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Balls",
+     "image": 2630,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Time",
+     "image": 2208,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ice Fishing",
+     "image": 102,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Infinite Blackjack",
+     "image": 2626,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 235,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Play Now",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "Vegas Hunter Bonuses",
+   "items": [
+    {
+     "image": 1916,
+     "content": "<h3><strong>Welcome Package</strong></h3>\nUp to NZ$20,000 + 350 Free Spins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 1917,
+     "content": "<h3><strong>First Deposit</strong></h3>\n100% up to NZ$10,000 + 200 Free Spins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 1915,
+     "content": "<h3><strong>Second Deposit</strong></h3>\n100% up to NZ$4,000",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 1914,
+     "content": "<h3><strong>Third Deposit</strong></h3>\n75% up to NZ$6,000 + 150 Free Spins",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Claim Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>VegasHunter is an online casino for players from New Zealand, with NZD as the main account currency and a welcome package of up to NZ$20,000 + 350 Free Spins. The site is open to adults only, so every account holder has to be at least 18 years old. Vegas Hunter casino keeps the page below in the order a new player meets the site: bonus and terms first, then pokies and other games, deposits and withdrawals, the mobile apps and the safety rules. VegasHunter offers cards, e-wallets and crypto for payments, and each of these gets its own explanation further down.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VegasHunter at a Glance</h2>\n<table>\n<tr>\n<td>Parameter</td>\n<td>Details</td>\n</tr>\n<tr>\n<td>Operator</td>\n<td>Stable Tech N.V. (Curaçao)</td>\n</tr>\n<tr>\n<td>Licence</td>\n<td>Curaçao Gaming Authority, licence number OGL/2024/161/0191, jurisdiction Curaçao</td>\n</tr>\n<tr>\n<td>Launched</td>\n<td>2026</td>\n</tr>\n<tr>\n<td>Website language</td>\n<td>English</td>\n</tr>\n<tr>\n<td>Currencies</td>\n<td>Five currencies: NZD, USD, AUD, CAD, NOK</td>\n</tr>\n<tr>\n<td>Payment methods</td>\n<td>Visa, Mastercard, MiFinity, Interac and Neteller, plus nine cryptocurrencies</td>\n</tr>\n<tr>\n<td>Welcome bonus</td>\n<td>Up to NZ$20,000 + 350 Free Spins</td>\n</tr>\n<tr>\n<td>Cashback</td>\n<td>10% cashback up to NZ$5,250</td>\n</tr>\n<tr>\n<td>Minimum deposit</td>\n<td>NZ$20</td>\n</tr>\n<tr>\n<td>Support</td>\n<td>support@vegashunter.com</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Why Kiwi Players Choose VegasHunter</h2>\n<p>Players from New Zealand who open a VegasHunter casino review usually want two answers first: who stands behind the site and what it costs to start. The online casino launched in 2026, and its gambling licence from the Curaçao Gaming Authority regulates the operator's activity. A launch year of 2026 also means a short track record, which is worth weighing against the offers described further down.</p>\n<p>VegasHunter keeps the entry point low. A minimum deposit of NZ$20 keeps NZD payments within reach for casual players who prefer small stakes. Customer support is available around the clock through 24/7 live chat, while e-mail covers longer questions. VegasHunter pairs these basics with the bonus and game sections below, so a player can compare details before registering.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pros and Cons of Vegas Hunter</h2>\n<table>\n<tr>\n<td>Pros</td>\n<td>Cons</td>\n</tr>\n<tr>\n<td>Welcome package of up to NZ$20,000 + 350 Free Spins for new players</td>\n<td>40x wagering requirement applies to the welcome package</td>\n</tr>\n<tr>\n<td>Low entry point with a NZ$20 minimum deposit</td>\n<td>Weekly withdrawal limit of NZ$7,500 and monthly limit of NZ$30,000, with VIP exceptions</td>\n</tr>\n<tr>\n<td>7% extra on eligible cryptocurrency deposits</td>\n<td>Payouts may be split into instalments</td>\n</tr>\n<tr>\n<td>Crypto and fiat payment options</td>\n<td>No sportsbook</td>\n</tr>\n<tr>\n<td>Progressive jackpots are paid in full</td>\n<td>No original in-house games</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VegasHunter Registration and Login</h2>\n<p>A new account at VegasHunter can be opened in three ways: with an e-mail address and password, with a Google account, or through Fast Track registration. Whichever route is chosen, the process follows the same five steps:</p>\n<ol>\n<li>Choose Sign Up.</li>\n<li>Select e-mail, Google or Fast Track registration.</li>\n<li>Fill in the fields that the chosen method asks for.</li>\n<li>Confirm legal age and acceptance of the casino policies.</li>\n<li>Submit the registration and access the account.</li>\n</ol>\n<p>E-mail registration needs an address and a password, and every route includes the age confirmation. The casino allows one personal account per player, and only eligible adult residents of countries where gambling is permitted may register at VegasHunter, so local rules are worth checking first. The VegasHunter casino login uses the same details: the registered e-mail and password, or the Google account when the player signed up through Google. A player who forgets the password goes through the reset flow and confirms ownership of the registered e-mail.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Account Verification (KYC)</h3>\n<p>Identity checks become mandatory at defined points. VegasHunter asks for verification when cumulative deposits or cumulative withdrawals reach NZ$2,000 equivalent, when two or more payment systems have been used, and when the casino starts a security or fraud check of its own. A typical request covers a photo of a valid identity document and proof of the payment method used for the deposit, except for crypto. Proof of address, a selfie holding the document or records of the source of funds can follow when requested. Full KYC information has to arrive within 40 days of the request, because missing documents can lead to confiscation of winnings. A player who cannot be reached for two weeks after a withdrawal request may also see the account locked.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VegasHunter Welcome Bonus in New Zealand</h2>\n<p>The VegasHunter casino welcome offer is a Welcome Package for new players who place qualifying welcome deposits. VegasHunter sets the total at NZ$20,000 + 350 Free Spins and asks for at least NZ$20 on every qualifying deposit. The package is split into three deposit stages, and claiming is short: register an account, make a first qualifying deposit to receive the initial reward, and enter the bonus-specific promo code before payment on each later deposit. Because the first reward needs no code, a new player can start with the minimum deposit and look at the stage terms before the later deposits. The table shows what each VegasHunter stage pays and which code belongs to it, while free spin details and wagering terms follow in the next two sections.</p>\n<table>\n<tr>\n<td>Stage</td>\n<td>Reward</td>\n<td>Minimum deposit</td>\n<td>Promo code</td>\n</tr>\n<tr>\n<td>First deposit</td>\n<td>100% up to NZ$10,000 + 200 Free Spins</td>\n<td>NZ$20</td>\n<td>Not required</td>\n</tr>\n<tr>\n<td>Second deposit</td>\n<td>100% up to NZ$4,000</td>\n<td>NZ$20</td>\n<td>RANGER</td>\n</tr>\n<tr>\n<td>Third deposit</td>\n<td>75% up to NZ$6,000 + 150 Free Spins</td>\n<td>NZ$20</td>\n<td>SHERIFF</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Free Spins in the Welcome Package</h3>\n<p>Free spins come with two of the three stages. The first deposit brings 200 Free Spins, paid out as 40 per day for 5 days, and the third deposit adds 150 Free Spins, paid as 50 per day for 3 days. The second stage carries no spins, so the total of 350 comes from the first and the third deposit only. Free spins are spins on a slot with the stake paid by the casino, and here they are played on 3 Coin Volcanoes from Booongo. Aloha King Elvis from BGaming serves as the alternative game. VegasHunter spreads the spins over several days, which suits players who log in daily.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Bonus Terms and Wagering Requirements</h3>\n<p>The welcome package carries a 40x wagering requirement on each credited bonus, so every qualifying reward has to be wagered 40 times before its funds can be withdrawn. Bonus funds stay valid for 7 days after credit, and winnings are capped at 10x the bonus amount. One term works in the player's favour: there is no maximum bet limit while playing with these bonuses. General and bonus terms apply, and the casino may cancel the promotion, so it is sensible to read the current terms at VegasHunter before claiming.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Reload Bonuses and Cashback</h2>\n<p>After the welcome package, VegasHunter schedules a different reload offer for most days of the week, and each one is claimed with its own promo code entered at the deposit. Wagering on all five reloads below is 40x.</p>\n<table>\n<tr>\n<td>Day</td>\n<td>Reward</td>\n<td>Minimum deposit</td>\n<td>Promo code</td>\n</tr>\n<tr>\n<td>Monday</td>\n<td>50% up to NZ$200</td>\n<td>NZ$20</td>\n<td>DESERT</td>\n</tr>\n<tr>\n<td>Tuesday</td>\n<td>Up to 220 Free Spins</td>\n<td>From NZ$20</td>\n<td>WEST</td>\n</tr>\n<tr>\n<td>Wednesday</td>\n<td>30%, 50% or 100% up to NZ$500</td>\n<td>From NZ$30</td>\n<td>WIN</td>\n</tr>\n<tr>\n<td>Friday</td>\n<td>50 Free Spins for every qualifying deposit</td>\n<td>NZ$20</td>\n<td>WILD</td>\n</tr>\n<tr>\n<td>Weekend</td>\n<td>25% bonus up to NZ$500 on each qualifying deposit</td>\n<td>NZ$20</td>\n<td>HIT</td>\n</tr>\n</table>\n<p>Two cashback offers sit beside the reloads. Weekly Slots Cashback returns 10% up to NZ$5,250, calculated against eligible slot losses of the qualifying week, and it needs NZ$75 in aggregate weekly deposits, 5x wagering and a claim within 7 days. Instant Win Cashback pays from 2% to 7% of previous-day net losses, up to NZ$1,000, for Instant Win games only, and VegasHunter ties the rate to the deposit: NZ$20, NZ$50, NZ$100 and NZ$200 unlock 2%, 3.5%, 5% and 7%.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VIP Club and Loyalty Rewards</h2>\n<p>Loyalty at the casino runs through the Vegas Hunter VIP Club, which opens once a player has reached NZ$2,500 in cumulative deposits. Members get a personal VIP manager, higher cashback, faster processing of eligible payments and individually increased withdrawal limits. The weekly withdrawal limit rises with the level, and that is the part of the programme that can be compared directly:</p>\n<table>\n<tr>\n<td>Level</td>\n<td>Weekly withdrawal limit</td>\n</tr>\n<tr>\n<td>Entry</td>\n<td>NZ$30,000</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>NZ$30,000</td>\n</tr>\n<tr>\n<td>Silver</td>\n<td>NZ$45,000</td>\n</tr>\n<tr>\n<td>Gold</td>\n<td>NZ$45,000</td>\n</tr>\n<tr>\n<td>Platinum</td>\n<td>NZ$60,000</td>\n</tr>\n<tr>\n<td>Black</td>\n<td>NZ$90,000</td>\n</tr>\n<tr>\n<td>Supreme</td>\n<td>Customised</td>\n</tr>\n</table>\n<p>Outside the club, VegasHunter adds game-style rewards for eligible registered players: Lucky Spin with advertised prizes up to NZ$200,000, Lucky Box with prizes up to NZ$175,000, and a Bonus Shop where eligible wagering earns 1 VHC Coin per NZ$30, to be exchanged for rewards.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>VegasHunter Pokies and Casino Games</h2>\n<p>VegasHunter casino groups its games into a few clear categories. Slots are the core, with Megaways, Bonus Buy and Hold &amp; Win titles, and jackpot games sit next to them for players who chase a larger prize. The live casino and the game shows add dealer-led play, while instant win games range from crash and Plinko to Mines, Dice and Limbo. For New Zealand players the VegasHunter pokies are the main draw, and the sections below look at providers, RTP and the table and live options in more detail. Two things are missing: the site has no sportsbook and no original in-house games, so VegasHunter stays focused on casino play.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Game Providers and RTP</h3>\n<p>Ten studios supply the VegasHunter catalogue: BGaming, Booongo, Playson, Pragmatic Play, PG Soft, Endorphina, Hacksaw Gaming, Belatra, NetGame and Betsoft. RTP, the share of stakes a slot returns over the long run, differs by game, while volatility describes how evenly wins arrive. Four examples show how the figures vary:</p>\n<table>\n<tr>\n<td>Game</td>\n<td>Provider</td>\n<td>RTP</td>\n<td>Volatility</td>\n<td>Max multiplier</td>\n</tr>\n<tr>\n<td>Aloha King Elvis</td>\n<td>BGaming</td>\n<td>94.98%</td>\n<td>Medium-high</td>\n<td>2,000x</td>\n</tr>\n<tr>\n<td>3 Coin Volcanoes</td>\n<td>Booongo</td>\n<td>95.7%</td>\n<td>High</td>\n<td>2,500x</td>\n</tr>\n<tr>\n<td>Coin Strike: Hold and Win</td>\n<td>Playson</td>\n<td>95.66%</td>\n<td>Medium</td>\n<td>2,000x</td>\n</tr>\n<tr>\n<td>Sugar Rush</td>\n<td>Pragmatic Play</td>\n<td>96.5%</td>\n<td>High</td>\n<td>5,000x</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Table, Live Dealer and Crash Games</h3>\n<p>Beyond the pokies, VegasHunter offers table games such as roulette, blackjack, baccarat and poker, with Sic Bo and Craps for players who prefer dice-based classics. Live dealer versions and game shows form the live casino, and the Live Boost Bonus adds 50% up to NZ$500 on top of live play. Crash and instant games run from Crash, Plinko and Mines to Limbo, Hi-Lo and Dice. The Crash &amp; Win 100% Reload rewards that style with 100% up to NZ$1,000 for existing depositors.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Get Your Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Banking Methods and Deposits</h2>\n<p>Deposits can be made in NZD with cards and e-wallets or with nine cryptocurrencies: Bitcoin, Ethereum, Litecoin, Bitcoin Cash, Dogecoin, Tether (USDT), BNB, Cardano and TRON. The table compares the main routes at VegasHunter.</p>\n<table>\n<tr>\n<td>Method</td>\n<td>Minimum</td>\n<td>Maximum</td>\n<td>Speed</td>\n</tr>\n<tr>\n<td>Visa, Mastercard, MiFinity, Interac</td>\n<td>NZ$20</td>\n<td>NZ$5,000</td>\n<td>Instant</td>\n</tr>\n<tr>\n<td>Neteller</td>\n<td>NZ$20</td>\n<td>NZ$5,000</td>\n<td>Within 24 hours</td>\n</tr>\n<tr>\n<td>Cryptocurrencies</td>\n<td>Depends on the coin</td>\n<td>NZ$5,000 equivalent</td>\n<td>Instant after blockchain confirmation</td>\n</tr>\n</table>\n<p>The casino charges no deposit fees, although blockchain network charges may apply to crypto transfers. Only payment instruments owned by the player may be used, and availability depends on the country and the selected account currency. To deposit, a player signs in, opens the Deposit or Wallet section, picks a method and currency, enters an amount at or above the minimum and authorises the payment. Crypto deposits at VegasHunter also earn the Crypto Bonus, 7% extra on eligible deposits with no wagering, credited automatically. They are excluded from the deposit-limit feature, which covers fiat deposits only.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Withdrawals, Limits and Fees</h2>\n<p>A withdrawal from a VegasHunter casino account follows seven steps:</p>\n<ol>\n<li>Log in to the account.</li>\n<li>Open the Wallet or Withdrawal section.</li>\n<li>Choose an available withdrawal method and currency.</li>\n<li>Enter the requested amount and payout details.</li>\n<li>Complete any requested KYC check.</li>\n<li>Submit the request and track its status.</li>\n<li>Receive payment after casino approval and provider processing.</li>\n</ol>\n<p>Speed at VegasHunter depends on the method. MiFinity pays out instantly, and Bitcoin withdrawals are instant after release, subject to blockchain confirmation. Card payouts through Visa or Mastercard take 1 to 3 banking days, and a bank transfer arrives within 3 banking days. Intermediary bank charges, commonly up to NZ$16 equivalent, may apply to bank payouts, which are not available in USD. The minimum withdrawal is NZ$20, each transaction is capped at NZ$5,000, and the aggregate limit is NZ$7,500 per week and NZ$30,000 per month, with VIP exceptions. Winnings above NZ$30,000 may be paid in monthly instalments, while progressive jackpots are paid in full. Each deposit must be wagered 1x before related funds can be withdrawn. At VegasHunter, no standard payment fees are charged.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Mobile Play and App Access</h2>\n<p>The Vegas Hunter app is a native app for Android and iOS, so players can install it instead of playing in a browser. Installation on Android takes four steps:</p>\n<ol>\n<li>Visit the official download page.</li>\n<li>Scan the QR code or select Android download.</li>\n<li>Download the APK from the provided link.</li>\n<li>Approve the installation and open the app.</li>\n</ol>\n<p>The iOS app is installed from the app download page on an iPhone or iPad by scanning the iOS QR code, following the instructions and signing in. Minimum requirements are Android 8.0 or iOS 16.7, with 1 GB of RAM and 1 GB of storage. The app carries the casino games, deposits and withdrawals, the VIP Club, the Bonus Shop, biometric security, 2FA and TLS encryption. VegasHunter also works in a mobile browser, which gives access to the casino without any installation.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Join Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Licence, Safety and Privacy at VegasHunter</h2>\n<p>The operator behind the VegasHunter casino site is Stable Tech N.V., and its gambling licence is issued under Curaçao jurisdiction by the Curaçao Gaming Authority with the licence number OGL/2024/161/0191. The licence comes from Curaçao, not from a New Zealand authority, so it should not be read as a New Zealand approval. Data protection at VegasHunter rests on three measures: encryption protects player data, access controls decide who can reach it, and security monitoring keeps watch over the platform. Access is further restricted to authorised personnel and service partners. Eligibility is set by the terms: players must be 18 or older, must live in a location where online gambling is legal and must check the local legal requirements before they register at VegasHunter.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Responsible Gambling Tools</h2>\n<p>Gambling is for adults only, and the minimum age at VegasHunter is 18. Five tools support responsible play, and most of them are set through player support. Deposit limits can be requested from support or through account functions, although deposits made via cryptoprocessing cannot be limited. A temporary cooling-off period of 24 hours, 7 days or 30 days may be arranged, and self-exclusion is available on request, subject to verification and an agreed exclusion period. Players who want to stop altogether can ask support to close the account for gambling-control reasons. Session awareness completes the set, since players are encouraged to monitor their time and spending daily. For outside help, GamCare, Gambling Therapy and Gamblers Anonymous offer external support.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Customer Support</h2>\n<p>Customer support is reachable through two channels: 24/7 live chat for questions that need a quick answer, and e-mail at support@vegashunter.com for longer ones. VIP players have a service of their own, with 24/7 priority assistance and a personal manager. A matter that is not resolved at the first contact can be escalated from support, so a complaint does not have to end with the first reply.</p>"
+  },
+  {
+   "__component": "blocks.reviews-2",
+   "title": "Real Player Reviews",
+   "reviews": [
+    {
+     "username": "Hana",
+     "review": "Registration took a few minutes and the verification steps were easy to follow. I knew what documents to prepare before cashing out.",
+     "date": "2026-10-16",
+     "avatar": 3857,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Wiremu",
+     "review": "Plenty of pokies to pick from, and the live tables and instant games are easy to find without scrolling forever.",
+     "date": "2026-10-17",
+     "avatar": 3862,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Sophie",
+     "review": "I mostly play on my phone. The mobile version loads quickly and the cashier is simple to use on a small screen.",
+     "date": "2026-10-18",
+     "avatar": 3860,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Callum",
+     "review": "Support answered my question about the welcome package in chat and pointed me to the exact terms. Clear and polite.",
+     "date": "2026-10-19",
+     "avatar": 3853,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Aroha",
+     "review": "Good choice of payment options, so I did not have to settle for one method. I read the bonus terms before depositing, which is worth doing.",
+     "date": "2026-10-21",
+     "avatar": 3861,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Frequently Asked Questions",
+   "faqs": [
+    {
+     "question": "Can players from New Zealand join VegasHunter?",
+     "answer": "Eligible adults can register if they live in a location where online gambling is legal, and local legal requirements should be checked first. Accounts are available in NZD, USD, AUD, CAD and NOK."
+    },
+    {
+     "question": "What is the minimum deposit at Vegas Hunter casino?",
+     "answer": "The minimum deposit is NZ$20, which is also the minimum for each qualifying welcome deposit."
+    },
+    {
+     "question": "What does the welcome bonus include?",
+     "answer": "The VegasHunter casino welcome package adds up to NZ$20,000 + 350 Free Spins and carries 40x wagering."
+    },
+    {
+     "question": "Is there a mobile app?",
+     "answer": "Yes, the Vegas Hunter app is available for Android and iOS, and the casino also opens in a desktop or mobile browser."
+    },
+    {
+     "question": "How fast are withdrawals?",
+     "answer": "MiFinity payouts are instant, while the time for other methods depends on the method chosen at VegasHunter."
+    },
+    {
+     "question": "When is verification required?",
+     "answer": "It starts when cumulative deposits or withdrawals reach NZ$2,000 equivalent, when two or more payment systems are used or when the casino runs its own security check."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "VegasHunter Welcome Package",
+   "description": "Up to NZ$20,000 + 350 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 1913,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

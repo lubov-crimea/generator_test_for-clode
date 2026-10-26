@@ -1,0 +1,65 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 1089,
+    "max_body_words": 1456,
+    "target_body_words": 1095,
+    "keywords_total": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 9,
+      "Longfu88 app": 1,
+      "Longfu app": 1,
+      "Longfu88 iOS": 1,
+      "Longfu88 Android": 1,
+      "Longfu88 apk": 1,
+      "Longfu88 download": 1,
+      "Longfu88 mobile casino": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [
+      {
+        "check": "consistency",
+        "problem": "The closing clause 'ready to open in one tap' states a behaviour of the shortcut that the Brand Information does not give.",
+        "fix": "Remove 'ready to open in one tap'; keep the lead-in a plain statement that the Share menu places a shortcut of the casino website on the home screen, within 44-56 words including the list."
+      }
+    ],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [
+      {
+        "check": "consistency",
+        "problem": "The clause 'which is separate from the personal details entered at registration' is not supported by the Brand Information.",
+        "fix": "Remove the clause and keep only the technical data list and the four cookie groups with their purpose; stay inside 53-67 words."
+      }
+    ],
+    "b12": [
+      {
+        "check": "consistency",
+        "problem": "'A player who wants a break can request account closure' misstates the fact: account closure is requested through customer support, it is not described as a break.",
+        "fix": "Say that a player can request account closure through customer support, without the 'break' framing; keep all other facts."
+      }
+    ],
+    "b13": [],
+    "b14": [],
+    "b15": []
+  },
+  "missing_data": []
+}

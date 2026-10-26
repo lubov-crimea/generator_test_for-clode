@@ -1,0 +1,118 @@
+{
+ "website": 4966,
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 App Quick Guide: Android and iOS Shortcut",
+  "description": "Longfu88 mobile casino for Singapore players: add the site to an Android or iOS home screen, see what works on a phone, log in and fix common problems.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 App Quick Guide: Mobile Casino on a Singapore Phone",
+   "label": "Add the casino to your phone's home screen",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Phones and tablets get to <a href=\"/\">Longfu88</a> by way of a responsive website. Opening that website in a handset browser, on Android or iOS, is what the term Longfu88 mobile casino stands for here.</p>\n<p>A visitor hunting for the Longfu app will meet a home-screen shortcut and not a store listing. Play is limited to adults of 18 and over, and the audience is Singapore.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Register",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Longfu88 Download: Android and iOS Shortcut Steps</h2>\n<p>Nothing is downloaded. Longfu88 loads inside the browser of a handset, and saving a one-off shortcut gives the site an icon of its own. Responsive design lets phone screens and tablet screens share a single website, so no setup has to come first. Longfu88 Android owners and Longfu88 iOS owners follow separate routes, though both finish with an icon showing up on the handset. A Longfu88 apk is not needed, since the shortcut points to the website and is not an entry in any store.</p>\n<p>Android route using Chrome:</p>\n<ol>\n<li>Visit the casino website through Chrome on the phone or tablet.</li>\n<li>Open the browser menu, where the Add to Home screen option is found, and select it.</li>\n<li>Approve the prompt of Chrome, after which the Home screen shows the site's icon.</li>\n</ol>\n<p>iPhone or iPad route using Safari:</p>\n<ol>\n<li>Load the casino site in Safari on the iPhone or iPad.</li>\n<li>Use the Share button to reach the option named Add to Home Screen.</li>\n<li>Finish with the Add button, and the icon of the site turns up next to the other apps on the iPhone or iPad.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>What Works on Mobile</h2>\n<p>Mobile screens of every size open one responsive Longfu88 site, and its features adapt to the screen. Six areas of the casino can be used from a handset:</p>\n<ul>\n<li>Casino games, played in the browser</li>\n<li>Sportsbook bets</li>\n<li>Account access from the phone</li>\n<li>Deposits made from the phone</li>\n<li>Withdrawals requested from the account</li>\n<li>Bonuses open to players</li>\n</ul>\n<p>The sportsbook is part of the very same website as the casino. Detailed information on these topics sits in the separate <a href=\"/bonuses\">pages on bonuses</a> and login, one page for each of the two.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Phones and Browsers</h2>\n<p>Android, iOS and mobile-web browsing on smartphones and tablets make up the three platforms. The Longfu88 layout is responsive, which is why Android phones, iPhones and iPads all display the identical website, scaled to the size of the screen.</p>\n<p>A home-screen shortcut starts in Chrome on Android and in Safari on iOS. In both cases the site is opened straight from the mobile browser, so no installation file is involved.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Logging In from a Phone</h2>\n<p>Only e-mail registration exists. The form asks for a legal name first, together with the e-mail and a password, and then for the birth date and the street address of residence.</p>\n<p><a href=\"/login\">Login</a> behaves identically on a phone and on a computer. Logging in at Longfu88 starts with a tap on Login on the website, followed by the e-mail and password set at registration, any security check and arrival in the player account. For a forgotten password, the link named Forgot Password sits on the login screen.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>If Something Fails</h2>\n<p>Four issues show up most often when Longfu88 is used on a phone, and each has a simple remedy that can be tried before contacting support:</p>\n<ul>\n<li>Shortcut absent: go through the steps again, with Chrome for Android or with Safari for iOS.</li>\n<li>Page not opening: check the internet connection first, then reload.</li>\n<li>Failed login: verify the e-mail address, then tap the Forgot Password link and ask for a reset message to be emailed to the address used at registration.</li>\n<li>Problem persists: customer support handles what these checks leave unsolved, reachable by e-mail and by 24/7 live chat.</li>\n</ul>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Quick Questions and Answers",
+   "faqs": [
+    {
+     "question": "Is a store app available for Longfu88?",
+     "answer": "None is offered. The casino loads in the phone browser, and a shortcut adds its icon to the Home screen."
+    },
+    {
+     "question": "Which devices are supported?",
+     "answer": "Android phones, iPhones and iPads, plus the mobile web of any smartphone or tablet."
+    },
+    {
+     "question": "What are the Android shortcut steps?",
+     "answer": "In Chrome, the site is opened, the browser menu is consulted for Add to Home screen and the prompt is accepted."
+    },
+    {
+     "question": "Does login differ on a handset?",
+     "answer": "No, phone and computer both take the same e-mail address and password that were set at registration."
+    },
+    {
+     "question": "Whom can a player contact about a problem?",
+     "answer": "Customer support answers through e-mail, and the live chat works 24/7."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Claim Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

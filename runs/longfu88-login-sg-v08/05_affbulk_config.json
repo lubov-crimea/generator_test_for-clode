@@ -1,0 +1,39 @@
+{
+ "website_id": 5415,
+ "domain": "longfu88-sg.sg",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Mobile Login: Phone Sign-In and Shortcut",
+  "description": "Longfu88 login on a phone or computer for Singapore players: sign in, reset a password, add a home screen shortcut, keep documents ready and contact support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Log in from a phone, a tablet or a computer",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Play Now"
+ },
+ "cta_texts": [
+  "Play Now",
+  "Log In"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Get Bonus"
+ },
+ "internal_links": [
+  {
+   "anchor": "mobile web browser",
+   "href": "/app"
+  }
+ ]
+}

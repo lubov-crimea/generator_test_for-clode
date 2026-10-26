@@ -1,0 +1,562 @@
+[
+  {
+    "id": "k01",
+    "topic": "Welcome bonus: size, percentage, free spins",
+    "canonical_title": "Welcome Bonus",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 28,
+    "avg_position": 0.12,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Longfu88 Welcome Bonuses"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "188% Up to $1170 + 18 Extra Spins Welcome Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "125% Up to $450 Welcome Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "188% Up to 2888 USDT Crypto Welcome Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "188% Up to 5888000 IDR + 60 Extra Spins Welcome Bonus from Longfu88"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Claim Your 188% Welcome Bonus Now"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Welcome Bonus — 200% Match up to MYR 2,988 + 60 Free Spins"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Welcome Bonus Key Terms"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Reload bonuses and recurring weekly or weekend offers",
+    "canonical_title": "Reload Bonuses",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 38,
+    "avg_position": 0.3,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Longfu88 Reload Offers"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "50% Up to $800 + 50 Extra Spins Weekend Reload Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "75% Up to 750 USDT + 100 Extra Spins Weekend Crypto Reload Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "50 Extra Spins Weekly Reload Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "60% Up to 1000 USDT Weekly Crypto Reload Bonus from Longfu88"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Reload Bonuses and Recurring Promotions"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Weekly Reload Bonus — 50% Every Monday"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Cashback offers",
+    "canonical_title": "Cashback Offers",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 49,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Longfu88 Cashback Deals"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "25% Up to $200 Live Cashback Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "10% Up to $1660 Weekly Cashback Bonus from Longfu88"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Cashback Programs and Loss Recovery"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Cashback — 10% Weekly up to MYR 6,988"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Frequently asked questions about bonuses",
+    "canonical_title": "Bonus FAQ",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 4,
+    "avg_position": 0.86,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Common Bonus Questions Answered"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "FAQ – LongFu88 Bonuses"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Why is the welcome bonus selected at registration, not after?"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Can I opt out of a bonus after activating it?"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Do Free Spins expire if I don’t use them on day one?"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Which games contribute 100% to wagering?"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Where do I find all active Long Fu 88 bonus offers in one place?"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "VIP program and loyalty rewards",
+    "canonical_title": "VIP Program and Loyalty",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 89,
+    "avg_position": 0.37,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "VIP Program and Loyalty Rewards"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Start Earning VIP Rewards Today"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "25-Tier VIP Program"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Overview of the bonus types and the casino",
+    "canonical_title": "Bonus Overview",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 92,
+    "avg_position": 0.44,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Longfu88 Overview: Key Features at a Glance"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Longfu88 Bonus Types and Offers"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Complete Longfu88 Casino Overview"
+      },
+      {
+        "competitor": 3,
+        "level": 3,
+        "text": "Explore All Available Bonuses"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "How to claim the welcome bonus step by step",
+    "canonical_title": "How to Claim the Welcome Bonus",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 197,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "How to Claim Longfu88 Welcome Bonus Offers"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "How to Claim Your Welcome Bonus at Longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Wagering requirements and bonus terms",
+    "canonical_title": "Wagering and Bonus Terms",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 124,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Understanding Wagering Requirements and Terms"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Bonus Terms and Responsible Bonus Usage"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Understanding Wagering — What the Numbers Actually Mean"
+      },
+      {
+        "competitor": 4,
+        "level": 3,
+        "text": "Game Contributions at LongFu88"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Free spins offers",
+    "canonical_title": "Free Spins",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 145,
+    "avg_position": 0.62,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "The Best Longfu88 Free Spins No Deposit"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Free Spins and Slot Promotions"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Coin exchange, tournaments and seasonal promotions",
+    "canonical_title": "Coins, Tournaments and Seasonal Promotions",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 52,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Coin Exchange — Convert Loyalty Coins to Real Rewards"
+      },
+      {
+        "competitor": 4,
+        "level": 2,
+        "text": "Tournament & Seasonal Promotions"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Expired and archived promotions",
+    "canonical_title": "Expired Promotions",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Bonus Archive: Expired Promotions from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "125% Up to 888 MYR Welcome Bonus from Longfu88"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "200% Up to $300 + 60 Extra Spins Welcome Bonus from Longfu88"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Sports betting bonuses",
+    "canonical_title": "Sports Betting Bonuses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 189,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Sports Betting Bonus Structure"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "No deposit bonuses",
+    "canonical_title": "No Deposit Bonuses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 90,
+    "avg_position": 0.7,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Get Longfu88 No Deposit Bonuses"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Promo codes and coupon codes",
+    "canonical_title": "Promo Codes",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 166,
+    "avg_position": 0.74,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "How to Use Longfu88 Coupon Codes"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Longfu88 Coupon Codes for Existing Customers"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Payment methods and bonus compatibility",
+    "canonical_title": "Payment Methods and Bonuses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 182,
+    "avg_position": 0.78,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Payment Methods and Bonus Compatibility"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Bonuses on mobile",
+    "canonical_title": "Mobile Bonus Access",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 166,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Mobile Bonus Access and App Promotions"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Page furniture: contents, reviews, author, list of other casinos",
+    "canonical_title": "Page Furniture",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 14,
+    "avg_position": 0.87,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Table of Contents"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Reviews"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Full List of Casinos Bonus Codes"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Author"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Strategy and verdict on whether to take the bonuses",
+    "canonical_title": "Getting the Most from Bonuses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 155,
+    "avg_position": 0.94,
+    "examples": [
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Maximizing Bonus Value Through Strategic Play"
+      },
+      {
+        "competitor": 3,
+        "level": 2,
+        "text": "Should You Take Advantage of Longfu88 Bonuses?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,857 @@
+[
+  {
+    "id": "k01",
+    "topic": "Casino overview / key information",
+    "canonical_title": "Lizaro Casino Overview",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 72,
+    "avg_position": 0.26,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Lizaro Casino: Key Information for UK Players"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Overview of Lizaro Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Who Is Lizaro?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Key info about Lizaro"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Additional Information on Lizaro"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Games overview and game library",
+    "canonical_title": "Casino Games Overview",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 68,
+    "avg_position": 0.35,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Popular Casino Games"
+      },
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Casino Games at Lizaro: Slots, Table Games and Live Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Game Selection and Software"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Lizaro Casino Section"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Slots",
+    "canonical_title": "Slot Games",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 79,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "New Slots to Play"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Slot Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Slot Games"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How many slot games are available at Lizaro?"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Licence, safety and fair play",
+    "canonical_title": "Licence and Safety",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 108,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Lizaro Casino License, Regulation and Legality in the UK"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Security and Fair Play at Lizaro Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Is Lizaro Casino licensed?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Is Lizaro safe and legit?"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Mobile play and app",
+    "canonical_title": "Mobile Casino and App",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 119,
+    "avg_position": 0.55,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Lizaro Mobile Casino: Play on Your Smartphone or Tablet"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Lizaro Casino App for Android and iOS"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "App and Mobile at Lizaro Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Is Lizaro Casino available on mobile?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Is the casino accessible on mobile devices?"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Live casino",
+    "canonical_title": "Live Casino",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 72,
+    "avg_position": 0.64,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Live Dealer Casino"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live Dealer Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Does Lizaro Casino offer live dealer games?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "What live casino options are offered?"
+      }
+    ]
+  },
+  {
+    "id": "k21",
+    "topic": "Payment methods overview",
+    "canonical_title": "Payment Methods",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 45,
+    "avg_position": 0.82,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Deposits and Withdrawals Available at Lizaro for UK Players"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Payment Methods for Canadians"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "What payment methods can Canadians use?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "What Are The Available Payment Methods At Lizaro?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Lizaro FIAT payments"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Lizaro Crypto Payments"
+      }
+    ]
+  },
+  {
+    "id": "k24",
+    "topic": "Customer support",
+    "canonical_title": "Customer Support",
+    "frequency": 3,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 158,
+    "avg_position": 0.89,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Lizaro Casino Customer Support and Help Centre"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Customer Support"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Lizaro Customer Support"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Why choose the casino, pros and cons",
+    "canonical_title": "Pros and Cons",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 54,
+    "avg_position": 0.15,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Why Players from the UK Choose Lizaro Casino?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Pros"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Cons"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Bonuses and promotions overview",
+    "canonical_title": "Bonuses and Promotions",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 90,
+    "avg_position": 0.39,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Lizaro Bonuses and Promotions for UK Players"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Lizaro Casino Bonuses and Promotions"
+      }
+    ]
+  },
+  {
+    "id": "k30",
+    "topic": "Verdict / expert opinion / conclusion",
+    "canonical_title": "Our Verdict",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 202,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Our Verdict of Lizaro Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "What Is Our Expert Opinion on Lizaro?"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Table games",
+    "canonical_title": "Table Games",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 98,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Classic Table Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Table Games"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Reload bonuses",
+    "canonical_title": "Reload Bonuses",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 113,
+    "avg_position": 0.46,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Reload Promotions"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Weekly Reload Bonuses"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Virtual sports and esports",
+    "canonical_title": "Virtual Sports and Esports",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 70,
+    "avg_position": 0.47,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Virtual Sports"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Does Lizaro offer e-sports and virtual sports?"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Free spins",
+    "canonical_title": "Free Spins",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 88,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Free Spins Offers"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Free Spins"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Instant and crash games",
+    "canonical_title": "Instant Games",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 92,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Instant Games"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Instant Games"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Cashback",
+    "canonical_title": "Cashback",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 100,
+    "avg_position": 0.53,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Cashback Promotions"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Live Cashback Bonus"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Welcome bonus",
+    "canonical_title": "Welcome Bonus",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 99,
+    "avg_position": 0.56,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Welcome Offer"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Welcome Bonus"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "What is the welcome bonus at Lizaro Casino?"
+      }
+    ]
+  },
+  {
+    "id": "k20",
+    "topic": "VIP and loyalty programme",
+    "canonical_title": "VIP Programme",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 75,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Lizaro Loyalty and VIP Rewards"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "VIP Program"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "VIP Cashback Bonus"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Does Lizaro Casino have a VIP program?"
+      }
+    ]
+  },
+  {
+    "id": "k31",
+    "topic": "FAQ",
+    "canonical_title": "Frequently Asked Questions",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 92,
+    "avg_position": 0.9,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Lizaro Casino FAQs"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Registration",
+    "canonical_title": "How to Register",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 116,
+    "avg_position": 0.14,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "How to Register a New Account at Lizaro Casino?"
+      }
+    ]
+  },
+  {
+    "id": "k27",
+    "topic": "Sportsbook and pre-match betting",
+    "canonical_title": "Sportsbook",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.27,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Lizaro Sportsbook Review"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How does pre-match wagering work at Lizaro?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Top Sports"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Which features are available at Lizaro?"
+      }
+    ]
+  },
+  {
+    "id": "k28",
+    "topic": "Live betting",
+    "canonical_title": "Live Betting",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 32,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Lizaro Live Betting"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How can I participate in live betting at Lizaro?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "How does live payout compare to pre-match?"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Are all sports covered in live betting?"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Jackpots and video poker",
+    "canonical_title": "Jackpots and Video Poker",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 106,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Progressive Jackpot Games"
+      },
+      {
+        "competitor": 0,
+        "level": 3,
+        "text": "Video Poker"
+      }
+    ]
+  },
+  {
+    "id": "k22",
+    "topic": "Deposits",
+    "canonical_title": "Deposits",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 115,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Deposits at Lizaro Casino"
+      }
+    ]
+  },
+  {
+    "id": "k23",
+    "topic": "Withdrawals",
+    "canonical_title": "Withdrawals",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 86,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Withdrawals at Lizaro Casino"
+      }
+    ]
+  },
+  {
+    "id": "k29",
+    "topic": "Sports bonuses",
+    "canonical_title": "Sports Bonuses",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 10,
+    "avg_position": 0.6,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Lizaro Sports Bonus"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Lizaro Sports Promotions"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Game providers",
+    "canonical_title": "Game Providers",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 141,
+    "avg_position": 0.61,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Top Game Providers Available at Lizaro"
+      }
+    ]
+  },
+  {
+    "id": "k25",
+    "topic": "User experience / site usability",
+    "canonical_title": "User Experience",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 158,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "User Experience at Lizaro Casino"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Responsible gambling",
+    "canonical_title": "Responsible Gambling",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 115,
+    "avg_position": 0.89,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Responsible Gambling and Player Protection at Lizaro Online Casino"
+      }
+    ]
+  },
+  {
+    "id": "k26",
+    "topic": "Player reviews",
+    "canonical_title": "Player Reviews",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 107,
+    "avg_position": 0.96,
+    "examples": [
+      {
+        "competitor": 0,
+        "level": 2,
+        "text": "Lizaro Casino Reviews from UK Players"
+      }
+    ]
+  }
+]

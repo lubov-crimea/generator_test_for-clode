@@ -1,0 +1,7 @@
+The only login method is e-mail and password: a Longfu login uses the details set at registration, and a security check may come before the account opens. Three steps cover it:
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password.
+3. Complete any security check and access the account.
+
+That check precedes access, so the account opens only after it is passed. Once the player is inside, the Casino Welcome Bonus is activated in My Bonuses. At Longfu88 this happens before any wager is placed, so a player who logs in for the first time with a deposit made should open that section before starting to play.

@@ -1,0 +1,10 @@
+The responsive Longfu88 website adapts to smartphone and tablet browsers and gives access to the casino, the sportsbook, the account, deposits, withdrawals and bonuses. Each row names what a player can do in that area.
+
+| Feature | What the player can do |
+|---|---|
+| Casino | Open the game categories |
+| Sportsbook | Place bets on listed sports |
+| Account access | Log in to the personal account |
+| Deposits | Add funds through the cashier |
+| Withdrawals | Request a payout from the cashier |
+| Bonuses | Check the available bonus offers |

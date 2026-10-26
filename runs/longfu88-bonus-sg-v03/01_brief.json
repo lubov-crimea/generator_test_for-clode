@@ -1,0 +1,996 @@
+{
+  "geo": "SG",
+  "language": "en",
+  "keywords": [
+    "Longfu88",
+    "Longfu bonus",
+    "Longfu88 bonus",
+    "Longfu88 welcome bonus",
+    "Longfu88 promo code",
+    "Longfu88 offers",
+    "Longfu88 promotions"
+  ],
+  "targets": {
+    "target_body_words": 580,
+    "competitor_body_words": 657,
+    "max_body_words": 788,
+    "tier": "small",
+    "tiers": {
+      "competitors": [
+        631,
+        683,
+        2544,
+        2634
+      ],
+      "base": "medium",
+      "tiers": {
+        "small": {
+          "competitors": [
+            631,
+            683
+          ],
+          "mean": 657,
+          "multiplier": 1.2,
+          "target": 657,
+          "limit": 788
+        },
+        "medium": {
+          "competitors": [
+            2544
+          ],
+          "mean": 2544,
+          "multiplier": 1.2,
+          "target": 2544,
+          "limit": 3053
+        },
+        "large": {
+          "competitors": [
+            2634
+          ],
+          "mean": 2634,
+          "multiplier": 1.0,
+          "target": 2634,
+          "limit": 2634,
+          "outlier": true
+        }
+      }
+    },
+    "keyword_targets": {
+      "Longfu88": 8,
+      "Longfu bonus": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 welcome bonus": 1,
+      "Longfu88 promo code": 1,
+      "Longfu88 offers": 1,
+      "Longfu88 promotions": 1
+    },
+    "base_body_words": 580
+  },
+  "brand": "Longfu88",
+  "knowledge_base": {
+    "id": 576,
+    "title": "longfu88-new"
+  },
+  "intent_summary": "Short brand-subpage for the small size group: the Longfu88 bonus families in one paragraph, the welcome offer basics, the sports bonuses with the odds rule, the weekly cashback with its VIP rates, the daily rebates and responsible use, for a player from Singapore. Page voice: terse and scannable, a one-sentence lead-in per section, then a list or a table; sentences of about 12 words; no calls to action. Flat H2s. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Singapore. Never write \"Longfu88 bonuses\", \"Longfu bonuses\" or \"Longfu88 promo codes\": such forms count as tracked keywords.",
+  "blocks": [
+    {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Promotions: Casino Cashback and Sports Bonuses in Brief",
+      "source": "h1",
+      "covers_clusters": [],
+      "kb_refs": [
+        "brandinfo_general.welcome_bonus_summary",
+        "brandinfo_general.minimum_age"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 1,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Casino Bonuses",
+          "priority": 10
+        },
+        {
+          "name": "Welcome Bonus",
+          "priority": 8
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 5
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the Casino Welcome Bonus for new players",
+          "priority": 8,
+          "relation": "start with",
+          "subject": "Casino Bonuses"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "What the page covers: the bonus families, the welcome offer basics, the sports bonuses, the weekly cashback and the rebates.",
+      "copywriter_notes": "Open with \"Longfu88\" as the subject of the first sentence: the casino runs a set of bonuses that start with the Casino Welcome Bonus. The phrase \"Longfu bonus\" stands once in a sentence that says that players looking for the Longfu bonus find the bonus families, the welcome offer basics, the sports bonuses, the weekly cashback and the rebates on this page. Quote the welcome bonus summary of the Brand Information once, character for character (188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings). State once that the bonuses are for players aged 18 or over and that the page is written for players from Singapore. Signpost the topics in one sentence without detail. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Neutral tone, no promises. Use \"Longfu88\" exactly once and \"Longfu bonus\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b01"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 1
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.welcome_bonus_summary",
+          "value": "188% up to €2,088 + 18 Free Spins; 25x deposit plus bonus, 40x Free Spins winnings."
+        },
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        }
+      ],
+      "coverage_words": {
+        "facts": 21,
+        "connections": 15,
+        "need": 36
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b02",
+      "level": 2,
+      "heading": "Longfu88 Bonus Types in One Paragraph",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k01"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_promotions.other_bonuses[0].name",
+        "brandinfo_promotions.other_bonuses[1].name",
+        "brandinfo_promotions.other_bonuses[4].name",
+        "brandinfo_promotions.other_bonuses[2].name",
+        "brandinfo_promotions.other_bonuses[9].name",
+        "brandinfo_promotions.other_bonuses[10].name",
+        "brandinfo_promotions.other_bonuses[11].name"
+      ],
+      "words_min": 48,
+      "words_max": 62,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Bonus Types",
+          "priority": 10
+        },
+        {
+          "name": "Promotions",
+          "priority": 7
+        },
+        {
+          "name": "Casino Welcome Bonus",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "welcome offers, reload offers, cashback and rebates, sports offers and the rewards area",
+          "priority": 8,
+          "relation": "fall into",
+          "subject": "Casino Bonuses"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The offer families in two or three sentences: welcome offers, reloads, cashback and rebates, plus sports bonuses and a rewards area.",
+      "copywriter_notes": "Two or three sentences, no list: the bonuses fall into welcome offers (Casino Welcome Bonus, Live Casino Welcome Bonus, Casino Crypto Welcome Bonus), reload offers (Casino Weekend Reload, Casino Weekly Reload), cashback and rebates (Casino Weekly Cashback, Live Casino Cashback, Unlimited Casino Rebate), plus sports bonuses and a rewards area (named without details). Use the names exactly as given; no amounts. One clause says that every offer has its own terms and is activated in My Bonuses. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b02"
+      ],
+      "words": 55,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 1,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[0].name",
+          "value": "Live Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[1].name",
+          "value": "Casino Crypto Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[4].name",
+          "value": "Casino Weekend Reload"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[2].name",
+          "value": "Casino Weekly Reload"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].name",
+          "value": "Casino Weekly Cashback"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[10].name",
+          "value": "Live Casino Cashback"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[11].name",
+          "value": "Unlimited Casino Rebate"
+        }
+      ],
+      "coverage_words": {
+        "facts": 34,
+        "connections": 15,
+        "need": 49
+      },
+      "words_base": [
+        48,
+        62
+      ]
+    },
+    {
+      "id": "b03",
+      "level": 2,
+      "heading": "Welcome Offer Basics",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k02"
+      ],
+      "kb_refs": [
+        "brandinfo_welcome.welcome_bonus.name",
+        "brandinfo_welcome.welcome_bonus.bonus_percentage",
+        "brandinfo_welcome.welcome_bonus.maximum_bonus",
+        "brandinfo_welcome.welcome_bonus.free_spins",
+        "brandinfo_welcome.welcome_bonus.minimum_deposit",
+        "brandinfo_welcome.welcome_bonus.eligibility"
+      ],
+      "words_min": 48,
+      "words_max": 62,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 1,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Casino Welcome Bonus",
+          "priority": 10
+        },
+        {
+          "name": "First Deposit",
+          "priority": 8
+        },
+        {
+          "name": "Free Spins",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the first qualifying deposit with a match bonus and free spins",
+          "priority": 8,
+          "relation": "rewards",
+          "subject": "Casino Welcome Bonus"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The Casino Welcome Bonus of 188% up to €2,088 plus 18 Free Spins for a first deposit of €50, in two or three sentences.",
+      "copywriter_notes": "Two or three sentences about the Casino Welcome Bonus only: a first-deposit casino bonus of 188% up to €2,088 plus 18 Free Spins; the minimum first deposit of the bonus is €50 (use the €50 of the bonus, do NOT mention the general minimum deposit of €10); it is for new registered players on the first qualifying deposit, one welcome offer per account. Do not name the other welcome offers and give no wagering numbers. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Variant direction: Where the phrase \"Longfu88 welcome bonus\" is used it stands in the first sentence. Use \"Longfu88\" exactly once and \"Longfu88 welcome bonus\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b03"
+      ],
+      "words": 55,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_welcome.welcome_bonus.name",
+          "value": "Casino Welcome Bonus"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.bonus_percentage",
+          "value": 188
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.maximum_bonus",
+          "value": "€2,088"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.free_spins",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.eligibility",
+          "value": "New registered players on their first qualifying deposit; one welcome offer per account."
+        }
+      ],
+      "coverage_words": {
+        "facts": 32,
+        "connections": 15,
+        "need": 47
+      },
+      "words_base": [
+        48,
+        62
+      ]
+    },
+    {
+      "id": "b04",
+      "level": 2,
+      "heading": "Sports Bonuses and the Odds Rule",
+      "source": "unique",
+      "covers_clusters": [
+        "k11"
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].validity",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[1]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[2]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].reward"
+      ],
+      "words_min": 101,
+      "words_max": 129,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Sports Betting Bonuses",
+          "priority": 10
+        },
+        {
+          "name": "Qualifying Bets",
+          "priority": 7
+        },
+        {
+          "name": "Wagering Requirement",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "the wagering of a sports bonus",
+          "priority": 8,
+          "relation": "count toward",
+          "subject": "Qualifying Sports Bets"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The sports bonuses in short: first deposit and reload offers with a low 8x wagering, the odds required for qualifying bets and the Parlay Boost.",
+      "copywriter_notes": "One lead-in sentence that says that the sportsbook has its own bonuses, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and three rows in this order: Sport First Deposit Bonus, Sport Weekly Reload Bonus, Sport Weekend Reload Bonus (values exactly as in the Brand Information). After the table two sentences: only settled qualifying sports bets count toward the wagering, single bets need odds of at least 2.00 and each accumulator selection at least 1.50, voided and cashed-out bets do not qualify; the offers are valid for 30 days. One closing sentence names the Parlay Boost: up to 100% extra winnings on qualifying accumulators. No sports tips, no odds of events. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b17"
+      ],
+      "words": 115,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+          "value": "Sport First Deposit Bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].reward",
+          "value": "100% up to €1,888"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].wagering_requirement",
+          "value": "8x deposit plus bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[2].name",
+          "value": "Sport Weekly Reload Bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[2].reward",
+          "value": "50% up to €2,500"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[2].minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[2].wagering_requirement",
+          "value": "8x deposit plus bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[3].name",
+          "value": "Sport Weekend Reload Bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[3].reward",
+          "value": "50% up to €3,750"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[3].minimum_deposit",
+          "value": "€50"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[3].wagering_requirement",
+          "value": "8x deposit plus bonus"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].validity",
+          "value": "30 days"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[1]",
+          "value": "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50."
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[2]",
+          "value": "Voided and cashed-out bets do not qualify."
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[9].name",
+          "value": "Parlay Boost"
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[9].reward",
+          "value": "Up to 100% extra winnings on qualifying accumulators"
+        }
+      ],
+      "coverage_words": {
+        "facts": 97,
+        "connections": 15,
+        "need": 112
+      },
+      "words_base": [
+        101,
+        129
+      ]
+    },
+    {
+      "id": "b05",
+      "level": 2,
+      "heading": "Cashback and VIP Rates",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k06"
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[9].reward",
+        "brandinfo_promotions.other_bonuses[9].calculation_period",
+        "brandinfo_promotions.other_bonuses[9].minimum_cashback",
+        "brandinfo_promotions.other_bonuses[9].opt_in",
+        "brandinfo_promotions.other_bonuses[9].wagering_requirement",
+        "brandinfo_promotions.other_bonuses[9].cashback_by_vip",
+        "brandinfo_promotions.other_bonuses[10].reward",
+        "brandinfo_promotions.other_bonuses[10].wagering_requirement"
+      ],
+      "words_min": 106,
+      "words_max": 134,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Cashback",
+          "priority": 10
+        },
+        {
+          "name": "Net Losses",
+          "priority": 6
+        },
+        {
+          "name": "VIP Level",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "up to 10% of weekly net casino losses",
+          "priority": 8,
+          "relation": "returns",
+          "subject": "Casino Weekly Cashback"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Cashback: the Casino Weekly Cashback of up to 10% of weekly net losses capped at €6,988 with its rates by VIP level, and the Live Casino Cashback of 25% up to €850.",
+      "copywriter_notes": "Lead with the Casino Weekly Cashback: up to 10% of weekly net casino losses, capped at €6,988, calculated Monday 00:00 UTC through Sunday 23:59 UTC, minimum cashback €4.5, opt-in for a four-week cycle, wagering 10x the cashback. Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback, opt-in and activation in My Bonuses) in one sentence. After the paragraph a TABLE with three columns, VIP level | cashback percentage | maximum, and five rows (VIP Bronze 2% €1,888; VIP Silver 4% €2,388; VIP Gold 6% €2,988; VIP Platinum 8% €3,988; VIP Diamond 10% €6,988) exactly as in the Brand Information. Only real-money casino bets count toward the cashback; bonus funds are excluded.  Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "variant_origin": [
+        "b13"
+      ],
+      "words": 120,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].reward",
+          "value": "Up to 10% of weekly net casino losses, capped at €6,988"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].calculation_period",
+          "value": "Monday 00:00 UTC through Sunday 23:59 UTC"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].minimum_cashback",
+          "value": "€4.5"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].opt_in",
+          "value": "Opt in for a four-week cycle; active accounts can renew automatically."
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].wagering_requirement",
+          "value": "10x cashback before withdrawal"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].cashback_by_vip",
+          "value": [
+            {
+              "level": "VIP Bronze",
+              "percentage": 2,
+              "maximum": "€1,888"
+            },
+            {
+              "level": "VIP Silver",
+              "percentage": 4,
+              "maximum": "€2,388"
+            },
+            {
+              "level": "VIP Gold",
+              "percentage": 6,
+              "maximum": "€2,988"
+            },
+            {
+              "level": "VIP Platinum",
+              "percentage": 8,
+              "maximum": "€3,988"
+            },
+            {
+              "level": "VIP Diamond",
+              "percentage": 10,
+              "maximum": "€6,988"
+            }
+          ]
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[10].reward",
+          "value": "25% up to €850"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[10].wagering_requirement",
+          "value": "10x credited cashback"
+        }
+      ],
+      "coverage_words": {
+        "facts": 74,
+        "connections": 15,
+        "need": 89
+      },
+      "words_base": [
+        106,
+        134
+      ]
+    },
+    {
+      "id": "b06",
+      "level": 2,
+      "heading": "Daily Rebates",
+      "source": "unique",
+      "covers_clusters": [
+        "k06"
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[11].name",
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].name",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[11].crediting",
+        "brandinfo_promotions.other_bonuses[11].wagering_requirement"
+      ],
+      "words_min": 48,
+      "words_max": 62,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Rebate",
+          "priority": 10
+        },
+        {
+          "name": "Rewards Balance",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "a share of qualifying settled real-money wagering every day",
+          "priority": 8,
+          "relation": "returns",
+          "subject": "Unlimited Rebate"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "The two main unlimited rebates: 0.9% on casino and 1.0% on live casino wagering, credited daily.",
+      "copywriter_notes": "Two sentences: the Unlimited Casino Rebate returns 0.9% and the Unlimited Live Casino Rebate 1.0% of qualifying settled real-money wagering on the relevant game category; the rebate is credited daily to the rewards balance and carries 1x wagering on the credited rebate. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b14"
+      ],
+      "words": 55,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_promotions.other_bonuses[11].name",
+          "value": "Unlimited Casino Rebate"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+          "value": 0.9
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[12].name",
+          "value": "Unlimited Live Casino Rebate"
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[12].rebate_percentage",
+          "value": 1.0
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[11].crediting",
+          "value": "Rebate credited daily to the rewards balance."
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[11].wagering_requirement",
+          "value": "1x credited rebate"
+        }
+      ],
+      "coverage_words": {
+        "facts": 27,
+        "connections": 15,
+        "need": 42
+      },
+      "words_base": [
+        48,
+        62
+      ]
+    },
+    {
+      "id": "b07",
+      "level": 2,
+      "heading": "Using Offers Responsibly",
+      "source": "unique",
+      "covers_clusters": [
+        "k04"
+      ],
+      "kb_refs": [
+        "brandinfo_general.minimum_age",
+        "brandinfo_responsible_gaming.responsible_gaming.policy",
+        "brandinfo_responsible_gaming.responsible_gaming.support_organizations"
+      ],
+      "words_min": 44,
+      "words_max": 56,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Responsible Gambling",
+          "priority": 10
+        },
+        {
+          "name": "Minimum Age",
+          "priority": 6
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "before the player accepts an offer",
+          "priority": 7,
+          "relation": "should be read",
+          "subject": "Bonus Terms"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "Bonuses are for players of 18 or over who gamble where it is lawful; read the terms first and use the support organisations.",
+      "copywriter_notes": "Two or three sentences: the bonuses are for players aged 18 or over who gamble only where it is lawful; the terms of an offer (wagering, maximum bet, validity) should be read before accepting it; the support organisations of the casino are GamCare, Gamblers Anonymous and Gambling Therapy. No advice to chase losses, no promise. Do not say or imply that the casino or its bonuses are licensed, legal or approved in Singapore, and do not discuss the licence on this page. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "paragraph"
+      ],
+      "variant_origin": [
+        "b19"
+      ],
+      "words": 50,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.minimum_age",
+          "value": 18
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.policy",
+          "value": "Players must be at least 18 years old and gamble only where lawful."
+        },
+        {
+          "path": "brandinfo_responsible_gaming.responsible_gaming.support_organizations",
+          "value": [
+            "GamCare",
+            "Gamblers Anonymous",
+            "Gambling Therapy"
+          ]
+        }
+      ],
+      "coverage_words": {
+        "facts": 25,
+        "connections": 15,
+        "need": 40
+      },
+      "words_base": [
+        44,
+        56
+      ]
+    },
+    {
+      "id": "b08",
+      "level": 2,
+      "heading": "Longfu88 Offers: Sports and Cashback Questions",
+      "source": "mandatory",
+      "covers_clusters": [
+        "k20"
+      ],
+      "kb_refs": [
+        "brandinfo_general.customer_support.channels",
+        "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[1]",
+        "brandinfo_promotions.other_bonuses[9].reward"
+      ],
+      "words_min": 70,
+      "words_max": 90,
+      "keywords": {
+        "Longfu88": 1,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 1,
+        "Longfu88 offers": 0,
+        "Longfu88 promotions": 0
+      },
+      "entities": [
+        {
+          "name": "Frequently Asked Questions",
+          "priority": 10
+        },
+        {
+          "name": "Bonus Terms",
+          "priority": 7
+        }
+      ],
+      "entity_connections": [
+        {
+          "object": "short answers to the most frequent questions about the bonuses",
+          "priority": 6,
+          "relation": "finds",
+          "subject": "Player"
+        }
+      ],
+      "listed_entities": [],
+      "summary": "4 short questions and answers on the bonuses of the casino.",
+      "copywriter_notes": "A bulleted list of 4 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) whether a promo code is needed (the Brand Information lists none; the offers are activated in My Bonuses); (2) which odds a sports bet needs to qualify (single bets at least 2.00, each accumulator selection at least 1.50); (3) how much the weekly cashback can return (up to 10% of weekly net casino losses, capped at €6,988); (4) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into Singapore dollars or other currencies. Variant direction: Where the phrase \"Longfu88 promo code\" is used it stands in the question about the promo code, written \"Is there a Longfu88 promo code?\". Use \"Longfu88\" exactly once and \"Longfu88 promo code\" exactly once, and no other tracked keyword.",
+      "formats": [
+        "list"
+      ],
+      "variant_origin": [
+        "b22"
+      ],
+      "words": 80,
+      "fact_table": [],
+      "heading_keywords": {
+        "Longfu88": 0,
+        "Longfu bonus": 0,
+        "Longfu88 bonus": 0,
+        "Longfu88 welcome bonus": 0,
+        "Longfu88 promo code": 0,
+        "Longfu88 offers": 1,
+        "Longfu88 promotions": 0
+      },
+      "brand_info": [
+        {
+          "path": "brandinfo_general.customer_support.channels",
+          "value": [
+            "24/7 live chat",
+            "Email"
+          ]
+        },
+        {
+          "path": "brandinfo_welcome.welcome_bonus.claiming_procedure[2]",
+          "value": "Activate the Casino Welcome Bonus in My Bonuses before placing any wagers."
+        },
+        {
+          "path": "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[1]",
+          "value": "Qualifying single bets must have odds of at least 2.00; each accumulator selection at least 1.50."
+        },
+        {
+          "path": "brandinfo_promotions.other_bonuses[9].reward",
+          "value": "Up to 10% of weekly net casino losses, capped at €6,988"
+        }
+      ],
+      "coverage_words": {
+        "facts": 43,
+        "connections": 15,
+        "need": 58
+      },
+      "words_base": [
+        70,
+        90
+      ]
+    }
+  ],
+  "review_issues": [],
+  "coverage_budget": [],
+  "page_type": "brand-subpage",
+  "skipped_clusters": [
+    {
+      "id": "k03",
+      "reason": "the claiming steps are left out of the short text; the activation in My Bonuses is named in the welcome section"
+    },
+    {
+      "id": "k05",
+      "reason": "reload offers are left out of the short text; the page keeps to cashback, rebates and sports"
+    },
+    {
+      "id": "k21",
+      "reason": "a checklist is left out of the short text; responsible use closes the page"
+    }
+  ],
+  "variant": {
+    "id": "v03",
+    "name": "Casino cashback and sports (small)",
+    "base_run": "longfu88-bonus-sg",
+    "angle": "A reader who bets on sports as well as plays casino and wants both cashback sets in a few lines.",
+    "tier": "small"
+  },
+  "site_pages": [
+    "login",
+    "app"
+  ]
+}

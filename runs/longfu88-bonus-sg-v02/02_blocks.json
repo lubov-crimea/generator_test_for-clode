@@ -1,0 +1,295 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu88 Welcome Bonus: Deposits, Crypto Offer and Terms",
+      "text": "At the top of the Longfu88 list stands the Casino Welcome Bonus: 18 Free Spins plus a 188% match limited to €2,088. Wagering has two parts: 25x covers deposit and bonus combined, 40x the Free Spins winnings. The Longfu bonus and Longfu88 promotions are detailed below. This page speaks to Singapore, and 18 is the minimum age.",
+      "version": 9,
+      "history": [
+        {
+          "iteration": "intro-diversify",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Casino Welcome Bonus in Short",
+      "text": "Longfu88 ties the Casino Welcome Bonus to a player's first qualifying deposit. It pays 18 Free Spins and a 188% match with a €2,088 ceiling. Below €50 a first deposit does not qualify, and the offer goes only to newly registered players, once per account. Longfu88 packs the whole welcome into one deposit.",
+      "version": 7,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b03": {
+      "id": "b03",
+      "level": 2,
+      "heading": "Minimum Deposit by Offer",
+      "text": "Each offer sets its own minimum, and only the crypto one is counted in USDT, the rest in euros.\n\n| Offer | Minimum |\n|---|---|\n| Casino Weekend Reload | at least €50 |\n| Live Casino Welcome Bonus | at least €30 |\n| Casino Crypto Welcome Bonus | at least 50 USDT |\n| Casino Welcome Bonus | at least €50 |\n| Casino Weekly Reload | at least €30 |\n\nThe casino's general minimum deposit does not fix an offer's minimum, so at Longfu88 the offer's own line in the table is the one to read. Deposits via Neteller or Skrill are barred from the Casino Welcome Bonus.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b04": {
+      "id": "b04",
+      "level": 2,
+      "heading": "Crypto Welcome Offer",
+      "text": "Crypto depositors get a first-deposit offer of their own: 188%, topping out at 2,888 USDT, named Casino Crypto Welcome Bonus. The qualifying first crypto deposit starts at 50 USDT. Valid for 10 days, it carries wagering of 40x deposit plus bonus and a limit of 5 USDT per spin on the bonus wager. Qualifying coins: BTC, ETH, LTC, BCH, XRP, USDT and USDC. At Longfu88 it stands in for the Casino Welcome Bonus, since both target the first deposit.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Longfu88 Bonus Wagering and Limits",
+      "text": "Two wagering figures govern the Casino Welcome Bonus: 25x for deposit and bonus together, and for Free Spins winnings a separate 40x. Both are bound to the same period of 10 days, counted from activation. Two further caps apply at Longfu88: a bet of €22.5 per spin at most, and cashouts that may not exceed 5x the initial bonus amount. Among these figures, the multipliers and the 10-day period matter first.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Longfu88 Promo Code: Is One Listed?",
+      "text": "No promo code is attached to any offer at Longfu88, and this page names none either. Activating the Casino Welcome Bonus is done under My Bonuses, and the first wager must come after it. On the code question, then, the answer is a plain no.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Verification Before Payout",
+      "text": "Longfu88 may require account verification before it pays promotional winnings, which makes the step one to expect. A withdrawal request filed prior to claiming a bonus, or filed during its active period, risks voiding promotional eligibility. Documents are requested only when needed, with up to 30 days for submission and up to 10 days of review once the full set has arrived.",
+      "version": 8,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "Four Checks Before the First Deposit",
+      "text": "Four checks at Longfu88 come in this order ahead of switching on the welcome offer in My Bonuses:\n\n- Status: a newly registered player, with a single welcome offer granted to each account.\n- Amount: the first qualifying deposit is €50 or more.\n- Method: the deposit is not made through either Neteller or Skrill.\n- Other bonuses: no promotional bonus besides this one is running at the time.",
+      "version": 5,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    },
+    "b09": {
+      "id": "b09",
+      "level": 2,
+      "heading": "Longfu88 Offers: Welcome Questions",
+      "text": "- **What deposit does the welcome bonus start from?** €50, the figure set by the Casino Welcome Bonus for a first deposit.\n- **Which deposit methods cannot be used to claim it?** Neteller and Skrill depositors are not eligible for it.\n- **Does crypto get a welcome offer too?** Yes, a separate one exists, called the Casino Crypto Welcome Bonus, with 188% up to 2,888 USDT.\n- **What is the validity period?** 10 days, counting from activation.\n- **How can a bonus question reach support?** Longfu88 support takes bonus questions via e-mail, with live chat staffed day and night (24/7).",
+      "version": 9,
+      "history": [
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        },
+        {
+          "iteration": "dedupe-shingle6",
+          "fixes": []
+        }
+      ]
+    }
+  }
+}

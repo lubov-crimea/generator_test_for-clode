@@ -1,0 +1,20 @@
+=== b04 ===
+Registration runs through an email form and takes five steps, in this order:
+
+1. Open Longfu88 and select Register.
+2. Enter email and create a password.
+3. Confirm age and acceptance of Terms and Conditions and Privacy Policy.
+4. Complete the additional personal details and residential address.
+5. Select Create Account and complete any requested email confirmation.
+
+Registration requires an email, a password, a legal name, a date of birth and a residential address, and each player may hold only one personal account. To log in later, select Login on the website, enter the registered email and password and complete any security check. A forgotten password is handled through Forgot Password on the login screen: request a reset link by email and follow the emailed instructions to set a new one. Once the account is open, the next stage is proving who the player is.
+
+=== b05 ===
+Verification may be required before a withdrawal, and also after an account review, on unusual or high-value transactions or when account or payment details change. The documents accepted are:
+
+- Identity documents: passport, national identity card or driving licence
+- Proof of address: utility bill or bank statement
+- Payment method: evidence of bank, card or digital wallet ownership
+- Source of funds, when requested: proof of income, bank statements or other supporting financial documents
+
+When the casino asks, the documents can be sent within 30 days. A complete document set is reviewed within 10 days at most, and withdrawals may be held until the checks are done. Failed checks can lead to refused transactions or account restrictions, so legible, current files that match the account profile save time before the first payout.

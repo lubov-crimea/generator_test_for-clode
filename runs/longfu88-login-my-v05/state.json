@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-23T18:45:30",
+    "blocks": 10,
+    "variant": "v05"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-23T19:07:36",
+    "iteration": 0,
+    "regenerated": 10
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-23T19:07:56",
+    "iteration": 0,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-23T19:08:01",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-login-my-v05.txt"
+  }
+}

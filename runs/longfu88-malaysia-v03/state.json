@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-22T20:27:40",
+    "blocks": 22,
+    "variant": "v03"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-22T20:50:56",
+    "iteration": 0,
+    "regenerated": 22
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-22T20:50:58",
+    "iteration": 0,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-22T20:51:02",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-malaysia-v03.txt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+ "website_id": 4960,
+ "domain": "longfu-88.sg",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu88 Shortcut or Mobile Site: Pick Your Route",
+  "description": "Longfu88 on a phone: use a home-screen shortcut or a browser tab, check supported phones and browsers, register, sign in, cash out and fix common issues."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Shortcut or browser tab: pick your route",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Claim Bonus"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "bonus offers",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "Login",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Get Offer"
+ }
+}

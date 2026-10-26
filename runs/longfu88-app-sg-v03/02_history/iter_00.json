@@ -1,0 +1,70 @@
+{
+  "iteration": 0,
+  "complete": true,
+  "blocks": {
+    "b01": {
+      "id": "b01",
+      "level": 1,
+      "heading": "Longfu App Checklist: Phone Setup for Singapore Players",
+      "text": "Longfu88 works as a mobile casino in the browser of a smartphone or tablet, on Android and iOS. Its responsive website adapts to both screens. The casino is for players aged 18 or over, and this page is written for players from Singapore. Below: a device check, shortcut steps for iOS and Android, login, fixes, payments, eligibility and contacts.",
+      "version": 1,
+      "history": []
+    },
+    "b02": {
+      "id": "b02",
+      "level": 2,
+      "heading": "Longfu88 Mobile Casino Device Checklist",
+      "text": "The supported platforms include Android, iOS and the mobile web of smartphones and tablets. Longfu88 needs no installation file on any of them, because the responsive website opens in the browser and its layout adapts to the screen size.\n\n- Android: open the casino in Chrome to add the shortcut.\n- iOS: open the casino in Safari to add the shortcut.\n- Mobile web: any smartphone or tablet browser opens the site.",
+      "version": 1,
+      "history": []
+    },
+    "b03": {
+      "id": "b03",
+      "level": 2,
+      "heading": "Longfu88 iOS and Android Shortcut Checklist",
+      "text": "The casino works in the browser of a smartphone or tablet, and a home-screen shortcut is added once. Neither a Longfu88 apk nor a Longfu88 download is needed, because the site opens in the mobile browser and no store listing exists. Both routes start with the casino page open in the browser, so the shortcut always points to the same responsive website. The Longfu88 Android route runs through Chrome, the iPhone and iPad route through Safari, and the iOS steps come first.\n\nOn an iPhone or iPad, three steps in Safari place the shortcut on the home screen.\n\n1. Open the casino website in Safari.\n2. Tap Share and choose Add to Home Screen.\n3. Confirm Add.\n\nOn an Android phone or tablet, the same result takes three steps in Chrome.\n\n1. Open the casino website in Chrome.\n2. From the browser menu, choose Add to Home screen.\n3. Confirm the shortcut.\n\nOnce confirmed, the icon sits on the home screen and opens the casino website in the browser, so the steps are not repeated.",
+      "version": 1,
+      "history": []
+    },
+    "b04": {
+      "id": "b04",
+      "level": 2,
+      "heading": "Login Checklist",
+      "text": "Registration at Longfu88 is by e-mail only, and the form asks for e-mail, password, legal name, date of birth and residential address. Login works on a phone as on a computer: the method is e-mail and password, in three steps from the login page.\n\n- Select Login on the website.\n- Enter the registered e-mail and password.\n- Access the account.\n\nA player who forgot the password chooses Forgot Password on the login screen.",
+      "version": 1,
+      "history": []
+    },
+    "b05": {
+      "id": "b05",
+      "level": 2,
+      "heading": "Troubleshooting Checklist",
+      "text": "Four checks cover the common phone problems at Longfu88, and support helps with the problems that these checks do not solve.\n\n| Problem | Fix |\n|---|---|\n| The shortcut does not appear | Repeat the steps in Chrome on Android or in Safari on iOS |\n| The page does not load | Reload the page and check the internet connection |\n| The login fails | Check the e-mail address and use Forgot Password on the login screen |\n| The problem remains | Contact support through live chat, 24/7, or by e-mail, and describe the step that failed |",
+      "version": 1,
+      "history": []
+    },
+    "b06": {
+      "id": "b06",
+      "level": 2,
+      "heading": "Longfu88 App Payments: Deposit Methods Checklist",
+      "text": "The cashier is part of the mobile website, so deposits are made from the browser of the phone or tablet. A player pays with PayNow, PayNow QR, DBS Bank or OCBC Bank, and every method works in Singapore dollars.\n\n| Method | Currency | Deposit speed |\n|---|---|---|\n| PayNow | SGD | 1–2 minutes |\n| PayNow QR | SGD | 1–2 minutes |\n| DBS Bank | SGD | 1–2 minutes |\n| OCBC Bank | SGD | 1–2 minutes |\n\nAll four methods share the same currency and the same deposit speed, so the choice rests on which bank or QR route the player already uses.",
+      "version": 1,
+      "history": []
+    },
+    "b07": {
+      "id": "b07",
+      "level": 2,
+      "heading": "Eligibility Checklist",
+      "text": "Every player meets the minimum age, the residence rule and three account rules, which apply on a phone exactly as on a computer.\n\n- The minimum age is 18.\n- Players must be legally permitted to gamble in their place of residence.\n- Register with accurate information.\n- Use only one personal account.\n- Do not use third-party payment methods.",
+      "version": 1,
+      "history": []
+    },
+    "b08": {
+      "id": "b08",
+      "level": 2,
+      "heading": "Support Contacts",
+      "text": "Live chat is open 24/7 for mobile and account questions, including a shortcut that does not appear or a page that does not load. Login and document questions go there too. E-mail reaches the same support team at support@longfu88.com. The team writes in English, Malay, Simplified Chinese, Thai, Indonesian and Vietnamese.",
+      "version": 1,
+      "history": []
+    }
+  }
+}

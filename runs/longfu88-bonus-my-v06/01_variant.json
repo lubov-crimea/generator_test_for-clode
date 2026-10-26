@@ -1,0 +1,251 @@
+{
+  "id": "v06",
+  "name": "Casino and sports bonuses",
+  "tier": "medium",
+  "angle": "A player who bets on sports as well as plays casino and wants both bonus sets.",
+  "skipped_clusters": [
+    {
+      "id": "k16",
+      "reason": "left out of the short text; the offer families are named in the sections that follow"
+    },
+    {
+      "id": "k07",
+      "reason": "belongs to the VIP Program page of the site; the VIP cashback levels are left to that page"
+    }
+  ],
+  "intent_summary": "Brand-subpage about the Longfu88 bonuses for casino and sports players in Malaysia: the welcome bonus and its activation, the terms, the promo code check, the reload, free spin and cashback offers, the unlimited rebates and the sports bonuses with the odds they need. Page voice: sober and exact, every number tied to the offer it belongs to, sentences of about 18 words with a few shorter ones; no calls to action. All brand facts come from the AffBulk knowledge base longfu88-new; nothing is claimed about the legal status of the casino in Malaysia.",
+  "blocks": [
+    {
+      "from": [
+        "b01"
+      ],
+      "level": 1,
+      "heading": "Longfu88 Promotions for Casino and Sports Players",
+      "words": 65,
+      "kw": {
+        "Longfu88": 2,
+        "Longfu bonus": 1
+      }
+    },
+    {
+      "from": [
+        "b03"
+      ],
+      "level": 2,
+      "heading": "Casino Welcome Bonus in Brief",
+      "words": 80,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 welcome bonus": 1
+      },
+      "extra": "Where the phrase \"Longfu88 welcome bonus\" is used it stands in the first sentence."
+    },
+    {
+      "from": [
+        "b04"
+      ],
+      "level": 2,
+      "heading": "Activate the Offer in My Bonuses",
+      "words": 75,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b05"
+      ],
+      "level": 2,
+      "heading": "Wagering, Maximum Bet and Cashout",
+      "words": 100,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b06"
+      ],
+      "level": 2,
+      "heading": "Promo Code Check",
+      "words": 55,
+      "kw": {
+        "Longfu88": 1,
+        "Longfu88 promo code": 1
+      }
+    },
+    {
+      "from": [
+        "b07"
+      ],
+      "level": 2,
+      "heading": "Reload Bonuses Week by Week",
+      "words": 120,
+      "kw": {
+        "Longfu88": 2
+      }
+    },
+    {
+      "from": [
+        "b08"
+      ],
+      "level": 2,
+      "heading": "Free Spins with Their Own Wagering",
+      "words": 70,
+      "kw": {
+        "Longfu88": 1
+      }
+    },
+    {
+      "from": [
+        "b09"
+      ],
+      "level": 2,
+      "heading": "Weekly and Live Casino Cashback",
+      "words": 90,
+      "kw": {
+        "Longfu88": 2
+      },
+      "edit": [
+        [
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence, and the Unlimited Casino Rebate (0.9%) and the Unlimited Live Casino Rebate (1.0%) in one sentence: rebates are credited daily and carry 1x wagering on the credited rebate (that figure is in the Brand Information, state it once). ",
+          "Then the Live Casino Cashback (25% up to €850, wagering 10x the credited cashback) in one sentence. "
+        ]
+      ],
+      "refs_drop": [
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Unlimited Rebates by Game Category",
+      "words": 60,
+      "kw": {
+        "Longfu88": 1
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "Four unlimited rebates of 0.8% to 1.0% of qualifying wagering, credited daily with 1x wagering on the credited rebate.",
+      "entities": [
+        [
+          "Rebate",
+          10
+        ],
+        [
+          "Rewards Balance",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Unlimited Rebate",
+          "returns",
+          "a share of qualifying settled real-money wagering every day",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_promotions.other_bonuses[11].name",
+        "brandinfo_promotions.other_bonuses[11].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[12].name",
+        "brandinfo_promotions.other_bonuses[12].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[13].name",
+        "brandinfo_promotions.other_bonuses[13].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[14].name",
+        "brandinfo_promotions.other_bonuses[14].rebate_percentage",
+        "brandinfo_promotions.other_bonuses[11].crediting",
+        "brandinfo_promotions.other_bonuses[11].wagering_requirement"
+      ],
+      "notes": "One lead-in sentence that says that a rebate returns a share of qualifying settled real-money wagering on a game category, then a TABLE with two columns, rebate | rate, and four rows in this order: Unlimited Casino Rebate 0.9%, Unlimited Live Casino Rebate 1.0%, Unlimited P2P Rebate 0.8%, Unlimited Lottery Rebate 1.0%. One closing sentence: the rebate is credited daily to the rewards balance and carries 1x wagering on the credited rebate. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k05"
+      ]
+    },
+    {
+      "from": [],
+      "level": 2,
+      "heading": "Sports Betting Bonuses",
+      "words": 140,
+      "kw": {
+        "Longfu88": 2
+      },
+      "formats": [
+        "paragraph",
+        "table"
+      ],
+      "summary": "The sports bonuses: first deposit and reload offers with a low 8x wagering, the odds required for qualifying bets and the Parlay Boost.",
+      "entities": [
+        [
+          "Sports Betting Bonuses",
+          10
+        ],
+        [
+          "Qualifying Bets",
+          7
+        ],
+        [
+          "Wagering Requirement",
+          6
+        ]
+      ],
+      "connections": [
+        [
+          "Qualifying Sports Bets",
+          "count toward",
+          "the wagering of a sports bonus",
+          8
+        ]
+      ],
+      "kb_refs": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[2].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].reward",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].minimum_deposit",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[3].wagering_requirement",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].validity",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[1]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].important_terms[2]",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[9].reward"
+      ],
+      "notes": "One lead-in sentence that says that the sportsbook has its own bonuses, then a TABLE with four columns, offer | reward | minimum deposit | wagering, and rows in this order: Sport First Deposit Bonus, Sport Weekly Reload Bonus, Sport Weekend Reload Bonus (values exactly as in the Brand Information). After the table two sentences: only settled qualifying sports bets count toward the wagering, single bets need odds of at least 2.00 and each accumulator selection at least 1.50, voided and cashed-out bets do not qualify; the offers are valid for 30 days. One closing sentence names the Parlay Boost: up to 100% extra winnings on qualifying accumulators. No sports tips, no odds of events. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "covers_clusters": [
+        "k12"
+      ]
+    },
+    {
+      "from": [
+        "b11"
+      ],
+      "level": 2,
+      "heading": "Longfu88 Offers: Casino and Sports Questions",
+      "words": 95,
+      "kw": {
+        "Longfu88": 1
+      },
+      "summary": "6 short questions and answers on the bonuses of the casino.",
+      "notes": "A bulleted list of 6 items in the form \"- **Question?** Answer.\" (bold question, then a one-sentence answer); bold is required here for the question text only. Questions, in this order: (1) what is the minimum first deposit for the welcome bonus (€50); (2) whether sports bets have their own bonuses (yes: the sportsbook lists them separately, for example the Sport First Deposit Bonus of 100% up to €1,888); (3) how many promotional bonuses can be active at once (one); (4) how often the reload offers can be claimed (one claim per promotional period unless otherwise stated); (5) how much the weekly cashback can return (up to 10% of weekly net casino losses, capped at €6,988); (6) where to turn with a bonus question (customer support: live chat 24/7 or e-mail; do not print the e-mail address). Answers repeat the facts of the sections above in other words and add nothing new. Use only the amounts, percentages, wagering multiples, periods and names of the Brand Information, character for character; no other offer, no code, no bonus that is not listed, no promise of winnings, no advice to claim every offer, no comparison with other casinos. Do not convert the euro amounts into other currencies.",
+      "refs_add": [
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].name",
+        "brandinfo_sportsbook.sportsbook.sports_bonuses[0].reward",
+        "brandinfo_promotions.other_bonuses[4].important_terms[0]",
+        "brandinfo_promotions.other_bonuses[9].reward"
+      ],
+      "refs_drop": [
+        "brandinfo_welcome.welcome_bonus.validity",
+        "brandinfo_promotions.other_bonuses[9].opt_in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+The cashier groups its deposit options into six families, each with its own currencies.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore banks and wallets | DBS Bank, OCBC Bank, PayNow, PayNow QR | SGD |
+| Crypto | Ethereum, Bitcoin, Litecoin, USDC, USDT over TRC20, ERC20 and BEP20 | ETH, BTC, LTC, USDC, USDT |
+| Cards | Mastercard, Visa | MYR, SGD, VND, IDR |
+| Direct bank payment | Bank Transfer | IDR, MYR, VND |
+| European options | Sofort, Giropay | EUR |
+| E-wallets | Neteller, Skrill | EUR |
+
+For Singapore, the first row is the natural pick. Every method shares one frame: deposits start at €10, top out at €5,000 per transaction and land within 1-2 minutes. The casino adds no fee, but a payment provider or blockchain network may bill separately. Limits can shift with country, currency and method, and the welcome promotion refuses Neteller and Skrill deposits.
+
+Funding is a short routine: log in to Longfu88, press Deposit in the cashier, select a method plus its network, key in the amount and payment information, then approve it as the provider instructs.

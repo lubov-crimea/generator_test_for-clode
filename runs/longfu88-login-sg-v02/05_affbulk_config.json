@@ -1,0 +1,43 @@
+{
+ "website_id": 4963,
+ "domain": "longfu88sg.net",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Account Guide: Register, Welcome Offer, Login",
+  "description": "Longfu88 account guide for Singapore players: open an account, claim the welcome offer, log in, use the site on a phone and choose a currency."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "New here? Open the account, then log in",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Play Now"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Get Bonus"
+ },
+ "internal_links": [
+  {
+   "anchor": "Casino Welcome Bonus",
+   "href": "/bonuses"
+  },
+  {
+   "anchor": "Mobile access",
+   "href": "/app"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+=== b17 ===
+Longfu88 takes deposits through local, card, bank, crypto and e-wallet methods, grouped by type below.
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore local | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20, BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+All methods share a €10 minimum and a €5,000 maximum per transaction, and limits can differ by country, currency and method. Deposits are credited within 1-2 minutes, and the casino charges no processing fee on deposits, while provider or network fees may apply. Neteller and Skrill deposits are excluded from the welcome bonus. The route has six steps: log in, open the cashier and select Deposit, choose a method, enter the amount and payment details, confirm as the provider instructs, and wait for the balance to be credited.
+
+=== b18 ===
+Withdrawals are generally processed within three working days: card, crypto and wallet methods take 1 to 3 business days, while bank transfer needs up to 3 business days of casino processing plus 3 to 5 for bank delivery. Methods are Bank Transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT (TRC20, ERC20 and BEP20), Touch'n Go, DANA, MoMo, DBS Bank and Online Banking, from €20 to €5,000. No standard withdrawal fee applies, but provider and blockchain fees may, and a 10% commission (minimum €2.25) can apply when turnover is below the deposit, while 15% can apply to some card or bank transfer funded transactions. A 1x deposit turnover can be required, and identity checks can delay a payout.
+
+1. Log in to Longfu88 and open the cashier.
+2. Select Withdrawal and choose a method.
+3. Enter the amount and the receiving bank, wallet or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Confirm the request.
+6. Wait for processing and any bank or network settlement.

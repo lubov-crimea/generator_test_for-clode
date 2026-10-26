@@ -1,0 +1,7 @@
+Three steps replace a forgotten password with a new one:
+
+1. The reset begins with the Forgot Password item on the login screen.
+2. On request, a link for resetting reaches the e-mail address registered earlier.
+3. A new password is set by following the e-mailed instructions.
+
+Someone who can no longer get into the registered mailbox should turn to support, whose contact details appear further down, in the support section of this page.

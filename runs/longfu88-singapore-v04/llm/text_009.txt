@@ -1,0 +1,26 @@
+=== b12 ===
+Players from Singapore have four methods in SGD, PayNow, PayNow QR, DBS Bank and OCBC Bank, and the table groups them with the other deposit options by type:
+
+| Method type | Examples | Currencies |
+|---|---|---|
+| Singapore banks and PayNow | PayNow, PayNow QR, DBS Bank, OCBC Bank | SGD |
+| Other local banks and wallets | DuitNow, GrabPay, Touch'n Go, QRIS, DANA, PromptPay QR, MoMo | MYR, IDR, THB, VND |
+| Cards | Visa, Mastercard | IDR, MYR, SGD, VND |
+| Bank transfer | Bank Transfer | IDR, MYR, VND |
+| Cryptocurrencies | Bitcoin, Ethereum, Litecoin, USDT (TRC20), USDT (ERC20), USDT (BEP20), USDC | BTC, ETH, LTC, USDT, USDC |
+| E-wallets | Neteller, Skrill | EUR |
+| European methods | Sofort, Giropay | EUR |
+
+Every method shares the same general terms: a minimum of €10, a maximum of €5,000 per transaction and crediting within 1-2 minutes. The casino charges no processing fee, although provider or blockchain network fees may apply. Limits can differ by country, currency and method, and Neteller and Skrill deposits are excluded from the welcome bonus. A deposit starts when the player logs in to the Longfu88 account, opens the cashier and selects Deposit. The player then chooses a method with its currency or network and enters the amount and payment details. After confirming the payment with the provider's instructions, the player waits for the funds to reach the playable balance.
+
+=== b13 ===
+Withdrawals go out by bank transfer, Visa, Mastercard, Bitcoin, Ethereum, Litecoin, USDT on TRC20, ERC20 or BEP20, Touch'n Go, DANA, MoMo, DBS Bank or Online Banking, with a minimum of €20 and a maximum of €5,000.
+
+1. Log in to Longfu88 and open the cashier.
+2. Select Withdrawal and choose a supported destination or payment method.
+3. Enter the amount and the receiving bank, wallet, or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Review the request and confirm submission.
+6. Wait for casino processing and any bank or network settlement before receiving funds.
+
+The Lngfu88 withdrawal time is 1 to 3 business days for card, crypto and wallet payouts, and up to 3 business days of casino processing plus 3 to 5 business days of bank delivery for bank transfers. No standard casino withdrawal fee applies, but provider and blockchain fees may. A minimum 1x deposit turnover can apply before a withdrawal, and a 10% commission (minimum €2.25) can apply where turnover is below the deposited amount, while 15% can apply to some card or bank transfer funded transactions.

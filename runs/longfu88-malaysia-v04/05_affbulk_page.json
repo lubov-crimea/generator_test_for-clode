@@ -1,0 +1,727 @@
+{
+ "website": 107,
+ "slug": "my",
+ "seo": {
+  "title": "Longfu88 Malaysia: Pembayaran dan Pengeluaran",
+  "description": "Aliran wang di Longfu88 untuk pemain Malaysia: kaedah deposit dan had, semakan ID sebelum pengeluaran, tawaran alu-aluan, cashback dan program VIP.",
+  "index": true,
+  "customCanonical": "https://longfu-888.com/my",
+  "customPageLang": "ms"
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "kasino, kasino dalam talian, kasino kripto, main, perjudian, slot, kasino langsung, pertaruhan sukan, daftar, log masuk, KYC, aplikasi, pembayaran, bonus, bonus alu-aluan, Malaysia, MY"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 casino Malaysia: ulasan pembayaran dan pengeluaran",
+   "label": "Bonus Alu-aluan Kasino: 188% sehingga €2,088 + 18 Putaran Percuma",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Daftar",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Slot Teratas",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "3 Hot Chilli Peppers",
+     "image": 107,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Bonanza",
+     "image": 72,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Book of Dead",
+     "image": 109,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Dead or Alive",
+     "image": 93,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Eye of Horus",
+     "image": 96,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Joker Stoker",
+     "image": 227,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "StarBurst",
+     "image": 73,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sugar Rush",
+     "image": 87,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sun of Egypt",
+     "image": 98,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza",
+     "image": 100,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "The Dog House",
+     "image": 92,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Wild Clusters",
+     "image": 229,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Crash & Permainan Pantas",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "Aviamasters",
+     "image": 78,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviator",
+     "image": 89,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Aviatrix",
+     "image": 77,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Big Bass Crash",
+     "image": 88,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Chicken Road",
+     "image": 97,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "JetX",
+     "image": 70,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lucky Jet",
+     "image": 104,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Penalty Shoot Out",
+     "image": 90,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Piggy Tap",
+     "image": 82,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Plinko",
+     "image": 74,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Squid Game",
+     "image": 101,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Tower Rush",
+     "image": 232,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.swiper",
+   "title": "Kasino Langsung",
+   "variant": "small",
+   "blocks": [
+    {
+     "description": "American Roulette",
+     "image": 2628,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Balls",
+     "image": 2630,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Crazy Time",
+     "image": 2208,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Ice Fishing",
+     "image": 102,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Infinite Blackjack",
+     "image": 2626,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lightning Dragon Tiger",
+     "image": 2629,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Lightning Roulette",
+     "image": 79,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Marble Race",
+     "image": 2627,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Money Time",
+     "image": 233,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Monopoly Live",
+     "image": 234,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Race Track",
+     "image": 2625,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    },
+    {
+     "description": "Sweet Bonanza Candyland",
+     "image": 235,
+     "button": {
+      "variant": "main",
+      "link": "{{rezerv_casino}}",
+      "text": "Main Sekarang",
+      "linkStatus": "affiliate"
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.preview",
+   "title": "Bonus Longfu88",
+   "items": [
+    {
+     "image": 4652,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Dapatkan Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4653,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Tuntut Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4654,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Lihat Tawaran",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4657,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Tuntut Sekarang",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4656,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Dapatkan Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    },
+    {
+     "image": 4655,
+     "content": "",
+     "buttons": [
+      {
+       "variant": "main",
+       "link": "{{rezerv_casino}}",
+       "text": "Tuntut Bonus",
+       "linkStatus": "affiliate"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p>Longfu88 ialah kasino dalam talian yang dilancarkan pada 2026 dan menggabungkan permainan kasino, permainan peniaga langsung, pertaruhan sukan serta loteri dalam satu akaun. Lobinya terbahagi kepada sembilan kategori: slot, permainan peniaga langsung, permainan meja, jackpot, permainan memancing, permainan P2P, permainan pantas, loteri serta permainan crash dan segera. Buku sukan melengkapi bahagian kasino itu bagi pemain yang lebih gemar menyertai pertaruhan perlawanan.</p>\n<p>Halaman ini ditulis untuk pemain dari Malaysia, dan setiap pemain dewasa mesti berumur sekurang-kurangnya 18 tahun. Ulasan mengikut aliran wang: fakta utama, deposit dan pengeluaran, bonus, permainan, lesen, akses mudah alih dan perjudian bertanggungjawab. Setiap bahagian menyatakan kos atau tempoh yang terlibat.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Cuba Kasino Langsung",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Fakta utama pembayaran dan jenama</h2>\n<table>\n<tr>\n<td>Parameter</td>\n<td>Butiran</td>\n</tr>\n<tr>\n<td>Lesen perjudian</td>\n<td>Costa Rica, pengendali Lumina, nombor pendaftaran 000-039123-R-319326-001</td>\n</tr>\n<tr>\n<td>Pengendali</td>\n<td>Lumina</td>\n</tr>\n<tr>\n<td>Mata wang</td>\n<td>EUR, USD, MYR, THB, SGD, USDT</td>\n</tr>\n<tr>\n<td>Kaedah pembayaran</td>\n<td>kad Visa dan Mastercard, pindahan bank, Bitcoin, USDT (TRC20), DuitNow</td>\n</tr>\n<tr>\n<td>Deposit minimum</td>\n<td>€10 bagi deposit am</td>\n</tr>\n<tr>\n<td>Kelajuan pengeluaran</td>\n<td>1–3 hari bekerja untuk pengeluaran kad</td>\n</tr>\n<tr>\n<td>Had pengeluaran</td>\n<td>minimum €20, maksimum €5,000</td>\n</tr>\n<tr>\n<td>Bonus alu-aluan</td>\n<td>188% sehingga €2,088 + 18 putaran percuma</td>\n</tr>\n<tr>\n<td>Wang tunai balik</td>\n<td>sehingga 10% daripada kerugian kasino bersih mingguan</td>\n</tr>\n<tr>\n<td>Bahasa sokongan</td>\n<td>Inggeris, Melayu, Cina Ringkas, Thai, Indonesia, Vietnam</td>\n</tr>\n<tr>\n<td>Sokongan</td>\n<td>support@longfu88.com dan sembang langsung 24/7</td>\n</tr>\n</table>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Kaedah pembayaran untuk deposit dan had</h2>\n<p>Longfu88 menerima deposit melalui kaedah tempatan, kad, pindahan bank, mata wang kripto dan e-dompet, dan setiap kumpulan disenaraikan dalam jadual di bawah.</p>\n<table>\n<tr>\n<td>Jenis kaedah</td>\n<td>Contoh</td>\n<td>Mata wang</td>\n</tr>\n<tr>\n<td>Bank dan dompet tempatan</td>\n<td>DuitNow, Touch'n Go, GrabPay dan Online Banking</td>\n<td>MYR</td>\n</tr>\n<tr>\n<td>Kad</td>\n<td>kad Visa dan Mastercard</td>\n<td>IDR, MYR, SGD, VND</td>\n</tr>\n<tr>\n<td>Pindahan bank</td>\n<td>pindahan bank biasa</td>\n<td>IDR, MYR, VND</td>\n</tr>\n<tr>\n<td>Mata wang kripto</td>\n<td>Bitcoin, Ethereum, Litecoin, USDT pada rangkaian TRC20, ERC20 dan BEP20, serta USDC</td>\n<td>BTC, ETH, LTC, USDT, USDC</td>\n</tr>\n<tr>\n<td>E-dompet</td>\n<td>Neteller dan Skrill</td>\n<td>EUR</td>\n</tr>\n<tr>\n<td>Kaedah Eropah</td>\n<td>Sofort dan Giropay</td>\n<td>EUR</td>\n</tr>\n</table>\n<p>Bagi pemain dari Malaysia, pilihan tempatan dalam MYR ialah DuitNow, Touch'n Go, GrabPay dan Online Banking. Semua kaedah berkongsi had am yang sama: minimum €10 dan maksimum €5,000 bagi setiap transaksi. Deposit dikreditkan dalam masa 1–2 minit, dan kasino tidak mengenakan yuran pemprosesan, walaupun penyedia pembayaran atau rangkaian blockchain boleh mengenakan yuran sendiri. Had boleh berbeza mengikut negara, mata wang dan kaedah, dan deposit Neteller serta Skrill dikecualikan daripada bonus alu-aluan.</p>\n<p>Prosesnya ada enam langkah: log masuk, buka juruwang dan pilih Deposit, pilih kaedah serta mata wang atau rangkaian, masukkan jumlah dan butiran bayaran, sahkan transaksi mengikut arahan penyedia, kemudian tunggu dana masuk ke baki permainan.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Pengeluaran: kaedah, tempoh dan yuran</h3>\n<p>Pengeluaran di Longfu88 boleh dibuat melalui pindahan bank, kad Visa dan Mastercard, kripto (Bitcoin, Ethereum, Litecoin, USDT pada rangkaian TRC20, ERC20 dan BEP20), dompet Touch'n Go, DANA dan MoMo, serta DBS Bank dan Online Banking, dengan minimum €20 dan maksimum €5,000.</p>\n<p>Permintaan pengeluaran diproses dalam masa sehingga 3 hari bekerja. Bayaran kad, kripto dan dompet tiba dalam 1 hingga 3 hari bekerja, manakala pindahan bank memerlukan 3 hingga 5 hari lagi untuk penghantaran bank. Semakan identiti boleh melambatkan bayaran.</p>\n<p>Tiada yuran pengeluaran standard, tetapi yuran penyedia dan blockchain mungkin terpakai. Komisen 10% (minimum €2.25) boleh dikenakan jika pusingan berada di bawah jumlah deposit, kerana pusingan deposit minimum 1x mungkin diperlukan sebelum pengeluaran, dan 15% bagi sebahagian transaksi berdana kad atau pindahan bank. Laluan pengeluaran ada enam langkah:</p>\n<ol>\n<li>Log masuk dan buka juruwang.</li>\n<li>Pilih Pengeluaran dan kaedah atau destinasi yang disokong.</li>\n<li>Masukkan jumlah serta bank, dompet atau alamat blockchain penerima.</li>\n<li>Lengkapkan pengesahan identiti jika diminta.</li>\n<li>Semak permintaan dan sahkan penghantaran.</li>\n<li>Tunggu pemprosesan kasino serta penyelesaian bank atau rangkaian.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Semakan ID sebelum pengeluaran wang</h2>\n<p>Pengesahan KYC boleh diminta oleh Longfu88 dalam beberapa keadaan: sebelum pengeluaran, semasa semakan akaun, pada transaksi luar biasa atau bernilai tinggi, dan apabila butiran akaun atau pembayaran berubah. Dokumen yang diminta ialah:</p>\n<ul>\n<li>Pengenalan diri: pasport, kad pengenalan negara atau lesen memandu.</li>\n<li>Bukti alamat: bil utiliti atau penyata bank.</li>\n<li>Bukti pemilikan kaedah pembayaran: kad, bank atau dompet digital.</li>\n<li>Sumber dana apabila diminta: bukti pendapatan, penyata bank atau dokumen kewangan lain.</li>\n</ul>\n<p>Dokumen boleh dihantar dalam tempoh sehingga 30 hari selepas diminta. Semakan biasanya selesai dalam masa sehingga 10 hari selepas set dokumen lengkap diterima, dan pengeluaran boleh ditahan sehingga semakan tamat. Jika semakan gagal, transaksi boleh ditolak, akaun dihadkan atau pengeluaran ditahan sehingga syarat pematuhan dipenuhi.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Dapatkan Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pendaftaran akaun dan log masuk</h2>\n<p>Akaun Longfu88 dibuka dengan e-mel dalam lima langkah:</p>\n<ol>\n<li>Buka laman web dan pilih Daftar.</li>\n<li>Masukkan e-mel dan cipta kata laluan.</li>\n<li>Sahkan umur serta persetujuan terhadap Terma dan Syarat dan Dasar Privasi.</li>\n<li>Lengkapkan butiran peribadi tambahan dan alamat kediaman.</li>\n<li>Pilih Cipta Akaun dan lengkapkan pengesahan e-mel jika diminta.</li>\n</ol>\n<p>Pendaftaran memerlukan e-mel, kata laluan, nama sah, tarikh lahir dan alamat kediaman, dan setiap pemain hanya boleh memegang satu akaun peribadi. Proses Longfu88 login bermula dengan memilih Log Masuk di laman web, memasukkan e-mel dan kata laluan berdaftar, kemudian melengkapkan sebarang semakan keselamatan. Pemain yang mencari halaman Longfu caino login akan menemui butang yang sama. Jika kata laluan hilang, pilih Lupa Kata Laluan pada skrin log masuk, minta pautan tetapan semula melalui e-mel berdaftar dan ikut arahan yang dihantar.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Tawaran alu-aluan, pertaruhan dan had maksimum</h2>\n<p>Pemain baharu yang mendaftar di Longfu88 layak mendapat Casino Welcome Bonus pada deposit pertama yang layak, dengan satu tawaran alu-aluan bagi setiap akaun. Longfu88 bonus ini memberikan 188% sehingga €2,088 ditambah 18 putaran percuma (Free Spins), dan deposit minimum untuk tawaran ini ialah €50, bukan €10 yang menjadi deposit minimum am kasino. Daftar, buat deposit pertama dan tuntut bonus melalui langkah berikut:</p>\n<ul>\n<li>Daftar akaun dan lengkapkan butiran peribadi yang diperlukan.</li>\n<li>Buat deposit pertama yang layak.</li>\n<li>Aktifkan Casino Welcome Bonus di My Bonuses sebelum membuat sebarang pertaruhan.</li>\n<li>Mainkan permainan kasino yang layak dan selesaikan pertaruhan sebelum tamat tempoh.</li>\n</ul>\n<p>Tiada Longfu88 promo code dalam prosedur tuntutan: bonus diaktifkan di My Bonuses selepas deposit layak dan tiada langkah kod promo disenaraikan. Dua alternatif ialah Live Casino Welcome Bonus (125% sehingga €888, deposit minimum €30) dan Casino Crypto Welcome Bonus (188% sehingga 2,888 USDT, deposit minimum 50 USDT). Casino Welcome Bonus dan Crypto Welcome Bonus ialah tawaran alternatif untuk deposit pertama.</p>\n<p>Syarat utama bonus dirumuskan dalam jadual berikut.</p>\n<table>\n<tr>\n<td>Syarat</td>\n<td>Nilai</td>\n</tr>\n<tr>\n<td>Pertaruhan</td>\n<td>25x jumlah deposit ditambah bonus</td>\n</tr>\n<tr>\n<td>Pertaruhan Free Spins</td>\n<td>40x kemenangan Free Spins</td>\n</tr>\n<tr>\n<td>Tempoh sah</td>\n<td>10 hari dari pengaktifan</td>\n</tr>\n<tr>\n<td>Pertaruhan maksimum</td>\n<td>€22.5 setiap putaran</td>\n</tr>\n<tr>\n<td>Pengeluaran maksimum</td>\n<td>5x jumlah bonus asal</td>\n</tr>\n</table>\n<p>Deposit Neteller dan Skrill dikecualikan, dan hanya satu bonus promosi boleh aktif pada satu masa. Permintaan pengeluaran sebelum tuntutan atau semasa bonus aktif boleh membatalkan kelayakan, pembatalan menghilangkan dana bonus serta kemenangan yang belum ditukar, dan pengesahan akaun mungkin diperlukan sebelum kemenangan bonus dibayar.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Wang tunai balik dan rebat harian</h2>\n<p>Casino Weekly Cashback mengembalikan sehingga 10% daripada kerugian kasino bersih mingguan, dengan had €6,988. Tempoh pengiraan bermula Isnin 00:00 UTC hingga Ahad 23:59 UTC, penyertaan dibuat untuk kitaran empat minggu, dan bayaran dikreditkan ke My Bonuses pada hari Isnin dengan pertaruhan 10x. Kadar bergantung pada peringkat VIP: Bronze 2% (maksimum €1,888), Silver 4% (€2,388), Gold 6% (€2,988), Platinum 8% (€3,988) dan Diamond 10% (€6,988).</p>\n<p>Live Casino Cashback memberikan 25% sehingga €850. Empat rebat harian tanpa had dikreditkan mengikut kategori permainan, masing-masing dengan pertaruhan 1x: kasino 0.9%, kasino langsung 1.0%, P2P 0.8% dan loteri 1.0%. Hanya pertaruhan wang sebenar dikira, bukan dana bonus.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Mula Bermain",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Program VIP dan had pengeluaran</h2>\n<p>Longfu88 VIP Program menggunakan mata VIP yang diperoleh daripada permainan wang sebenar yang layak, dan mata itu membuka 25 tahap ganjaran bernombor yang dikumpulkan dalam lima peringkat: Bronze, Silver, Gold, Platinum dan Diamond. Jadual menunjukkan enam tahap terpilih.</p>\n<table>\n<tr>\n<td>Tahap</td>\n<td>Mata</td>\n<td>Ganjaran</td>\n<td>Wang tunai balik</td>\n<td>Had pengeluaran</td>\n</tr>\n<tr>\n<td>1</td>\n<td>1</td>\n<td>€9.8</td>\n<td>1%</td>\n<td>€9,800</td>\n</tr>\n<tr>\n<td>5</td>\n<td>70</td>\n<td>€24.5</td>\n<td>2%</td>\n<td>€34,300</td>\n</tr>\n<tr>\n<td>10</td>\n<td>700</td>\n<td>€147</td>\n<td>4%</td>\n<td>€63,700</td>\n</tr>\n<tr>\n<td>15</td>\n<td>2,100</td>\n<td>€392</td>\n<td>6%</td>\n<td>€88,200</td>\n</tr>\n<tr>\n<td>20</td>\n<td>3,600</td>\n<td>€637</td>\n<td>8%</td>\n<td>€117,600</td>\n</tr>\n<tr>\n<td>25</td>\n<td>5,500</td>\n<td>€980</td>\n<td>10%</td>\n<td>€147,000</td>\n</tr>\n</table>\n<p>Tahap yang lebih tinggi menambah tawaran peribadi, wang tunai balik dan had pengeluaran yang lebih besar, manakala pengurus VIP peribadi tersedia dari tahap 4. Ganjaran dan had pengeluaran boleh berbeza mengikut tahap VIP dan mata wang, dan peraturan program boleh berubah.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Tawaran tambah nilai deposit</h2>\n<p>Tawaran tambah nilai deposit berulang mengikut kitaran mingguan dan hujung minggu. Casino Weekly Reload memberikan 50 Free Spins dengan deposit minimum €30 dan pertaruhan 40x kemenangan Free Spins, sah 7 hari. Casino Weekly Crypto Reload menawarkan 60% sehingga 1,000 USDT, minimum 20 USDT dan pertaruhan 30x deposit ditambah bonus.</p>\n<p>Hujung minggu ada dua pilihan, sah 7 hari: Casino Weekend Reload (sehingga €3,360 + 50 Free Spins, minimum €50) dan Casino Weekend Crypto Reload (75% sehingga 750 USDT + 100 Free Spins, minimum 20 USDT), kedua-duanya dengan pertaruhan 30x deposit ditambah bonus dan 40x kemenangan Free Spins. Casino Double Fortune ialah tawaran satu hari: 50% sehingga €500, minimum €30, pertaruhan 30x dan sah 24 jam. Casino Trick or Treat Pumpkin Bonanza ialah promosi bermusim: sehingga 100 Free Spins, minimum €20 dan pertaruhan 40x kemenangan Free Spins. Casino Dragon Quest memberi kredit bonus €10 untuk pengesahan akaun, minimum €20, pertaruhan 30x.</p>\n<p>Peraturan bersama: tawaran diaktifkan di My Bonuses, satu tuntutan bagi setiap tempoh promosi, tiada gabungan dengan bonus kasino aktif lain, dan pertaruhan maksimum €5 setiap putaran semasa pertaruhan dana bonus.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Jenis permainan dan contohnya</h2>\n<p>Longfu88 Casino menawarkan sembilan kategori permainan dalam satu lobi: slot, permainan peniaga langsung, permainan meja, jackpot, permainan memancing, permainan P2P, permainan pantas, loteri serta permainan crash dan segera. Slot dan permainan peniaga langsung menjadi kategori utama, manakala selebihnya melengkapkan pilihan bagi pemain yang mahukan format berbeza.</p>\n<p>Tiga contoh slot menunjukkan julat angkanya. Gates of Olympus daripada Pragmatic Play mempunyai RTP 96.50% dan pengganda maksimum 5,000x, dengan kemeruapan tinggi. Sweet Bonanza, juga daripada Pragmatic Play, mencatat RTP 96.48%, kemeruapan tinggi dan pengganda 21,175x. Hacksaw Gaming membekalkan Wanted Dead or a Wild dengan RTP 96.38%, kemeruapan sangat tinggi dan pengganda 12,500x. RTP ialah peratusan teori pertaruhan yang dikembalikan kepada pemain dalam jangka panjang, manakala kemeruapan menunjukkan sama ada kemenangan datang kerap dalam jumlah kecil atau jarang dalam jumlah besar. Angka ini tidak menjamin hasil sesi tertentu.</p>\n<p>Longfu 88 Casino memaparkan permainan peniaga langsung sebagai kategori tersendiri dalam lobi. Bahagian kasino langsung merangkumi Longfu88 Baccarat, permainan eksklusif dengan permainan baccarat, dan Evolution serta SA Gaming tersenarai antara studio penyedia permainan.</p>\n<p>Kategori lain dibezakan mengikut apa yang dilakukan pemain. Permainan meja ialah permainan kasino klasik dengan keputusan pada setiap pusingan, manakala jackpot ialah slot dengan hadiah yang bertambah. Dalam permainan memancing, pemain menembak sasaran pada skrin untuk mengumpul ganjaran. Permainan P2P mempertemukan pemain dengan pemain lain, bukan dengan kasino. Permainan pantas menawarkan pusingan pendek, loteri meminta pemain memilih nombor dan menunggu keputusan cabutan, dan permainan crash serta segera menyerahkan kepada pemain keputusan tentang bila hendak keluar atau memberi hasil serta-merta. Sebelum bermain, semak RTP dan had pertaruhan setiap permainan.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Studio permainan</h2>\n<p>Pembekal permainan membekalkan slot, permainan peniaga langsung dan permainan meja kepada kasino. Di Longfu 88, senarai studio merangkumi Evolution, Red Tiger, NetEnt, Big Time Gaming, Pragmatic Play, Yggdrasil, SA Gaming, Skywind, Betsoft dan Hacksaw Gaming. Pragmatic Play dan Hacksaw Gaming membekalkan tiga contoh slot yang disebut sebelum ini, manakala Evolution dan SA Gaming tersenarai bagi bahagian langsung. Nama studio berguna sebagai rujukan apabila pemain membandingkan RTP dan kemeruapan antara satu permainan dengan yang lain sebelum memilih tajuk.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Main Sekarang",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pertaruhan sukan dan promosi</h2>\n<p>Bahagian Longfu sports meliputi bola sepak, bola keranjang, tenis, badminton, kriket, tenis meja, bola tampar, e-sukan dan bola sepak maya. Jenis pertaruhan ialah tunggal, akumulator, langsung, handikap, jumlah, outright dan Bet Builder, manakala pertaruhan langsung menawarkan odds langsung dan pasaran dalam permainan. Acara dan pilihan pasaran di Longfu88 boleh berbeza mengikut bidang kuasa.</p>\n<p>Tiga bonus sukan utama dibandingkan di bawah.</p>\n<table>\n<tr>\n<td>Tawaran</td>\n<td>Ganjaran</td>\n<td>Deposit min.</td>\n<td>Pertaruhan</td>\n</tr>\n<tr>\n<td>Sport First Deposit Bonus</td>\n<td>100% sehingga €1,888</td>\n<td>€50</td>\n<td>8x, sah 30 hari</td>\n</tr>\n<tr>\n<td>Sport Weekly Reload Bonus</td>\n<td>50% sehingga €2,500</td>\n<td>€50</td>\n<td>8x</td>\n</tr>\n<tr>\n<td>Sport Weekend Reload Bonus</td>\n<td>50% sehingga €3,750</td>\n<td>€50</td>\n<td>8x</td>\n</tr>\n</table>\n<p>Padanan kripto ialah Sport Crypto Welcome Bonus (100% sehingga 200 USDT), Sport Crypto Weekly Reload (50% sehingga 500 USDT) dan Sport Crypto Weekend Reload (50% sehingga 1,000 USDT). Sports Cashback memulangkan 10% sehingga €2,500 daripada kerugian bersih sukan yang layak setiap minggu, dan Unlimited Sports Rebate memberi 0.70%. Parlay Boost menambah sehingga 100% kemenangan untuk akumulator dengan sekurang-kurangnya tiga pilihan, manakala Bet Builder Risk Free memulangkan 50% pertaruhan sehingga €250.</p>\n<p>Hanya pertaruhan sukan layak yang telah diselesaikan dikira untuk pertaruhan: pertaruhan tunggal memerlukan odds sekurang-kurangnya 2.00 dan setiap pilihan akumulator sekurang-kurangnya 1.50, sementara pertaruhan dibatalkan dan pertaruhan yang dikeluarkan awal tidak layak.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Pengendali, lesen dan keselamatan data</h2>\n<p>Longfu88 dilancarkan pada 2026, dan akaun boleh dibuka dalam EUR, USD, MYR, THB, SGD atau USDT, jadi pemain dari Malaysia boleh menggunakan MYR. Pemain disarankan menggunakan alamat Longfu 88 Official Site dan bukannya halaman tiruan. Untuk bermain, pemain mesti berumur sekurang-kurangnya 18 tahun, dibenarkan secara sah untuk berjudi di tempat kediaman, mendaftar dengan maklumat tepat, memegang hanya satu akaun peribadi dan tidak menggunakan kaedah pembayaran pihak ketiga.</p>\n<p>Lesen perjudian bagi casino Longfu88 dikeluarkan di Costa Rica dan dipegang oleh pengendali Lumina dengan nombor pendaftaran 000-039123-R-319326-001. Itulah satu-satunya kenyataan lesen dalam halaman ini, dan tiada apa-apa dinyatakan tentang status kasino di Malaysia. Lumina juga bertindak sebagai pengawal data, dan langkah teknikal serta organisasi melindungi akaun, pembayaran dan maklumat peribadi.</p>\n<p>Data boleh dikongsi dengan penyedia perkhidmatan pembayaran, penyedia pengesahan identiti, penyedia teknologi, serta pengawal selia dan penguat kuasa undang-undang apabila diperlukan. Pemain mempunyai hak akses, pembetulan, pemadaman jika dibenarkan oleh undang-undang, sekatan, bantahan, kebolehpindahan dan penarikan balik persetujuan. Pemegang akaun bertanggungjawab menjaga kelayakan log masuk, dan pengendali boleh menggantung aktiviti untuk pengesahan atau apabila penyalahgunaan disyaki.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Akses mudah alih</h2>\n<p>Kasino ini berjalan sebagai laman web responsif pada pelayar telefon pintar dan tablet di platform Android, iOS dan web mudah alih, dan laman itu boleh ditambah ke skrin utama sebagai pintasan. Longfu88 app dalam bentuk ini ialah versi skrin utama bagi laman web, dan pintasannya memberi akses pantas ke kasino dan buku sukan. Fungsi yang tersedia ialah kasino, buku sukan, akses akaun, deposit, pengeluaran dan bonus.</p>\n<p>Pada Android, pintasan dibuat dalam tiga langkah:</p>\n<ol>\n<li>Buka Longfu88 dalam Chrome.</li>\n<li>Buka menu pelayar dan pilih tambah ke skrin utama (Add to Home screen).</li>\n<li>Sahkan pintasan.</li>\n</ol>\n<p>Pada iOS, laluannya juga tiga langkah:</p>\n<ol>\n<li>Buka Longfu88 dalam Safari.</li>\n<li>Ketik Share dan pilih tambah ke skrin utama (Add to Home Screen).</li>\n<li>Sahkan dengan Add.</li>\n</ol>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Lihat Tawaran",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Saluran sokongan pelanggan</h2>\n<p>Sokongan pelanggan tersedia melalui dua saluran: sembang langsung yang beroperasi 24/7 dan e-mel di support@longfu88.com. Oleh sebab sembang langsung tersedia 24/7, soalan tentang deposit atau pengeluaran boleh dikemukakan pada bila-bila masa, manakala e-mel lebih sesuai untuk pertanyaan yang memerlukan penerangan lebih terperinci. Pasukan sokongan melayan pemain dalam enam bahasa: Inggeris, Melayu, Cina Ringkas, Thai, Indonesia dan Vietnam, jadi pemain dari Malaysia boleh berurusan dalam bahasa Melayu apabila memerlukan bantuan dengan akaun atau pembayaran.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Langkah perjudian bertanggungjawab</h2>\n<p>Pemain mesti berumur sekurang-kurangnya 18 tahun dan berjudi hanya di tempat yang dibenarkan oleh undang-undang. Pengecualian kendiri dimohon melalui e-mel kepada sokongan pelanggan di support@longfu88.com, dan ia menyekat akses akaun serta perjudian untuk tempoh yang dipersetujui. Pengecualian itu berkuat kuasa dalam masa 24 jam selepas permohonan diproses.</p>\n<p>Penutupan akaun juga dimohon melalui sokongan pelanggan. Prosedurnya terdiri daripada empat langkah: hubungi sokongan, sahkan butiran akaun dan syarat pengecualian yang dikehendaki, benarkan kasino menyekat atau menutup akses, dan dapatkan sokongan bebas jika perlu. Soalan penilaian kendiri membantu pemain mengenal pasti kemungkinan kemudaratan berkaitan perjudian. Pemain boleh mendapatkan bantuan daripada GamCare, Gamblers Anonymous dan Gambling Therapy. Halaman ini tidak dapat menggantikan bantuan bebas.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Penilaian terhadap terma pembayaran</h2>\n<p>Bagi pemain yang mahukan pembayaran tempatan dan kripto serta kasino, permainan peniaga langsung dan pertaruhan sukan dalam satu akaun, Longfu88 ialah pilihan yang sepadan dengan keperluan itu. Sebelum membuat deposit, pemain wajar menyemak deposit layak €50 bagi bonus alu-aluan, pertaruhan 25x, peraturan pusingan deposit untuk pengeluaran dan keperluan pengesahan identiti. Semua syarat itu menentukan kos dan tempoh sebelum wang boleh dikeluarkan.</p>\n<p>Longfu menetapkan had umur 18 tahun, dan pemain hanya boleh berjudi di tempat yang dibenarkan oleh undang-undang. Perjudian bukan sumber pendapatan. Kerugian tidak patut dikejar, dan bajet yang ditetapkan lebih awal serta rehat berkala membantu pemain mengawal masa dan wang yang dibelanjakan.</p>"
+  },
+  {
+   "__component": "blocks.reviews-2",
+   "title": "Ulasan daripada Pemain",
+   "reviews": [
+    {
+     "username": "Amirul",
+     "review": "Pertaruhan langsung berjalan lancar di telefon, dan pasaran dikemas kini tanpa kelewatan yang ketara. Berbaloi dicuba oleh yang ingin tahu.",
+     "date": "2026-10-22",
+     "avatar": 3862,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Syazwan",
+     "review": "Pasukan sokongan bersabar menjawab soalan susulan dan menerangkan langkah dengan jelas. Pilihan sesuai untuk yang suka reka letak bersih.",
+     "date": "2026-10-20",
+     "avatar": 3858,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Izzat",
+     "review": "Versi mudah alihnya responsif, dan kaunter bayaran serta lobi permainan dipaparkan dengan baik pada skrin kecil. Pilihan sesuai untuk yang suka reka letak bersih.",
+     "date": "2026-10-19",
+     "avatar": 3853,
+     "rating": {
+      "ratingValue": 4,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Siti Hajar",
+     "review": "Pengesahan umur dan terma ada di halaman pendaftaran, jadi semuanya jelas dari awal. Pengalamannya terasa tersusun dengan baik.",
+     "date": "2026-10-16",
+     "avatar": 3854,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Hui Ying",
+     "review": "Deposit melalui kaedah tempatan yang biasa saya guna berjalan mudah, dan setiap langkah dipaparkan dengan jelas. Pengalamannya terasa tersusun dengan baik.",
+     "date": "2026-10-15",
+     "avatar": 3859,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    },
+    {
+     "username": "Suhana",
+     "review": "Syarat bonus ditulis dengan jelas, jadi saya tahu apa yang dijangka sebelum menyertai. Tidak mewah, tetapi berfungsi seperti yang diterangkan.",
+     "date": "2026-10-15",
+     "avatar": 3857,
+     "rating": {
+      "ratingValue": 5,
+      "bestRating": 5
+     }
+    }
+   ]
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Soalan lazim tentang pembayaran",
+   "faqs": [
+    {
+     "question": "Mata wang kripto apakah yang boleh digunakan untuk deposit?",
+     "answer": "Longfu88 menerima Bitcoin, Ethereum, Litecoin, Ripple, USDC, Bitcoin Cash, Cardano dan USDT pada tiga rangkaian: TRC20, ERC20 dan BEP20. Yuran rangkaian blockchain mungkin dikenakan oleh penyedia, bukan oleh kasino."
+    },
+    {
+     "question": "Apakah mata wang akaun yang tersedia?",
+     "answer": "Akaun boleh dibuka dalam EUR, USD, MYR, THB, SGD dan USDT, dan pemain dari Malaysia boleh memilih MYR. Had kaedah pembayaran boleh berbeza mengikut negara, mata wang dan kaedah."
+    },
+    {
+     "question": "Berapa lama Lngfu88 withdrawal time bagi setiap kaedah?",
+     "answer": "Kad, kripto dan dompet siap dalam 1 hingga 3 hari bekerja. Pindahan bank memerlukan sehingga 3 hari bekerja di pihak kasino, kemudian 3 hingga 5 hari bekerja lagi sebelum dana tiba. Semakan identiti boleh melambatkan bayaran."
+    },
+    {
+     "question": "Adakah pengeluaran dikenakan yuran?",
+     "answer": "Tiada yuran standard daripada kasino, tetapi yuran penyedia dan blockchain mungkin terpakai. Komisen 10% (minimum €2.25) boleh dikenakan jika pusingan di bawah deposit, dan 15% bagi sebahagian transaksi berdana kad atau bank."
+    },
+    {
+     "question": "Berapakah deposit minimum?",
+     "answer": "Deposit minimum am ialah €10, manakala Casino Welcome Bonus memerlukan deposit layak sekurang-kurangnya €50. Angka €10 tidak digunakan untuk tuntutan bonus itu."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Bonus Alu-aluan Kasino",
+   "description": "188% sehingga €2,088 + 18 Putaran Percuma",
+   "disclaimer": "18+. Terma dan syarat terpakai. Bermain secara bertanggungjawab.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Tuntut Tawaran",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ],
+ "customHeadHTML": "<link rel=\"alternate\" hreflang=\"id-ID\" href=\"https://longfu-888.com/\" />\r\n<link rel=\"alternate\" hreflang=\"th-TH\" href=\"https://longfu-888.com/th\" />\r\n<link rel=\"alternate\" hreflang=\"ms-MY\" href=\"https://longfu-888.com/my\" />\r\n<link rel=\"alternate\" hreflang=\"en-SG\" href=\"https://longfu-888.com/sg\" />\r\n<link rel=\"alternate\" hreflang=\"vi-VN\" href=\"https://longfu-888.com/vn\" />"
+}

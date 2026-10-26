@@ -1,0 +1,10 @@
+Withdrawals are requested from the cashier of the mobile website, and each request passes through six steps after login:
+
+1. Log in and open the cashier.
+2. Select Withdrawal and choose a supported destination or payment method.
+3. Enter the amount and the receiving bank, wallet, or blockchain address.
+4. Complete identity and payment-method verification if prompted.
+5. Review the request and confirm submission.
+6. Wait for casino processing and any bank or network settlement before receiving funds.
+
+Requests are generally processed within three working days, and bank transfers may need another 3–5 business days for settlement. The operator may request KYC documents before processing.

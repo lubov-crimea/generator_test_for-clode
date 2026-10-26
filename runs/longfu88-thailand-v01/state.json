@@ -1,0 +1,25 @@
+{
+  "step1": {
+    "status": "done",
+    "at": "2026-10-22T20:27:45",
+    "blocks": 25,
+    "variant": "v01"
+  },
+  "step2": {
+    "status": "done",
+    "at": "2026-10-22T20:39:20",
+    "iteration": 0,
+    "regenerated": 25
+  },
+  "step3": {
+    "status": "passed",
+    "at": "2026-10-22T20:40:19",
+    "iteration": 1,
+    "blocks_to_fix": 0
+  },
+  "step4": {
+    "status": "done",
+    "at": "2026-10-22T20:40:20",
+    "file": "C:\\Users\\Lenivec\\Desktop\\leadscount\\Генератор текстов\\output\\longfu88-thailand-v01.txt"
+  }
+}

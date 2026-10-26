@@ -1,0 +1,138 @@
+{
+ "website": 5415,
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Mobile Login: Phone Sign-In and Shortcut",
+  "description": "Longfu88 login on a phone or computer for Singapore players: sign in, reset a password, add a home screen shortcut, keep documents ready and contact support.",
+  "index": true
+ },
+ "keywords": {
+  "mainKeywords": "Longfu88",
+  "additionalKeywords": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "tableOfContent": false,
+ "content": [
+  {
+   "__component": "blocks.hero",
+   "title": "Longfu88 Casino Login on Mobile and Desktop",
+   "label": "Log in from a phone, a tablet or a computer",
+   "mainLabel": "",
+   "background": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<p><a href=\"/\">Longfu88</a> opens an account for anyone who signs up by choosing a password and giving an e-mail address, and those two credentials stay valid whether the casino is reached from a handset or from a desktop machine. Once registered, a player signs in to the personal account with that pair of details on whichever screen is nearby. Only adults aged 18 or older are admitted to the casino, and Singapore is the audience this page is written for. The sections below deal with signing in from a phone or a computer, resetting a password, registering, the documents to prepare, account safety, the first withdrawal and the support options.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Play Now",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Log In from Any Device</h2>\n<p>A Longfu login follows one routine on every device and calls for two items only, the registration e-mail and its password, whatever the size of the screen. The Longfu88 website opens in a phone browser as readily as on a computer, and the Longfu88 login form requests both items in either case. Access to the account takes three steps:</p>\n<ol>\n<li>Head for the website's Login button.</li>\n<li>Enter the e-mail with its password, both set during registration.</li>\n<li>Clear any security check that is displayed, after which the account is accessible.</li>\n</ol>\n<p>Where a security check appears, the account stays closed until that check is passed.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h3>Password Reset on a Phone</h3>\n<p>A forgotten password is handled from the sign-in screen of a phone browser. Longfu88 relies on the e-mail address tied to the account for this.</p>\n<ol>\n<li>Tap Forgot Password where the credentials are normally typed.</li>\n<li>Ask for a link to reset the password, quoting the registered e-mail.</li>\n<li>Carry out what the e-mailed instructions say and choose a fresh password.</li>\n</ol>\n<p>Someone who can no longer open that mailbox should get in touch with support.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Add a Home Screen Shortcut on Android and iOS</h2>\n<p>Longfu88 has a responsive website, which lets a smartphone or a tablet reach the casino with nothing but its browser. Pages that open on a computer open on a phone as well, and signing in is done in the same way. Android, iOS and any <a href=\"/app\">mobile web browser</a> are all supported. For faster access, the home screen can hold a shortcut to the website, and the site starts from it like any other icon.</p>\n<ul>\n<li>Android: in Chrome, with the site loaded, the menu of the browser lists the option Add to Home screen, with approval of the shortcut as the last move.</li>\n<li>iOS: in Safari, with the site loaded, the Share button opens a menu containing Add to Home Screen, where one more tap, on Add, finishes the shortcut.</li>\n</ul>\n<p>Nothing is lost on a small screen. Both the casino and the sportsbook stay available, together with bonuses, withdrawals, deposits and access to the account, and only the size of the page differs. Signing in still takes the credentials from registration, an e-mail address with a password, on every device.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Create an Account from Your Phone</h2>\n<p>A new account takes five steps on a phone. The Longfu88 register routine runs on e-mail, the single signup route available. Registration proceeds in this order:</p>\n<ol>\n<li>Start on the website and tap Register.</li>\n<li>Pick a password and enter the e-mail address in the form.</li>\n<li>Declare the player's age as eligible, and give consent to the Terms and Conditions, and likewise to the Privacy Policy.</li>\n<li>The remaining personal details go in next, with the residential address among them.</li>\n<li>Select Create Account and, when an e-mail confirmation is asked for, complete it.</li>\n</ol>\n<p>The details asked for are the legal name, birth date, residential address and the e-mail with its password. Legal name and address should be given exactly as printed on an identity document, since a request for documents may follow. Eligibility means being at least 18 and at the age of legal gambling in the relevant jurisdiction, and no player may hold more than one personal account at Longfu88.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Documents to Keep Ready</h2>\n<p>Longfu88 asks for verification at certain moments: when an account is reviewed, ahead of a withdrawal, whenever a transaction stands out as unusual or very large, and when account details or payment details change. Registration and login do not involve it. Having the papers close at hand on the same phone saves time once a request comes in. These are the documents accepted for each purpose:</p>\n<ul>\n<li>Identity: driving licence, national identity card or passport.</li>\n<li>Address: utility bills qualify, and so do bank statements.</li>\n<li>Payment method: digital wallet ownership evidence, or bank or card ownership evidence.</li>\n<li>Source of funds: supporting financial documents, for instance bank statements or evidence of income, required only on request.</li>\n</ul>\n<p>Documents are due within the 30 days that follow the request. A complete set normally gets a review within 10 days at most, with the clock starting when the last missing paper comes in.</p>"
+  },
+  {
+   "__component": "blocks.call-to-action",
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Log In",
+     "linkStatus": "affiliate"
+    }
+   ]
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Account Safety on a Phone</h2>\n<p>Keeping the login credentials safe is the account holder's own task, and a phone does not change that. The e-mail and password belong to whoever registered them, which makes a device under that person's control the sensible place to enter them. Duties lie with the operator too. Longfu88 applies technical and organisational safeguards covering personal information along with payments and accounts, and it can suspend activity if verification is called for or if abuse is suspected, a step that may leave an account paused after a verification request. Security thus rests on both sides.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>First Payout From a Phone</h2>\n<p>A first withdrawal from a phone brings the account under close inspection. Withdrawals can trigger identity and payment checks, and funds can be held back until three things are settled: the player's identity, who owns the payment method used and, where required, the source of funds. A withdrawal therefore waits for that confirmation. As a rule, Longfu88 processes withdrawal requests within three working days, a figure that describes usual handling and carries no promise of a payout time. Only payment methods owned by the player are accepted, and those of third parties are excluded. The papers prepared in the section above, kept on the same phone, make completing these checks simpler.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Phone Preferences and Cookies</h2>\n<p>Two subjects remain in the player's hands. The first is marketing: promotional messages stay optional, because a player manages direct-marketing preferences and can unsubscribe from promotional communications. Cookies are the second subject. Four kinds are used by Longfu88: analytics, necessary, marketing and preference cookies, all supporting website functions and measurement in the phone browser. Neither topic has anything to do with signing in, which requires nothing beyond the e-mail used at registration and its password.</p>"
+  },
+  {
+   "__component": "blocks.article",
+   "article": "<h2>Support on Chat or E-mail</h2>\n<p>Customer support takes questions about an account, a sign-in or verification by e-mail, and also in live chat. The live chat service never closes, 24/7. Typical reasons to write in include trouble signing in, a reset e-mail that goes missing, or help with uploading a document. E-mails go to support@longfu88.com. Support speaks Malay, Indonesian, Vietnamese, Thai, English and Simplified Chinese, which lets a player write in whichever feels easiest.</p>"
+  },
+  {
+   "__component": "blocks.faq",
+   "title": "Mobile Login FAQ",
+   "faqs": [
+    {
+     "question": "Does Longfu88 work for logging in from a phone?",
+     "answer": "Yes, a smartphone or tablet needs only its browser, and a shortcut placed on the home screen makes reaching the casino faster."
+    },
+    {
+     "question": "How is the login done?",
+     "answer": "With the e-mail chosen at registration and its password, as covered earlier on the page."
+    },
+    {
+     "question": "What can a player do after forgetting the password?",
+     "answer": "The reset link has to be requested using the e-mail the account was registered under, and the instructions that arrive lead to a new password."
+    },
+    {
+     "question": "Where does a player go if signing in keeps failing?",
+     "answer": "Customer support is reachable by e-mail and also through live chat, which never closes, 24/7."
+    },
+    {
+     "question": "In which languages can support be contacted?",
+     "answer": "Indonesian, Malay, English, Thai, Vietnamese and Simplified Chinese."
+    },
+    {
+     "question": "How long does a withdrawal request take to process?",
+     "answer": "Processing generally finishes within three working days, though no payout time is promised."
+    }
+   ]
+  },
+  {
+   "__component": "blocks.promo",
+   "title": "Casino Welcome Bonus",
+   "description": "188% up to €2,088 + 18 Free Spins",
+   "disclaimer": "18+. T&Cs apply. Gamble responsibly.",
+   "image": 140,
+   "buttons": [
+    {
+     "variant": "main",
+     "link": "{{rezerv_casino}}",
+     "text": "Get Bonus",
+     "linkStatus": "affiliate"
+    }
+   ]
+  }
+ ]
+}

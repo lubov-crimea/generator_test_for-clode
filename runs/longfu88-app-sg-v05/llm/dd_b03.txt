@@ -1,0 +1,7 @@
+Because the Longfu88 website adjusts its layout to smartphone and tablet screens, it can be used on Android, on iOS and through the mobile web of both phones and tablets. The table gives the browser and the way of opening for every platform.
+
+| Platform | Opening method | Browser |
+|---|---|---|
+| Android | Menu option Add to Home screen | Chrome |
+| iOS | Add to Home Screen inside the Share menu | Safari |
+| Mobile web | The responsive website loads straight away | Smartphone or tablet browser |

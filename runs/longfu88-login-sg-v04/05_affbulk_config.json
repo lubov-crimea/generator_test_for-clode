@@ -1,0 +1,33 @@
+{
+ "website_id": 4965,
+ "domain": "longfu88casino-sg.net",
+ "locale": "en",
+ "slug": "login",
+ "seo": {
+  "title": "Longfu88 Account Control: Data, Breaks and Closing",
+  "description": "Longfu88 account control for Singapore players: registration rules, protecting login details, currencies, taking a break or closing the account, and support."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "login, sign in, register, password reset, forgot password, account verification, KYC, account security, customer support, casino account, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Keep your account and your details under control",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Register"
+ },
+ "cta_texts": [
+  "Register",
+  "Log In"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

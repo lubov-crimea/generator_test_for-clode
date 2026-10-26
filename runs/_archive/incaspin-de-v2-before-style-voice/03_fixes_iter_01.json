@@ -1,0 +1,14 @@
+{
+  "b06": [
+    "Restore the lead-in of the list to \"Die Summe ergibt sich aus den drei Einzahlungsboni, die Freispiele kommen bei der ersten und der dritten Einzahlung dazu:\" and keep the later sentence about 200 of 275 free spins, so the split is stated once after the list. Change \"Bei 100 % entspricht er dem eingezahlten Betrag\" to \"Bei einem Bonus von 100 % entspricht er dem eingezahlten Betrag\" and \"Spieler müssen sie nicht gesondert beantragen\" to \"Spieler müssen die Boni nicht gesondert beantragen\". Keep \"Incaspin\" once, \"Incaspin Casino\" once and 202-258 words (the block is at the lower limit)."
+  ],
+  "b10": [
+    "Delete \"Jede Kategorie bündelt Spiele mit ähnlichem Ablauf.\" and replace \"Klassische Tischspiele stehen darin neben modernen Formaten wie Instant-Spielen, Crash-Spielen und Bonus Buy.\" with a sentence that states a fact from brand_info instead of repeating the list, e.g. that Books and Jackpots are categories of their own next to the table games and that the originals form a separate category. Do not add titles, mechanics or definitions (they belong to the sub-sections). Keep \"Incaspin Originals\" (the one permitted \"Incaspin\") and \"Incaspin Casino\" exactly once, and stay within 106-134 words."
+  ],
+  "b16": [
+    "Rewrite the last sentence as two clean sentences without comma splices, e.g. \"Für Auszahlungen berechnet das Casino keine Gebühren. Zahlungsanbieter können Kosten verlangen, bei einer Banküberweisung bis zu 16 € durch Zwischenbanken.\" Keep the fact about the 16 € intermediary bank charge, \"Incaspin Casino\" exactly once and the 158-202 word range."
+  ],
+  "b20": [
+    "Merge the two sentences into one: \"Die insgesamt gesammelten Lebenszeit-BP, die sich über die gesamte Spielzeit summieren, bestimmen den Rang im Treueprogramm.\" Keep the rest, the table, \"Incaspin Casino\" exactly once and the 123-157 word range."
+  ]
+}

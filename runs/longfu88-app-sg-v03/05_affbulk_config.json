@@ -1,0 +1,39 @@
+{
+ "website_id": 4968,
+ "domain": "longfu88casino.games",
+ "locale": "en",
+ "slug": "app",
+ "seo": {
+  "title": "Longfu App Checklist: Phone Setup for Singapore",
+  "description": "Longfu app checklist for Singapore players: device check, iOS and Android shortcut, login, fixes, deposit methods, eligibility and support contacts."
+ },
+ "keywords": {
+  "main": "Longfu88",
+  "additional": "app, mobile casino, Android, iOS, home screen shortcut, mobile browser, smartphone, tablet, account access, customer support, casino, Singapore, SG, Singapore players"
+ },
+ "hero": {
+  "label": "Phone setup in one checklist",
+  "mainLabel": "",
+  "background": 140,
+  "button": "Log In"
+ },
+ "cta_texts": [
+  "Log In",
+  "Register"
+ ],
+ "home_link": {
+  "anchor": "Longfu88",
+  "href": "/"
+ },
+ "internal_links": [
+  {
+   "anchor": "Login",
+   "href": "/login"
+  }
+ ],
+ "promo": {
+  "title": "Casino Welcome Bonus",
+  "description": "188% up to €2,088 + 18 Free Spins",
+  "button": "Claim Bonus"
+ }
+}

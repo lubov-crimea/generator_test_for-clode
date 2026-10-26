@@ -1,0 +1,69 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 2409,
+    "target_body_words": 2248,
+    "keywords_total": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 15,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The tier percentages are given as 'Bronze pays 2%, Silver 4%, ...' with no mention that these are VIP tiers and that they belong to the Casino Weekly Cashback, so the entity VIP Cashback Rates is not recognisable and the reader cannot tell what Bronze or Diamond refers to.",
+        "fix": "Rewrite only that sentence so that it says the Casino Weekly Cashback rate depends on the VIP tier and then gives the five rates, for example 'The rate follows the VIP tier: Bronze 2%, Silver 4%, Gold 6%, Platinum 8% and Diamond 10%.' Keep all figures, the single occurrence of the brand name, the table and the block under its word cap (243 words); trim a few words elsewhere in the block if needed, without dropping a figure."
+      }
+    ],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The first paragraph joins the e-mail request and the processing time ungrammatically: 'account access and gambling may be restricted for the agreed period, within 24 hours after the request is processed' reads as if the restriction lasts within 24 hours; the 24-hour processing time and the restriction period are mixed up.",
+        "fix": "Split the facts into two clear statements: self-exclusion is requested by e-mail to customer support at support@longfu88.com and is handled within 24 hours after the request is processed; while it is in force, account access and gambling may be restricted for the agreed period. Keep the e-mail address exactly once (the brand name is free in this block) and stay within the word range."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": []
+  },
+  "missing_data": []
+}

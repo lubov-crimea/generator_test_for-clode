@@ -1,0 +1,11 @@
+The Casino Weekly Cashback returns up to 10% of weekly net casino losses, capped at €6,988, and the VIP cashback rates decide where a player sits in that range. Each calculation week runs from Monday 00:00 UTC to Sunday 23:59 UTC, and the player opts in for a four-week cycle.
+
+| VIP tier | Cashback | Maximum |
+|---|---|---|
+| Bronze | 2% | €1,888 |
+| Silver | 4% | €2,388 |
+| Gold | 6% | €2,988 |
+| Platinum | 8% | €3,988 |
+| Diamond | 10% | €6,988 |
+
+The cashback is credited to My Bonuses on Monday, needs activation there and carries 10x wagering before withdrawal. Only real-money bets count, not bonus funds. The Live Casino Cashback is a separate offer of 25% up to €850. Beside both, the Unlimited Rebate pays daily on settled real-money play: casino 0.9%, live casino 1.0%, P2P 0.8% and lottery 1.0%, each with 1x wagering.

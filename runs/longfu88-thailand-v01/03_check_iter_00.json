@@ -1,0 +1,86 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 3054,
+    "target_body_words": 2796,
+    "keywords_total": {
+      "Longfu88": 18,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    },
+    "keyword_targets": {
+      "Longfu88": 16,
+      "Longfu 88": 1,
+      "Longfu88 casino": 3,
+      "Longfu88 login": 1,
+      "Longfu caino login": 1,
+      "Longfu88 bonus": 1,
+      "Longfu88 app": 1,
+      "Longfu88 promo code": 1,
+      "Longfu 88 casino": 1,
+      "casino Longfu88": 1,
+      "Lngfu88 withdrawal time": 1,
+      "Longfu 88 Official Site": 1,
+      "Longfu": 1,
+      "Longfu sports": 1
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [
+      {
+        "check": "consistency",
+        "problem": "The licence sentence says the casino 'อ้างเขตอำนาจของคอสตาริกา' (claims the jurisdiction of Costa Rica): this reads as a source attribution and weakens the licence statement, which must be given directly as in brand_info.",
+        "fix": "Restate the licence directly: the licence of casino Longfu88 is in the jurisdiction of Costa Rica, held by the operator Lumina, registration number 000-039123-R-319326-001. Do not use verbs like 'อ้าง' or 'ระบุ'. Keep 'casino Longfu88' once, 'Longfu88' once (e.g. in dpo@longfu88.com) and 'Longfu 88 Official Site' once; never imply licence or legality in Thailand."
+      }
+    ],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [],
+    "b11": [],
+    "b12": [],
+    "b13": [
+      {
+        "check": "consistency",
+        "problem": "The clause saying that each studio has its own slots, table games or live games is an unsupported brand claim (the brief gives only the list of providers and forbids saying what each supplies beyond the slots section).",
+        "fix": "Remove the clause 'เพราะแต่ละค่ายมีสล็อต เกมโต๊ะ หรือเกมสดเป็นของตัวเอง'. Replace it with a neutral sentence that gives no facts about what each studio supplies (for example that the list is a starting point for choosing by studio name). Keep 'Longfu 88' exactly once, keep all ten provider names exactly as given and stay within the word cap."
+      }
+    ],
+    "b14": [],
+    "b15": [],
+    "b16": [],
+    "b17": [],
+    "b18": [],
+    "b19": [],
+    "b20": [],
+    "b21": [],
+    "b22": [],
+    "b23": [],
+    "b24": [],
+    "b25": [
+      {
+        "check": "consistency",
+        "problem": "The phrase 'เพื่อให้ Longfu เป็นไปตามที่คาดไว้' is ungrammatical and unclear: the short name Longfu stands as the subject instead of the player's experience.",
+        "fix": "Rewrite the clause so that it reads naturally, for example 'เพื่อให้การเล่นที่ Longfu เป็นไปตามที่คาดไว้', keeping 'Longfu' exactly once, 'Longfu88 Casino' once in the first sentence and 'Longfu88' once; do not add new figures or promises."
+      }
+    ]
+  },
+  "missing_data": []
+}

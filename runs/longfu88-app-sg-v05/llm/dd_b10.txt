@@ -1,0 +1,10 @@
+The cashier is built into the mobile site, so a phone can send a withdrawal request in six steps.
+
+1. Open the cashier after logging in.
+2. Choose Withdrawal, then a supported payment method or destination.
+3. State the sum and where it goes: a blockchain address, a wallet or the receiving bank.
+4. Verify identity and payment method if the casino asks.
+5. Check the request, then confirm it.
+6. The funds arrive after the casino has processed the request, and after the settlement of a bank or network, where there is one.
+
+Casino processing generally takes up to three working days.

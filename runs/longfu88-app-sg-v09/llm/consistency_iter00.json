@@ -1,0 +1,5 @@
+{"issues": [
+{"block_id": "b04", "problem": "The closing clause 'ready to open in one tap' states a behaviour of the shortcut that the Brand Information does not give.", "fix": "Remove 'ready to open in one tap'; keep the lead-in a plain statement that the Share menu places a shortcut of the casino website on the home screen, within 44-56 words including the list."},
+{"block_id": "b11", "problem": "The clause 'which is separate from the personal details entered at registration' is not supported by the Brand Information.", "fix": "Remove the clause and keep only the technical data list and the four cookie groups with their purpose; stay inside 53-67 words."},
+{"block_id": "b12", "problem": "'A player who wants a break can request account closure' misstates the fact: account closure is requested through customer support, it is not described as a break.", "fix": "Say that a player can request account closure through customer support, without the 'break' framing; keep all other facts."}
+], "missing_data": []}

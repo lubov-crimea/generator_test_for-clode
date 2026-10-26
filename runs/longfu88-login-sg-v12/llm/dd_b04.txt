@@ -1,0 +1,7 @@
+Longfu88 gives one way into the account: e-mail plus password. The login screen is where the Longfu88 login happens, and a Longfu login passes through three steps:
+
+1. The website's Login option is chosen first.
+2. Second, the password is typed in beside the e-mail given at registration.
+3. Any security check that appears is cleared, and the account opens.
+
+Only the details set at sign-up are needed to log in, nothing more at all, and any security check that is requested appears before the account itself is shown.

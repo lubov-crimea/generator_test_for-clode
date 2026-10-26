@@ -1,0 +1,325 @@
+{
+ "intent_summary": "Editor's take on the Longfu88 online casino for readers in Singapore. Open on the game lobby: a fact table starts the page, after it come the game categories (slots, live casino and the other game types), providers, the welcome bonus and promotions, VIP levels, sports betting, payments, registration, mobile access, licence and safety, responsible gambling, support, an FAQ and a verdict. Voice: lively, still factual. Sentences around 15 words, a \"you\" here and there. Describe every game category through the actions a player takes inside it. Hard numbers (RTP, volatility, multipliers) go before adjectives, and game types get contrasted with one another. Paragraphs: two to three sentences. One call to action only, attached to the welcome bonus. Facts about the brand are taken exclusively from the AffBulk knowledge base longfu88-new. Keep Singapore's legal view of the casino out of the text altogether.",
+ "blocks": {
+  "b01": {
+   "summary": "Intro: a short identity statement for the casino, the range of game areas it covers, the launch year, and a remark that the readers are adults in Singapore.",
+   "copywriter_notes": "Margin note: sentence one has the keyword \"Longfu88\" as its grammatical subject. Describe the operator by its offer: jackpots, fishing and P2P next to slots, live dealer and table games, then lottery, crash and instant titles, fast games, and a sportsbook on top. Work in the year the casino launched (take it from the Brand Information). 18+ appears once, never twice. Tell readers directly that this page speaks to people in Singapore. Never present the casino as approved, licensed or legal in Singapore, not even by hint; whatever the Brand Information says about its licence is the only wording on that subject. Leave out bonus sums, payment steps and signup details. A teaser line pointing to later sections is enough (mobile play, payments, licence, bonuses, games, facts, responsible gambling). Positive but level-headed, no talk of winning money. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "pulls into one lobby",
+     "object": "a casino catalogue, dealer-led live tables, sports betting and lottery draws"
+    },
+    {
+     "relation": "must have turned",
+     "object": "18 at minimum"
+    }
+   ]
+  },
+  "b02": {
+   "summary": "Quick-reference sheet: licence, welcome bonus, cashback, operator, year of launch, languages, currencies, payment methods, Game types, Game providers and support.",
+   "copywriter_notes": "Row by row, the table follows the Fact Table list; the order stays and nothing is added. Each row is name | value, where the value is a figure, a name or a few comma-separated items, 20 words at the very most, and never a sentence. Licence: jurisdiction, operator and registration number exactly as supplied. Welcome bonus: percentage, cap and free spins, trimmed from the supplied summary. Cashback: the percentage and what it is measured against, which is weekly net casino losses; add nothing more. Minimum deposit: write €10, the casino-wide figure; €50 applies only to the welcome bonus, so it is absent here. Payment methods: a shortlist of five or six well-known options - PayNow, Mastercard, USDT, Visa, Bitcoin and Bank Transfer - and not the whole roster. In the Currencies and Languages rows put bare names. Support: name the live chat, then give the e-mail character for character; that e-mail contains the keyword \"Longfu88\". Leave out any intro, outro or filler. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them. The Support row prints the e-mail address exactly as given; it contains the tracked keyword \"Longfu88\", which counts toward the exact count of this block.",
+   "connections": [
+    {
+     "relation": "covers",
+     "object": "the casino's operation"
+    },
+    {
+     "relation": "is handed out by",
+     "object": "the casino itself"
+    }
+   ]
+  },
+  "b03": {
+   "summary": "Lobby size measured in categories: fast games, P2P, fishing, jackpots, lottery, crash and instant games, table games, live dealer and slots.",
+   "copywriter_notes": "Nine bullets make up the lobby overview, one for each category in the Brand Information, a few words per bullet. Finish by sending readers on to the sub-sections for slots, live casino and the other categories; their facts are not restated. No totals: the data has no number of games and no number of providers. Stay short. Use \"Longfu88\" exactly once and \"Longfu88 casino\" (written as the name Longfu88 Casino) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "holds",
+     "object": "fishing, P2P, jackpots, lottery, slots, live dealer games, table games, fast games and crash games"
+    }
+   ]
+  },
+  "b04": {
+   "summary": "Three sample slots with provider, RTP, volatility and top multiplier.",
+   "copywriter_notes": "Showcase three slots; their numbers must be copied unchanged. Wanted Dead or a Wild (Hacksaw Gaming): volatility very high, RTP 96.38%, 12,500x. Gates of Olympus (Pragmatic Play): volatility high, RTP 96.50%, 5,000x. Sweet Bonanza (Pragmatic Play): volatility high, RTP 96.48%, 21,175x. Include a one-sentence primer for newcomers on RTP and volatility. These three are illustrations, neither the full catalogue nor a top list, and no other game is named. Use no tracked keyword in the body of this block.",
+   "connections": [
+    {
+     "relation": "offers",
+     "object": "an RTP of 96.50% and a maximum multiplier of 5,000x"
+    },
+    {
+     "relation": "developed",
+     "object": "Wanted Dead or a Wild"
+    }
+   ]
+  },
+  "b05": {
+   "summary": "Live dealer corner: what players find there, the house baccarat table and the studios behind live play.",
+   "copywriter_notes": "Live dealer gets its own corner of the lobby. Highlight the in-house table, written exactly \"Longfu88 Baccarat\" - a game exclusive to this casino that plays like baccarat. If it reads as plain fact, credit Evolution and SA Gaming as live studios; since they both appear in the provider list, no specific live title may be linked to them. Skip every other live game and show. The table's name embeds the keyword \"Longfu88\", so it spends part of the keyword budget of this block. Use \"Longfu88\" exactly once and \"Longfu 88 casino\" (written as the name Longfu 88 Casino, with a space) exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "includes",
+     "object": "the in-house Longfu88 Baccarat table"
+    },
+    {
+     "relation": "runs on studio content from",
+     "object": "Evolution and SA Gaming, among others"
+    }
+   ]
+  },
+  "b06": {
+   "summary": "Whatever remains of the lobby in one block: P2P, fishing, lottery, table games, fast games, crash and instant titles.",
+   "copywriter_notes": "Start with fishing, then P2P (players compete with each other), lottery, table games, fast games, and crash and instant games, one sentence each, saying what the player does. Don't name titles or providers for any category, and don't use numbers; the data has none. Keep it practical. Use no tracked keyword in the body of this block.",
+   "connections": [
+    {
+     "relation": "adds on top",
+     "object": "lottery, crash games, fast games, P2P and fishing"
+    }
+   ]
+  },
+  "b07": {
+   "summary": "The studios behind the games, as named in the provider list.",
+   "copywriter_notes": "Bullet the studios listed in the Brand Information - ten of them - using the data's own spelling for each name: SA Gaming, Hacksaw Gaming, NetEnt, Evolution, Skywind, Betsoft, Yggdrasil, Big Time Gaming, Red Tiger, Pragmatic Play. Do not total the studios. Only titles that the slots section has tied to a studio may be tied to one here. Use \"Longfu 88\" (written with a space) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "stand behind",
+     "object": "the slots, live tables and table games of the casino"
+    }
+   ]
+  },
+  "b08": {
+   "summary": "Casino Welcome Bonus in detail: percentage, cap, free spins, qualifying deposit, eligibility and the four claim steps, followed by the remaining pair of opening-deposit offers.",
+   "copywriter_notes": "Name: \"Casino Welcome Bonus\". Top line: 188% up to €2,088, with 18 Free Spins attached; copy the figures as stored in the Brand Information. Who qualifies: newly registered players whose first deposit meets the requirement, with a single welcome offer per account. The qualifying minimum deposit tied to this offer alone is €50; it must stay separate from the casino-wide minimum of €10. Claim steps as short bullets: sign-up; qualifying first deposit; activation in My Bonuses prior to any wager; eligible games played until the wagering requirement is met within the validity period. PROMO CODE: the steps include no code. Each time \"Longfu88 promo code\" is printed, the same sentence should say that the offer is claimed by activating it in My Bonuses after the qualifying deposit and that the process has no promo-code step. Never make up or hint at a code. Mention in one sentence the other two offers: Live Casino Welcome Bonus at 125% up to €888 with a €30 minimum deposit, and Casino Crypto Welcome Bonus at 188% up to 2,888 USDT with a 50 USDT minimum deposit. Make clear that Casino Welcome Bonus and Crypto Welcome Bonus are either-or choices for the first deposit. Place \"Longfu88 bonus\" in whichever sentence quotes the percentage and the cap. The conditions (wagering, maximum bet, validity) come in the next sub-section. Use \"Longfu88\" exactly once, \"Longfu88 bonus\" exactly once and \"Longfu88 promo code\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "is made up of",
+     "object": "a 188% bonus up to €2,088 together with 18 free spins"
+    },
+    {
+     "relation": "needs activating",
+     "object": "inside My Bonuses before betting begins"
+    }
+   ]
+  },
+  "b09": {
+   "summary": "The Casino Welcome Bonus conditions in tabular form, with the exclusions explained in practical terms after the table.",
+   "copywriter_notes": "Begin with a one-sentence lead-in, then give a Markdown table headed Condition | Value with these rows: wagering of 40x on Free Spins winnings; maximum cashout (5x the initial bonus amount); general wagering at 25x of the deposit and bonus combined; validity (10 days from activation); maximum bet (€22.5 per spin). After that come the exclusions in a sentence or two: Skrill and Neteller deposits are not eligible; a second promotional bonus cannot be active alongside the first; requesting a withdrawal before claiming, or mid-bonus, can forfeit eligibility; cancelling means losing the bonus funds and any winnings not yet converted; ID verification can be asked for before bonus winnings are paid out. No tracked keywords go in table cells. Use no tracked keyword in the body of this block.",
+   "connections": [
+    {
+     "relation": "requires turnover of 25x on",
+     "object": "deposit and bonus added together"
+    },
+    {
+     "relation": "expires",
+     "object": "10 days following its activation"
+    }
+   ]
+  },
+  "b10": {
+   "summary": "Table with seven reload and seasonal promotions, after which come weekly cashback (rates by VIP tier), the live casino cashback and the daily rebates.",
+   "copywriter_notes": "Write it as one continuous section without sub-headings and with two parts, the first getting space according to weight. Part (1), Reloads and Seasonal Promotions: lead in with a sentence, then a Markdown table whose columns are Offer, Reward, Validity, Min. deposit, Wagering. Seven rows, values as supplied: Casino Double Fortune (one-day reload special), Casino Weekend Crypto Reload, Casino Dragon Quest (reward for verification), Casino Weekly Reload, Casino Trick or Treat Pumpkin Bonanza, Casino Weekly Crypto Reload, Casino Weekend Reload. Under the table, state the shared rules once: every offer is activated in My Bonuses; each promotional period allows one claim; no offer combines with another live casino bonus; the stake limit is €5 per spin while bonus funds are wagered. Part (2), Cashback and Rebates: Casino Weekly Cashback is worth at most 10% of the net casino losses of the week, with a €6,988 cap. Calendar: Monday 00:00 UTC opens the week and Sunday 23:59 UTC ends it; opt-in covers a four-week cycle; the payout lands in My Bonuses on Monday; wagering on the cashback is 10x. The rate depends on VIP tier: Silver 4%, Bronze 2%, Gold 6%, Diamond 10% and Platinum 8%; show tier, percentage and maximum in a small table. Live Casino Cashback adds a separate 25% up to €850. The four daily rebates fit in one sentence: P2P 0.8%, casino 0.9%, lottery 1.0% and live casino 1.0%, each at 1x wagering. Only stakes made with real money count; stakes from bonus funds do not. The tier percentages belong solely to the weekly cashback; they are distinct from the VIP level percentages. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "credits players with",
+     "object": "50 free spins"
+    },
+    {
+     "relation": "is incompatible with",
+     "object": "another casino bonus already in progress"
+    },
+    {
+     "relation": "returns",
+     "object": "no more than 10% of net casino losses accumulated during the week"
+    },
+    {
+     "relation": "arrive",
+     "object": "every day"
+    }
+   ]
+  },
+  "b11": {
+   "summary": "Game-style extras inside the rewards area: the Coin Shop, Collections, Challenges, Wheel of Fortune and Bonus Crab.",
+   "copywriter_notes": "Treat five features briefly, with one or two short sentences for each. Coin Shop: spend Coins on rewards, bonus credits worth as much as €4,500 among them; every item has its own price and extra wagering might attach. Wheel of Fortune: an eligible spin or Coins required, 7 days, 30x. Bonus Crab: picks that you claim reveal a crab reward; valid 7 days; 30x wagering on bonus credit, 40x on free spin winnings. Challenges and Collections are in the Rewards area. Mention that rewards can have separate wagering terms. Use no tracked keyword in the body of this block.",
+   "connections": [
+    {
+     "relation": "go towards purchases in",
+     "object": "the Coin Shop"
+    },
+    {
+     "relation": "bring in",
+     "object": "Coins, free spins or bonus credits"
+    }
+   ]
+  },
+  "b12": {
+   "summary": "How the VIP scheme works: points from eligible real-money play, 25 reward levels grouped into five tiers, and the benefits that expand at each stage.",
+   "copywriter_notes": "Explain first how it works. Eligible real-money play earns points; the points lift a player through 25 numbered reward levels, collected under five tiers (Diamond and Platinum on top, Gold, Silver and Bronze below). Add a table whose first two columns are Level and Points, followed by Reward, Cashback and Withdrawal limit; fill six rows - the levels 1 and 25 plus 5, 10, 15 and 20 - from the Brand Information. Sample values: level 25 has a limit of €147,000, cashback 10%, reward €980 and 5,500 points; level 1 has a limit of €9,800, cashback 1%, reward €9.8 and 1 point. Higher levels bring a personal VIP manager (from level 4), tailor-made offers, better cashback and bigger withdrawal limits. Rewards and withdrawal limits depend on the level and the currency, and the terms are open to change. The name \"Longfu88 VIP Program\" has the keyword \"Longfu88\" inside, so typing the whole name uses up this block's allowance of that keyword. Do not include the weekly cashback tier table; the cashback section is its home. Use \"Longfu88\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "unlock",
+     "object": "each numbered reward level in turn"
+    },
+    {
+     "relation": "increase",
+     "object": "the cashback percentage together with withdrawal caps"
+    }
+   ]
+  },
+  "b13": {
+   "summary": "Sportsbook snapshot: which sports and esports can be bet on, the bet formats, and live betting.",
+   "copywriter_notes": "Mention nine sports and esports in flowing text rather than a list: basketball, badminton, football, esports, cricket, tennis, table tennis, virtual football and volleyball. Seven bet types are to be named: handicap, accumulator, Bet Builder, single, outrights, live and totals. Close with live betting, meaning in-play markets and live odds. Slip \"Longfu sports\" naturally into the sportsbook passage. Events and markets can differ by jurisdiction. Leave out leagues, specific events and any sportsbook platform. Use \"Longfu88\" exactly once and \"Longfu sports\" exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "takes bets on",
+     "object": "basketball, volleyball, esports, badminton, cricket, football, virtual football, table tennis and tennis"
+    },
+    {
+     "relation": "adds",
+     "object": "in-play markets with live odds"
+    }
+   ]
+  },
+  "b14": {
+   "summary": "Sports betting promotions: reloads weekly and on weekends, the first deposit bonus, cashback, a risk-free Bet Builder, parlay boost and early payout, and the minimum odds rule they all follow.",
+   "copywriter_notes": "Open with a table: Offer | Min. deposit | Wagering | Reward. Rows: Sport Weekly Reload Bonus (minimum €50, 50% up to €2,500, 8x); Sport First Deposit Bonus (minimum €50, 100% up to €1,888, 8x, 30 days); Sport Weekend Reload Bonus (minimum €50, 50% up to €3,750, 8x). Cover the rest in prose, crypto equivalents included: Bet Builder Risk Free refunds half the stake (50%), limit €250; Parlay Boost requires three legs minimum and boosts winnings by as much as 100%; 2 Goals Ahead pays out early; Unlimited Sports Rebate is 0.70%; weekly Sports Cashback returns 10% of net losses on eligible sports, ceiling €2,500. Qualifying bets must be settled; the minimum odds are 2.00 for singles and 1.50 for each accumulator selection; voided or cashed-out bets do not count. These stay apart from the casino bonuses. Use no tracked keyword in the body of this block.",
+   "connections": [
+    {
+     "relation": "is worth",
+     "object": "100% up to €1,888"
+    },
+    {
+     "relation": "need",
+     "object": "singles priced at 2.00 or higher"
+    }
+   ]
+  },
+  "b15": {
+   "summary": "Deposit method types with limits and credit speed in a table, followed by the deposit route; then payouts: which methods, what steps, how long and at what cost.",
+   "copywriter_notes": "Single continuous section, no sub-headings, two parts with space according to weight. First part - Deposit Methods and Limits (1): a one-line opener, then a Markdown table with the columns Method type | Examples | Currencies. Row groups: cryptocurrencies (Ethereum, Bitcoin, USDC, Litecoin and the other listed coins; USDT in its TRC20, ERC20 and BEP20 variants), European methods (Sofort, Giropay), e-wallets (Neteller, Skrill), cards (Visa, Mastercard), bank transfer, local bank and wallet options. Singapore readers should see DBS Bank, PayNow QR, OCBC Bank (SGD) and PayNow highlighted, with values as supplied. Universal for all methods: transactions between €10 and €5,000 each, credit within 1-2 minutes, and no processing fee from the casino (provider or network fees may still occur). Omit limit figures quoted per currency or per market for individual methods, as those lines place euro symbols next to local-currency sums. Limits are not fixed: they depend on the player's country, the currency and the method. Deposits through Skrill or Neteller are not eligible for the welcome bonus. Give the six deposit steps one or two sentences at most, after the table. Keep brand keywords out of the table. Second part - Withdrawals and Payout Times (2): methods to list are wallets and banking (Touch'n Go, MoMo, DANA, Online Banking, DBS Bank), crypto (USDT over three networks, Litecoin, Ethereum, Bitcoin), cards (Mastercard, Visa) and bank transfer. Withdrawal limits: €20 at the low end, €5,000 at the top; then the six steps as a NUMBERED list. Payouts to cards, crypto addresses and wallets arrive after one to three business days. A bank transfer works in two steps in sequence: the casino processes for as long as 3 business days, then the bank adds 3 to 5 business days on top. In general a withdrawal request is settled within three working days. Spelling trap: the sentence giving the processing time must contain \"Lngfu88 withdrawal time\" verbatim, typo included. Fees: the casino itself does not apply a standard withdrawal fee, yet fees from the blockchain or the provider may come up. If the player has wagered less than the deposit, a 10% commission with a €2.25 minimum may be charged, which is why 1x deposit turnover can be required before cashing out. A 15% rate hits certain transactions that were funded by card or bank transfer. Skip minimums quoted per market for particular methods - they, too, set euro symbols beside local currency. Refer to the verification section for ID checks that can delay a payout. Use \"Longfu88\" exactly once and \"Lngfu88 withdrawal time\" (verbatim, with this spelling) exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "show up",
+     "object": "after 1-2 minutes"
+    },
+    {
+     "relation": "does not apply",
+     "object": "any processing fee to deposits, but providers or networks might still add theirs"
+    },
+    {
+     "relation": "wraps up in",
+     "object": "3 business days or less"
+    },
+    {
+     "relation": "may need",
+     "object": "3-5 more business days before the funds reach the account"
+    }
+   ]
+  },
+  "b16": {
+   "summary": "Five numbered registration steps, how to log in and recover a password, followed by when documents are requested, what kinds, and how long review takes.",
+   "copywriter_notes": "A single run of text with two parts. Give each space in proportion to weight. Part (1) deals with Registration and Login: one opening sentence, then the five registration steps as a NUMBERED list that mirrors the sequence in the Brand Information. Straight after the list, a short paragraph about signing in (choose Login, type the registration e-mail and password, finish the security check if shown) and about a forgotten password (the login screen carries a Forgot Password option, which sends a reset link to the e-mail). Registration requires residential address, date of birth, legal name, e-mail and password. Players hold one personal account each. Put \"Longfu88 login\" in the paragraph on signing in. Brand keywords must not appear in list items unless a stored step names the brand. Part (2) is about Identity Verification Before Withdrawals; it is triggered by a withdrawal request, by high-value or unusual transactions and by any change of account or payment details. Documents as short bullets: ID (passport, national ID card or driving licence); address (bank statement or utility bill); proof that the payment method is the player's own; source of funds when requested. Players get 30 days to send documents and, once the set is complete, up to 10 days for review. Warn that payouts may wait until checks finish and that failed checks may mean refused transactions or account restrictions. Use \"Longfu88\" exactly once and \"Longfu88 login\" exactly once, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "requires",
+     "object": "email and password, a legal name, date of birth and residential address"
+    },
+    {
+     "relation": "holds",
+     "object": "one personal account per player"
+    },
+    {
+     "relation": "can be asked for",
+     "object": "prior to any withdrawal"
+    },
+    {
+     "relation": "is told the outcome within",
+     "object": "10 days or fewer"
+    }
+   ]
+  },
+  "b17": {
+   "summary": "Using the casino on a phone: Android, iOS and mobile web, the responsive layout, the shortcut on the home screen and what an account can do from there.",
+   "copywriter_notes": "Present the casino as a responsive website for phone and tablet browsers (mobile web, Android, iOS) that can also be saved on the home screen as a shortcut. Include two numbered lists, each with a single sentence before it. Android steps: open Chrome, use the menu, choose Add to Home screen, then confirm. iOS steps: open Safari, tap Share, pick Add to Home Screen, tap Add. Functions to cover: bonuses and deposits, withdrawals, the casino, the sportsbook and account access. If the phrase \"Longfu88 app\" is used, explain in that sentence that it means the website saved to the home screen. Do not imply that an APK or app-store download exists; the data mentions neither. In each of the two lists, step one contains the brand name, worded as in the Brand Information. These two \"Longfu88\" mentions use up part of this block's keyword total; remaining mentions go into the body text. Use \"Longfu88\" exactly twice, and no other tracked keyword. Keep the tracked keywords out of list items and table cells unless a Brand Information value printed there contains them.",
+   "connections": [
+    {
+     "relation": "displays properly in",
+     "object": "browsers on handsets and tablets"
+    },
+    {
+     "relation": "lands players in",
+     "object": "casino games and sports betting"
+    }
+   ]
+  },
+  "b18": {
+   "summary": "Launch year, currencies and who may play first; then the licence, the operating company and the protection of personal data and accounts.",
+   "copywriter_notes": "Cover two parts, run together without a break and with weight deciding the space. First, About the Casino (1): state the launch year as 2026; list the account currencies named in the Brand Information, SGD among them; mention \"Longfu 88 Official Site\" within a natural remark, such as advising readers to key in the genuine address of the Longfu 88 Official Site instead of following imitation pages (this is a tip, not a statement on domains); eligibility means being 18+, legally allowed to gamble in the player's place of residence, not using third-party payment methods and holding a single personal account. Singapore must never be described as licensing, legalising or approving the casino, and no licence claim goes beyond what the Brand Information says. Second, Licence, Operator, Data Protection (2): begin with the licence - jurisdiction Costa Rica, operator Lumina and the registration number as given in the Brand Information. The same operator acts as data controller. You may print the data protection officer's contact (the e-mail from the privacy policy) if space permits; it holds the keyword \"Longfu88\" and would be counted. Personal data can go to technology providers, identity verification providers, payment service providers and, when required, regulators and law enforcement. Player rights: consent withdrawal, access, rectification, erasure (where permitted by law), restriction, objection and portability. Account holders look after their own login credentials. \"casino Longfu88\" fits best into a plain sentence on the licence. Never mention or hint at Singapore licensing, legality or approval; certification claims (eCOGRA, RNG certificate, SSL, audit and the like) are off the table because the data supplies none; identity checks are covered in their own section. Use \"Longfu88\" exactly once, \"casino Longfu88\" exactly once and \"Longfu 88 Official Site\" exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "started operating",
+     "object": "in 2026"
+    },
+    {
+     "relation": "should be",
+     "object": "legally entitled to gamble in the country where they live"
+    },
+    {
+     "relation": "was granted to",
+     "object": "the operator"
+    },
+    {
+     "relation": "safeguards",
+     "object": "accounts, payments and personal data using technical and organisational measures"
+    }
+   ]
+  },
+  "b19": {
+   "summary": "Minimum age, how to self-exclude or close an account by e-mail, self-assessment questions and where to find help.",
+   "copywriter_notes": "Mention the age limit of 18 or older and that gambling is legal only where local law permits it. Self-exclusion: e-mail support to request it; during the agreed period, access to the account and gambling are blocked; once the request is processed, it takes effect inside 24 hours. Account closure is likewise a request to customer support - sum up the four steps. Add self-assessment questions that can reveal harmful play. Bullet list of organisations: GamCare, Gambling Therapy, Gamblers Anonymous. Make it clear that this page does not substitute for independent help. About the support e-mail: its address contains the keyword \"Longfu88\"; if printed (for instance in the self-exclusion sentence) it counts as the one allowed use here. Use no tracked keyword in the body of this block.",
+   "connections": [
+    {
+     "relation": "is set up",
+     "object": "by writing to customer support"
+    },
+    {
+     "relation": "can seek help from",
+     "object": "Gambling Therapy, Gamblers Anonymous and GamCare"
+    }
+   ]
+  },
+  "b20": {
+   "summary": "Ways to contact support, the hours, and the languages covered.",
+   "copywriter_notes": "Support has two channels: live chat available around the clock (24/7) and e-mail. The e-mail must be printed as given, and since it holds the keyword \"Longfu88\" it takes this block's one permitted occurrence. Languages (six): Indonesian, Thai, Simplified Chinese, English, Vietnamese, Malay. Do not write about phone numbers, ticket systems, typical waiting times or social media - the data is silent on these. Use \"Longfu88\" exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "stays reachable",
+     "object": "around the clock"
+    },
+    {
+     "relation": "replies in",
+     "object": "Simplified Chinese, English, Malay, Vietnamese, Thai and Indonesian"
+    }
+   ]
+  },
+  "b21": {
+   "summary": "Brief answers about the minimum deposit, bonus claiming, crypto options, the app question and account currencies.",
+   "copywriter_notes": "Exactly five bullets. Each has a bold question followed by a 20-30 word answer. (1) Minimum deposit: €10 in general, €50 for the Casino Welcome Bonus. (2) Claiming the Casino Welcome Bonus: activate it in My Bonuses after the first qualifying deposit of €50; the procedure contains no promo-code stage. (3) Cryptocurrencies for deposits: Ripple, Cardano, USDC, Bitcoin Cash, Litecoin, Ethereum, Bitcoin and USDT on three networks; in this answer \"Longfu88\" appears verbatim once. (4) Is there an app: the data lists no download, only a responsive website that players save to the home screen (Android or iOS); this question has to hold \"Longfu88 app\" exactly once, verbatim. (5) Currencies an account supports: SGD, USD, EUR, THB, MYR and USDT. Questions never contain the bare brand name \"Longfu88\"; answers may. Besides these five there are no questions on the page; question format is permitted only in this block. Use \"Longfu88\" exactly once and \"Longfu88 app\" exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "touch on",
+     "object": "the minimum deposit, bonus claiming, crypto options, the app question and currencies"
+    }
+   ]
+  },
+  "b22": {
+   "summary": "Final verdict: which readers the casino suits, what deserves a second look before the first deposit, plus a responsible-gambling note.",
+   "copywriter_notes": "Four sentences at most and three at least; hype stays out. Sentence one should say whom the facts suit - players looking for casino games, live dealer tables and sports betting under a single login, paying by local methods or crypto - and it must feature \"Longfu88 casino\" in the capitalised form Longfu88 Casino. Then the pre-deposit checklist: the €50 qualifying deposit, 25x wagering, verification and the withdrawal turnover rule. Close on the 18+ limit and the reminders: gambling is no way to make money, never chase losses, set a budget and take regular breaks. \"Longfu\" serves as the nickname. Do not repeat figures or promise winnings. No claim or hint of Singapore licensing, legality or approval - the only licence statement is whatever the Brand Information says. Use \"Longfu88\" exactly once and \"Longfu\" exactly once, and no other tracked keyword.",
+   "connections": [
+    {
+     "relation": "would do well to read",
+     "object": "bonus conditions and payment limits first"
+    }
+   ]
+  }
+ }
+}

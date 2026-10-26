@@ -1,0 +1,11 @@
+The cashier is part of the mobile website, so a player can pay in Malaysian ringgit with any of five methods, shown here with the deposit speed of each:
+
+| Method | Currency | Deposit speed |
+|---|---|---|
+| Touch'n Go | MYR | 1–2 minutes |
+| GrabPay | MYR | 1–2 minutes |
+| DuitNow | MYR | 1–2 minutes |
+| Online Banking | MYR | 1–2 minutes |
+| Bank Transfer | MYR | 1–2 minutes |
+
+Withdrawal requests are generally processed within three working days. Bank transfers may need another 3–5 business days for settlement, so a player who withdraws by bank transfer should plan for that extra time.

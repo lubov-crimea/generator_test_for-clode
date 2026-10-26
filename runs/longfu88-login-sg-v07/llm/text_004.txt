@@ -1,0 +1,7 @@
+Longfu88 holds personal data about each account holder in three groups, and the split shows how much a registered account reveals about its owner:
+
+- Identity data: name, date of birth and identity documents.
+- Contact data: e-mail, telephone and residential address.
+- Verification data: KYC documents, which serve customer identity checks, and evidence of payment method ownership.
+
+The casino shares personal data with payment service providers, identity verification providers and technology providers, and with regulators and law enforcement when required. Sharing is therefore limited to those four kinds of recipient, and no other group of recipients is named. The player keeps rights over the data: access, rectification, erasure where legally permitted, restriction, objection, portability where applicable and withdrawal of consent. This summary is general information and not legal advice.

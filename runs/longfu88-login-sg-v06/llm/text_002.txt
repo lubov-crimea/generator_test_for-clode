@@ -1,0 +1,5 @@
+Access to Longfu88 depends on one method only: the registered e-mail address and the password. The Longfu login is a short sequence of three steps, and the order matters because the security check comes last. A player who begins the Longfu88 login enters the registered e-mail and password on the login screen, and a security check, where one is shown, is completed before the account can be accessed. The steps in order are listed below:
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password.
+3. Complete any security check and access the account.

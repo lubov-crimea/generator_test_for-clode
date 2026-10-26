@@ -1,0 +1,5 @@
+A Longfu88 player who can no longer recall the password gets a replacement through a reset link, requested with the e-mail address that the account carries. If nobody can open that inbox, support takes over, and the support section further below lists how to reach it. The recovery works like this:
+
+1. The player opens the login screen and chooses Forgot Password.
+2. Account e-mail is typed in to receive the reset link.
+3. A message arrives, and its instructions lead to the new password.

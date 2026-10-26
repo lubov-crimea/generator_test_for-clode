@@ -1,0 +1,402 @@
+[
+  {
+    "entity": "Pragmatic Play",
+    "competitors": 5,
+    "count": 15
+  },
+  {
+    "entity": "Evolution",
+    "competitors": 5,
+    "count": 11
+  },
+  {
+    "entity": "Olympus",
+    "competitors": 5,
+    "count": 6
+  },
+  {
+    "entity": "VIP",
+    "competitors": 4,
+    "count": 23
+  },
+  {
+    "entity": "GrabPay",
+    "competitors": 4,
+    "count": 14
+  },
+  {
+    "entity": "Malaysia",
+    "competitors": 4,
+    "count": 12
+  },
+  {
+    "entity": "Touch",
+    "competitors": 4,
+    "count": 12
+  },
+  {
+    "entity": "Megaways",
+    "competitors": 4,
+    "count": 7
+  },
+  {
+    "entity": "USDT",
+    "competitors": 4,
+    "count": 7
+  },
+  {
+    "entity": "Pragmatic Play Live",
+    "competitors": 4,
+    "count": 6
+  },
+  {
+    "entity": "Gates",
+    "competitors": 4,
+    "count": 5
+  },
+  {
+    "entity": "MYR",
+    "competitors": 3,
+    "count": 35
+  },
+  {
+    "entity": "Malaysian",
+    "competitors": 3,
+    "count": 9
+  },
+  {
+    "entity": "DuitNow",
+    "competitors": 3,
+    "count": 9
+  },
+  {
+    "entity": "PG Soft",
+    "competitors": 3,
+    "count": 7
+  },
+  {
+    "entity": "Hacksaw Gaming",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "Cardano",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "RNG",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "Aviator",
+    "competitors": 3,
+    "count": 6
+  },
+  {
+    "entity": "Dota 2",
+    "competitors": 3,
+    "count": 5
+  },
+  {
+    "entity": "Litecoin",
+    "competitors": 3,
+    "count": 5
+  },
+  {
+    "entity": "Ethereum",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "Roulette",
+    "competitors": 3,
+    "count": 4
+  },
+  {
+    "entity": "Sweet Bonanza",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Sic Bo",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "Dragon Tiger",
+    "competitors": 3,
+    "count": 3
+  },
+  {
+    "entity": "THB",
+    "competitors": 2,
+    "count": 39
+  },
+  {
+    "entity": "Äôs",
+    "competitors": 2,
+    "count": 36
+  },
+  {
+    "entity": "VND",
+    "competitors": 2,
+    "count": 26
+  },
+  {
+    "entity": "Äôt",
+    "competitors": 2,
+    "count": 15
+  },
+  {
+    "entity": "Äôll",
+    "competitors": 2,
+    "count": 11
+  },
+  {
+    "entity": "FPX",
+    "competitors": 2,
+    "count": 10
+  },
+  {
+    "entity": "Boost",
+    "competitors": 2,
+    "count": 7
+  },
+  {
+    "entity": "Thailand",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "P2P",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "RTP",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "SA Gaming",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "AE Sexy",
+    "competitors": 2,
+    "count": 6
+  },
+  {
+    "entity": "Bank Transfer",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "MYR 2",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Android",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "WhatsApp",
+    "competitors": 2,
+    "count": 5
+  },
+  {
+    "entity": "Join",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Singapore",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Vietnam",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Sports",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "PromptPay",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Äôd",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Visa",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Mastercard",
+    "competitors": 2,
+    "count": 4
+  },
+  {
+    "entity": "Online Banking",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Ripple",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Tether",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Bitcoin Cash",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "MYR 30",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Blackjack",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "Ezugi",
+    "competitors": 2,
+    "count": 3
+  },
+  {
+    "entity": "User Reviews",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Slots",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Payment Methods",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "GambleAware",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Asian",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Big Bass Bonanza",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Crazy Time",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "SSL",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Äôve",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Gambling Therapy",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Gaming",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Credit Card",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Debit Card",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Review Author",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "MYR 1",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Providers",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Winfinity",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Register",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "ViettelPay",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Lottery",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Games",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "Dog House Megaways",
+    "competitors": 2,
+    "count": 2
+  },
+  {
+    "entity": "TLS",
+    "competitors": 2,
+    "count": 2
+  }
+]

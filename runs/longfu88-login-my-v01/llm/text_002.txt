@@ -1,0 +1,7 @@
+Longfu88 accepts one login method, e-mail and password, and the account opens in three steps.
+
+1. Select Login on the website.
+2. Enter the registered e-mail and password on the login screen.
+3. Complete any security check and access the account.
+
+A forgotten password blocks any Longfu login, but the reset takes three steps. Choose Forgot Password on the login screen, request a reset link with the registered e-mail, then follow the e-mailed instructions to set a new password. A player without access to that mailbox should contact support.

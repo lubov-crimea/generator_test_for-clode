@@ -1,0 +1,8 @@
+{"issues": [
+{"block_id": "b03", "problem": "The closing sentence 'Verification, in short, follows the triggers above.' repeats the 'in short' closer used in several other blocks (template-like).", "fix": "Replace the closing sentence with a differently built short summary, for example 'So the checks are tied to specific events on the account.' Keep everything else."},
+{"block_id": "b04", "problem": "Opens with 'At this stage', the same opening as the previous block b03, and ends with 'Logging in, in short, ...' (repeated closer).", "fix": "Change the opening to a different construction ('With the account open, Longfu88 offers a single way in: e-mail and password.') and end with 'The details set at registration are all that logging in requires.' Keep keyword counts."},
+{"block_id": "b07", "problem": "Ends with 'Protection, in short, is shared ...' (repeated closer).", "fix": "End with 'The work of protection is thus shared between the player and the operator.'"},
+{"block_id": "b08", "problem": "Ends with 'In short, the payout depends ...' (repeated closer).", "fix": "End with 'The payout therefore rests on completed checks and on a payment method in the player's own name.'"},
+{"block_id": "b11", "problem": "Ends with 'In short, the programme follows ...' (repeated closer).", "fix": "End with 'The scale, then, follows eligible play, and its details can change.'"},
+{"block_id": "b12", "problem": "Ends with 'In short,stopping ...' (missing space and repeated closer).", "fix": "End with 'Stopping, then, begins with a single contact to support.'"}
+], "missing_data": []}

@@ -1,0 +1,16 @@
+=== b11 ===
+Kontoen opprettes via et skjema på nettstedet, og registreringen følger seks trinn:
+
+1. Åpne nettstedet til Cazeus og velg Registrer.
+2. Fyll ut registreringsskjemaet med riktige personopplysninger.
+3. Velg kontotype og ønsket velkomstbonus, slik at riktig tilbud følger kontoen fra start.
+4. Send inn skjemaet.
+5. Gå til spillerprofilen og fullfør eventuelle trinn for kontooppsett.
+6. Foreta et kvalifiserende innskudd dersom tilbudet som er valgt, forutsetter det.
+
+Opplysningene bør være nøyaktige, fordi de sammenlignes med dokumentene i den senere verifiseringen, som omtales nedenfor. Skjemaet ber om fullt navn, fødselsdato, e-postadresse, telefonnummer, land, kjønn, brukernavn og postnummer, og om identifikasjonsnummer der det kreves. Velkomstpakken velges under registreringen eller før det kvalifiserende innskuddet. Innlogging skjer med valget Logg inn: spilleren åpner Cazeus, velger Logg inn og skriver inn de registrerte påloggingsopplysningene. Er passordet glemt, velger spilleren alternativet for glemt passord i innloggingsskjemaet og følger instruksjonene for tilbakestilling, slik at kontoen blir tilgjengelig igjen.
+
+=== b12 ===
+Verifisering, også kalt KYC (know your customer), er en kontroll av alder, identitet og betalingsmetoder som er vanlig hos regulerte casinoer. Casinoet kan be om pass, nasjonalt ID-kort eller førerkort, bevis på bostedsadresse og dokumentasjon på at betalingsmetoden tilhører spilleren. Kontoutskrifter, transaksjonshistorikk og, når det forlanges, bevis på hvor pengene kommer fra, kan også bli etterspurt.
+
+Dokumentene må leveres innen 30 dager etter at forespørselen er sendt, og behandlingen er vanligvis ferdig innen 10 dager etter at all informasjon er mottatt. Mens verifiseringen ikke er fullført, kan innskudd og uttak bli blokkert. Det lønner seg derfor å ha dokumentene klare tidlig, slik at et senere uttak ikke blir forsinket av manglende bilder eller utskrifter.

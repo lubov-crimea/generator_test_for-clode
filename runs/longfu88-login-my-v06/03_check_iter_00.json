@@ -1,0 +1,40 @@
+{
+  "iteration": 0,
+  "passed": false,
+  "summary": {
+    "body_words": 770,
+    "max_body_words": 1013,
+    "target_body_words": 780,
+    "keywords_total": {
+      "Longfu88": 3,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 2
+    },
+    "keyword_targets": {
+      "Longfu88": 3,
+      "Longfu login": 1,
+      "Longfu88 register": 1,
+      "Longfu88 casino login": 2
+    }
+  },
+  "blocks": {
+    "b01": [],
+    "b02": [],
+    "b03": [],
+    "b04": [],
+    "b05": [],
+    "b06": [],
+    "b07": [],
+    "b08": [],
+    "b09": [],
+    "b10": [
+      {
+        "check": "consistency",
+        "problem": "The answer to question 5 ('Customer support at Longfu88 answers through live chat 24/7 and by e-mail.') repeats almost word for word the closing sentence of b04 ('support answers through live chat 24/7 and by e-mail') and the first sentence of b09 ('through 24/7 live chat and by e-mail'). Three blocks use the same sentence frame.",
+        "fix": "Reword the answer to question 5 so that it does not reuse the frame 'answers through live chat 24/7 and by e-mail': for example say that the player can write to customer support at Longfu88 in the live chat, which is open around the clock, or by e-mail. Keep 'Longfu88' in the block exactly once, keep 'Longfu88 casino login' exactly once (in the answer to question 1), do not print the e-mail address, keep the bold questions and the list of 5 items."
+      }
+    ]
+  },
+  "missing_data": []
+}

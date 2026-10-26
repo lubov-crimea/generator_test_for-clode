@@ -1,0 +1,412 @@
+[
+  {
+    "id": "k01",
+    "topic": "Casino overview / official site",
+    "canonical_title": "Огляд казино",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 99,
+    "avg_position": 0.1,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "BC Game офіційний сайт"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Эволюция игровых технологий на основе блокчейна"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Legality, regulation and restricted countries",
+    "canonical_title": "Легальність і обмеження",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 34,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Заборонені країни"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "💎 Казино БС Гейм легальне?"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Навигация по глобальным нормативам"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Registration",
+    "canonical_title": "Реєстрація",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 23,
+    "avg_position": 0.1,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Реєстрація на BC Game"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Games overview",
+    "canonical_title": "Ігри казино",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 192,
+    "avg_position": 0.19,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Найкращі ігри казино BCGame"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "Slots",
+    "canonical_title": "Ігрові автомати",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 57,
+    "avg_position": 0.24,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Ігрові автомати"
+      }
+    ]
+  },
+  {
+    "id": "k06",
+    "topic": "Live casino",
+    "canonical_title": "Лайв казино",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 35,
+    "avg_position": 0.29,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Лайв казино"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Sports betting",
+    "canonical_title": "Ставки на спорт",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 79,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Ставки на спорт"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Lottery",
+    "canonical_title": "Лотерея",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 34,
+    "avg_position": 0.38,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Лотерея"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Payment methods and deposits",
+    "canonical_title": "Платіжні системи",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 161,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Платіжні системи"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "Responsible gambling",
+    "canonical_title": "Відповідальна гра",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 44,
+    "avg_position": 0.43,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Играйте ответственно"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Withdrawals",
+    "canonical_title": "Виведення коштів",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 95,
+    "avg_position": 0.48,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Виведення коштів"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Mobile app / mobile play",
+    "canonical_title": "Мобільний додаток",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 58,
+    "avg_position": 0.52,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Як скачати BC Game на мобільний"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "📲 Де скачати BC Game для смартфона?"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Bonuses and promotions",
+    "canonical_title": "Бонуси та акції",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 25,
+    "avg_position": 0.57,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Бонуси та промо-акції"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Customer support",
+    "canonical_title": "Служба підтримки",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 76,
+    "avg_position": 0.62,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Сапорт"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Verdict / conclusion",
+    "canonical_title": "Висновок",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 86,
+    "avg_position": 0.67,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Вердикт"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "FAQ: ownership, age and general questions",
+    "canonical_title": "Поширені запитання",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 6,
+    "avg_position": 0.79,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Поширені запитання"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "📢 Кому належить BC Game?"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "👨 З якого віку можна реєструватись у казино BCGame?"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Crypto ecosystem and community",
+    "canonical_title": "Екосистема та спільнота",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 12,
+    "avg_position": 0.79,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Исследуйте экосистему"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Будьте в курсе событий"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Присоединяйтесь к сообществу"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Станьте владельцем криптовалюты"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Similar casinos",
+    "canonical_title": "Схожі казино",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 0,
+    "avg_position": 0.95,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Схожі казино"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "User reviews",
+    "canonical_title": "Відгуки гравців",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 145,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "BC Game відгуки"
+      }
+    ]
+  }
+]

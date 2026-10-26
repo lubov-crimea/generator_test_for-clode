@@ -1,0 +1,606 @@
+[
+  {
+    "id": "k06",
+    "topic": "Games overview and library",
+    "canonical_title": "Panoramica dei giochi",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 45,
+    "avg_position": 0.17,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Giochi popolari"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Giochi top"
+      },
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Tutti i giochi"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "La libreria di giochi: oltre 5.000 titoli da esplorare"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "I Giochi di IncaSpin Casino"
+      }
+    ]
+  },
+  {
+    "id": "k07",
+    "topic": "Slots",
+    "canonical_title": "Slot",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 82,
+    "avg_position": 0.32,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Slot per ogni stile di gioco"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "- Slot su IncaSpin"
+      }
+    ]
+  },
+  {
+    "id": "k09",
+    "topic": "Table games, video poker and jackpots",
+    "canonical_title": "Giochi da tavolo e jackpot",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 86,
+    "avg_position": 0.33,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Jackpot e giochi da tavolo"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "- Giochi da Tavolo su IncaSpin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "- Video Poker su IncaSpin"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "- Jackpot su IncaSpin"
+      }
+    ]
+  },
+  {
+    "id": "k02",
+    "topic": "Welcome bonus and free spins",
+    "canonical_title": "Bonus di benvenuto",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 74,
+    "avg_position": 0.34,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Fino a 2.500 € + 250 giri gratis"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Pacchetto di benvenuto fino a 2.500 € + 250 giri gratis"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "250 giri gratis sulle slot di punta"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Il bonus di benvenuto: fino a 2.500 € + 250 giri gratis"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Il Bonus di IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Termini e Condizioni del Bonus"
+      }
+    ]
+  },
+  {
+    "id": "k08",
+    "topic": "Live casino",
+    "canonical_title": "Casinò live",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 74,
+    "avg_position": 0.35,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Casinò live: il brivido del tavolo reale"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "- Live Casino su IncaSpin"
+      }
+    ]
+  },
+  {
+    "id": "k03",
+    "topic": "Ongoing promotions, reload bonus, cashback, tournaments",
+    "canonical_title": "Promozioni continue",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 36,
+    "avg_position": 0.36,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Promozioni IncaSpin pensate per te"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Bonus di ricarica per i giocatori abituali"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Cashback settimanale"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Tornei e sfide live"
+      },
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Promozioni continue per i giocatori abituali"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Promozioni Continuative"
+      }
+    ]
+  },
+  {
+    "id": "k01",
+    "topic": "Casino overview / information",
+    "canonical_title": "Informazioni su IncaSpin Casino",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 125,
+    "avg_position": 0.42,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "IncaSpin Casino: la guida completa al tesoro d'oro inca del gioco online"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Chi siamo: l'esperienza IncaSpin"
+      },
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "La nostra filosofia di gioco"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Per chi è pensato IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Informazioni su IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Operatore"
+      }
+    ]
+  },
+  {
+    "id": "k16",
+    "topic": "Customer support",
+    "canonical_title": "Assistenza clienti",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3
+    ],
+    "avg_section_words": 118,
+    "avg_position": 0.49,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Assistenza clienti: siamo sempre con te"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Assistenza"
+      }
+    ]
+  },
+  {
+    "id": "k05",
+    "topic": "VIP and loyalty programme",
+    "canonical_title": "Programma VIP",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 110,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Club VIP a livelli"
+      },
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Il club VIP IncaSpin: ricompense che crescono con te"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Programma VIP di IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Vantaggi per Livello VIP"
+      }
+    ]
+  },
+  {
+    "id": "k14",
+    "topic": "Safety, licence and fair play",
+    "canonical_title": "Sicurezza e licenza",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 106,
+    "avg_position": 0.5,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Sicurezza e correttezza del gioco"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Sicurezza su IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Licenza e Conformità Normativa"
+      }
+    ]
+  },
+  {
+    "id": "k13",
+    "topic": "Mobile play",
+    "canonical_title": "Gioco da mobile",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 118,
+    "avg_position": 0.68,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Gioco da mobile: il casinò sempre in tasca"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "IncaSpin Casino su Mobile"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Come Accedere da Mobile"
+      }
+    ]
+  },
+  {
+    "id": "k10",
+    "topic": "Payments and deposits (including crypto)",
+    "canonical_title": "Depositi e metodi di pagamento",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3,
+      4
+    ],
+    "avg_section_words": 64,
+    "avg_position": 0.78,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Pagamenti: deposita e preleva come preferisci"
+      },
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Criptovalute: velocità e libertà"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Depositi e Pagamenti su IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Depositi su IncaSpin"
+      }
+    ]
+  },
+  {
+    "id": "k17",
+    "topic": "Registration steps",
+    "canonical_title": "Come registrarsi",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 63,
+    "avg_position": 0.78,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Come registrarsi su IncaSpin in pochi passi"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Come Registrarsi su IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Passo 1 - Visita il Sito e Clicca su Registrati"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Passo 2 - Inserisci i Tuoi Dati Personali"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Passo 3 - Scegli Username e Password"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Passo 4 - Accetta i Termini e Conferma via Email"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Passo 5 - Primo Deposito e Bonus di Benvenuto"
+      }
+    ]
+  },
+  {
+    "id": "k11",
+    "topic": "Withdrawals and payout speed",
+    "canonical_title": "Prelievi",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      3,
+      4
+    ],
+    "avg_section_words": 142,
+    "avg_position": 0.83,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Prelievi rapidi"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Prelievi su IncaSpin"
+      }
+    ]
+  },
+  {
+    "id": "k15",
+    "topic": "Responsible gambling",
+    "canonical_title": "Gioco responsabile",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 188,
+    "avg_position": 0.91,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 3,
+        "text": "Gioco responsabile: divertimento sotto controllo"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Gioco Responsabile su IncaSpin Casino"
+      }
+    ]
+  },
+  {
+    "id": "k18",
+    "topic": "FAQ",
+    "canonical_title": "Domande frequenti",
+    "frequency": 2,
+    "mandatory": true,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 446,
+    "avg_position": 1.0,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Domande frequenti su IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "IncaSpin: domande frequenti"
+      }
+    ]
+  },
+  {
+    "id": "k19",
+    "topic": "Latest wins widget",
+    "canonical_title": "Vincite recenti",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2
+    ],
+    "avg_section_words": 214,
+    "avg_position": 0.36,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 2,
+        "text": "Vincite recenti"
+      }
+    ]
+  },
+  {
+    "id": "k04",
+    "topic": "Promo codes and how promotions are activated",
+    "canonical_title": "Codici promo e attivazione",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      2,
+      3
+    ],
+    "avg_section_words": 112,
+    "avg_position": 0.4,
+    "examples": [
+      {
+        "competitor": 2,
+        "level": 2,
+        "text": "Codici Promo di IncaSpin Casino"
+      },
+      {
+        "competitor": 2,
+        "level": 3,
+        "text": "Come Vengono Attivate le Promozioni"
+      }
+    ]
+  },
+  {
+    "id": "k12",
+    "topic": "Account verification and KYC",
+    "canonical_title": "Verifica del conto",
+    "frequency": 1,
+    "mandatory": false,
+    "levels": [
+      4
+    ],
+    "avg_section_words": 88,
+    "avg_position": 0.91,
+    "examples": [
+      {
+        "competitor": 1,
+        "level": 4,
+        "text": "Verifica del conto e KYC"
+      }
+    ]
+  }
+]

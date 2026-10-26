@@ -1,0 +1,5 @@
+Three steps cover Android, where the shortcut comes from Chrome. Afterwards an icon shows up beside the apps that the phone already has and opens the same website.
+
+1. Chrome loads the casino site.
+2. The browser menu is opened and Add to Home screen is chosen from it.
+3. A final confirmation creates the shortcut.

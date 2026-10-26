@@ -1,0 +1,15 @@
+Na telefonie Incaspin Casino działa jako Progressive Web App (PWA), czyli strona internetowa zapisana na ekranie głównym urządzenia i uruchamiana jak zwykła aplikacja. Instalacja odbywa się bezpośrednio w przeglądarce, bez sklepu z aplikacjami, i jest dostępna zarówno na iOS, jak i na Androidzie. Po instalacji gracz ma dostęp do sekcji Kasyno, Kasyno na żywo, Sport, E-sport, Bonusy, Promocje, Wheel of Fortune, Lojalność oraz Misje. Ikona na ekranie głównym otwiera serwis od razu, bez wpisywania adresu w przeglądarce.
+
+Na iPhonie i iPadzie instalacja wymaga czterech kroków:
+
+1. Otworzyć Incaspin w przeglądarce Safari.
+2. Stuknąć przycisk Udostępnij.
+3. Wybrać opcję Dodaj do ekranu początkowego.
+4. Wpisać nazwę i stuknąć Dodaj.
+
+Na Androidzie także wystarczą cztery kroki:
+
+1. Otworzyć Incaspin w przeglądarce mobilnej.
+2. Wybrać opcję Zainstaluj aplikację lub Dodaj do ekranu głównego.
+3. Potwierdzić instalację.
+4. Uruchomić grę z ikony na ekranie głównym.

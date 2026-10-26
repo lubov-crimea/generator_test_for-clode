@@ -1,0 +1,10 @@
+The mobile website hosts the cashier, which means deposits start from the browser of the phone or tablet. Four methods are on offer: DBS Bank, PayNow, OCBC Bank and PayNow QR, all processed in Singapore dollars.
+
+| Method | Processing time | Currency |
+|---|---|---|
+| DBS Bank | 1 to 2 minutes | Singapore dollars (SGD) |
+| PayNow | 1 to 2 minutes | Singapore dollars (SGD) |
+| OCBC Bank | 1 to 2 minutes | Singapore dollars (SGD) |
+| PayNow QR | 1 to 2 minutes | Singapore dollars (SGD) |
+
+Because currency and deposit speed are identical for all four, the choice depends on the bank or QR route that the player already uses.

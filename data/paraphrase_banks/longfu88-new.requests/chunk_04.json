@@ -1,0 +1,172 @@
+{
+ "rules": "For EVERY sentence write 12 alternative wordings (English). Each wording states exactly the same fact: keep every figure, amount, period, percentage and every name listed in keep_figures / keep_names exactly as written. Do not add a figure, a condition or a claim; do not drop one. The wordings must differ in construction (subject, order of the clauses, voice, sentence type), not by swapping single words: no run of 6 words in a row may be shared with the original or with another wording of the same sentence. About the same length as the original (0.6x to 1.6x). Neutral editorial third person, no em dashes, no semicolons, no second person.",
+ "slots": 12,
+ "items": [
+  {
+   "key": "82205e39a30b",
+   "text": "Only participating pre-match match-winner markets qualify.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "c818cb8c290f",
+   "text": "Settlement is subject to published event eligibility.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "f5724e2d032f",
+   "text": "Boost depends on the number of qualifying selections.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "0413083b232a",
+   "text": "Event availability and market selection can vary by jurisdiction.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "74142a935d43",
+   "text": "Log in to the Longfu88 account.",
+   "keep_figures": [
+    "longfu88"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "bb8d25b45db9",
+   "text": "Open the cashier and select Deposit.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "c04a70b3a4c1",
+   "text": "Choose an available payment method and its supported currency or blockchain network.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "70dc117df912",
+   "text": "Enter the amount and payment information.",
+   "keep_figures": [],
+   "keep_names": [
+    "payment information"
+   ]
+  },
+  {
+   "key": "dc37f32eb69d",
+   "text": "Confirm and authorize the transaction using the provider instructions.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "c66a7cbe4aef",
+   "text": "Wait for the funds to be credited to the playable balance.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "bc79fdfb5f08",
+   "text": "No standard casino withdrawal fee; provider and blockchain fees may apply. A 10% fee (minimum €2.25) can apply to inadequate rollover, and certain card or bank-funded transactions may incur 15%.",
+   "keep_figures": [
+    "10",
+    "2.25",
+    "15"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "bbe71f1b7a26",
+   "text": "Log in to Longfu88 and open the cashier.",
+   "keep_figures": [
+    "longfu88"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "d9b6199c2a59",
+   "text": "Select Withdrawal and choose a supported destination or payment method.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "f44747b2b491",
+   "text": "Enter the amount and the receiving bank, wallet, or blockchain address.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "43b44ebda753",
+   "text": "Complete identity and payment-method verification if prompted.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "2a133a72cc34",
+   "text": "Review the request and confirm submission.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "e967243af302",
+   "text": "Wait for casino processing and any bank or network settlement before receiving funds.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "92ec879a41af",
+   "text": "Responsive Longfu88 website usable on smartphone and tablet browsers.",
+   "keep_figures": [
+    "longfu88"
+   ],
+   "keep_names": []
+  },
+  {
+   "key": "f2bfff430f48",
+   "text": "Open browser menu and choose Add to Home screen.",
+   "keep_figures": [],
+   "keep_names": [
+    "add to home screen"
+   ]
+  },
+  {
+   "key": "58dd8c571942",
+   "text": "Tap Share and choose Add to Home Screen.",
+   "keep_figures": [],
+   "keep_names": [
+    "add to home screen"
+   ]
+  },
+  {
+   "key": "a3eb298f0c55",
+   "text": "Data is retained as needed for service delivery, regulatory compliance and dispute resolution.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "2222eac47041",
+   "text": "Necessary, preference, analytics and marketing cookies support website functions and measurement.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "9abff5160c52",
+   "text": "Personal data can be processed across jurisdictions subject to applicable safeguards.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "93395805f8d4",
+   "text": "Technical and organizational safeguards protect accounts, payments and personal information.",
+   "keep_figures": [],
+   "keep_names": []
+  },
+  {
+   "key": "2b765620e7e6",
+   "text": "Players may manage direct-marketing preferences and unsubscribe from promotional communications.",
+   "keep_figures": [],
+   "keep_names": []
+  }
+ ]
+}
